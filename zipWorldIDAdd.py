@@ -13,9 +13,10 @@ folders = ["apple", "korea", "youtube", "spotify"]
 # 문자열 정규화를 위한 함수 (괄호 제거, 소문자 변환, 공백 제거)
 def normalize_text(text):
     if text:
-        # 괄호와 내용을 제거한 뒤 공백 제거 및 소문자 변환
-        text = re.sub(r"\s*\(.*?\)\s*", " ", text).strip()
-        return re.sub(r"\s+", "", text.lower())
+        # 괄호와 내용을 제거, 쉼표와 앰퍼샌드 제거, 공백 제거 및 소문자 변환
+        text = re.sub(r"\s*\(.*?\)\s*", " ", text)  # 괄호와 내용 제거
+        text = re.sub(r"[,&]", "", text)  # 쉼표와 앰퍼샌드 제거
+        return re.sub(r"\s+", "", text.lower())  # 공백 제거 및 소문자 변환
     return ""
 
 # zipWorldList 데이터를 사전으로 변환하여 빠르게 검색 가능하도록 변경
