@@ -4,21 +4,26 @@
         "title": "Who",
         "artist": "Jimin",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/94/b5/84/94b58450-a0cd-ab97-2f30-0ed3608b5e24/196922987588_Cover.jpg/80x80bb.webp",
-        "appleID": "who/1751773093"
+        "appleID": "who/1751773093",
+        "youtubeID": "Av9DvtlJ9_M",
+        "spotifyID": "7tI8dRuH2Yc6RuoTjxo4dU"
     },
     {
         "ranking": "2",
         "title": "Be Mine",
         "artist": "Jimin",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/94/b5/84/94b58450-a0cd-ab97-2f30-0ed3608b5e24/196922987588_Cover.jpg/80x80bb.webp",
-        "appleID": "be-mine/1751773088"
+        "appleID": "be-mine/1751773088",
+        "youtubeID": "MYrZ5T3jFmA",
+        "spotifyID": "3LWVXp636uLT356Rj08Jaz"
     },
     {
         "ranking": "3",
         "title": "Closer Than This",
         "artist": "Jimin",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/8b/db/48/8bdb480c-86f8-7aeb-5897-41fd76bac031/196922764974_Cover.jpg/80x80bb.webp",
-        "appleID": "closer-than-this/1721409260"
+        "appleID": "closer-than-this/1721409260",
+        "spotifyID": "6qafqn8bBMy7t5c5WqpyRk"
     },
     {
         "ranking": "4",
@@ -46,7 +51,8 @@
         "title": "Interlude : Showtime",
         "artist": "Jimin",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/94/b5/84/94b58450-a0cd-ab97-2f30-0ed3608b5e24/196922987588_Cover.jpg/80x80bb.webp",
-        "appleID": "interlude-showtime/1751773082"
+        "appleID": "interlude-showtime/1751773082",
+        "spotifyID": "45zLrK0668WQ5JFMyiYmCS"
     },
     {
         "ranking": "8",
@@ -60,35 +66,43 @@
         "title": "Who (Instrumental)",
         "artist": "Jimin",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/25/03/6b/25036b82-3a20-1b25-4a76-10d60dd994ed/198704057328_Cover.jpg/80x80bb.webp",
-        "appleID": "who-instrumental/1757558458"
+        "appleID": "who/1751773093",
+        "youtubeID": "Av9DvtlJ9_M",
+        "spotifyID": "7tI8dRuH2Yc6RuoTjxo4dU"
     },
     {
         "ranking": "10",
         "title": "Who (Acoustic Remix)",
         "artist": "Jimin",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/25/03/6b/25036b82-3a20-1b25-4a76-10d60dd994ed/198704057328_Cover.jpg/80x80bb.webp",
-        "appleID": "who-acoustic-remix/1757558459"
+        "appleID": "who/1751773093",
+        "youtubeID": "Av9DvtlJ9_M",
+        "spotifyID": "7tI8dRuH2Yc6RuoTjxo4dU"
     },
     {
         "ranking": "11",
         "title": "Running Wild",
         "artist": "Jin",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c5/21/a1/c521a133-2a4d-05da-205f-19093c53cd55/198704169175_Cover.jpg/80x80bb.webp",
-        "appleID": "running-wild/1772351326"
+        "appleID": "running-wild/1772351326",
+        "spotifyID": "50zAEIE4B1QqhPjRMK2Xmh"
     },
     {
         "ranking": "12",
         "title": "Who (Rock Remix)",
         "artist": "Jimin",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/25/03/6b/25036b82-3a20-1b25-4a76-10d60dd994ed/198704057328_Cover.jpg/80x80bb.webp",
-        "appleID": "who-rock-remix/1757558460"
+        "appleID": "who/1751773093",
+        "youtubeID": "Av9DvtlJ9_M",
+        "spotifyID": "7tI8dRuH2Yc6RuoTjxo4dU"
     },
     {
         "ranking": "13",
         "title": "Another Level",
         "artist": "Jin",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c5/21/a1/c521a133-2a4d-05da-205f-19093c53cd55/198704169175_Cover.jpg/80x80bb.webp",
-        "appleID": "another-level/1772351432"
+        "appleID": "another-level/1772351432",
+        "spotifyID": "1YmY0HUm05BUpcHibc1bhB"
     },
     {
         "ranking": "14",
@@ -109,28 +123,34 @@
         "title": "Who (Funky Remix)",
         "artist": "Jimin",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/21/30/c9/2130c9ee-eea1-8502-b912-185368a987f3/198704057335_Cover.jpg/80x80bb.webp",
-        "appleID": "who-funky-remix/1757553926"
+        "appleID": "who/1751773093",
+        "youtubeID": "Av9DvtlJ9_M",
+        "spotifyID": "7tI8dRuH2Yc6RuoTjxo4dU"
     },
     {
         "ranking": "17",
         "title": "Falling",
         "artist": "Jin",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c5/21/a1/c521a133-2a4d-05da-205f-19093c53cd55/198704169175_Cover.jpg/80x80bb.webp",
-        "appleID": "falling/1772351433"
+        "appleID": "falling/1772351433",
+        "spotifyID": "5jxuw4S5IDEY6CjjAHvRAt"
     },
     {
         "ranking": "18",
         "title": "Who (Shibuyakei Remix)",
         "artist": "Jimin",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/21/30/c9/2130c9ee-eea1-8502-b912-185368a987f3/198704057335_Cover.jpg/80x80bb.webp",
-        "appleID": "who-shibuyakei-remix/1757553588"
+        "appleID": "who/1751773093",
+        "youtubeID": "Av9DvtlJ9_M",
+        "spotifyID": "7tI8dRuH2Yc6RuoTjxo4dU"
     },
     {
         "ranking": "19",
         "title": "I will come to you",
         "artist": "Jin",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c5/21/a1/c521a133-2a4d-05da-205f-19093c53cd55/198704169175_Cover.jpg/80x80bb.webp",
-        "appleID": "i-will-come-to-you/1772351439"
+        "appleID": "i-will-come-to-you/1772351439",
+        "spotifyID": "5s7flUAYsDmcUWtHsMCihv"
     },
     {
         "ranking": "20",
@@ -144,21 +164,27 @@
         "title": "Who (Beautiful Mind Remix)",
         "artist": "Jimin",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/21/30/c9/2130c9ee-eea1-8502-b912-185368a987f3/198704057335_Cover.jpg/80x80bb.webp",
-        "appleID": "who-beautiful-mind-remix/1757553927"
+        "appleID": "who/1751773093",
+        "youtubeID": "Av9DvtlJ9_M",
+        "spotifyID": "7tI8dRuH2Yc6RuoTjxo4dU"
     },
     {
         "ranking": "22",
         "title": "Be Mine (English Version)",
         "artist": "Jimin",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e4/2f/ab/e42fab67-51c7-6f8f-4482-846e1a949d3a/198704079474_Cover.jpg/80x80bb.webp",
-        "appleID": "be-mine-english-version/1759236956"
+        "appleID": "be-mine/1751773088",
+        "youtubeID": "MYrZ5T3jFmA",
+        "spotifyID": "3LWVXp636uLT356Rj08Jaz"
     },
     {
         "ranking": "23",
         "title": "Like Crazy",
         "artist": "Jimin",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/41/a1/a5/41a1a5cb-22ac-0cef-a48c-5d00b1727320/196922330674_Cover.jpg/80x80bb.webp",
-        "appleID": "like-crazy/1676947244"
+        "appleID": "like-crazy/1676947244",
+        "youtubeID": "nOI67IDlNMQ",
+        "spotifyID": "3Ua0m0YmEjrMi9XErKcNiR"
     },
     {
         "ranking": "24",
@@ -179,7 +205,7 @@
         "title": "Winter Ahead (Silent Carol Ver.)",
         "artist": "V",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f0/48/bd/f048bda2-8852-f564-aae2-96a347167493/198704267888_Cover.jpg/80x80bb.webp",
-        "appleID": "winter-ahead-silent-carol-ver/1782520406"
+        "appleID": "winter-ahead/1780285815"
     },
     {
         "ranking": "27",
@@ -193,14 +219,17 @@
         "title": "Like Crazy (English Version)",
         "artist": "Jimin",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/41/a1/a5/41a1a5cb-22ac-0cef-a48c-5d00b1727320/196922330674_Cover.jpg/80x80bb.webp",
-        "appleID": "like-crazy-english-version/1676947499"
+        "appleID": "like-crazy/1676947244",
+        "youtubeID": "nOI67IDlNMQ",
+        "spotifyID": "3Ua0m0YmEjrMi9XErKcNiR"
     },
     {
         "ranking": "29",
         "title": "Пожары",
         "artist": "XOLIDAYBOY",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/b5/ca/b3/b5cab33e-b047-f423-dadc-badfc0bb7f57/cover.jpg/80x80bb.webp",
-        "appleID": "%D0%BF%D0%BE%D0%B6%D0%B0%D1%80%D1%8B/1731327366"
+        "appleID": "%D0%BF%D0%BE%D0%B6%D0%B0%D1%80%D1%8B/1731327366",
+        "spotifyID": "5pZaiIokYGUANMAJiZg8tt"
     },
     {
         "ranking": "30",
@@ -214,28 +243,30 @@
         "title": "Топит",
         "artist": "ANNA ASTI",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2f/6a/aa/2f6aaa18-faea-8a41-119e-2d15f6b4daa1/cover.png/80x80bb.webp",
-        "appleID": "%D1%82%D0%BE%D0%BF%D0%B8%D1%82/1772880762"
+        "appleID": "%D1%82%D0%BE%D0%BF%D0%B8%D1%82/1772880762",
+        "youtubeID": "6cYfrYngRRI"
     },
     {
         "ranking": "32",
         "title": "Winter Ahead (Instrumental)",
         "artist": "V",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f0/48/bd/f048bda2-8852-f564-aae2-96a347167493/198704267888_Cover.jpg/80x80bb.webp",
-        "appleID": "winter-ahead-instrumental/1782520278"
+        "appleID": "winter-ahead/1780285815"
     },
     {
         "ranking": "33",
         "title": "Standing Next to You",
         "artist": "Jung Kook",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/86/78/b4/8678b4b3-2341-7239-b6cb-bcfdaef0e4e0/196922656545_Cover.jpg/80x80bb.webp",
-        "appleID": "standing-next-to-you/1709554997"
+        "appleID": "standing-next-to-you/1709554997",
+        "spotifyID": "2KslE17cAJNHTsI2MI0jb2"
     },
     {
         "ranking": "34",
         "title": "White Christmas (From 'Holiday inn\")",
         "artist": "Bing Crosby",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music3/v4/30/23/b0/3023b04f-5837-ce2c-4aae-2b6576b5d848/cover.jpg/80x80bb.webp",
-        "appleID": "https://music.apple.com/us/artist/bing-crosby/25687"
+        "appleID": "white-christmas/1425235073"
     },
     {
         "ranking": "35",
@@ -354,7 +385,9 @@
         "title": "All I Want for Christmas Is You",
         "artist": "Mariah Carey",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/c6/b7/27/c6b727f7-3a32-6b43-cee2-05bb71daf1cf/dj.itfmdeif.jpg/80x80bb.webp",
-        "appleID": "all-i-want-for-christmas-is-you/585972803"
+        "appleID": "all-i-want-for-christmas-is-you/585972803",
+        "youtubeID": "aAkMkVFwAoo",
+        "spotifyID": "0bYg9bo50gSsH3LtXe2SQn"
     },
     {
         "ranking": "52",
@@ -389,7 +422,8 @@
         "title": "Blinding Lights",
         "artist": "The Weeknd",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/a6/6e/bf/a66ebf79-5008-8948-b352-a790fc87446b/19UM1IM04638.rgb.jpg/80x80bb.webp",
-        "appleID": "blinding-lights/1488408568"
+        "appleID": "blinding-lights/1488408568",
+        "spotifyID": "0VjIjW4GlUZAMYd2vXMi3b"
     },
     {
         "ranking": "57",
@@ -403,7 +437,9 @@
         "title": "Beautiful Things",
         "artist": "Benson Boone",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f2/ee/92/f2ee9219-370a-9b2a-5061-93dd1f8a530b/5059460307407.jpg/80x80bb.webp",
-        "appleID": "beautiful-things/1751265643"
+        "appleID": "beautiful-things/1724488124",
+        "youtubeID": "Oa_RSwwpPaA",
+        "spotifyID": "3xkHsmpQCBMytMJNiDf3Ii"
     },
     {
         "ranking": "59",
@@ -445,7 +481,9 @@
         "title": "Stargazing",
         "artist": "Myles Smith",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/bf/c3/a5/bfc3a56d-a51b-69cb-cdfc-26ee63631cb8/196872051872.jpg/80x80bb.webp",
-        "appleID": "stargazing/1742275653"
+        "appleID": "stargazing/1742275653",
+        "youtubeID": "9p9EauIOPm8",
+        "spotifyID": "3Vr3zh0r7ALn8VLqCiRR10"
     },
     {
         "ranking": "65",
@@ -459,7 +497,9 @@
         "title": "Jingle Bell Rock",
         "artist": "Bobby Helms",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/e8/18/6b/e8186bf9-5696-e721-b273-a5f173caf8c1/18UMGIM07062.rgb.jpg/80x80bb.webp",
-        "appleID": "jingle-bell-rock/1358462132"
+        "appleID": "jingle-bell-rock/1358462132",
+        "youtubeID": "Z0ajuTaHBtM",
+        "spotifyID": "7vQbuQcyTflfCIOu3Uzzya"
     },
     {
         "ranking": "67",
@@ -501,7 +541,9 @@
         "title": "Last Christmas (Single Version)",
         "artist": "Wham!",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/eb/4a/f9/eb4af984-fc68-56ab-7b89-1d070c04e1dd/5099765318524.jpg/80x80bb.webp",
-        "appleID": "last-christmas-single-version/202117984"
+        "appleID": "last-christmas/282658482",
+        "youtubeID": "E8gmARGvPlI",
+        "spotifyID": "2FRnf9qhLbvw8fu4IBXx78"
     },
     {
         "ranking": "73",
@@ -543,7 +585,8 @@
         "title": "Love Me Again",
         "artist": "V",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/93/51/e0/9351e0b4-a565-4232-d797-f60ca3aba82f/196922580031_Cover.jpg/80x80bb.webp",
-        "appleID": "love-me-again/1700687141"
+        "appleID": "love-me-again/1700687141",
+        "spotifyID": "2N0SPREDYqILVEFSsWF5N5"
     },
     {
         "ranking": "79",
@@ -592,28 +635,33 @@
         "title": "Let It Snow! Let It Snow! Let It Snow!",
         "artist": "Dean Martin",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/87/ee/3a/87ee3ae8-dc96-e287-6f1e-2332d4ae4c1d/13UAEIM07388.rgb.jpg/80x80bb.webp",
-        "appleID": "let-it-snow-let-it-snow-let-it-snow/1440830243"
+        "appleID": "let-it-snow-let-it-snow-let-it-snow/1440830243",
+        "spotifyID": "2uFaJJtFpPDc5Pa95XzTvg"
     },
     {
         "ranking": "86",
         "title": "It's the Most Wonderful Time of the Year",
         "artist": "Andy Williams",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/d9/84/16/d98416a4-d960-4602-8f2c-4f03165d434d/mzi.hohpjzfa.jpg/80x80bb.webp",
-        "appleID": "its-the-most-wonderful-time-of-the-year/171434594"
+        "appleID": "its-the-most-wonderful-time-of-the-year/171434594",
+        "spotifyID": "1IcR6RlgvDczfvoWJSSY2A"
     },
     {
         "ranking": "87",
         "title": "GODZILLA",
         "artist": "BEARWOLF",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/04/d7/82/04d782fe-6afe-55ae-592d-d549c5bff127/0.jpg/80x80bb.webp",
-        "appleID": "godzilla/1753744177"
+        "appleID": "godzilla/1753744177",
+        "youtubeID": "ER5-YLTUBfM"
     },
     {
         "ranking": "88",
         "title": "Rockin' Around the Christmas Tree (Single)",
         "artist": "Brenda Lee",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/d4/ea/6b/d4ea6b89-f9ac-f476-270d-66931315bc4c/06UMGIM02727.rgb.jpg/80x80bb.webp",
-        "appleID": "rockin-around-the-christmas-tree-single/1444032015"
+        "appleID": "rockin-around-the-christmas-tree-single/1444032015",
+        "youtubeID": "TFsZy9t-qDc",
+        "spotifyID": "2EjXfH91m7f8HiJN1yQg97"
     },
     {
         "ranking": "89",
@@ -627,14 +675,16 @@
         "title": "Diet Pepsi",
         "artist": "Addison Rae",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/01/ef/7a/01ef7a06-1b48-0460-efbf-983d6a0a37fa/196872309959.jpg/80x80bb.webp",
-        "appleID": "diet-pepsi/1760428041"
+        "appleID": "diet-pepsi/1760428041",
+        "spotifyID": "6MzofobZt2dm0Kf1hTThFz"
     },
     {
         "ranking": "91",
         "title": "Falling",
         "artist": "Jin",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6d/f5/39/6df53982-7294-1111-f384-efaa009bf4df/198704257827_Cover.jpg/80x80bb.webp",
-        "appleID": "falling/1781211223"
+        "appleID": "falling/1772351433",
+        "spotifyID": "5jxuw4S5IDEY6CjjAHvRAt"
     },
     {
         "ranking": "92",
@@ -655,14 +705,15 @@
         "title": "In the End",
         "artist": "LINKIN PARK",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/53/a7/7f/53a77fab-c54c-a57b-8130-248fc12d0c80/093624948995.jpg/80x80bb.webp",
-        "appleID": "in-the-end/590431785"
+        "appleID": "in-the-end/590431785",
+        "spotifyID": "60a0Rd6pjrkxjPbaKzXjfq"
     },
     {
         "ranking": "95",
         "title": "Flowers",
         "artist": "Miley Cyrus",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/8c/67/ff/8c67ff91-31c3-3fef-1884-ce3ec89f3af4/196589946874.jpg/80x80bb.webp",
-        "appleID": "flowers/1674691586"
+        "appleID": "flowers/1702906535"
     },
     {
         "ranking": "96",
@@ -676,14 +727,15 @@
         "title": "Sonne",
         "artist": "Rammstein",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/ad/32/8f/ad328fce-8d4f-2708-9393-15eeb93528a8/06UMGIM68596.rgb.jpg/80x80bb.webp",
-        "appleID": "sonne/1440771250"
+        "appleID": "sonne/1440771250",
+        "youtubeID": "StZcUAPRRac"
     },
     {
         "ranking": "98",
         "title": "Mockingbird",
         "artist": "Eminem",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/49/2c/16/492c1618-544d-2587-094c-009b059ba96f/00602567850359.rgb.jpg/80x80bb.webp",
-        "appleID": "mockingbird/1425131554"
+        "appleID": "mockingbird/1452852850"
     },
     {
         "ranking": "99",
@@ -697,6 +749,8 @@
         "title": "Without Me",
         "artist": "Eminem",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/dd/5c/e6/dd5ce621-f7d2-f767-7a08-e7a7eaa7870b/00602537526994.rgb.jpg/80x80bb.webp",
-        "appleID": "without-me/1440821643"
+        "appleID": "without-me/1440903693",
+        "youtubeID": "YVkUvmDQ3HY",
+        "spotifyID": "7lQ8MOhq6IN2w8EYcFNSUk"
     }
 ]

@@ -18,7 +18,10 @@
         "title": "Whiplash",
         "artist": "aespa",
         "image": "https://image.bugsm.co.kr/album/images/50/41087/4108755.jpg?version=20241126004739.0",
-        "album": "Whiplash - The 5th Mini Album"
+        "album": "Whiplash - The 5th Mini Album",
+        "appleID": "whiplash/1772214981",
+        "youtubeID": "jWQx2f-CErU",
+        "spotifyID": "7Cnpb1vBbC46RgVyyKLH7p"
     },
     {
         "ranking": "4",
@@ -39,7 +42,10 @@
         "title": "POWER",
         "artist": "G-DRAGON",
         "image": "https://image.bugsm.co.kr/album/images/50/41092/4109223.jpg?version=20241101020340.0",
-        "album": "POWER"
+        "album": "POWER",
+        "appleID": "power/1776670342",
+        "youtubeID": "NMjhjrBIrG8",
+        "spotifyID": "4XsJiRJQAK8TWcZCn0Dxlh"
     },
     {
         "ranking": "7",
@@ -67,7 +73,9 @@
         "title": "Drowning",
         "artist": "WOODZ",
         "image": "https://image.bugsm.co.kr/album/images/50/40839/4083984.jpg?version=20230427011747.0",
-        "album": "OO-LI"
+        "album": "OO-LI",
+        "appleID": "drowning/1683448656",
+        "spotifyID": "4xeugB5MqWh0jwvXZPxahq"
     },
     {
         "ranking": "11",
@@ -81,14 +89,17 @@
         "title": "HAPPY",
         "artist": "DAY6 (데이식스)",
         "image": "https://image.bugsm.co.kr/album/images/50/206298/20629850.jpg?version=20240403020906.0",
-        "album": "Fourever"
+        "album": "Fourever",
+        "appleID": "happy/1732319018",
+        "spotifyID": "1k68vKHNQXU5CHqcM7Yp7N"
     },
     {
         "ranking": "13",
         "title": "내 이름 맑음",
         "artist": "QWER",
         "image": "https://image.bugsm.co.kr/album/images/50/41065/4106548.jpg?version=20241207004501.0",
-        "album": "2nd Mini Album 'Algorithm's Blossom'"
+        "album": "2nd Mini Album 'Algorithm's Blossom'",
+        "youtubeID": "9yfrVqCcrS0"
     },
     {
         "ranking": "14",
@@ -102,7 +113,10 @@
         "title": "Supernova",
         "artist": "aespa",
         "image": "https://image.bugsm.co.kr/album/images/50/41011/4101141.jpg?version=20241102010939.0",
-        "album": "Armageddon - The 1st Album"
+        "album": "Armageddon - The 1st Album",
+        "appleID": "supernova/1773694544",
+        "youtubeID": "phuiiNCxRMg",
+        "spotifyID": "2JhbSmNAyM9kYiqwa8Tpla"
     },
     {
         "ranking": "16",
@@ -116,21 +130,28 @@
         "title": "Igloo",
         "artist": "KISS OF LIFE",
         "image": "https://image.bugsm.co.kr/album/images/50/41080/4108098.jpg?version=20241023004653.0",
-        "album": "Lose Yourself"
+        "album": "Lose Yourself",
+        "appleID": "igloo/1773345357",
+        "youtubeID": "toF4ee3n-vo",
+        "spotifyID": "2DbDefRFJ5YOfXCKOeCJJh"
     },
     {
         "ranking": "18",
         "title": "Welcome to the Show",
         "artist": "DAY6 (데이식스)",
         "image": "https://image.bugsm.co.kr/album/images/50/206298/20629850.jpg?version=20240403020906.0",
-        "album": "Fourever"
+        "album": "Fourever",
+        "appleID": "welcome-to-the-show/1732319011",
+        "youtubeID": "RowlrvmyFEk",
+        "spotifyID": "6je5cTal6PyeITNrOzkCoS"
     },
     {
         "ranking": "19",
         "title": "고민중독",
         "artist": "QWER",
         "image": "https://image.bugsm.co.kr/album/images/50/40996/4099653.jpg?version=20240402065258.0",
-        "album": "1st Mini Album 'MANITO'"
+        "album": "1st Mini Album 'MANITO'",
+        "youtubeID": "ImuWa3SJulY"
     },
     {
         "ranking": "20",
@@ -151,14 +172,20 @@
         "title": "DRIP",
         "artist": "BABYMONSTER",
         "image": "https://image.bugsm.co.kr/album/images/50/41091/4109194.jpg?version=20241102003812.0",
-        "album": "DRIP"
+        "album": "DRIP",
+        "appleID": "drip/1773262055",
+        "youtubeID": "Zp-Jhuhq0bQ",
+        "spotifyID": "1MUZitHRpmng5NevrvNx4T"
     },
     {
         "ranking": "23",
         "title": "How Sweet",
         "artist": "NewJeans",
         "image": "https://image.bugsm.co.kr/album/images/50/41006/4100628.jpg?version=20240622010201.0",
-        "album": "How Sweet"
+        "album": "How Sweet",
+        "appleID": "how-sweet/1744448416",
+        "youtubeID": "Q3K0TOvTOno",
+        "spotifyID": "38tXZcL1gZRfbqfOG0VMTH"
     },
     {
         "ranking": "24",
@@ -172,14 +199,18 @@
         "title": "All I Want for Christmas Is You",
         "artist": "Mariah Carey(머라이어 캐리)",
         "image": "https://image.bugsm.co.kr/album/images/50/8/829.jpg?version=20240320003234.0",
-        "album": "Merry Christmas (Deluxe Anniversary Edition)"
+        "album": "Merry Christmas (Deluxe Anniversary Edition)",
+        "appleID": "all-i-want-for-christmas-is-you/585972803",
+        "youtubeID": "aAkMkVFwAoo",
+        "spotifyID": "0bYg9bo50gSsH3LtXe2SQn"
     },
     {
         "ranking": "26",
         "title": "한 페이지가 될 수 있게",
         "artist": "DAY6 (데이식스)",
         "image": "https://image.bugsm.co.kr/album/images/50/202657/20265759.jpg?version=20211119004415.0",
-        "album": "The Book of Us : Gravity"
+        "album": "The Book of Us : Gravity",
+        "spotifyID": "18x0Z8JUwLA2LhgsIHbNy3"
     },
     {
         "ranking": "27",
@@ -193,7 +224,8 @@
         "title": "녹아내려요",
         "artist": "DAY6 (데이식스)",
         "image": "https://image.bugsm.co.kr/album/images/50/206680/20668087.jpg?version=20240903005613.0",
-        "album": "Band Aid"
+        "album": "Band Aid",
+        "youtubeID": "yss4rIrHl6o"
     },
     {
         "ranking": "29",
@@ -207,7 +239,10 @@
         "title": "Supernatural",
         "artist": "NewJeans",
         "image": "https://image.bugsm.co.kr/album/images/50/41027/4102781.jpg?version=20240709101532.0",
-        "album": "Supernatural"
+        "album": "Supernatural",
+        "appleID": "supernatural/1750576834",
+        "youtubeID": "ZncbtRo7RXs",
+        "spotifyID": "5ocSQW5sIUIOFojwXEz9Ki"
     },
     {
         "ranking": "31",
@@ -228,7 +263,10 @@
         "title": "Armageddon",
         "artist": "aespa",
         "image": "https://image.bugsm.co.kr/album/images/50/41011/4101141.jpg?version=20241102010939.0",
-        "album": "Armageddon - The 1st Album"
+        "album": "Armageddon - The 1st Album",
+        "appleID": "armageddon/1773694547",
+        "youtubeID": "nFYwcndNuOY",
+        "spotifyID": "6lAvyeD3Nq43AjyCxZQj54"
     },
     {
         "ranking": "34",
@@ -256,7 +294,10 @@
         "title": "Santa Tell Me",
         "artist": "Ariana Grande(아리아나 그란데)",
         "image": "https://image.bugsm.co.kr/album/images/50/4656/465672.jpg?version=20241211023112.0",
-        "album": "Santa Tell Me"
+        "album": "Santa Tell Me",
+        "appleID": "santa-tell-me/1444319982",
+        "youtubeID": "nlR0MkrRklg",
+        "spotifyID": "0lizgQ7Qw35od7CYaoMBZb"
     },
     {
         "ranking": "38",
@@ -284,7 +325,8 @@
         "title": "예뻤어",
         "artist": "DAY6 (데이식스)",
         "image": "https://image.bugsm.co.kr/album/images/50/200804/20080494.jpg?version=20240805121438.0",
-        "album": "Every DAY6 February"
+        "album": "Every DAY6 February",
+        "spotifyID": "3FR2yqZsG07NhXz7uPyUyC"
     },
     {
         "ranking": "42",
@@ -305,14 +347,18 @@
         "title": "Ditto",
         "artist": "NewJeans",
         "image": "https://image.bugsm.co.kr/album/images/50/40824/4082425.jpg?version=20231215003716.0",
-        "album": "NewJeans 'OMG'"
+        "album": "NewJeans 'OMG'",
+        "appleID": "ditto/1659513448",
+        "youtubeID": "Km71Rr9K-Bw",
+        "spotifyID": "3r8RuvgbX9s7ammBn07D3W"
     },
     {
         "ranking": "45",
         "title": "Sticky",
         "artist": "KISS OF LIFE",
         "image": "https://image.bugsm.co.kr/album/images/50/41032/4103276.jpg?version=20240702024856.0",
-        "album": "Sticky"
+        "album": "Sticky",
+        "appleID": "sticky/1753900853"
     },
     {
         "ranking": "46",
@@ -326,7 +372,8 @@
         "title": "네모네모",
         "artist": "YENA (최예나)",
         "image": "https://image.bugsm.co.kr/album/images/50/206738/20673830.jpg?version=20241207011852.0",
-        "album": "네모네모"
+        "album": "네모네모",
+        "youtubeID": "MPp8hbuZwW0"
     },
     {
         "ranking": "48",
@@ -361,7 +408,10 @@
         "title": "Congratulations",
         "artist": "DAY6 (데이식스)",
         "image": "https://image.bugsm.co.kr/album/images/50/5297/529710.jpg?version=20190719114948.0",
-        "album": "The Day"
+        "album": "The Day",
+        "appleID": "congratulations/1689197737",
+        "youtubeID": "x3sFsHrUyLQ",
+        "spotifyID": "13z3GfR6WzmLUDxBHO3amM"
     },
     {
         "ranking": "53",
@@ -382,7 +432,10 @@
         "title": "Snowman",
         "artist": "Sia(시아)",
         "image": "https://image.bugsm.co.kr/album/images/50/6803/680332.jpg?version=20230528002727.0",
-        "album": "Everyday Is Christmas (Snowman Deluxe Edition)"
+        "album": "Everyday Is Christmas (Snowman Deluxe Edition)",
+        "appleID": "snowman/1440098017",
+        "youtubeID": "gset79KMmt0",
+        "spotifyID": "7uoFMmxln0GPXQ0AcCBXRq"
     },
     {
         "ranking": "56",
@@ -410,7 +463,9 @@
         "title": "Drama",
         "artist": "aespa",
         "image": "https://image.bugsm.co.kr/album/images/50/40929/4092948.jpg?version=20241204025434.0",
-        "album": "Drama - The 4th Mini Album"
+        "album": "Drama - The 4th Mini Album",
+        "appleID": "drama/1715939931",
+        "spotifyID": "5XWlyfo0kZ8LF7VSyfS4Ew"
     },
     {
         "ranking": "60",
@@ -424,7 +479,10 @@
         "title": "Bubble Gum",
         "artist": "NewJeans",
         "image": "https://image.bugsm.co.kr/album/images/50/41006/4100628.jpg?version=20240622010201.0",
-        "album": "How Sweet"
+        "album": "How Sweet",
+        "appleID": "bubble-gum/1744448549",
+        "youtubeID": "ft70sAYrFyY",
+        "spotifyID": "19D8LNpWwIPpi6hs9BG7dq"
     },
     {
         "ranking": "62",
@@ -487,7 +545,8 @@
         "title": "Spicy",
         "artist": "aespa",
         "image": "https://image.bugsm.co.kr/album/images/50/205634/20563467.jpg?version=20230601002330.0",
-        "album": "MY WORLD - The 3rd Mini Album"
+        "album": "MY WORLD - The 3rd Mini Album",
+        "appleID": "spicy/1685400184"
     },
     {
         "ranking": "71",
@@ -508,14 +567,17 @@
         "title": "Hype Boy",
         "artist": "NewJeans",
         "image": "https://image.bugsm.co.kr/album/images/50/40780/4078016.jpg?version=20221014011218.0",
-        "album": "NewJeans 1st EP 'New Jeans'"
+        "album": "NewJeans 1st EP 'New Jeans'",
+        "appleID": "hype-boy/1635469851",
+        "spotifyID": "0a4MMyCrzT0En247IhqZbD"
     },
     {
         "ranking": "74",
         "title": "Gravity",
         "artist": "FIFTY FIFTY",
         "image": "https://image.bugsm.co.kr/album/images/50/357697/35769791.jpg?version=20241211023848.0",
-        "album": "Love Tune"
+        "album": "Love Tune",
+        "youtubeID": "uuLC6wfVA8Q"
     },
     {
         "ranking": "75",
@@ -529,14 +591,16 @@
         "title": "Girls Never Die",
         "artist": "tripleS (트리플에스)",
         "image": "https://image.bugsm.co.kr/album/images/50/41009/4100945.jpg?version=20240515004403.0",
-        "album": "<ASSEMBLE24>"
+        "album": "<ASSEMBLE24>",
+        "appleID": "girls-never-die/1743890801"
     },
     {
         "ranking": "77",
         "title": "ETA",
         "artist": "NewJeans",
         "image": "https://image.bugsm.co.kr/album/images/50/40885/4088574.jpg?version=20231220032138.0",
-        "album": "NewJeans 2nd EP 'Get Up'"
+        "album": "NewJeans 2nd EP 'Get Up'",
+        "spotifyID": "56v8WEnGzLByGsDAXDiv4d"
     },
     {
         "ranking": "78",
@@ -557,7 +621,8 @@
         "title": "Attention",
         "artist": "NewJeans",
         "image": "https://image.bugsm.co.kr/album/images/50/40780/4078016.jpg?version=20221014011218.0",
-        "album": "NewJeans 1st EP 'New Jeans'"
+        "album": "NewJeans 1st EP 'New Jeans'",
+        "appleID": "attention/1635469694"
     },
     {
         "ranking": "81",
@@ -571,7 +636,8 @@
         "title": "Die With A Smile",
         "artist": "Lady GaGa(레이디 가가)",
         "image": "https://image.bugsm.co.kr/album/images/50/356136/35613643.jpg?version=20240821024225.0",
-        "album": "Die With A Smile"
+        "album": "Die With A Smile",
+        "appleID": "die-with-a-smile/1762656732"
     },
     {
         "ranking": "83",
