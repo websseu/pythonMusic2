@@ -18,7 +18,10 @@
         "title": "Whiplash",
         "artist": "aespa",
         "image": "https://cdn.music-flo.com/image/v2/album/366/014/30/04/430014366_17ff7b7f55d08ac6_s.jpg?1729236571181/dims/resize/140x140/quality/90",
-        "album": "Whiplash - The 5th Mini Album"
+        "album": "Whiplash - The 5th Mini Album",
+        "appleID": "whiplash/1772214981",
+        "youtubeID": "jWQx2f-CErU",
+        "spotifyID": "7Cnpb1vBbC46RgVyyKLH7p"
     },
     {
         "ranking": "4",
@@ -39,21 +42,27 @@
         "title": "POWER",
         "artist": "G-DRAGON",
         "image": "https://cdn.music-flo.com/image/v2/album/647/432/30/04/430432647_180325a46e7e5355_s.jpg?1730268075969/dims/resize/140x140/quality/90",
-        "album": "POWER"
+        "album": "POWER",
+        "appleID": "power/1776670342",
+        "youtubeID": "NMjhjrBIrG8",
+        "spotifyID": "4XsJiRJQAK8TWcZCn0Dxlh"
     },
     {
         "ranking": "7",
         "title": "HAPPY",
         "artist": "DAY6 (데이식스)",
         "image": "https://cdn.music-flo.com/image/v2/album/343/942/22/04/422942343_65f79af1_s.jpg?1710725874947/dims/resize/140x140/quality/90",
-        "album": "Fourever"
+        "album": "Fourever",
+        "appleID": "happy/1732319018",
+        "spotifyID": "1k68vKHNQXU5CHqcM7Yp7N"
     },
     {
         "ranking": "8",
         "title": "내 이름 맑음",
         "artist": "QWER",
         "image": "https://cdn.music-flo.com/image/v2/album/963/461/28/04/428461963_17f7bc5a101cc394_s.jpg?1727056079942/dims/resize/140x140/quality/90",
-        "album": "2nd Mini Album 'Algorithm's Blossom'"
+        "album": "2nd Mini Album 'Algorithm's Blossom'",
+        "youtubeID": "9yfrVqCcrS0"
     },
     {
         "ranking": "9",
@@ -88,7 +97,10 @@
         "title": "Supernova",
         "artist": "aespa",
         "image": "https://cdn.music-flo.com/image/v2/album/322/955/24/04/424955322_66543e41_s.jpg?1716796998732/dims/resize/140x140/quality/90",
-        "album": "Armageddon - The 1st Album"
+        "album": "Armageddon - The 1st Album",
+        "appleID": "supernova/1773694544",
+        "youtubeID": "phuiiNCxRMg",
+        "spotifyID": "2JhbSmNAyM9kYiqwa8Tpla"
     },
     {
         "ranking": "14",
@@ -137,14 +149,17 @@
         "title": "Drowning",
         "artist": "WOODZ",
         "image": "https://cdn.music-flo.com/image/v2/album/413/666/11/04/411666413_6448df60_s.jpg?1682497378566/dims/resize/140x140/quality/90",
-        "album": "OO-LI"
+        "album": "OO-LI",
+        "appleID": "drowning/1683448656",
+        "spotifyID": "4xeugB5MqWh0jwvXZPxahq"
     },
     {
         "ranking": "21",
         "title": "한 페이지가 될 수 있게",
         "artist": "DAY6 (데이식스)",
         "image": "https://cdn.music-flo.com/image/album/931/230/03/04/403230931_5d2be198.jpg?1563156889809/dims/resize/140x140/quality/90",
-        "album": "The Book of Us : Gravity"
+        "album": "The Book of Us : Gravity",
+        "spotifyID": "18x0Z8JUwLA2LhgsIHbNy3"
     },
     {
         "ranking": "22",
@@ -165,7 +180,10 @@
         "title": "Welcome to the Show",
         "artist": "DAY6 (데이식스)",
         "image": "https://cdn.music-flo.com/image/v2/album/343/942/22/04/422942343_65f79af1_s.jpg?1710725874947/dims/resize/140x140/quality/90",
-        "album": "Fourever"
+        "album": "Fourever",
+        "appleID": "welcome-to-the-show/1732319011",
+        "youtubeID": "RowlrvmyFEk",
+        "spotifyID": "6je5cTal6PyeITNrOzkCoS"
     },
     {
         "ranking": "25",
@@ -214,7 +232,8 @@
         "title": "고민중독",
         "artist": "QWER",
         "image": "https://cdn.music-flo.com/image/v2/album/081/584/23/04/423584081_66052d8a_s.jpg?1711615372482/dims/resize/140x140/quality/90",
-        "album": "1st Mini Album 'MANITO'"
+        "album": "1st Mini Album 'MANITO'",
+        "youtubeID": "ImuWa3SJulY"
     },
     {
         "ranking": "32",
@@ -249,7 +268,10 @@
         "title": "Santa Tell Me",
         "artist": "Ariana Grande",
         "image": "https://cdn.music-flo.com/image/v2/album/096/825/02/04/402825096_655b7e7a_s.jpg?1700494971021/dims/resize/140x140/quality/90",
-        "album": "Santa Tell Me"
+        "album": "Santa Tell Me",
+        "appleID": "santa-tell-me/1444319982",
+        "youtubeID": "nlR0MkrRklg",
+        "spotifyID": "0lizgQ7Qw35od7CYaoMBZb"
     },
     {
         "ranking": "37",
@@ -277,7 +299,10 @@
         "title": "Igloo",
         "artist": "KISS OF LIFE",
         "image": "https://cdn.music-flo.com/image/v2/album/642/490/29/04/429490642_17fe3ea5c2553290_s.jpg?1728888190060/dims/resize/140x140/quality/90",
-        "album": "Lose Yourself"
+        "album": "Lose Yourself",
+        "appleID": "igloo/1773345357",
+        "youtubeID": "toF4ee3n-vo",
+        "spotifyID": "2DbDefRFJ5YOfXCKOeCJJh"
     },
     {
         "ranking": "41",
@@ -291,14 +316,18 @@
         "title": "How Sweet",
         "artist": "NewJeans",
         "image": "https://cdn.music-flo.com/image/v2/album/164/287/25/04/425287164_664fe8f2_s.jpg?1716513011731/dims/resize/140x140/quality/90",
-        "album": "How Sweet"
+        "album": "How Sweet",
+        "appleID": "how-sweet/1744448416",
+        "youtubeID": "Q3K0TOvTOno",
+        "spotifyID": "38tXZcL1gZRfbqfOG0VMTH"
     },
     {
         "ranking": "43",
         "title": "예뻤어",
         "artist": "DAY6 (데이식스)",
         "image": "https://cdn.music-flo.com/image/album/631/296/02/04/402296631_5c9d4078.jpg?1553809529721/dims/resize/140x140/quality/90",
-        "album": "Every DAY6 February"
+        "album": "Every DAY6 February",
+        "spotifyID": "3FR2yqZsG07NhXz7uPyUyC"
     },
     {
         "ranking": "44",
@@ -326,7 +355,10 @@
         "title": "DRIP",
         "artist": "BABYMONSTER",
         "image": "https://cdn.music-flo.com/image/v2/album/858/427/30/04/430427858_1803b1790ff4da9f_s.jpg?1730421815856/dims/resize/140x140/quality/90",
-        "album": "DRIP"
+        "album": "DRIP",
+        "appleID": "drip/1773262055",
+        "youtubeID": "Zp-Jhuhq0bQ",
+        "spotifyID": "1MUZitHRpmng5NevrvNx4T"
     },
     {
         "ranking": "48",
@@ -417,14 +449,18 @@
         "title": "Armageddon",
         "artist": "aespa",
         "image": "https://cdn.music-flo.com/image/v2/album/322/955/24/04/424955322_66543e41_s.jpg?1716796998732/dims/resize/140x140/quality/90",
-        "album": "Armageddon - The 1st Album"
+        "album": "Armageddon - The 1st Album",
+        "appleID": "armageddon/1773694547",
+        "youtubeID": "nFYwcndNuOY",
+        "spotifyID": "6lAvyeD3Nq43AjyCxZQj54"
     },
     {
         "ranking": "61",
         "title": "녹아내려요",
         "artist": "DAY6 (데이식스)",
         "image": "https://cdn.music-flo.com/image/v2/album/538/455/28/04/428455538_17f05d80bdc34a03_s.jpg?1724981467626/dims/resize/140x140/quality/90",
-        "album": "Band Aid"
+        "album": "Band Aid",
+        "youtubeID": "yss4rIrHl6o"
     },
     {
         "ranking": "62",
@@ -459,7 +495,8 @@
         "title": "네모네모",
         "artist": "YENA (최예나)",
         "image": "https://cdn.music-flo.com/image/v2/album/936/311/29/04/429311936_17f8ba758ca5875c_s.jpg?1727335473579/dims/resize/140x140/quality/90",
-        "album": "네모네모"
+        "album": "네모네모",
+        "youtubeID": "MPp8hbuZwW0"
     },
     {
         "ranking": "67",
@@ -473,14 +510,20 @@
         "title": "Supernatural",
         "artist": "NewJeans",
         "image": "https://cdn.music-flo.com/image/v2/album/480/178/26/04/426178480_6674c90f_s.jpg?1718929686850/dims/resize/140x140/quality/90",
-        "album": "Supernatural"
+        "album": "Supernatural",
+        "appleID": "supernatural/1750576834",
+        "youtubeID": "ZncbtRo7RXs",
+        "spotifyID": "5ocSQW5sIUIOFojwXEz9Ki"
     },
     {
         "ranking": "69",
         "title": "All I Want for Christmas Is You",
         "artist": "Mariah Carey",
         "image": "https://cdn.music-flo.com/image/album/018/621/02/04/402621018_5cb8f337.jpg?1555624833377/dims/resize/140x140/quality/90",
-        "album": "Merry Christmas"
+        "album": "Merry Christmas",
+        "appleID": "all-i-want-for-christmas-is-you/585972803",
+        "youtubeID": "aAkMkVFwAoo",
+        "spotifyID": "0bYg9bo50gSsH3LtXe2SQn"
     },
     {
         "ranking": "70",
@@ -508,7 +551,10 @@
         "title": "Ditto",
         "artist": "NewJeans",
         "image": "https://cdn.music-flo.com/image/v2/album/180/940/10/04/410940180_65791c0a_s.jpg?1702435852415/dims/resize/140x140/quality/90",
-        "album": "NewJeans 'OMG'"
+        "album": "NewJeans 'OMG'",
+        "appleID": "ditto/1659513448",
+        "youtubeID": "Km71Rr9K-Bw",
+        "spotifyID": "3r8RuvgbX9s7ammBn07D3W"
     },
     {
         "ranking": "74",
@@ -536,7 +582,10 @@
         "title": "Underneath the Tree",
         "artist": "Kelly Clarkson",
         "image": "https://cdn.music-flo.com/image/album/311/650/02/04/402650311_5cbaffc4.jpg?1555759036071/dims/resize/140x140/quality/90",
-        "album": "Wrapped In Red"
+        "album": "Wrapped In Red",
+        "appleID": "underneath-the-tree/1537216368",
+        "youtubeID": "EM2Fnp_qnE8",
+        "spotifyID": "3nAp4IvdMPPWEH9uuXFFV5"
     },
     {
         "ranking": "78",
@@ -585,14 +634,19 @@
         "title": "Hype Boy",
         "artist": "NewJeans",
         "image": "https://cdn.music-flo.com/image/v2/album/847/826/08/04/408826847_62e7289c_s.jpg?1659316382613/dims/resize/140x140/quality/90",
-        "album": "NewJeans 1st EP 'New Jeans'"
+        "album": "NewJeans 1st EP 'New Jeans'",
+        "appleID": "hype-boy/1635469851",
+        "spotifyID": "0a4MMyCrzT0En247IhqZbD"
     },
     {
         "ranking": "85",
         "title": "Congratulations",
         "artist": "DAY6 (데이식스)",
         "image": "https://cdn.music-flo.com/image/album/764/250/00/04/400250764_5c9d570e.jpg?1553815310942/dims/resize/140x140/quality/90",
-        "album": "The Day"
+        "album": "The Day",
+        "appleID": "congratulations/1689197737",
+        "youtubeID": "x3sFsHrUyLQ",
+        "spotifyID": "13z3GfR6WzmLUDxBHO3amM"
     },
     {
         "ranking": "86",
@@ -606,7 +660,8 @@
         "title": "Sticky",
         "artist": "KISS OF LIFE",
         "image": "https://cdn.music-flo.com/image/v2/album/941/412/26/04/426412941_667e1ce8_s.jpg?1719540970629/dims/resize/140x140/quality/90",
-        "album": "Sticky"
+        "album": "Sticky",
+        "appleID": "sticky/1753900853"
     },
     {
         "ranking": "88",
@@ -634,14 +689,19 @@
         "title": "Christmas Without You",
         "artist": "Ava Max",
         "image": "https://cdn.music-flo.com/image/v2/album/727/223/05/04/405223727_62b84634_o.jpg?1656243764639/dims/resize/140x140/quality/90",
-        "album": "Christmas Without You"
+        "album": "Christmas Without You",
+        "appleID": "christmas-without-you/1535473482",
+        "spotifyID": "1QLZKzC2pjP4ySf4ALrNhm"
     },
     {
         "ranking": "92",
         "title": "Snowman",
         "artist": "Sia",
         "image": "https://cdn.music-flo.com/image/v2/album/683/303/00/04/400303683_64700cd6_o.jpg?1685064919502/dims/resize/140x140/quality/90",
-        "album": "Everyday Is Christmas (Snowman Deluxe Edition)"
+        "album": "Everyday Is Christmas (Snowman Deluxe Edition)",
+        "appleID": "snowman/1440098017",
+        "youtubeID": "gset79KMmt0",
+        "spotifyID": "7uoFMmxln0GPXQ0AcCBXRq"
     },
     {
         "ranking": "93",
@@ -655,7 +715,10 @@
         "title": "Bubble Gum",
         "artist": "NewJeans",
         "image": "https://cdn.music-flo.com/image/v2/album/164/287/25/04/425287164_664fe8f2_s.jpg?1716513011731/dims/resize/140x140/quality/90",
-        "album": "How Sweet"
+        "album": "How Sweet",
+        "appleID": "bubble-gum/1744448549",
+        "youtubeID": "ft70sAYrFyY",
+        "spotifyID": "19D8LNpWwIPpi6hs9BG7dq"
     },
     {
         "ranking": "95",
@@ -669,7 +732,8 @@
         "title": "Last Christmas",
         "artist": "Ariana Grande",
         "image": "https://cdn.music-flo.com/image/album/538/821/02/04/402821538_5e9e7f38.jpg?1587445560411/dims/resize/140x140/quality/90",
-        "album": "Christmas Kisses"
+        "album": "Christmas Kisses",
+        "appleID": "last-christmas/1440829797"
     },
     {
         "ranking": "97",
@@ -683,7 +747,8 @@
         "title": "ETA",
         "artist": "NewJeans",
         "image": "https://cdn.music-flo.com/image/v2/album/480/330/15/04/415330480_64a747db_s.jpg?1688684509268/dims/resize/140x140/quality/90",
-        "album": "NewJeans 2nd EP 'Get Up'"
+        "album": "NewJeans 2nd EP 'Get Up'",
+        "spotifyID": "56v8WEnGzLByGsDAXDiv4d"
     },
     {
         "ranking": "99",
