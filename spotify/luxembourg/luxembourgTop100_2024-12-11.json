@@ -148,7 +148,8 @@
         "streak": "22",
         "streams": "2,783",
         "spotifyID": "2uFaJJtFpPDc5Pa95XzTvg",
-        "appleID": "let-it-snow-let-it-snow-let-it-snow/1440830243"
+        "appleID": "let-it-snow-let-it-snow-let-it-snow/1440830243",
+        "youtubeID": "2TA3IKH8Y5c"
     },
     {
         "ranking": "13",
@@ -212,7 +213,8 @@
         "streak": "20",
         "streams": "2,324",
         "spotifyID": "1IcR6RlgvDczfvoWJSSY2A",
-        "appleID": "its-the-most-wonderful-time-of-the-year/171434594"
+        "appleID": "its-the-most-wonderful-time-of-the-year/171434594",
+        "youtubeID": "cbZTfrhcamA"
     },
     {
         "ranking": "18",
@@ -261,7 +263,9 @@
         "prev": "22",
         "streak": "75",
         "streams": "2,022",
-        "spotifyID": "1Es7AUAhQvapIcoh3qMKDL"
+        "spotifyID": "1Es7AUAhQvapIcoh3qMKDL",
+        "appleID": "timeless/1770380890",
+        "youtubeID": "5EpyN_6dqyk"
     },
     {
         "ranking": "22",
@@ -273,7 +277,8 @@
         "streak": "20",
         "streams": "2,016",
         "spotifyID": "3qCeq0rWK67SoBDgFd2sId",
-        "appleID": "feliz-navidad/255615879"
+        "appleID": "feliz-navidad/255615879",
+        "youtubeID": "N8NcQzMQN_U"
     },
     {
         "ranking": "23",
@@ -431,7 +436,9 @@
         "prev": "36",
         "streak": "232",
         "streams": "1,580",
-        "spotifyID": "5fZJQrFKWQLb7FpJXZ1g7K"
+        "spotifyID": "5fZJQrFKWQLb7FpJXZ1g7K",
+        "appleID": "a-bar-song-tipsy/1737085899",
+        "youtubeID": "t7bQwwqW-Hc"
     },
     {
         "ranking": "36",
@@ -516,7 +523,9 @@
         "prev": "41",
         "streak": "19",
         "streams": "1,409",
-        "spotifyID": "2CGNAOSuO1MEFCbBRgUzjd"
+        "spotifyID": "2CGNAOSuO1MEFCbBRgUzjd",
+        "appleID": "luther/1781270323",
+        "youtubeID": "4_taypLmSMU"
     },
     {
         "ranking": "43",
@@ -649,7 +658,9 @@
         "prev": "49",
         "streak": "2",
         "streams": "1,267",
-        "spotifyID": "0aB0v4027ukVziUGwVGYpG"
+        "spotifyID": "0aB0v4027ukVziUGwVGYpG",
+        "appleID": "tv-off-feat-lefty-gunplay/1781270540",
+        "youtubeID": "U8F5G5wR1mk"
     },
     {
         "ranking": "54",
@@ -1022,6 +1033,7 @@
         "streak": "1",
         "streams": "1,009",
         "spotifyID": "35ISBknsCeZQtq66xABI9g",
-        "appleID": "messy/1743250261"
+        "appleID": "messy/1743250261",
+        "youtubeID": "k-k2_Liofy8"
     }
 ]

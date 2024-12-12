@@ -83,7 +83,8 @@
         "artist": "José Feliciano",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/cf/a7/f8/cfa7f807-e9a6-758d-97e0-f1cd843b5a20/mzi.vcbwvmqu.jpg/80x80bb.webp",
         "appleID": "feliz-navidad/255615879",
-        "spotifyID": "3qCeq0rWK67SoBDgFd2sId"
+        "spotifyID": "3qCeq0rWK67SoBDgFd2sId",
+        "youtubeID": "N8NcQzMQN_U"
     },
     {
         "ranking": "11",
@@ -265,7 +266,8 @@
         "artist": "Andy Williams",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/d9/84/16/d98416a4-d960-4602-8f2c-4f03165d434d/mzi.hohpjzfa.jpg/80x80bb.webp",
         "appleID": "its-the-most-wonderful-time-of-the-year/171434594",
-        "spotifyID": "1IcR6RlgvDczfvoWJSSY2A"
+        "spotifyID": "1IcR6RlgvDczfvoWJSSY2A",
+        "youtubeID": "cbZTfrhcamA"
     },
     {
         "ranking": "34",
@@ -321,7 +323,8 @@
         "artist": "Dean Martin",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/87/ee/3a/87ee3ae8-dc96-e287-6f1e-2332d4ae4c1d/13UAEIM07388.rgb.jpg/80x80bb.webp",
         "appleID": "let-it-snow-let-it-snow-let-it-snow/1440830243",
-        "spotifyID": "2uFaJJtFpPDc5Pa95XzTvg"
+        "spotifyID": "2uFaJJtFpPDc5Pa95XzTvg",
+        "youtubeID": "2TA3IKH8Y5c"
     },
     {
         "ranking": "41",
@@ -335,7 +338,8 @@
         "title": "Timeless",
         "artist": "The Weeknd",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ef/14/11/ef14117b-6681-088b-3c74-e127ca3b46ed/24UM1IM04061.rgb.jpg/80x80bb.webp",
-        "appleID": "timeless/1770380890"
+        "appleID": "timeless/1770380890",
+        "youtubeID": "5EpyN_6dqyk"
     },
     {
         "ranking": "43",
@@ -390,7 +394,8 @@
         "title": "A Bar Song (Tipsy)",
         "artist": "Shaboozey",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/97/b5/bc/97b5bca2-6238-2421-4f0d-1f7a39d5d9d4/197342550925_cover.jpg/80x80bb.webp",
-        "appleID": "a-bar-song-tipsy/1737085899"
+        "appleID": "a-bar-song-tipsy/1737085899",
+        "youtubeID": "t7bQwwqW-Hc"
     },
     {
         "ranking": "50",
@@ -613,7 +618,8 @@
         "artist": "Burl Ives",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/b0/e3/f5/b0e3f581-7086-b1db-9cba-5dda416af1ff/06UMGIM17860.rgb.jpg/80x80bb.webp",
         "appleID": "a-holly-jolly-christmas-single-version/1444213351",
-        "spotifyID": "77khP2fIVhSW23NwxrRluh"
+        "spotifyID": "77khP2fIVhSW23NwxrRluh",
+        "youtubeID": "e_AMTbO50vU"
     },
     {
         "ranking": "78",
@@ -689,7 +695,8 @@
         "title": "tv off (feat. Lefty Gunplay)",
         "artist": "Kendrick Lamar",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/50/c2/cc/50c2cc95-3658-9417-0d4b-831abde44ba1/24UM1IM28978.rgb.jpg/80x80bb.webp",
-        "appleID": "tv-off-feat-lefty-gunplay/1781270540"
+        "appleID": "tv-off-feat-lefty-gunplay/1781270540",
+        "youtubeID": "U8F5G5wR1mk"
     },
     {
         "ranking": "88",
@@ -788,6 +795,7 @@
         "title": "luther",
         "artist": "Kendrick Lamar",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/50/c2/cc/50c2cc95-3658-9417-0d4b-831abde44ba1/24UM1IM28978.rgb.jpg/80x80bb.webp",
-        "appleID": "luther/1781270323"
+        "appleID": "luther/1781270323",
+        "youtubeID": "4_taypLmSMU"
     }
 ]

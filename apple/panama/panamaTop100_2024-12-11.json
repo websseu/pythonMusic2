@@ -4,14 +4,18 @@
         "title": "Khé?",
         "artist": "Rauw Alejandro",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ab/e8/09/abe8092d-ef44-61b9-6b50-ab7efb78ca51/196872401516.jpg/80x80bb.webp",
-        "appleID": "kh%C3%A9/1775463293"
+        "appleID": "kh%C3%A9/1775463293",
+        "youtubeID": "7SNycTMOF74",
+        "spotifyID": "1YYfyJ2yCvGFCxwjsIqEK9"
     },
     {
         "ranking": "2",
         "title": "Qué Pasaría...",
         "artist": "Rauw Alejandro",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ab/e8/09/abe8092d-ef44-61b9-6b50-ab7efb78ca51/196872401516.jpg/80x80bb.webp",
-        "appleID": "qu%C3%A9-pasar%C3%ADa/1775462855"
+        "appleID": "qu%C3%A9-pasar%C3%ADa/1775462855",
+        "youtubeID": "g08y_x83d5E",
+        "spotifyID": "0l0vcZMU7AOeQmUIREoI2U"
     },
     {
         "ranking": "3",
@@ -19,7 +23,8 @@
         "artist": "Bad Bunny",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/fe/7a/aa/fe7aaaea-640a-30b4-17b0-11a3272e28f1/199066130155.jpg/80x80bb.webp",
         "appleID": "el-cl%C3%BAb/1783419694",
-        "spotifyID": "3zOgFY5kpQ6p2cwPIquZks"
+        "spotifyID": "3zOgFY5kpQ6p2cwPIquZks",
+        "youtubeID": "7f6SxWMOpdU"
     },
     {
         "ranking": "4",
@@ -364,7 +369,9 @@
         "title": "Tu Boda",
         "artist": "Óscar Maydon",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e0/f4/2b/e0f42b78-81c3-81a3-aefb-bad4927c21c7/196872471342.jpg/80x80bb.webp",
-        "appleID": "tu-boda/1769510706"
+        "appleID": "tu-boda/1769510706",
+        "youtubeID": "_ymicn0_GYc",
+        "spotifyID": "1cOboCuWYI2osTOfolMRS6"
     },
     {
         "ranking": "49",

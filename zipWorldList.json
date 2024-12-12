@@ -1,12 +1,15 @@
 [
   {
     "title": "tv off",
-    "artist": "Kendrick Lamar"
+    "artist": "Kendrick Lamar",
+    "youtubeID": "U8F5G5wR1mk",
+    "appleID": "tv-off-feat-lefty-gunplay/1781270540"
   },
   {
-    "title": "luther",
-    "artist": "Kendrick Lamar",
-    "appleID": "luther/1781270323"
+    "title": "tv off",
+    "artist": "Kendrick Lamar, Lefty Gunplay",
+    "youtubeID": "U8F5G5wR1mk",
+    "appleID": "tv-off-feat-lefty-gunplay/1781270540"
   },
   {
     "title": "squabble up",
@@ -31,7 +34,13 @@
   },
   {
     "title": "hey now",
-    "artist": "Kendrick Lamar"
+    "artist": "Kendrick Lamar",
+    "youtubeID": "9PumlOWjXMM"
+  },
+  {
+    "title": "hey now",
+    "artist": "Kendrick Lamar, Dody6",
+    "youtubeID": "9PumlOWjXMM"
   },
   {
     "title": "wacced out murals",
@@ -71,19 +80,20 @@
     "title": "It's the Most Wonderful Time of the Year",
     "artist": "Andy Williams",
     "appleID": "its-the-most-wonderful-time-of-the-year/171434594",
-    "spotifyID": "1IcR6RlgvDczfvoWJSSY2A"
-  },
-  {
-    "title": "Sticky",
-    "artist": "Tyler, The Creator"
-  },
-  {
-    "title": "dodger blue",
-    "artist": "Kendrick Lamar"
+    "spotifyID": "1IcR6RlgvDczfvoWJSSY2A",
+    "youtubeID": "cbZTfrhcamA"
   },
   {
     "title": "peekaboo",
-    "artist": "Kendrick Lamar"
+    "artist": "Kendrick Lamar",
+    "appleID": "peekaboo-feat-azchike/1781270545",
+    "youtubeID": "cbHkzwa0QmM"
+  },
+  {
+    "title": "peekaboo",
+    "artist": "Kendrick Lamar, AzChike",
+    "appleID": "peekaboo-feat-azchike/1781270545",
+    "youtubeID": "cbHkzwa0QmM"
   },
   {
     "title": "Underneath the Tree",
@@ -102,6 +112,19 @@
   {
     "title": "WHATCHU KNO ABOUT ME",
     "artist": "GloRilla",
+    "youtubeID": "Py9S2bD0RZQ",
+    "appleID": "whatchu-kno-about-me/1769454783"
+  },
+  {
+    "title": "WHATCHU KNO ABOUT ME",
+    "artist": "GloRilla, Sexyy Red",
+    "youtubeID": "Py9S2bD0RZQ",
+    "appleID": "whatchu-kno-about-me/1769454783"
+  },
+  {
+    "title": "WHATCHU KNO ABOUT ME",
+    "artist": "GloRilla & Sexyy Red",
+    "youtubeID": "Py9S2bD0RZQ",
     "appleID": "whatchu-kno-about-me/1769454783"
   },
   {
@@ -141,7 +164,14 @@
     "title": "Let It Snow! Let It Snow! Let It Snow!",
     "artist": "Dean Martin",
     "appleID": "let-it-snow-let-it-snow-let-it-snow/1440830243",
-    "spotifyID": "2uFaJJtFpPDc5Pa95XzTvg"
+    "spotifyID": "2uFaJJtFpPDc5Pa95XzTvg",
+    "youtubeID": "2TA3IKH8Y5c"
+  },
+  {
+    "title": "Let It Snow! Let It Snow! Let It Snow!",
+    "artist": "Frank Sinatra",
+    "spotifyID": "3ra4PQCtSVULClEqj2XXf7",
+    "youtubeID": "Km-Nlo5bgCQ"
   },
   {
     "title": "Not Like Us",
@@ -153,12 +183,26 @@
   {
     "title": "A Holly Jolly Christmas",
     "artist": "Burl Ives",
-    "spotifyID": "77khP2fIVhSW23NwxrRluh"
+    "spotifyID": "77khP2fIVhSW23NwxrRluh",
+    "youtubeID": "e_AMTbO50vU"
   },
   {
     "title": "Timeless",
     "artist": "The Weeknd",
-    "appleID": "timeless/1770380890"
+    "appleID": "timeless/1770380890",
+    "youtubeID": "5EpyN_6dqyk"
+  },
+  {
+    "title": "Timeless",
+    "artist": "The Weeknd & Playboi Carti",
+    "appleID": "timeless/1770380890",
+    "youtubeID": "5EpyN_6dqyk"
+  },
+  {
+    "title": "Timeless",
+    "artist": "The Weeknd, Playboi Carti",
+    "appleID": "timeless/1770380890",
+    "youtubeID": "5EpyN_6dqyk"
   },
   {
     "title": "Snooze",
@@ -168,7 +212,9 @@
   },
   {
     "title": "A Bar Song",
-    "artist": "Shaboozey"
+    "artist": "Shaboozey",
+    "appleID": "a-bar-song-tipsy/1737085899",
+    "youtubeID": "t7bQwwqW-Hc"
   },
   {
     "title": "Sleigh Ride",
@@ -187,7 +233,8 @@
   {
     "title": "gloria",
     "artist": "Kendrick Lamar",
-    "appleID": "gloria/1781270555"
+    "appleID": "gloria/1781270555",
+    "youtubeID": "G5YwhjCywvw"
   },
   {
     "title": "25",
@@ -213,10 +260,6 @@
     "youtubeID": "SFddctbZzw8"
   },
   {
-    "title": "I Had Some Help",
-    "artist": "Post Malone"
-  },
-  {
     "title": "Run Rudolph Run",
     "artist": "Chuck Berry",
     "appleID": "run-rudolph-run/1443832242",
@@ -225,7 +268,23 @@
   {
     "title": "Qué Pasaría...",
     "artist": "Rauw Alejandro",
-    "appleID": "qu%C3%A9-pasar%C3%ADa/1775462855"
+    "appleID": "qu%C3%A9-pasar%C3%ADa/1775462855",
+    "youtubeID": "g08y_x83d5E",
+    "spotifyID": "0l0vcZMU7AOeQmUIREoI2U"
+  },
+  {
+    "title": "Qué Pasaría...",
+    "artist": "Rauw Alejandro, Bad Bunny",
+    "appleID": "qu%C3%A9-pasar%C3%ADa/1775462855",
+    "youtubeID": "g08y_x83d5E",
+    "spotifyID": "0l0vcZMU7AOeQmUIREoI2U"
+  },
+  {
+    "title": "Qué Pasaría...",
+    "artist": "Rauw Alejandro & Bad Bunny",
+    "appleID": "qu%C3%A9-pasar%C3%ADa/1775462855",
+    "youtubeID": "g08y_x83d5E",
+    "spotifyID": "0l0vcZMU7AOeQmUIREoI2U"
   },
   {
     "title": "Espresso",
@@ -238,7 +297,8 @@
     "title": "EL CLúB",
     "artist": "Bad Bunny",
     "appleID": "el-cl%C3%BAb/1783419694",
-    "spotifyID": "3zOgFY5kpQ6p2cwPIquZks"
+    "spotifyID": "3zOgFY5kpQ6p2cwPIquZks",
+    "youtubeID": "7f6SxWMOpdU"
   },
   {
     "title": "The Christmas Song",
@@ -255,6 +315,22 @@
   {
     "title": "Tu Boda",
     "artist": "Óscar Maydon",
+    "youtubeID": "_ymicn0_GYc",
+    "spotifyID": "1cOboCuWYI2osTOfolMRS6",
+    "appleID": "tu-boda/1769510706"
+  },
+  {
+    "title": "Tu Boda",
+    "artist": "Oscar Maydon, Fuerza Regida",
+    "youtubeID": "_ymicn0_GYc",
+    "spotifyID": "1cOboCuWYI2osTOfolMRS6",
+    "appleID": "tu-boda/1769510706"
+  },
+  {
+    "title": "Tu Boda",
+    "artist": "Óscar Maydon & Fuerza Regida",
+    "youtubeID": "_ymicn0_GYc",
+    "spotifyID": "1cOboCuWYI2osTOfolMRS6",
     "appleID": "tu-boda/1769510706"
   },
   {
@@ -286,7 +362,14 @@
     "title": "Feliz Navidad",
     "artist": "José Feliciano",
     "appleID": "feliz-navidad/255615879",
-    "spotifyID": "3qCeq0rWK67SoBDgFd2sId"
+    "spotifyID": "3qCeq0rWK67SoBDgFd2sId",
+    "youtubeID": "N8NcQzMQN_U"
+  },
+  {
+    "title": "God jul - Feliz Navidad",
+    "artist": "Lucianoz",
+    "spotifyID": "7ewiV3hVXdDG1AdXEeh4sg",
+    "youtubeID": "AIuc3eDcHPg"
   },
   {
     "title": "Last Christmas",
@@ -317,10 +400,6 @@
     "appleID": "taste/1750307079",
     "youtubeID": "KEG7b851Ric",
     "spotifyID": "5G2f63n7IPVPPjfNIGih7Q"
-  },
-  {
-    "title": "Like Him",
-    "artist": "Tyler, The Creator"
   },
   {
     "title": "Little Saint Nick",
@@ -364,7 +443,8 @@
     "title": "Messy",
     "artist": "Lola Young",
     "appleID": "messy/1743250261",
-    "spotifyID": "35ISBknsCeZQtq66xABI9g"
+    "spotifyID": "35ISBknsCeZQtq66xABI9g",
+    "youtubeID": "k-k2_Liofy8"
   },
   {
     "title": "Good Luck, Babe!",
@@ -383,7 +463,23 @@
   {
     "title": "Khé?",
     "artist": "Rauw Alejandro",
-    "appleID": "kh%C3%A9/1775463293"
+    "youtubeID": "7SNycTMOF74",
+    "appleID": "kh%C3%A9/1775463293",
+    "spotifyID": "1YYfyJ2yCvGFCxwjsIqEK9"
+  },
+  {
+    "title": "Khé?",
+    "artist": "Rauw Alejandro, Romeo Santos",
+    "youtubeID": "7SNycTMOF74",
+    "appleID": "kh%C3%A9/1775463293",
+    "spotifyID": "1YYfyJ2yCvGFCxwjsIqEK9"
+  },
+  {
+    "title": "Khé?",
+    "artist": "Rauw Alejandro & Romeo Santos",
+    "youtubeID": "7SNycTMOF74",
+    "appleID": "kh%C3%A9/1775463293",
+    "spotifyID": "1YYfyJ2yCvGFCxwjsIqEK9"
   },
   {
     "title": "Deck the Hall",
@@ -447,13 +543,15 @@
     "title": "Bed Chem",
     "artist": "Sabrina Carpenter",
     "appleID": "bed-chem/1750307088",
-    "spotifyID": "1UHS8Rf6h5Ar3CDWRd3wjF"
+    "spotifyID": "1UHS8Rf6h5Ar3CDWRd3wjF",
+    "youtubeID": "x8VkB8ap_FQ"
   },
   {
     "title": "Pink Skies",
     "artist": "Zach Bryan",
     "appleID": "pink-skies/1747842759",
-    "spotifyID": "4ZJ4vzLQekI0WntDbanNC7"
+    "spotifyID": "4ZJ4vzLQekI0WntDbanNC7",
+    "youtubeID": "fs49xFmmHCo"
   },
   {
     "title": "Knife Talk",
@@ -1691,11 +1789,6 @@
     "artist": "Tymek",
     "appleID": "sophia-loren/1715307637",
     "youtubeID": "O-PjYv8Vgc0"
-  },
-  {
-    "title": "Let It Snow! Let It Snow! Let It Snow!",
-    "artist": "Frank Sinatra",
-    "spotifyID": "3ra4PQCtSVULClEqj2XXf7"
   },
   {
     "title": "Dzien Jeden W Roku",
@@ -14025,7 +14118,8 @@
   {
     "title": "Lilac",
     "artist": "Mrs. GREEN APPLE",
-    "appleID": "lilac/1739088799"
+    "appleID": "lilac/1739088799",
+    "youtubeID": "QjrkrVmC-8M"
   },
   {
     "title": "Bitter Vacances",
@@ -24671,11 +24765,6 @@
     "spotifyID": "285pBltuF7vW8TeWk8hdRR"
   },
   {
-    "title": "Tu Boda",
-    "artist": "Óscar Maydon & Fuerza Regida",
-    "youtubeID": "_ymicn0_GYc"
-  },
-  {
     "title": "Navidad Sin Ti",
     "artist": "Los Bukis",
     "youtubeID": "50VuaEUx830",
@@ -24700,11 +24789,6 @@
   {
     "title": "WYA REMIX RED",
     "artist": "J Abdiel & De La Rose & Yan Block"
-  },
-  {
-    "title": "Khé?",
-    "artist": "Rauw Alejandro & Romeo Santos",
-    "youtubeID": "7SNycTMOF74"
   },
   {
     "title": "Si No Quieres No",
@@ -25001,11 +25085,6 @@
     "youtubeID": "iqTR3NT_vlk"
   },
   {
-    "title": "Qué Pasaría...",
-    "artist": "Rauw Alejandro & Bad Bunny",
-    "youtubeID": "g08y_x83d5E"
-  },
-  {
     "title": "Quiereme",
     "artist": "Los Bukis",
     "youtubeID": "cUQZILrshZw"
@@ -25152,6 +25231,24 @@
     "youtubeID": "5iF286VqXM4"
   },
   {
+    "title": "Sticky",
+    "artist": "Tyler, The Creator",
+    "youtubeID": "IajeQM00yfE",
+    "appleID": "sticky-feat-glorilla-sexyy-red-lil-wayne/1776500460"
+  },
+  {
+    "title": "Sticky",
+    "artist": "Tyler, The Creator, GloRilla, Sexyy Red, Lil Wayne",
+    "youtubeID": "IajeQM00yfE",
+    "appleID": "sticky-feat-glorilla-sexyy-red-lil-wayne/1776500460"
+  },
+  {
+    "title": "Sticky",
+    "artist": "KISS OF LIFE",
+    "youtubeID": "IajeQM00yfE",
+    "appleID": "sticky-feat-glorilla-sexyy-red-lil-wayne/1776500460"
+  },
+  {
     "title": "Ransom",
     "artist": "Lil Tecca",
     "youtubeID": "1XzY2ij_vL4",
@@ -25223,11 +25320,6 @@
     "title": "HOLD UP",
     "artist": "23",
     "youtubeID": "_ss2XVeGT_Q"
-  },
-  {
-    "title": "Timeless",
-    "artist": "The Weeknd & Playboi Carti",
-    "youtubeID": "5EpyN_6dqyk"
   },
   {
     "title": "Happy Xmas",
@@ -25764,7 +25856,20 @@
   },
   {
     "title": "luther",
+    "artist": "Kendrick Lamar, SZA",
+    "appleID": "luther/1781270323",
+    "youtubeID": "4_taypLmSMU"
+  },
+  {
+    "title": "luther",
     "artist": "Kendrick Lamar & SZA",
+    "appleID": "luther/1781270323",
+    "youtubeID": "4_taypLmSMU"
+  },
+  {
+    "title": "luther",
+    "artist": "Kendrick Lamar",
+    "appleID": "luther/1781270323",
     "youtubeID": "4_taypLmSMU"
   },
   {
@@ -30839,11 +30944,6 @@
     "title": "Le Tu'una Oe",
     "artist": "Josh Tatofi",
     "youtubeID": "1MIxMSJIE0U"
-  },
-  {
-    "title": "WHATCHU KNO ABOUT ME",
-    "artist": "GloRilla & Sexyy Red",
-    "youtubeID": "Py9S2bD0RZQ"
   },
   {
     "title": "Makou Ua Kerisimasi",
@@ -37535,15 +37635,6 @@
     "youtubeID": "50439OAuu20"
   },
   {
-    "title": "luther",
-    "artist": "Kendrick Lamar, SZA"
-  },
-  {
-    "title": "tv off",
-    "artist": "Kendrick Lamar, Lefty Gunplay"
-  },
-
-  {
     "title": "It's Beginning to Look a Lot Like Christmas",
     "artist": "Perry Como, The Fontane Sisters, Mitchell Ayres & His Orchestra"
   },
@@ -37555,16 +37646,8 @@
     "youtubeID": "ekr2nIex040"
   },
   {
-    "title": "Sticky",
-    "artist": "Tyler, The Creator, GloRilla, Sexyy Red, Lil Wayne"
-  },
-  {
     "title": "The Christmas Song",
     "artist": "Nat King Cole"
-  },
-  {
-    "title": "Timeless",
-    "artist": "The Weeknd, Playboi Carti"
   },
   {
     "title": "White Christmas - 1947 Version",
@@ -37573,7 +37656,13 @@
   },
   {
     "title": "Like Him",
-    "artist": "Tyler, The Creator, Lola Young"
+    "artist": "Tyler, The Creator, Lola Young",
+    "youtubeID": "dgUHE8wWhiE"
+  },
+  {
+    "title": "Like Him",
+    "artist": "Tyler, The Creator",
+    "youtubeID": "dgUHE8wWhiE"
   },
   {
     "title": "See You Again",
@@ -37596,7 +37685,13 @@
   },
   {
     "title": "I Had Some Help",
-    "artist": "Post Malone, Morgan Wallen"
+    "artist": "Post Malone, Morgan Wallen",
+    "youtubeID": "4QIZE708gJ4"
+  },
+  {
+    "title": "I Had Some Help",
+    "artist": "Post Malone",
+    "youtubeID": "4QIZE708gJ4"
   },
   {
     "title": "Mele Kalikimaka - New mono-to-stereo mix",
@@ -37607,10 +37702,6 @@
     "title": "Winter Wonderland - Spotify Singles Holiday",
     "artist": "Laufey",
     "spotifyID": "1LmkdWSxjCV7wKTPsCvYWN"
-  },
-  {
-    "title": "hey now",
-    "artist": "Kendrick Lamar, Dody6"
   },
   {
     "title": "Defying Gravity",
@@ -37637,7 +37728,15 @@
   },
   {
     "title": "dodger blue",
-    "artist": "Kendrick Lamar, Wallie the Sensei, Siete7x, Roddy Ricch"
+    "artist": "Kendrick Lamar, Wallie the Sensei, Siete7x, Roddy Ricch",
+    "appleID": "dodger-blue-feat-wallie-the-sensei-siete7x-roddy-ricch/1781270543",
+    "youtubeID": "c7y2ziOBA1s"
+  },
+  {
+    "title": "dodger blue",
+    "artist": "Kendrick Lamar",
+    "appleID": "dodger-blue-feat-wallie-the-sensei-siete7x-roddy-ricch/1781270543",
+    "youtubeID": "c7y2ziOBA1s"
   },
   {
     "title": "Wonderful Christmastime - Edited Version / Remastered 2011",
@@ -37653,15 +37752,6 @@
     "title": "Please Come Home for Christmas - 2013 Remaster",
     "artist": "Eagles",
     "spotifyID": "3QIoEi8Enr9uHffwInGIsC"
-  },
-  {
-    "title": "WHATCHU KNO ABOUT ME",
-    "artist": "GloRilla, Sexyy Red"
-  },
-  {
-    "title": "Tu Boda",
-    "artist": "Oscar Maydon, Fuerza Regida",
-    "spotifyID": "1cOboCuWYI2osTOfolMRS6"
   },
   {
     "title": "What Is This Feeling?",
@@ -37681,11 +37771,7 @@
     "artist": "Mitski",
     "spotifyID": "3vkCueOmm7xQDoJ17W1Pm3"
   },
-  {
-    "title": "Qué Pasaría...",
-    "artist": "Rauw Alejandro, Bad Bunny",
-    "spotifyID": "0l0vcZMU7AOeQmUIREoI2U"
-  },
+
   {
     "title": "on one tonight",
     "artist": "Gunna",
@@ -37695,10 +37781,6 @@
     "title": "Do You Hear What I Hear? - Remastered 2006",
     "artist": "Bing Crosby",
     "spotifyID": "4EZUcj7c8n9pWIwHqN0DoH"
-  },
-  {
-    "title": "peekaboo",
-    "artist": "Kendrick Lamar, AzChike"
   },
   {
     "title": "Run Rudolph Run - Spotify Singles Holiday",
@@ -38116,11 +38198,6 @@
     "title": "młody gandolfini",
     "artist": "Kuban, Favst",
     "spotifyID": "3tf8gSdD6Ch9Rz4H2uJKOO"
-  },
-  {
-    "title": "Khé?",
-    "artist": "Rauw Alejandro, Romeo Santos",
-    "spotifyID": "1YYfyJ2yCvGFCxwjsIqEK9"
   },
   {
     "title": "LUNA",
@@ -38794,11 +38871,6 @@
     "title": "Djurens vaggvisa",
     "artist": "Humlan Djojj, Josefine Götestam",
     "spotifyID": "0j2JcSeuF8ElJTrC8g6493"
-  },
-  {
-    "title": "God jul - Feliz Navidad",
-    "artist": "Lucianoz",
-    "spotifyID": "7ewiV3hVXdDG1AdXEeh4sg"
   },
   {
     "title": "Come Whatever, Come What May",
@@ -48927,11 +48999,6 @@
     "artist": "NewJeans",
     "youtubeID": "Q3K0TOvTOno"
   },
-  {
-    "title": "Sticky",
-    "artist": "KISS OF LIFE",
-    "youtubeID": "IajeQM00yfE"
-  },
 
   {
     "title": "Small girl",
@@ -50027,11 +50094,7 @@
     "artist": "FIFTY FIFTY",
     "youtubeID": "uuLC6wfVA8Q"
   },
-  {
-    "title": "Sticky",
-    "artist": "KISS OF LIFE",
-    "youtubeID": "IajeQM00yfE"
-  },
+
   {
     "title": "APT",
     "artist": "Jang Beom June",
@@ -51261,11 +51324,7 @@
     "artist": "ECLIPSE",
     "youtubeID": "ESWcsKySnNs"
   },
-  {
-    "title": "Sticky",
-    "artist": "KISS OF LIFE",
-    "youtubeID": "IajeQM00yfE"
-  },
+
   {
     "title": "Right Now",
     "artist": "NewJeans",
@@ -52238,11 +52297,7 @@
     "artist": "tuki.",
     "youtubeID": "oZpYEEcvu5I"
   },
-  {
-    "title": "Sticky",
-    "artist": "KISS OF LIFE",
-    "youtubeID": "IajeQM00yfE"
-  },
+
   {
     "title": "Bubble Gum",
     "artist": "NewJeans",
@@ -53479,11 +53534,7 @@
     "artist": "QWER",
     "youtubeID": "ImuWa3SJulY"
   },
-  {
-    "title": "Sticky",
-    "artist": "KISS OF LIFE",
-    "youtubeID": "IajeQM00yfE"
-  },
+
   {
     "title": "How Sweet",
     "artist": "NewJeans",
@@ -54090,11 +54141,7 @@
     "artist": "LE SSERAFIM",
     "youtubeID": "n6B5gQXlB-0"
   },
-  {
-    "title": "Sticky",
-    "artist": "KISS OF LIFE",
-    "youtubeID": "IajeQM00yfE"
-  },
+
   {
     "title": "별별별",
     "artist": "NMIXX",
@@ -54438,11 +54485,7 @@
     "artist": "NMIXX",
     "youtubeID": "_Q8Jskeps9w"
   },
-  {
-    "title": "Sticky",
-    "artist": "KISS OF LIFE",
-    "youtubeID": "IajeQM00yfE"
-  },
+
   {
     "title": "Gravity",
     "artist": "FIFTY FIFTY",
@@ -56227,11 +56270,7 @@
     "artist": "tuki.",
     "youtubeID": "oZpYEEcvu5I"
   },
-  {
-    "title": "Sticky",
-    "artist": "KISS OF LIFE",
-    "youtubeID": "IajeQM00yfE"
-  },
+
   {
     "title": "녹아내려요",
     "artist": "DAY6",
@@ -57058,11 +57097,6 @@
   },
 
   {
-    "title": "Sticky",
-    "artist": "KISS OF LIFE",
-    "youtubeID": "IajeQM00yfE"
-  },
-  {
     "title": "고민중독",
     "artist": "QWER",
     "youtubeID": "ImuWa3SJulY"
@@ -57643,11 +57677,7 @@
     "artist": "SEVENTEEN",
     "youtubeID": "5NPe8_gDSr4"
   },
-  {
-    "title": "Sticky",
-    "artist": "KISS OF LIFE",
-    "youtubeID": "IajeQM00yfE"
-  },
+
   {
     "title": "晩餐歌",
     "artist": "tuki.",
@@ -59835,11 +59865,7 @@
     "artist": "NMIXX",
     "youtubeID": "_Q8Jskeps9w"
   },
-  {
-    "title": "Sticky",
-    "artist": "KISS OF LIFE",
-    "youtubeID": "IajeQM00yfE"
-  },
+
   {
     "title": "Fate",
     "artist": "I-DLE",
@@ -60703,11 +60729,6 @@
   },
 
   {
-    "title": "Sticky",
-    "artist": "KISS OF LIFE",
-    "youtubeID": "IajeQM00yfE"
-  },
-  {
     "title": "Welcome to the Show",
     "artist": "DAY6",
     "youtubeID": "RowlrvmyFEk"
@@ -61243,11 +61264,6 @@
   },
 
   {
-    "title": "Sticky",
-    "artist": "KISS OF LIFE",
-    "youtubeID": "IajeQM00yfE"
-  },
-  {
     "title": "별별별",
     "artist": "NMIXX",
     "youtubeID": "_Q8Jskeps9w"
@@ -61591,11 +61607,6 @@
     "title": "Armageddon",
     "artist": "aespa",
     "youtubeID": "nFYwcndNuOY"
-  },
-  {
-    "title": "Sticky",
-    "artist": "KISS OF LIFE",
-    "youtubeID": "IajeQM00yfE"
   },
 
   {
@@ -63386,12 +63397,6 @@
   },
 
   {
-    "title": "Sticky",
-    "artist": "KISS OF LIFE",
-    "youtubeID": "IajeQM00yfE"
-  },
-
-  {
     "title": "Armageddon",
     "artist": "aespa",
     "youtubeID": "nFYwcndNuOY"
@@ -65168,11 +65173,6 @@
     "title": "How Sweet",
     "artist": "NewJeans",
     "youtubeID": "Q3K0TOvTOno"
-  },
-  {
-    "title": "Sticky",
-    "artist": "KISS OF LIFE",
-    "youtubeID": "IajeQM00yfE"
   },
 
   {
@@ -68035,11 +68035,7 @@
     "artist": "Lim Young-woong",
     "youtubeID": "zTmuZtjeNqo"
   },
-  {
-    "title": "Sticky",
-    "artist": "KISS OF LIFE",
-    "youtubeID": "IajeQM00yfE"
-  },
+
   {
     "title": "Girls Never Die",
     "artist": "tripleS",
@@ -68321,11 +68317,6 @@
     "youtubeID": "Q3K0TOvTOno"
   },
 
-  {
-    "title": "Sticky",
-    "artist": "KISS OF LIFE",
-    "youtubeID": "IajeQM00yfE"
-  },
   {
     "title": "Armageddon",
     "artist": "aespa",
@@ -68769,11 +68760,7 @@
     "artist": "QWER",
     "youtubeID": "ImuWa3SJulY"
   },
-  {
-    "title": "Sticky",
-    "artist": "KISS OF LIFE",
-    "youtubeID": "IajeQM00yfE"
-  },
+
   {
     "title": "Armageddon",
     "artist": "aespa",
@@ -69302,11 +69289,7 @@
     "artist": "NMIXX",
     "youtubeID": "_Q8Jskeps9w"
   },
-  {
-    "title": "Sticky",
-    "artist": "KISS OF LIFE",
-    "youtubeID": "IajeQM00yfE"
-  },
+
   {
     "title": "Gravity",
     "artist": "FIFTY FIFTY",
@@ -69704,11 +69687,7 @@
     "artist": "I-DLE",
     "youtubeID": "ATK7gAaZTOM"
   },
-  {
-    "title": "Sticky",
-    "artist": "KISS OF LIFE",
-    "youtubeID": "IajeQM00yfE"
-  },
+
   {
     "title": "Sudden Shower",
     "artist": "ECLIPSE",

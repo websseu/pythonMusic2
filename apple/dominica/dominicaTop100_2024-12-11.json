@@ -119,14 +119,16 @@
         "title": "WHATCHU KNO ABOUT ME",
         "artist": "GloRilla",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/28/af/7e/28af7e54-74d1-dad1-c103-71f5951e83aa/24UM1IM01471.rgb.jpg/80x80bb.webp",
-        "appleID": "whatchu-kno-about-me/1769454783"
+        "appleID": "whatchu-kno-about-me/1769454783",
+        "youtubeID": "Py9S2bD0RZQ"
     },
     {
         "ranking": "18",
         "title": "luther",
         "artist": "Kendrick Lamar",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/50/c2/cc/50c2cc95-3658-9417-0d4b-831abde44ba1/24UM1IM28978.rgb.jpg/80x80bb.webp",
-        "appleID": "luther/1781270323"
+        "appleID": "luther/1781270323",
+        "youtubeID": "4_taypLmSMU"
     },
     {
         "ranking": "19",
@@ -462,7 +464,8 @@
         "title": "tv off (feat. Lefty Gunplay)",
         "artist": "Kendrick Lamar",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/50/c2/cc/50c2cc95-3658-9417-0d4b-831abde44ba1/24UM1IM28978.rgb.jpg/80x80bb.webp",
-        "appleID": "tv-off-feat-lefty-gunplay/1781270540"
+        "appleID": "tv-off-feat-lefty-gunplay/1781270540",
+        "youtubeID": "U8F5G5wR1mk"
     },
     {
         "ranking": "66",
@@ -499,14 +502,16 @@
         "title": "gloria",
         "artist": "Kendrick Lamar",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/50/c2/cc/50c2cc95-3658-9417-0d4b-831abde44ba1/24UM1IM28978.rgb.jpg/80x80bb.webp",
-        "appleID": "gloria/1781270555"
+        "appleID": "gloria/1781270555",
+        "youtubeID": "G5YwhjCywvw"
     },
     {
         "ranking": "71",
         "title": "peekaboo (feat. AzChike)",
         "artist": "Kendrick Lamar",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/50/c2/cc/50c2cc95-3658-9417-0d4b-831abde44ba1/24UM1IM28978.rgb.jpg/80x80bb.webp",
-        "appleID": "peekaboo-feat-azchike/1781270545"
+        "appleID": "peekaboo-feat-azchike/1781270545",
+        "youtubeID": "cbHkzwa0QmM"
     },
     {
         "ranking": "72",

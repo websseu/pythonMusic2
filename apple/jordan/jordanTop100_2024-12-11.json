@@ -13,7 +13,8 @@
         "title": "Timeless",
         "artist": "The Weeknd",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ef/14/11/ef14117b-6681-088b-3c74-e127ca3b46ed/24UM1IM04061.rgb.jpg/80x80bb.webp",
-        "appleID": "timeless/1770380890"
+        "appleID": "timeless/1770380890",
+        "youtubeID": "5EpyN_6dqyk"
     },
     {
         "ranking": "3",
@@ -65,14 +66,16 @@
         "title": "tv off (feat. Lefty Gunplay)",
         "artist": "Kendrick Lamar",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/50/c2/cc/50c2cc95-3658-9417-0d4b-831abde44ba1/24UM1IM28978.rgb.jpg/80x80bb.webp",
-        "appleID": "tv-off-feat-lefty-gunplay/1781270540"
+        "appleID": "tv-off-feat-lefty-gunplay/1781270540",
+        "youtubeID": "U8F5G5wR1mk"
     },
     {
         "ranking": "9",
         "title": "luther",
         "artist": "Kendrick Lamar",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/50/c2/cc/50c2cc95-3658-9417-0d4b-831abde44ba1/24UM1IM28978.rgb.jpg/80x80bb.webp",
-        "appleID": "luther/1781270323"
+        "appleID": "luther/1781270323",
+        "youtubeID": "4_taypLmSMU"
     },
     {
         "ranking": "10",
@@ -136,7 +139,8 @@
         "artist": "Lola Young",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d4/85/6b/d4856be7-64d4-5c70-5d5d-18552f826426/24UMGIM46883.rgb.jpg/80x80bb.webp",
         "appleID": "messy/1743250261",
-        "spotifyID": "35ISBknsCeZQtq66xABI9g"
+        "spotifyID": "35ISBknsCeZQtq66xABI9g",
+        "youtubeID": "k-k2_Liofy8"
     },
     {
         "ranking": "18",
@@ -338,7 +342,8 @@
         "title": "hey now (feat. Dody6)",
         "artist": "Kendrick Lamar",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/50/c2/cc/50c2cc95-3658-9417-0d4b-831abde44ba1/24UM1IM28978.rgb.jpg/80x80bb.webp",
-        "appleID": "hey-now-feat-dody6/1781270328"
+        "appleID": "hey-now-feat-dody6/1781270328",
+        "youtubeID": "9PumlOWjXMM"
     },
     {
         "ranking": "44",
@@ -667,7 +672,8 @@
         "title": "Like Him (feat. Lola Young)",
         "artist": "Tyler, The Creator",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7d/bd/e9/7dbde97e-b97d-8cc3-0203-218b687408a9/196872555059.jpg/80x80bb.webp",
-        "appleID": "like-him-feat-lola-young/1776500465"
+        "appleID": "like-him-feat-lola-young/1776500465",
+        "youtubeID": "dgUHE8wWhiE"
     },
     {
         "ranking": "87",
