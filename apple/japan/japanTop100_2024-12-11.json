@@ -4,7 +4,9 @@
         "title": "APT.",
         "artist": "ROSÉ",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2d/1a/7d/2d1a7d91-587e-0ceb-d434-327bd66d9e86/075679628312.jpg/80x80bb.webp",
-        "appleID": "apt/1773452221"
+        "appleID": "apt/1773452221",
+        "youtubeID": "ekr2nIex040",
+        "spotifyID": "4wJ5Qq0jBN4ajy7ouZIV1c"
     },
     {
         "ranking": "2",
@@ -150,7 +152,8 @@
         "title": "HOME SWEET HOME (feat. TAEYANG & DAESUNG)",
         "artist": "G-DRAGON",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a4/e1/84/a4e1846a-6158-6a43-30c7-0297e891905e/197342826099_cover.jpg/80x80bb.webp",
-        "appleID": "home-sweet-home-feat-taeyang-daesung/1780635199"
+        "appleID": "home-sweet-home-feat-taeyang-daesung/1780635199",
+        "youtubeID": "fLi0EJfi_vg"
     },
     {
         "ranking": "21",
@@ -215,7 +218,8 @@
         "title": "Strategy (feat. Megan Thee Stallion)",
         "artist": "TWICE",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d3/65/0c/d3650c39-d01d-2453-6826-9aa21ad22559/8809928952925_Cover.jpg/80x80bb.webp",
-        "appleID": "strategy-feat-megan-thee-stallion/1774299757"
+        "appleID": "strategy-feat-megan-thee-stallion/1774299757",
+        "youtubeID": "LcV0eAgCSgw"
     },
     {
         "ranking": "30",
@@ -338,7 +342,8 @@
         "artist": "ROSÉ",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2d/14/66/2d14661b-345b-d0f3-4e86-56ef626e68aa/075679629203.jpg/80x80bb.webp",
         "appleID": "toxic-till-the-end/1771105929",
-        "spotifyID": "1z5ebC9238uGoBgzYyvGpQ"
+        "spotifyID": "1z5ebC9238uGoBgzYyvGpQ",
+        "youtubeID": "eA0lHNZ1KCA"
     },
     {
         "ranking": "46",
@@ -385,7 +390,8 @@
         "artist": "OFFICIAL HIGE DANDISM",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/9c/7d/88/9c7d883d-4477-bf68-f56f-a726030a63a2/PCCA_04822.jpg/80x80bb.webp",
         "appleID": "pretender/1479397873",
-        "spotifyID": "15HNdxGKNCIO9pgaY4n7FU"
+        "spotifyID": "15HNdxGKNCIO9pgaY4n7FU",
+        "youtubeID": "TQ8WlA2GXbk"
     },
     {
         "ranking": "52",
@@ -451,7 +457,8 @@
         "artist": "King Gnu",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/aa/33/55/aa335541-9932-d73c-6b1e-62bd484fc83d/4547366642308.jpg/80x80bb.webp",
         "appleID": "specialz/1702823583",
-        "spotifyID": "5oQpH1uuZte4axR411rIlN"
+        "spotifyID": "5oQpH1uuZte4axR411rIlN",
+        "youtubeID": "fhzKLBZJC3w"
     },
     {
         "ranking": "61",
@@ -582,7 +589,8 @@
         "title": "Lemon",
         "artist": "Kenshi Yonezu",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/6b/0f/0b/6b0f0b3d-e842-5ee1-83a8-1b12142a9dfd/dj.bpfbtyiy.jpg/80x80bb.webp",
-        "appleID": "lemon/1538265741"
+        "appleID": "lemon/1538265741",
+        "youtubeID": "SX_ViT4Ra7k"
     },
     {
         "ranking": "79",
@@ -649,7 +657,8 @@
         "title": "UP (KARINA Solo)",
         "artist": "aespa",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/fd/85/0e/fd850e67-f6e2-c4e9-6ea5-501ca5afccbd/aespa_DS_Synk-PARALLEL_LINE_DC.jpg/80x80bb.webp",
-        "appleID": "up-karina-solo/1772223475"
+        "appleID": "up-karina-solo/1772223475",
+        "youtubeID": "sir6uaQ1Ako"
     },
     {
         "ranking": "88",
@@ -671,7 +680,8 @@
         "title": "Strategy",
         "artist": "TWICE",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d3/65/0c/d3650c39-d01d-2453-6826-9aa21ad22559/8809928952925_Cover.jpg/80x80bb.webp",
-        "appleID": "strategy/1774299995"
+        "appleID": "strategy/1774299995",
+        "youtubeID": "LcV0eAgCSgw"
     },
     {
         "ranking": "91",

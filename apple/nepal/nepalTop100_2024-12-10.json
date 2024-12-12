@@ -4,7 +4,8 @@
         "title": "Winter Ahead",
         "artist": "V",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9b/7a/b8/9b7ab83b-c635-42fa-a3d3-f8ede6e5920e/198704250583_Cover.jpg/80x80bb.webp",
-        "appleID": "winter-ahead/1780285815"
+        "appleID": "winter-ahead/1780285815",
+        "youtubeID": "HAWYOuMGkK0"
     },
     {
         "ranking": "2",
@@ -32,7 +33,9 @@
         "title": "Die With A Smile",
         "artist": "Lady Gaga",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/11/ae/f2/11aef294-f57c-bab9-c9fc-529162984e62/24UMGIM85348.rgb.jpg/80x80bb.webp",
-        "appleID": "die-with-a-smile/1762656732"
+        "appleID": "die-with-a-smile/1762656732",
+        "youtubeID": "kPa7bsKwL-c",
+        "spotifyID": "2plbrEY59IikOBgBGLjaoe"
     },
     {
         "ranking": "6",
@@ -40,7 +43,8 @@
         "artist": "Jin",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c5/21/a1/c521a133-2a4d-05da-205f-19093c53cd55/198704169175_Cover.jpg/80x80bb.webp",
         "appleID": "running-wild/1772351326",
-        "spotifyID": "50zAEIE4B1QqhPjRMK2Xmh"
+        "spotifyID": "50zAEIE4B1QqhPjRMK2Xmh",
+        "youtubeID": "uoHol5Dr_go"
     },
     {
         "ranking": "7",
@@ -56,7 +60,9 @@
         "title": "APT.",
         "artist": "ROSÉ",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2d/1a/7d/2d1a7d91-587e-0ceb-d434-327bd66d9e86/075679628312.jpg/80x80bb.webp",
-        "appleID": "apt/1773452221"
+        "appleID": "apt/1773452221",
+        "youtubeID": "ekr2nIex040",
+        "spotifyID": "4wJ5Qq0jBN4ajy7ouZIV1c"
     },
     {
         "ranking": "9",
@@ -112,7 +118,8 @@
         "title": "Winter Ahead (Silent Carol Ver.)",
         "artist": "V",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f0/48/bd/f048bda2-8852-f564-aae2-96a347167493/198704267888_Cover.jpg/80x80bb.webp",
-        "appleID": "winter-ahead/1780285815"
+        "appleID": "winter-ahead/1780285815",
+        "youtubeID": "HAWYOuMGkK0"
     },
     {
         "ranking": "17",
@@ -126,7 +133,8 @@
         "title": "Winter Ahead (Instrumental)",
         "artist": "V",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f0/48/bd/f048bda2-8852-f564-aae2-96a347167493/198704267888_Cover.jpg/80x80bb.webp",
-        "appleID": "winter-ahead/1780285815"
+        "appleID": "winter-ahead/1780285815",
+        "youtubeID": "HAWYOuMGkK0"
     },
     {
         "ranking": "19",
@@ -161,7 +169,8 @@
         "title": "Come back to me",
         "artist": "RM",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/65/8e/78/658e78ae-253d-2b9c-ed83-3f623e607d36/196922948947_Cover.jpg/80x80bb.webp",
-        "appleID": "come-back-to-me/1742630454"
+        "appleID": "come-back-to-me/1742630454",
+        "youtubeID": "NrfikKxF4Ps"
     },
     {
         "ranking": "24",
@@ -392,7 +401,8 @@
         "artist": "Jung Kook",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/86/78/b4/8678b4b3-2341-7239-b6cb-bcfdaef0e4e0/196922656545_Cover.jpg/80x80bb.webp",
         "appleID": "standing-next-to-you/1709554997",
-        "spotifyID": "2KslE17cAJNHTsI2MI0jb2"
+        "spotifyID": "2KslE17cAJNHTsI2MI0jb2",
+        "youtubeID": "UNo0TG9LwwI"
     },
     {
         "ranking": "55",
@@ -727,6 +737,7 @@
         "artist": "ROSÉ",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2d/14/66/2d14661b-345b-d0f3-4e86-56ef626e68aa/075679629203.jpg/80x80bb.webp",
         "appleID": "toxic-till-the-end/1771105929",
-        "spotifyID": "1z5ebC9238uGoBgzYyvGpQ"
+        "spotifyID": "1z5ebC9238uGoBgzYyvGpQ",
+        "youtubeID": "eA0lHNZ1KCA"
     }
 ]

@@ -19,14 +19,18 @@
         "title": "APT.",
         "artist": "ROSÉ",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2d/1a/7d/2d1a7d91-587e-0ceb-d434-327bd66d9e86/075679628312.jpg/80x80bb.webp",
-        "appleID": "apt/1773452221"
+        "appleID": "apt/1773452221",
+        "youtubeID": "ekr2nIex040",
+        "spotifyID": "4wJ5Qq0jBN4ajy7ouZIV1c"
     },
     {
         "ranking": "4",
         "title": "Die With A Smile",
         "artist": "Lady Gaga",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/11/ae/f2/11aef294-f57c-bab9-c9fc-529162984e62/24UMGIM85348.rgb.jpg/80x80bb.webp",
-        "appleID": "die-with-a-smile/1762656732"
+        "appleID": "die-with-a-smile/1762656732",
+        "youtubeID": "kPa7bsKwL-c",
+        "spotifyID": "2plbrEY59IikOBgBGLjaoe"
     },
     {
         "ranking": "5",
@@ -92,7 +96,8 @@
         "artist": "ROSÉ",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2d/14/66/2d14661b-345b-d0f3-4e86-56ef626e68aa/075679629203.jpg/80x80bb.webp",
         "appleID": "toxic-till-the-end/1771105929",
-        "spotifyID": "1z5ebC9238uGoBgzYyvGpQ"
+        "spotifyID": "1z5ebC9238uGoBgzYyvGpQ",
+        "youtubeID": "eA0lHNZ1KCA"
     },
     {
         "ranking": "13",
@@ -108,7 +113,8 @@
         "title": "Defying Gravity (feat. Ariana Grande)",
         "artist": "Cynthia Erivo",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3b/c3/80/3bc38021-d755-d689-43d2-775c6071b226/24UM1IM07582.rgb.jpg/80x80bb.webp",
-        "appleID": "defying-gravity-feat-ariana-grande/1772364795"
+        "appleID": "defying-gravity-feat-ariana-grande/1772364795",
+        "youtubeID": "qeqj5GnoFUY"
     },
     {
         "ranking": "15",
@@ -174,7 +180,8 @@
         "artist": "ROSÉ",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2d/14/66/2d14661b-345b-d0f3-4e86-56ef626e68aa/075679629203.jpg/80x80bb.webp",
         "appleID": "drinks-or-coffee/1771105933",
-        "spotifyID": "3fpWkbEZMP1BgOOfymwoaS"
+        "spotifyID": "3fpWkbEZMP1BgOOfymwoaS",
+        "youtubeID": "PFDO5OZO61Y"
     },
     {
         "ranking": "23",
@@ -182,7 +189,8 @@
         "artist": "ROSÉ",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2d/14/66/2d14661b-345b-d0f3-4e86-56ef626e68aa/075679629203.jpg/80x80bb.webp",
         "appleID": "3am/1771105924",
-        "spotifyID": "3y4q6bBdbXsTIaPiwiiUfy"
+        "spotifyID": "3y4q6bBdbXsTIaPiwiiUfy",
+        "youtubeID": "OzdJFXyO8ts"
     },
     {
         "ranking": "24",
@@ -207,7 +215,8 @@
         "artist": "Taylor Swift",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/49/3d/ab/493dab54-f920-9043-6181-80993b8116c9/19UMGIM53909.rgb.jpg/80x80bb.webp",
         "appleID": "cruel-summer/1468058171",
-        "spotifyID": "1BxfuPKGuaTgP7aM0Bbdwr"
+        "spotifyID": "1BxfuPKGuaTgP7aM0Bbdwr",
+        "youtubeID": "ic8j13piAhQ"
     },
     {
         "ranking": "27",
@@ -223,7 +232,8 @@
         "artist": "ROSÉ",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2d/14/66/2d14661b-345b-d0f3-4e86-56ef626e68aa/075679629203.jpg/80x80bb.webp",
         "appleID": "two-years/1771105927",
-        "spotifyID": "4HxGH28DitgAuuKpEVrLzN"
+        "spotifyID": "4HxGH28DitgAuuKpEVrLzN",
+        "youtubeID": "lktucPDH5IY"
     },
     {
         "ranking": "29",
@@ -246,7 +256,8 @@
         "artist": "ROSÉ",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2d/14/66/2d14661b-345b-d0f3-4e86-56ef626e68aa/075679629203.jpg/80x80bb.webp",
         "appleID": "stay-a-little-longer/1771106121",
-        "spotifyID": "5OdI6v2L7Aez4cclpbojiZ"
+        "spotifyID": "5OdI6v2L7Aez4cclpbojiZ",
+        "youtubeID": "vHvOYQ0hbBA"
     },
     {
         "ranking": "32",
@@ -293,7 +304,8 @@
         "title": "Moonlit Floor",
         "artist": "LISA",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7c/83/fb/7c83fbdf-27c1-39d5-dfb6-b8d6e2cd8dad/196872478501.jpg/80x80bb.webp",
-        "appleID": "moonlit-floor/1771466815"
+        "appleID": "moonlit-floor/1771466815",
+        "youtubeID": "pxGM_TOgHuM"
     },
     {
         "ranking": "38",
@@ -399,7 +411,8 @@
         "artist": "ROSÉ",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2d/14/66/2d14661b-345b-d0f3-4e86-56ef626e68aa/075679629203.jpg/80x80bb.webp",
         "appleID": "not-the-same/1771106124",
-        "spotifyID": "67siqMtQTGPpJZI4Dz8OpM"
+        "spotifyID": "67siqMtQTGPpJZI4Dz8OpM",
+        "youtubeID": "IKqVcaVrMGs"
     },
     {
         "ranking": "52",
@@ -446,7 +459,8 @@
         "title": "Strategy (feat. Megan Thee Stallion)",
         "artist": "TWICE",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d3/65/0c/d3650c39-d01d-2453-6826-9aa21ad22559/8809928952925_Cover.jpg/80x80bb.webp",
-        "appleID": "strategy-feat-megan-thee-stallion/1774299757"
+        "appleID": "strategy-feat-megan-thee-stallion/1774299757",
+        "youtubeID": "LcV0eAgCSgw"
     },
     {
         "ranking": "58",
@@ -461,14 +475,16 @@
         "artist": "ROSÉ",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2d/14/66/2d14661b-345b-d0f3-4e86-56ef626e68aa/075679629203.jpg/80x80bb.webp",
         "appleID": "call-it-the-end/1771106126",
-        "spotifyID": "5a3tLTGA0HIDtrvnszXXBN"
+        "spotifyID": "5a3tLTGA0HIDtrvnszXXBN",
+        "youtubeID": "nOo3a2tT1LQ"
     },
     {
         "ranking": "60",
         "title": "Fortnight (feat. Post Malone)",
         "artist": "Taylor Swift",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a4/86/59/a486593a-53c9-1c2a-5122-8f25339f7359/24UMGIM44778.rgb.jpg/80x80bb.webp",
-        "appleID": "fortnight-feat-post-malone/1742057775"
+        "appleID": "fortnight-feat-post-malone/1742057775",
+        "youtubeID": "q3zqJs7JUCQ"
     },
     {
         "ranking": "61",
@@ -476,7 +492,8 @@
         "artist": "Jin",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c5/21/a1/c521a133-2a4d-05da-205f-19093c53cd55/198704169175_Cover.jpg/80x80bb.webp",
         "appleID": "running-wild/1772351326",
-        "spotifyID": "50zAEIE4B1QqhPjRMK2Xmh"
+        "spotifyID": "50zAEIE4B1QqhPjRMK2Xmh",
+        "youtubeID": "uoHol5Dr_go"
     },
     {
         "ranking": "62",

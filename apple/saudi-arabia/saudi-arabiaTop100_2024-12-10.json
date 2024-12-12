@@ -11,14 +11,18 @@
         "title": "Die With A Smile",
         "artist": "Lady Gaga",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/11/ae/f2/11aef294-f57c-bab9-c9fc-529162984e62/24UMGIM85348.rgb.jpg/80x80bb.webp",
-        "appleID": "die-with-a-smile/1762656732"
+        "appleID": "die-with-a-smile/1762656732",
+        "youtubeID": "kPa7bsKwL-c",
+        "spotifyID": "2plbrEY59IikOBgBGLjaoe"
     },
     {
         "ranking": "3",
         "title": "APT.",
         "artist": "ROSÉ",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2d/1a/7d/2d1a7d91-587e-0ceb-d434-327bd66d9e86/075679628312.jpg/80x80bb.webp",
-        "appleID": "apt/1773452221"
+        "appleID": "apt/1773452221",
+        "youtubeID": "ekr2nIex040",
+        "spotifyID": "4wJ5Qq0jBN4ajy7ouZIV1c"
     },
     {
         "ranking": "4",
@@ -58,7 +62,8 @@
         "artist": "ROSÉ",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2d/14/66/2d14661b-345b-d0f3-4e86-56ef626e68aa/075679629203.jpg/80x80bb.webp",
         "appleID": "toxic-till-the-end/1771105929",
-        "spotifyID": "1z5ebC9238uGoBgzYyvGpQ"
+        "spotifyID": "1z5ebC9238uGoBgzYyvGpQ",
+        "youtubeID": "eA0lHNZ1KCA"
     },
     {
         "ranking": "9",
@@ -153,7 +158,8 @@
         "artist": "ROSÉ",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2d/14/66/2d14661b-345b-d0f3-4e86-56ef626e68aa/075679629203.jpg/80x80bb.webp",
         "appleID": "drinks-or-coffee/1771105933",
-        "spotifyID": "3fpWkbEZMP1BgOOfymwoaS"
+        "spotifyID": "3fpWkbEZMP1BgOOfymwoaS",
+        "youtubeID": "PFDO5OZO61Y"
     },
     {
         "ranking": "20",
@@ -203,7 +209,8 @@
         "artist": "ROSÉ",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2d/14/66/2d14661b-345b-d0f3-4e86-56ef626e68aa/075679629203.jpg/80x80bb.webp",
         "appleID": "two-years/1771105927",
-        "spotifyID": "4HxGH28DitgAuuKpEVrLzN"
+        "spotifyID": "4HxGH28DitgAuuKpEVrLzN",
+        "youtubeID": "lktucPDH5IY"
     },
     {
         "ranking": "26",
@@ -297,7 +304,8 @@
         "artist": "ROSÉ",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2d/14/66/2d14661b-345b-d0f3-4e86-56ef626e68aa/075679629203.jpg/80x80bb.webp",
         "appleID": "3am/1771105924",
-        "spotifyID": "3y4q6bBdbXsTIaPiwiiUfy"
+        "spotifyID": "3y4q6bBdbXsTIaPiwiiUfy",
+        "youtubeID": "OzdJFXyO8ts"
     },
     {
         "ranking": "38",
@@ -305,7 +313,8 @@
         "artist": "ROSÉ",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2d/14/66/2d14661b-345b-d0f3-4e86-56ef626e68aa/075679629203.jpg/80x80bb.webp",
         "appleID": "stay-a-little-longer/1771106121",
-        "spotifyID": "5OdI6v2L7Aez4cclpbojiZ"
+        "spotifyID": "5OdI6v2L7Aez4cclpbojiZ",
+        "youtubeID": "vHvOYQ0hbBA"
     },
     {
         "ranking": "39",
@@ -648,7 +657,8 @@
         "title": "Fortnight (feat. Post Malone)",
         "artist": "Taylor Swift",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a4/86/59/a486593a-53c9-1c2a-5122-8f25339f7359/24UMGIM44778.rgb.jpg/80x80bb.webp",
-        "appleID": "fortnight-feat-post-malone/1742057775"
+        "appleID": "fortnight-feat-post-malone/1742057775",
+        "youtubeID": "q3zqJs7JUCQ"
     },
     {
         "ranking": "84",
@@ -721,7 +731,8 @@
         "title": "LUNCH",
         "artist": "Billie Eilish",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
-        "appleID": "lunch/1739659140"
+        "appleID": "lunch/1739659140",
+        "youtubeID": "MB3VkzPdgLA"
     },
     {
         "ranking": "94",

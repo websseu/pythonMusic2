@@ -5,14 +5,16 @@
         "artist": "ROSÉ",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2d/14/66/2d14661b-345b-d0f3-4e86-56ef626e68aa/075679629203.jpg/80x80bb.webp",
         "appleID": "toxic-till-the-end/1771105929",
-        "spotifyID": "1z5ebC9238uGoBgzYyvGpQ"
+        "spotifyID": "1z5ebC9238uGoBgzYyvGpQ",
+        "youtubeID": "eA0lHNZ1KCA"
     },
     {
         "ranking": "2",
         "title": "HOME SWEET HOME (feat. TAEYANG & DAESUNG)",
         "artist": "G-DRAGON",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a4/e1/84/a4e1846a-6158-6a43-30c7-0297e891905e/197342826099_cover.jpg/80x80bb.webp",
-        "appleID": "home-sweet-home-feat-taeyang-daesung/1780635199"
+        "appleID": "home-sweet-home-feat-taeyang-daesung/1780635199",
+        "youtubeID": "fLi0EJfi_vg"
     },
     {
         "ranking": "3",
@@ -28,7 +30,9 @@
         "title": "APT.",
         "artist": "ROSÉ",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2d/14/66/2d14661b-345b-d0f3-4e86-56ef626e68aa/075679629203.jpg/80x80bb.webp",
-        "appleID": "apt/1773452221"
+        "appleID": "apt/1773452221",
+        "youtubeID": "ekr2nIex040",
+        "spotifyID": "4wJ5Qq0jBN4ajy7ouZIV1c"
     },
     {
         "ranking": "5",
@@ -70,7 +74,8 @@
         "artist": "ROSÉ",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2d/14/66/2d14661b-345b-d0f3-4e86-56ef626e68aa/075679629203.jpg/80x80bb.webp",
         "appleID": "3am/1771105924",
-        "spotifyID": "3y4q6bBdbXsTIaPiwiiUfy"
+        "spotifyID": "3y4q6bBdbXsTIaPiwiiUfy",
+        "youtubeID": "OzdJFXyO8ts"
     },
     {
         "ranking": "10",
@@ -78,7 +83,8 @@
         "artist": "ROSÉ",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2d/14/66/2d14661b-345b-d0f3-4e86-56ef626e68aa/075679629203.jpg/80x80bb.webp",
         "appleID": "drinks-or-coffee/1771105933",
-        "spotifyID": "3fpWkbEZMP1BgOOfymwoaS"
+        "spotifyID": "3fpWkbEZMP1BgOOfymwoaS",
+        "youtubeID": "PFDO5OZO61Y"
     },
     {
         "ranking": "11",
@@ -86,7 +92,8 @@
         "artist": "WOODZ",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/07/91/0d/07910df6-5ab5-0867-3be5-900cf9d11018/cover_KM0016894_1.jpg/80x80bb.webp",
         "appleID": "drowning/1683448656",
-        "spotifyID": "4xeugB5MqWh0jwvXZPxahq"
+        "spotifyID": "4xeugB5MqWh0jwvXZPxahq",
+        "youtubeID": "tiKFuzpX-NA"
     },
     {
         "ranking": "12",
@@ -94,7 +101,8 @@
         "artist": "ROSÉ",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2d/14/66/2d14661b-345b-d0f3-4e86-56ef626e68aa/075679629203.jpg/80x80bb.webp",
         "appleID": "two-years/1771105927",
-        "spotifyID": "4HxGH28DitgAuuKpEVrLzN"
+        "spotifyID": "4HxGH28DitgAuuKpEVrLzN",
+        "youtubeID": "lktucPDH5IY"
     },
     {
         "ranking": "13",
@@ -111,14 +119,16 @@
         "artist": "ROSÉ",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2d/14/66/2d14661b-345b-d0f3-4e86-56ef626e68aa/075679629203.jpg/80x80bb.webp",
         "appleID": "stay-a-little-longer/1771106121",
-        "spotifyID": "5OdI6v2L7Aez4cclpbojiZ"
+        "spotifyID": "5OdI6v2L7Aez4cclpbojiZ",
+        "youtubeID": "vHvOYQ0hbBA"
     },
     {
         "ranking": "15",
         "title": "UP (KARINA Solo)",
         "artist": "aespa",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/fd/85/0e/fd850e67-f6e2-c4e9-6ea5-501ca5afccbd/aespa_DS_Synk-PARALLEL_LINE_DC.jpg/80x80bb.webp",
-        "appleID": "up-karina-solo/1772223475"
+        "appleID": "up-karina-solo/1772223475",
+        "youtubeID": "sir6uaQ1Ako"
     },
     {
         "ranking": "16",
@@ -133,7 +143,8 @@
         "artist": "DAY6",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9e/e8/6e/9ee86ed8-4dcf-ac99-e49a-95fb2151b4ac/8809928951515_Cover.jpg/80x80bb.webp",
         "appleID": "happy/1732319018",
-        "spotifyID": "1k68vKHNQXU5CHqcM7Yp7N"
+        "spotifyID": "1k68vKHNQXU5CHqcM7Yp7N",
+        "youtubeID": "sWXGbkM0tBI"
     },
     {
         "ranking": "18",
@@ -200,7 +211,8 @@
         "artist": "ROSÉ",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2d/14/66/2d14661b-345b-d0f3-4e86-56ef626e68aa/075679629203.jpg/80x80bb.webp",
         "appleID": "call-it-the-end/1771106126",
-        "spotifyID": "5a3tLTGA0HIDtrvnszXXBN"
+        "spotifyID": "5a3tLTGA0HIDtrvnszXXBN",
+        "youtubeID": "nOo3a2tT1LQ"
     },
     {
         "ranking": "26",
@@ -225,7 +237,8 @@
         "artist": "ROSÉ",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2d/14/66/2d14661b-345b-d0f3-4e86-56ef626e68aa/075679629203.jpg/80x80bb.webp",
         "appleID": "not-the-same/1771106124",
-        "spotifyID": "67siqMtQTGPpJZI4Dz8OpM"
+        "spotifyID": "67siqMtQTGPpJZI4Dz8OpM",
+        "youtubeID": "IKqVcaVrMGs"
     },
     {
         "ranking": "29",
@@ -250,7 +263,9 @@
         "title": "Die With A Smile",
         "artist": "Lady Gaga",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/11/ae/f2/11aef294-f57c-bab9-c9fc-529162984e62/24UMGIM85348.rgb.jpg/80x80bb.webp",
-        "appleID": "die-with-a-smile/1762656732"
+        "appleID": "die-with-a-smile/1762656732",
+        "youtubeID": "kPa7bsKwL-c",
+        "spotifyID": "2plbrEY59IikOBgBGLjaoe"
     },
     {
         "ranking": "32",
@@ -275,7 +290,8 @@
         "title": "Cherish (My Love)",
         "artist": "ILLIT",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e9/20/73/e9207332-1b22-18d0-5d1b-daaf370a4317/198704136962_Cover.jpg/80x80bb.webp",
-        "appleID": "cherish-my-love/1772790089"
+        "appleID": "cherish-my-love/1772790089",
+        "youtubeID": "tbDGl7jEazA"
     },
     {
         "ranking": "35",
@@ -365,21 +381,24 @@
         "artist": "NewJeans",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/4e/64/34/4e64344b-3ac6-c503-2c41-257a15401416/192641873096_Cover.jpg/80x80bb.webp",
         "appleID": "hype-boy/1635469851",
-        "spotifyID": "0a4MMyCrzT0En247IhqZbD"
+        "spotifyID": "0a4MMyCrzT0En247IhqZbD",
+        "youtubeID": "11cta61wi0g"
     },
     {
         "ranking": "46",
         "title": "Steady",
         "artist": "NCT WISH",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b9/6f/ba/b96fba14-1aab-ce7b-5dd9-5f50fdd33dff/dj.lejatqhp.png/80x80bb.webp",
-        "appleID": "steady/1766692131"
+        "appleID": "steady/1766692131",
+        "youtubeID": "IKlkZZv76Ho"
     },
     {
         "ranking": "47",
         "title": "Attention",
         "artist": "NewJeans",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/4e/64/34/4e64344b-3ac6-c503-2c41-257a15401416/192641873096_Cover.jpg/80x80bb.webp",
-        "appleID": "attention/1635469694"
+        "appleID": "attention/1635469694",
+        "youtubeID": "js1CtxSY38I"
     },
     {
         "ranking": "48",
@@ -393,7 +412,8 @@
         "title": "Strategy (feat. Megan Thee Stallion)",
         "artist": "TWICE",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d3/65/0c/d3650c39-d01d-2453-6826-9aa21ad22559/8809928952925_Cover.jpg/80x80bb.webp",
-        "appleID": "strategy-feat-megan-thee-stallion/1774299757"
+        "appleID": "strategy-feat-megan-thee-stallion/1774299757",
+        "youtubeID": "LcV0eAgCSgw"
     },
     {
         "ranking": "50",
@@ -410,7 +430,8 @@
         "artist": "aespa",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/f7/f0/5c/f7f05ce4-e5a4-900d-e087-1dd9668b2b34/888735945939.jpg/80x80bb.webp",
         "appleID": "drama/1715939931",
-        "spotifyID": "5XWlyfo0kZ8LF7VSyfS4Ew"
+        "spotifyID": "5XWlyfo0kZ8LF7VSyfS4Ew",
+        "youtubeID": "D8VEhcPeSlc"
     },
     {
         "ranking": "52",
@@ -424,7 +445,8 @@
         "title": "Nice Guy",
         "artist": "BOYNEXTDOOR",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/25/fe/7a/25fe7a3c-09c5-fedd-418e-42c8d03b115e/198704113956_Cover.jpg/80x80bb.webp",
-        "appleID": "nice-guy/1765199947"
+        "appleID": "nice-guy/1765199947",
+        "youtubeID": "HJlc_tFkB3M"
     },
     {
         "ranking": "54",
@@ -445,7 +467,8 @@
         "title": "Boom Boom Bass",
         "artist": "RIIZE",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8c/ba/56/8cba5689-8f1b-d00e-480d-4b2a5f78d9cf/888735948763.jpg/80x80bb.webp",
-        "appleID": "boom-boom-bass/1764373570"
+        "appleID": "boom-boom-bass/1764373570",
+        "youtubeID": "78lNnCitcBM"
     },
     {
         "ranking": "57",
@@ -541,7 +564,8 @@
         "artist": "G-DRAGON",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/6f/ea/f0/6feaf05d-1c45-a7ac-479e-f294d0ca4b70/8806197910472.jpg/80x80bb.webp",
         "appleID": "crooked/1348187176",
-        "spotifyID": "4EwNWRBWdZ6bgvxRHlZ8OO"
+        "spotifyID": "4EwNWRBWdZ6bgvxRHlZ8OO",
+        "youtubeID": "RKhsHGfrFmY"
     },
     {
         "ranking": "69",
@@ -581,7 +605,8 @@
         "title": "If I have you only (My love)",
         "artist": "Nerd Connection",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/66/39/f0/6639f07c-9350-c249-6558-72e4c88ce7fe/cover_KM0018050_1.jpg/80x80bb.webp",
-        "appleID": "if-i-have-you-only-my-love/1702792482"
+        "appleID": "if-i-have-you-only-my-love/1702792482",
+        "youtubeID": "IMWT6937uUs"
     },
     {
         "ranking": "74",
@@ -635,7 +660,8 @@
         "title": "NASA (feat. FKJ)",
         "artist": "DEAN",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/bb/9a/6d/bb9a6d3a-c305-9cca-9897-d2559dc596e5/24UM1IM32899.rgb.jpg/80x80bb.webp",
-        "appleID": "nasa-feat-fkj/1782130212"
+        "appleID": "nasa-feat-fkj/1782130212",
+        "youtubeID": "hVXcsCpDo1c"
     },
     {
         "ranking": "81",
@@ -659,21 +685,24 @@
         "title": "Girls Never Die",
         "artist": "tripleS",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e1/13/3e/e1133e61-680f-babf-0177-e0fe29903a4d/198391991660.jpg/80x80bb.webp",
-        "appleID": "girls-never-die/1743890801"
+        "appleID": "girls-never-die/1743890801",
+        "youtubeID": "2tda_TCjz8w"
     },
     {
         "ranking": "84",
         "title": "Spicy",
         "artist": "aespa",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/af/2c/6d/af2c6d62-0ebc-2dff-17b3-8eeb2b3986a0/888735943621.jpg/80x80bb.webp",
-        "appleID": "spicy/1685400184"
+        "appleID": "spicy/1685400184",
+        "youtubeID": "Os_heh8vPfs"
     },
     {
         "ranking": "85",
         "title": "Earth, Wind & Fire",
         "artist": "BOYNEXTDOOR",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3e/38/bf/3e38bf61-7171-1cfc-7dc4-8e74751f2b6b/196922852268_Cover.jpg/80x80bb.webp",
-        "appleID": "earth-wind-fire/1738692253"
+        "appleID": "earth-wind-fire/1738692253",
+        "youtubeID": "u9nP3qXQA4o"
     },
     {
         "ranking": "86",
@@ -687,7 +716,8 @@
         "title": "Love 119",
         "artist": "RIIZE",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8c/ba/56/8cba5689-8f1b-d00e-480d-4b2a5f78d9cf/888735948763.jpg/80x80bb.webp",
-        "appleID": "love-119/1764373913"
+        "appleID": "love-119/1764373913",
+        "youtubeID": "0TAAUWHo4Ec"
     },
     {
         "ranking": "88",
@@ -703,7 +733,8 @@
         "title": "Sticky",
         "artist": "KISS OF LIFE",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9b/00/c7/9b00c7e0-2e78-af06-bcfe-89d7a00e5a6d/cover_KM0019987_1.jpg/80x80bb.webp",
-        "appleID": "sticky/1753900853"
+        "appleID": "sticky/1753900853",
+        "youtubeID": "IajeQM00yfE"
     },
     {
         "ranking": "90",
@@ -717,7 +748,8 @@
         "title": "BODY",
         "artist": "MEOVV",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/20/f9/d4/20f9d425-b5c4-cc34-8c2a-2ee2b7155f32/8800287294121_Cover.jpg/80x80bb.webp",
-        "appleID": "body/1779250390"
+        "appleID": "body/1779250390",
+        "youtubeID": "yFGsw8phPn4"
     },
     {
         "ranking": "92",
@@ -741,7 +773,8 @@
         "title": "‎Good Night Good Dream",
         "artist": "Nerd Connection",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7a/f9/77/7af977be-cf12-73f4-7534-a54359205405/cover_KM0019696_1.jpg/80x80bb.webp",
-        "appleID": "good-night-good-dream/1738889871"
+        "appleID": "good-night-good-dream/1738889871",
+        "youtubeID": "XfzE8ku3TCI"
     },
     {
         "ranking": "95",
@@ -769,14 +802,16 @@
         "title": "Yours",
         "artist": "Damons year",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/da/82/e1/da82e1b2-09d1-f4d1-327d-076b7d539241/yours_cover.jpg/80x80bb.webp",
-        "appleID": "yours/1459220445"
+        "appleID": "yours/1459220445",
+        "youtubeID": "VHj6IYA-Dxs"
     },
     {
         "ranking": "99",
         "title": "Small girl (feat. D.O.)",
         "artist": "Lee Young Ji",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cf/ff/93/cfff93b5-e7ef-6a28-6786-9f82f79d8117/8804775305474.jpg/80x80bb.webp",
-        "appleID": "small-girl-feat-d-o/1753178654"
+        "appleID": "small-girl-feat-d-o/1753178654",
+        "youtubeID": "11iZcYbq_is"
     },
     {
         "ranking": "100",

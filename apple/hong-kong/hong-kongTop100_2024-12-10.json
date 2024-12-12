@@ -4,7 +4,9 @@
         "title": "APT.",
         "artist": "ROSÉ",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2d/1a/7d/2d1a7d91-587e-0ceb-d434-327bd66d9e86/075679628312.jpg/80x80bb.webp",
-        "appleID": "apt/1773452221"
+        "appleID": "apt/1773452221",
+        "youtubeID": "ekr2nIex040",
+        "spotifyID": "4wJ5Qq0jBN4ajy7ouZIV1c"
     },
     {
         "ranking": "2",
@@ -12,7 +14,8 @@
         "artist": "ROSÉ",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2d/14/66/2d14661b-345b-d0f3-4e86-56ef626e68aa/075679629203.jpg/80x80bb.webp",
         "appleID": "toxic-till-the-end/1771105929",
-        "spotifyID": "1z5ebC9238uGoBgzYyvGpQ"
+        "spotifyID": "1z5ebC9238uGoBgzYyvGpQ",
+        "youtubeID": "eA0lHNZ1KCA"
     },
     {
         "ranking": "3",
@@ -28,7 +31,8 @@
         "title": "HOME SWEET HOME (feat. TAEYANG & DAESUNG)",
         "artist": "G-DRAGON",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a4/e1/84/a4e1846a-6158-6a43-30c7-0297e891905e/197342826099_cover.jpg/80x80bb.webp",
-        "appleID": "home-sweet-home-feat-taeyang-daesung/1780635199"
+        "appleID": "home-sweet-home-feat-taeyang-daesung/1780635199",
+        "youtubeID": "fLi0EJfi_vg"
     },
     {
         "ranking": "5",
@@ -50,7 +54,8 @@
         "artist": "ROSÉ",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2d/14/66/2d14661b-345b-d0f3-4e86-56ef626e68aa/075679629203.jpg/80x80bb.webp",
         "appleID": "two-years/1771105927",
-        "spotifyID": "4HxGH28DitgAuuKpEVrLzN"
+        "spotifyID": "4HxGH28DitgAuuKpEVrLzN",
+        "youtubeID": "lktucPDH5IY"
     },
     {
         "ranking": "8",
@@ -58,7 +63,8 @@
         "artist": "ROSÉ",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2d/14/66/2d14661b-345b-d0f3-4e86-56ef626e68aa/075679629203.jpg/80x80bb.webp",
         "appleID": "3am/1771105924",
-        "spotifyID": "3y4q6bBdbXsTIaPiwiiUfy"
+        "spotifyID": "3y4q6bBdbXsTIaPiwiiUfy",
+        "youtubeID": "OzdJFXyO8ts"
     },
     {
         "ranking": "9",
@@ -74,7 +80,8 @@
         "artist": "ROSÉ",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2d/14/66/2d14661b-345b-d0f3-4e86-56ef626e68aa/075679629203.jpg/80x80bb.webp",
         "appleID": "drinks-or-coffee/1771105933",
-        "spotifyID": "3fpWkbEZMP1BgOOfymwoaS"
+        "spotifyID": "3fpWkbEZMP1BgOOfymwoaS",
+        "youtubeID": "PFDO5OZO61Y"
     },
     {
         "ranking": "11",
@@ -82,7 +89,8 @@
         "artist": "ROSÉ",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2d/14/66/2d14661b-345b-d0f3-4e86-56ef626e68aa/075679629203.jpg/80x80bb.webp",
         "appleID": "stay-a-little-longer/1771106121",
-        "spotifyID": "5OdI6v2L7Aez4cclpbojiZ"
+        "spotifyID": "5OdI6v2L7Aez4cclpbojiZ",
+        "youtubeID": "vHvOYQ0hbBA"
     },
     {
         "ranking": "12",
@@ -99,7 +107,8 @@
         "artist": "ROSÉ",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2d/14/66/2d14661b-345b-d0f3-4e86-56ef626e68aa/075679629203.jpg/80x80bb.webp",
         "appleID": "not-the-same/1771106124",
-        "spotifyID": "67siqMtQTGPpJZI4Dz8OpM"
+        "spotifyID": "67siqMtQTGPpJZI4Dz8OpM",
+        "youtubeID": "IKqVcaVrMGs"
     },
     {
         "ranking": "14",
@@ -107,7 +116,8 @@
         "artist": "ROSÉ",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2d/14/66/2d14661b-345b-d0f3-4e86-56ef626e68aa/075679629203.jpg/80x80bb.webp",
         "appleID": "call-it-the-end/1771106126",
-        "spotifyID": "5a3tLTGA0HIDtrvnszXXBN"
+        "spotifyID": "5a3tLTGA0HIDtrvnszXXBN",
+        "youtubeID": "nOo3a2tT1LQ"
     },
     {
         "ranking": "15",
@@ -162,7 +172,9 @@
         "title": "Die With A Smile",
         "artist": "Lady Gaga",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/11/ae/f2/11aef294-f57c-bab9-c9fc-529162984e62/24UMGIM85348.rgb.jpg/80x80bb.webp",
-        "appleID": "die-with-a-smile/1762656732"
+        "appleID": "die-with-a-smile/1762656732",
+        "youtubeID": "kPa7bsKwL-c",
+        "spotifyID": "2plbrEY59IikOBgBGLjaoe"
     },
     {
         "ranking": "22",
@@ -253,7 +265,8 @@
         "title": "Strategy (feat. Megan Thee Stallion)",
         "artist": "TWICE",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d3/65/0c/d3650c39-d01d-2453-6826-9aa21ad22559/8809928952925_Cover.jpg/80x80bb.webp",
-        "appleID": "strategy-feat-megan-thee-stallion/1774299757"
+        "appleID": "strategy-feat-megan-thee-stallion/1774299757",
+        "youtubeID": "LcV0eAgCSgw"
     },
     {
         "ranking": "34",
@@ -449,7 +462,8 @@
         "title": "UP (KARINA Solo)",
         "artist": "aespa",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/fd/85/0e/fd850e67-f6e2-c4e9-6ea5-501ca5afccbd/aespa_DS_Synk-PARALLEL_LINE_DC.jpg/80x80bb.webp",
-        "appleID": "up-karina-solo/1772223475"
+        "appleID": "up-karina-solo/1772223475",
+        "youtubeID": "sir6uaQ1Ako"
     },
     {
         "ranking": "60",
@@ -604,7 +618,8 @@
         "title": "Cherish (My Love)",
         "artist": "ILLIT",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e9/20/73/e9207332-1b22-18d0-5d1b-daaf370a4317/198704136962_Cover.jpg/80x80bb.webp",
-        "appleID": "cherish-my-love/1772790089"
+        "appleID": "cherish-my-love/1772790089",
+        "youtubeID": "tbDGl7jEazA"
     },
     {
         "ranking": "81",
@@ -663,7 +678,8 @@
         "artist": "aespa",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/f7/f0/5c/f7f05ce4-e5a4-900d-e087-1dd9668b2b34/888735945939.jpg/80x80bb.webp",
         "appleID": "drama/1715939931",
-        "spotifyID": "5XWlyfo0kZ8LF7VSyfS4Ew"
+        "spotifyID": "5XWlyfo0kZ8LF7VSyfS4Ew",
+        "youtubeID": "D8VEhcPeSlc"
     },
     {
         "ranking": "89",

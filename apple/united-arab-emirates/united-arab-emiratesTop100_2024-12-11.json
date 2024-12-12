@@ -4,14 +4,18 @@
         "title": "Die With A Smile",
         "artist": "Lady Gaga",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/11/ae/f2/11aef294-f57c-bab9-c9fc-529162984e62/24UMGIM85348.rgb.jpg/80x80bb.webp",
-        "appleID": "die-with-a-smile/1762656732"
+        "appleID": "die-with-a-smile/1762656732",
+        "youtubeID": "kPa7bsKwL-c",
+        "spotifyID": "2plbrEY59IikOBgBGLjaoe"
     },
     {
         "ranking": "2",
         "title": "APT.",
         "artist": "ROSÉ",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2d/1a/7d/2d1a7d91-587e-0ceb-d434-327bd66d9e86/075679628312.jpg/80x80bb.webp",
-        "appleID": "apt/1773452221"
+        "appleID": "apt/1773452221",
+        "youtubeID": "ekr2nIex040",
+        "spotifyID": "4wJ5Qq0jBN4ajy7ouZIV1c"
     },
     {
         "ranking": "3",
@@ -167,7 +171,8 @@
         "artist": "ROSÉ",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2d/14/66/2d14661b-345b-d0f3-4e86-56ef626e68aa/075679629203.jpg/80x80bb.webp",
         "appleID": "toxic-till-the-end/1771105929",
-        "spotifyID": "1z5ebC9238uGoBgzYyvGpQ"
+        "spotifyID": "1z5ebC9238uGoBgzYyvGpQ",
+        "youtubeID": "eA0lHNZ1KCA"
     },
     {
         "ranking": "22",
@@ -418,7 +423,8 @@
         "artist": "Coldplay",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/52/aa/85/52aa851f-15b7-6322-f91f-df84b15b7b19/190295978044.jpg/80x80bb.webp",
         "appleID": "viva-la-vida/1122773680",
-        "spotifyID": "1mea3bSkSGXuIRvnydlB5b"
+        "spotifyID": "1mea3bSkSGXuIRvnydlB5b",
+        "youtubeID": "dvgZkm1xWPE"
     },
     {
         "ranking": "53",
@@ -472,7 +478,8 @@
         "artist": "Taylor Swift",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/49/3d/ab/493dab54-f920-9043-6181-80993b8116c9/19UMGIM53909.rgb.jpg/80x80bb.webp",
         "appleID": "cruel-summer/1468058171",
-        "spotifyID": "1BxfuPKGuaTgP7aM0Bbdwr"
+        "spotifyID": "1BxfuPKGuaTgP7aM0Bbdwr",
+        "youtubeID": "ic8j13piAhQ"
     },
     {
         "ranking": "60",
@@ -494,7 +501,8 @@
         "title": "Defying Gravity (feat. Ariana Grande)",
         "artist": "Cynthia Erivo",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3b/c3/80/3bc38021-d755-d689-43d2-775c6071b226/24UM1IM07582.rgb.jpg/80x80bb.webp",
-        "appleID": "defying-gravity-feat-ariana-grande/1772364795"
+        "appleID": "defying-gravity-feat-ariana-grande/1772364795",
+        "youtubeID": "qeqj5GnoFUY"
     },
     {
         "ranking": "63",
