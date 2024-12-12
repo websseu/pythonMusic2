@@ -11,7 +11,8 @@
         "title": "Сбърка адреса",
         "artist": "Emilia",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/63/a3/0d/63a30dc1-ae9b-5944-0442-b53d0df2c6f6/198846732190.jpg/80x80bb.webp",
-        "appleID": "%D1%81%D0%B1%D1%8A%D1%80%D0%BA%D0%B0-%D0%B0%D0%B4%D1%80%D0%B5%D1%81%D0%B0/1775734128"
+        "appleID": "%D1%81%D0%B1%D1%8A%D1%80%D0%BA%D0%B0-%D0%B0%D0%B4%D1%80%D0%B5%D1%81%D0%B0/1775734128",
+        "spotifyID": "74it9s6hwM1KhN9wgKYgu5"
     },
     {
         "ranking": "3",
@@ -25,7 +26,8 @@
         "title": "Timeless",
         "artist": "The Weeknd",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ef/14/11/ef14117b-6681-088b-3c74-e127ca3b46ed/24UM1IM04061.rgb.jpg/80x80bb.webp",
-        "appleID": "timeless/1770380890"
+        "appleID": "timeless/1770380890",
+        "youtubeID": "5EpyN_6dqyk"
     },
     {
         "ranking": "5",
@@ -53,7 +55,9 @@
         "title": "Die With A Smile",
         "artist": "Lady Gaga",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/11/ae/f2/11aef294-f57c-bab9-c9fc-529162984e62/24UMGIM85348.rgb.jpg/80x80bb.webp",
-        "appleID": "die-with-a-smile/1762656732"
+        "appleID": "die-with-a-smile/1762656732",
+        "youtubeID": "kPa7bsKwL-c",
+        "spotifyID": "2plbrEY59IikOBgBGLjaoe"
     },
     {
         "ranking": "9",
@@ -81,14 +85,17 @@
         "title": "APT.",
         "artist": "ROSÉ",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2d/1a/7d/2d1a7d91-587e-0ceb-d434-327bd66d9e86/075679628312.jpg/80x80bb.webp",
-        "appleID": "apt/1773452221"
+        "appleID": "apt/1773452221",
+        "youtubeID": "ekr2nIex040",
+        "spotifyID": "4wJ5Qq0jBN4ajy7ouZIV1c"
     },
     {
         "ranking": "13",
         "title": "Mrasnica",
         "artist": "Azis",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a3/56/79/a35679c6-40d6-65db-ddd3-a058f058e4ff/5034644142319.jpg/80x80bb.webp",
-        "appleID": "mrasnica/1772157963"
+        "appleID": "mrasnica/1772157963",
+        "spotifyID": "1LXRWQeHY486xZVgl3uJ4x"
     },
     {
         "ranking": "14",
@@ -158,14 +165,16 @@
         "title": "BIRDS OF A FEATHER",
         "artist": "Billie Eilish",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
-        "appleID": "birds-of-a-feather/1739659142"
+        "appleID": "birds-of-a-feather/1739659142",
+        "youtubeID": "V9PVRfjEBTI"
     },
     {
         "ranking": "24",
         "title": "Паркинга",
         "artist": "Papi Hans",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b2/94/a8/b294a881-53ca-c427-4805-d3f3fb190347/199066133507.jpg/80x80bb.webp",
-        "appleID": "%D0%BF%D0%B0%D1%80%D0%BA%D0%B8%D0%BD%D0%B3%D0%B0/1783307502"
+        "appleID": "%D0%BF%D0%B0%D1%80%D0%BA%D0%B8%D0%BD%D0%B3%D0%B0/1783307502",
+        "spotifyID": "4RmHzomLHSGf82hdTspZXg"
     },
     {
         "ranking": "25",
@@ -186,7 +195,8 @@
         "title": "Lose Control",
         "artist": "Teddy Swims",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/36/19/66/36196640-1561-dc5e-c6bc-1e5f4befa583/093624856771.jpg/80x80bb.webp",
-        "appleID": "lose-control/1691699836"
+        "appleID": "lose-control/1691699836",
+        "spotifyID": "17phhZDn6oGtzMe56NuWvj"
     },
     {
         "ranking": "28",
@@ -228,7 +238,9 @@
         "title": "The Door",
         "artist": "Teddy Swims",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/36/19/66/36196640-1561-dc5e-c6bc-1e5f4befa583/093624856771.jpg/80x80bb.webp",
-        "appleID": "the-door/1691699849"
+        "appleID": "the-door/1691699849",
+        "youtubeID": "VSXT4a2kRHA",
+        "spotifyID": "3dj4wgM3cPeuLwMNHDuBon"
     },
     {
         "ranking": "34",
@@ -242,7 +254,9 @@
         "title": "Follow You",
         "artist": "Noizy",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/28/45/f8/2845f8f1-d754-a8d8-69b1-7aecf8c11d01/24UM1IM17511.rgb.jpg/80x80bb.webp",
-        "appleID": "follow-you/1776618465"
+        "appleID": "follow-you/1776618465",
+        "youtubeID": "PP2fELH8uTQ",
+        "spotifyID": "7cMhicmOIwfJlWURl90AOc"
     },
     {
         "ranking": "36",
@@ -305,7 +319,8 @@
         "title": "All I Want for Christmas Is You",
         "artist": "Mariah Carey",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/c6/b7/27/c6b727f7-3a32-6b43-cee2-05bb71daf1cf/dj.itfmdeif.jpg/80x80bb.webp",
-        "appleID": "all-i-want-for-christmas-is-you/585972803"
+        "appleID": "all-i-want-for-christmas-is-you/585972803",
+        "youtubeID": "aAkMkVFwAoo"
     },
     {
         "ranking": "45",
@@ -319,21 +334,25 @@
         "title": "Losha",
         "artist": "Andrea",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music18/v4/f7/96/7f/f7967fd2-2738-b2ff-f9ac-d19ab1491447/859717767207_cover.jpg/80x80bb.webp",
-        "appleID": "losha/1133293934"
+        "appleID": "losha/1133293934",
+        "spotifyID": "0Ksj1ehwR3eJl6L3bB9VZk"
     },
     {
         "ranking": "47",
         "title": "Espresso",
         "artist": "Sabrina Carpenter",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cb/64/8c/cb648cf7-e7bb-bd00-efe0-d744312c29a8/24UMGIM32304.rgb.jpg/80x80bb.webp",
-        "appleID": "espresso/1740212434"
+        "appleID": "espresso/1740212434",
+        "youtubeID": "eVli-tstM5E"
     },
     {
         "ranking": "48",
         "title": "Bad Dreams",
         "artist": "Teddy Swims",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/cd/5d/64/cd5d64c2-338b-00c9-52d6-578a0f19d826/054391245908.jpg/80x80bb.webp",
-        "appleID": "bad-dreams/1765799904"
+        "appleID": "bad-dreams/1765799904",
+        "youtubeID": "Qh8QwVYOSVU",
+        "spotifyID": "3nHuKdFJZm78CoeBnDcFKe"
     },
     {
         "ranking": "49",
@@ -354,7 +373,8 @@
         "title": "HIGHEST IN THE ROOM",
         "artist": "Travis Scott",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/30/5f/c4/305fc4b4-155d-8e67-7c7a-8eb35032fbcb/886448042792.jpg/80x80bb.webp",
-        "appleID": "highest-in-the-room/1481874619"
+        "appleID": "highest-in-the-room/1481874619",
+        "spotifyID": "3eekarcy7kvN4yt5ZFzltW"
     },
     {
         "ranking": "52",
@@ -396,14 +416,17 @@
         "title": "tv off (feat. Lefty Gunplay)",
         "artist": "Kendrick Lamar",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/50/c2/cc/50c2cc95-3658-9417-0d4b-831abde44ba1/24UM1IM28978.rgb.jpg/80x80bb.webp",
-        "appleID": "tv-off-feat-lefty-gunplay/1781270540"
+        "appleID": "tv-off-feat-lefty-gunplay/1781270540",
+        "youtubeID": "U8F5G5wR1mk"
     },
     {
         "ranking": "58",
         "title": "squabble up",
         "artist": "Kendrick Lamar",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/50/c2/cc/50c2cc95-3658-9417-0d4b-831abde44ba1/24UM1IM28978.rgb.jpg/80x80bb.webp",
-        "appleID": "squabble-up/1781270321"
+        "appleID": "squabble-up/1781270321",
+        "youtubeID": "fuV4yQWdn_4",
+        "spotifyID": "0nj9Bq5sHDiTxSHunhgkFb"
     },
     {
         "ranking": "59",
@@ -459,14 +482,17 @@
         "title": "Дум Так",
         "artist": "Medi",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b2/a2/c4/b2a2c4e1-18e5-46ac-1d2c-54cb5ddf928e/B9F1B556-598A-11EF-84B5-6B13F8D9DD29.jpg/80x80bb.webp",
-        "appleID": "%D0%B4%D1%83%D0%BC-%D1%82%D0%B0%D0%BA/1763034684"
+        "appleID": "%D0%B4%D1%83%D0%BC-%D1%82%D0%B0%D0%BA/1763034684",
+        "spotifyID": "1IURxiLGO4x5vVz0rX4AuP"
     },
     {
         "ranking": "67",
         "title": "WILDFLOWER",
         "artist": "Billie Eilish",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
-        "appleID": "wildflower/1739659144"
+        "appleID": "wildflower/1739659144",
+        "youtubeID": "IWKyykQBRKo",
+        "spotifyID": "3QaPy1KgI7nu9FJEQUgn6h"
     },
     {
         "ranking": "68",
@@ -487,7 +513,8 @@
         "title": "Бом, Бом",
         "artist": "DJORDAN",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f3/52/f3/f352f351-ca40-2e99-d2a2-5604dc728577/0CC23DDC-49EB-11EF-9631-60C9F0D9DD29.jpg/80x80bb.webp",
-        "appleID": "%D0%B1%D0%BE%D0%BC-%D0%B1%D0%BE%D0%BC/1759865157"
+        "appleID": "%D0%B1%D0%BE%D0%BC-%D0%B1%D0%BE%D0%BC/1759865157",
+        "spotifyID": "42z5ag3XE4nIApxnqnRCCO"
     },
     {
         "ranking": "71",
@@ -508,7 +535,8 @@
         "title": "luther",
         "artist": "Kendrick Lamar",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/50/c2/cc/50c2cc95-3658-9417-0d4b-831abde44ba1/24UM1IM28978.rgb.jpg/80x80bb.webp",
-        "appleID": "luther/1781270323"
+        "appleID": "luther/1781270323",
+        "youtubeID": "4_taypLmSMU"
     },
     {
         "ranking": "74",
@@ -557,7 +585,8 @@
         "title": "Обичам Те, Ти Мене - Не",
         "artist": "Medi",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/7d/c8/b7/7dc8b7fe-0754-1b3e-4e98-65b1c22113c7/84660062-253E-11EE-A086-5844DA287BC0.jpg/80x80bb.webp",
-        "appleID": "%D0%BE%D0%B1%D0%B8%D1%87%D0%B0%D0%BC-%D1%82%D0%B5-%D1%82%D0%B8-%D0%BC%D0%B5%D0%BD%D0%B5-%D0%BD%D0%B5/1699449590"
+        "appleID": "%D0%BE%D0%B1%D0%B8%D1%87%D0%B0%D0%BC-%D1%82%D0%B5-%D1%82%D0%B8-%D0%BC%D0%B5%D0%BD%D0%B5-%D0%BD%D0%B5/1699449590",
+        "spotifyID": "2R3jE3iK7C1Ok8eCuIFCmy"
     },
     {
         "ranking": "81",
@@ -585,14 +614,16 @@
         "title": "Gang Baby",
         "artist": "NLE Choppa",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/86/f4/99/86f4994c-aac1-70ed-42ba-2b5d2857a8c7/093624836865.jpg/80x80bb.webp",
-        "appleID": "gang-baby/1769511491"
+        "appleID": "gang-baby/1769511491",
+        "spotifyID": "76Ku9OBFK1NjMylR8r4WLK"
     },
     {
         "ranking": "85",
         "title": "К'ъв Съм Як",
         "artist": "DJORDAN",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/06/10/2c/06102cfb-a385-38d9-666d-2769d2610872/40A966E2-2643-11EE-AAB1-0CF3DC287BC0.jpg/80x80bb.webp",
-        "appleID": "%D0%BA%D1%8A%D0%B2-%D1%81%D1%8A%D0%BC-%D1%8F%D0%BA/1699448571"
+        "appleID": "%D0%BA%D1%8A%D0%B2-%D1%81%D1%8A%D0%BC-%D1%8F%D0%BA/1699448571",
+        "spotifyID": "6z6PaDoMisMAHCB2OKwsrf"
     },
     {
         "ranking": "86",
@@ -606,14 +637,16 @@
         "title": "Seven (Explicit Ver.)",
         "artist": "Jung Kook",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/f2/54/08/f254081d-c7e2-6cd6-f7c5-dedb56fd95bd/196922710582_Cover.jpg/80x80bb.webp",
-        "appleID": "seven-explicit-ver/1715412325"
+        "appleID": "seven-explicit-ver/1715412325",
+        "youtubeID": "QU9c0053UAU"
     },
     {
         "ranking": "88",
         "title": "goosebumps",
         "artist": "Travis Scott",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/50/f7/a3/50f7a39d-3bd5-28e9-0264-532f08b5b810/886446074726.jpg/80x80bb.webp",
-        "appleID": "goosebumps/1150135924"
+        "appleID": "goosebumps/1150135924",
+        "spotifyID": "6gBFPUFcJLzWGx4lenP6h2"
     },
     {
         "ranking": "89",
@@ -676,7 +709,8 @@
         "title": "Disease",
         "artist": "Lady Gaga",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c7/2b/dc/c72bdc7a-7014-e5df-a106-583074c0affa/24UM1IM12462.rgb.jpg/80x80bb.webp",
-        "appleID": "disease/1775468632"
+        "appleID": "disease/1775468632",
+        "youtubeID": "fmC6b6_ovZY"
     },
     {
         "ranking": "98",
@@ -697,6 +731,8 @@
         "title": "That’s So True",
         "artist": "Gracie Abrams",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/26/78/81/26788143-5e5f-0813-2480-ecf4280ef221/24UM1IM07082.rgb.jpg/80x80bb.webp",
-        "appleID": "thats-so-true/1773474483"
+        "appleID": "thats-so-true/1773474483",
+        "youtubeID": "BDHM8cyJQa8",
+        "spotifyID": "7ne4VBA60CxGM75vw0EYad"
     }
 ]

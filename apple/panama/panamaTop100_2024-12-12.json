@@ -4,21 +4,27 @@
         "title": "Khé?",
         "artist": "Rauw Alejandro",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ab/e8/09/abe8092d-ef44-61b9-6b50-ab7efb78ca51/196872401516.jpg/80x80bb.webp",
-        "appleID": "kh%C3%A9/1775463293"
+        "appleID": "kh%C3%A9/1775463293",
+        "youtubeID": "7SNycTMOF74",
+        "spotifyID": "1YYfyJ2yCvGFCxwjsIqEK9"
     },
     {
         "ranking": "2",
         "title": "Qué Pasaría...",
         "artist": "Rauw Alejandro",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ab/e8/09/abe8092d-ef44-61b9-6b50-ab7efb78ca51/196872401516.jpg/80x80bb.webp",
-        "appleID": "qu%C3%A9-pasar%C3%ADa/1775462855"
+        "appleID": "qu%C3%A9-pasar%C3%ADa/1775462855",
+        "youtubeID": "g08y_x83d5E",
+        "spotifyID": "0l0vcZMU7AOeQmUIREoI2U"
     },
     {
         "ranking": "3",
         "title": "EL CLúB",
         "artist": "Bad Bunny",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/fe/7a/aa/fe7aaaea-640a-30b4-17b0-11a3272e28f1/199066130155.jpg/80x80bb.webp",
-        "appleID": "el-cl%C3%BAb/1783419694"
+        "appleID": "el-cl%C3%BAb/1783419694",
+        "youtubeID": "7f6SxWMOpdU",
+        "spotifyID": "3zOgFY5kpQ6p2cwPIquZks"
     },
     {
         "ranking": "4",
@@ -39,7 +45,9 @@
         "title": "Picasso",
         "artist": "Sech",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f1/52/ec/f152ecc0-f5af-dd22-f2ad-7f99690c4661/198846708362.jpg/80x80bb.webp",
-        "appleID": "picasso/1778687704"
+        "appleID": "picasso/1778687704",
+        "youtubeID": "mlhuzMeosFQ",
+        "spotifyID": "7LylJimmD7ChDg0TnNybAx"
     },
     {
         "ranking": "7",
@@ -53,35 +61,41 @@
         "title": "Running Wild",
         "artist": "Jin",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c5/21/a1/c521a133-2a4d-05da-205f-19093c53cd55/198704169175_Cover.jpg/80x80bb.webp",
-        "appleID": "running-wild/1772351326"
+        "appleID": "running-wild/1772351326",
+        "youtubeID": "uoHol5Dr_go"
     },
     {
         "ranking": "9",
         "title": "Déjame Entrar",
         "artist": "Rauw Alejandro",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ab/e8/09/abe8092d-ef44-61b9-6b50-ab7efb78ca51/196872401516.jpg/80x80bb.webp",
-        "appleID": "d%C3%A9jame-entrar/1775462852"
+        "appleID": "d%C3%A9jame-entrar/1775462852",
+        "spotifyID": "5tZgkV8FTe3rtl8OcSeQAb"
     },
     {
         "ranking": "10",
         "title": "TOY PERDIO",
         "artist": "Sech",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f1/52/ec/f152ecc0-f5af-dd22-f2ad-7f99690c4661/198846708362.jpg/80x80bb.webp",
-        "appleID": "toy-perdio/1778687415"
+        "appleID": "toy-perdio/1773408571",
+        "youtubeID": "ifg5ZOA1Xrc",
+        "spotifyID": "2CxgzjYpCAQqeB2J2OPd5H"
     },
     {
         "ranking": "11",
         "title": "Winter Ahead",
         "artist": "V",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9b/7a/b8/9b7ab83b-c635-42fa-a3d3-f8ede6e5920e/198704250583_Cover.jpg/80x80bb.webp",
-        "appleID": "winter-ahead/1780285815"
+        "appleID": "winter-ahead/1780285815",
+        "youtubeID": "HAWYOuMGkK0"
     },
     {
         "ranking": "12",
         "title": "Moscow Mule",
         "artist": "Bad Bunny",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/3e/04/eb/3e04ebf6-370f-f59d-ec84-2c2643db92f1/196626945068.jpg/80x80bb.webp",
-        "appleID": "moscow-mule/1622045625"
+        "appleID": "moscow-mule/1622045625",
+        "spotifyID": "6Xom58OOXk2SoU711L2IXO"
     },
     {
         "ranking": "13",
@@ -109,7 +123,8 @@
         "title": "Ni Me Conozco",
         "artist": "Rauw Alejandro",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ab/e8/09/abe8092d-ef44-61b9-6b50-ab7efb78ca51/196872401516.jpg/80x80bb.webp",
-        "appleID": "ni-me-conozco/1775462866"
+        "appleID": "ni-me-conozco/1775462866",
+        "spotifyID": "0xyWkRMb09qdCDhloehCsi"
     },
     {
         "ranking": "17",
@@ -123,14 +138,18 @@
         "title": "Si Antes Te Hubiera Conocido",
         "artist": "KAROL G",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a0/60/94/a060947c-54d8-0fad-c558-eed12600224c/24UMGIM62705.rgb.jpg/80x80bb.webp",
-        "appleID": "si-antes-te-hubiera-conocido/1752031539"
+        "appleID": "si-antes-te-hubiera-conocido/1752031539",
+        "youtubeID": "QCZZwZQ4qNs",
+        "spotifyID": "6WatFBLVB0x077xWeoVc2k"
     },
     {
         "ranking": "19",
         "title": "Die With A Smile",
         "artist": "Lady Gaga",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/11/ae/f2/11aef294-f57c-bab9-c9fc-529162984e62/24UMGIM85348.rgb.jpg/80x80bb.webp",
-        "appleID": "die-with-a-smile/1762656732"
+        "appleID": "die-with-a-smile/1762656732",
+        "youtubeID": "kPa7bsKwL-c",
+        "spotifyID": "2plbrEY59IikOBgBGLjaoe"
     },
     {
         "ranking": "20",
@@ -151,21 +170,27 @@
         "title": "I Miss You",
         "artist": "Beéle",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d7/bd/27/d7bd2717-cd8c-1f47-57b9-0bce2fb22bcd/196872538687.jpg/80x80bb.webp",
-        "appleID": "i-miss-you/1773435177"
+        "appleID": "i-miss-you/1773435177",
+        "youtubeID": "BrGl81E4ZOc",
+        "spotifyID": "65oSp7rdpLddlRGUgogU24"
     },
     {
         "ranking": "23",
         "title": "Frente al Mar",
         "artist": "Beéle",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/07/5e/1d/075e1d44-02ef-6a69-433d-ee3f68d1dd23/196872443325.jpg/80x80bb.webp",
-        "appleID": "frente-al-mar/1768787334"
+        "appleID": "frente-al-mar/1768787334",
+        "youtubeID": "IryOLXtyTRU",
+        "spotifyID": "60u6hcpH5Qm1M3xESdNBrB"
     },
     {
         "ranking": "24",
         "title": "APT.",
         "artist": "ROSÉ",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2d/1a/7d/2d1a7d91-587e-0ceb-d434-327bd66d9e86/075679628312.jpg/80x80bb.webp",
-        "appleID": "apt/1773452221"
+        "appleID": "apt/1773452221",
+        "youtubeID": "ekr2nIex040",
+        "spotifyID": "4wJ5Qq0jBN4ajy7ouZIV1c"
     },
     {
         "ranking": "25",
@@ -179,7 +204,9 @@
         "title": "Tú Con Él",
         "artist": "Rauw Alejandro",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ab/e8/09/abe8092d-ef44-61b9-6b50-ab7efb78ca51/196872401516.jpg/80x80bb.webp",
-        "appleID": "t%C3%BA-con-%C3%A9l/1775462856"
+        "appleID": "t%C3%BA-con-%C3%A9l/1775462856",
+        "youtubeID": "NC4wwAtyBA8",
+        "spotifyID": "2eQFYGegTZaObk2kuBz83Z"
     },
     {
         "ranking": "27",
@@ -242,7 +269,8 @@
         "title": "DILUVIO",
         "artist": "Rauw Alejandro",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/d2/1a/63/d21a6376-80b9-ce89-e4f3-af3f0b70acf9/196871287098.jpg/80x80bb.webp",
-        "appleID": "diluvio/1695651429"
+        "appleID": "diluvio/1695651429",
+        "spotifyID": "2kz1YOhJiNubjigR1gB1VX"
     },
     {
         "ranking": "36",
@@ -256,14 +284,16 @@
         "title": "AMARGURA",
         "artist": "KAROL G",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/9b/01/44/9b0144e6-21ae-b53f-2b25-ef6c594b18a3/22UM1IM38716.rgb.jpg/80x80bb.webp",
-        "appleID": "amargura/1670246089"
+        "appleID": "amargura/1670246089",
+        "spotifyID": "505v13epFXodT9fVAJ6h8k"
     },
     {
         "ranking": "38",
         "title": "BIRDS OF A FEATHER",
         "artist": "Billie Eilish",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
-        "appleID": "birds-of-a-feather/1739659142"
+        "appleID": "birds-of-a-feather/1739659142",
+        "youtubeID": "V9PVRfjEBTI"
     },
     {
         "ranking": "39",
@@ -298,7 +328,9 @@
         "title": "Morena",
         "artist": "Beéle",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/06/2c/f8/062cf8f3-7c49-3b18-381d-bced7074d124/196871583756.jpg/80x80bb.webp",
-        "appleID": "morena/1715068097"
+        "appleID": "morena/1715068097",
+        "youtubeID": "4dyjL34qDis",
+        "spotifyID": "4RPeZbmVON5ZKT5HC9wALt"
     },
     {
         "ranking": "44",
@@ -312,7 +344,9 @@
         "title": "UWAIE",
         "artist": "Kapo",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4d/e8/03/4de80347-86da-bed6-47c4-1478b3aa46fa/196872367263.jpg/80x80bb.webp",
-        "appleID": "uwaie/1761902101"
+        "appleID": "uwaie/1761902101",
+        "youtubeID": "spbagny8OjM",
+        "spotifyID": "5QjmUqgpPQgXgg4606DqZF"
     },
     {
         "ranking": "46",
@@ -326,7 +360,9 @@
         "title": "SORRY 4 THAT MUCH",
         "artist": "Feid",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9c/20/ab/9c20ab01-62e6-239c-fcce-79dc1d711ac1/24UMGIM61720.rgb.jpg/80x80bb.webp",
-        "appleID": "sorry-4-that-much/1750132050"
+        "appleID": "sorry-4-that-much/1750132050",
+        "youtubeID": "Q2ftMmazZCU",
+        "spotifyID": "63pLfjK6FvcYJYMGwtHjd6"
     },
     {
         "ranking": "48",
@@ -354,7 +390,8 @@
         "title": "G O D D E S S",
         "artist": "Omar Courtz",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/30/0f/48/300f48fd-f560-8aaf-17c1-00a4531ad61a/198588847695.jpg/80x80bb.webp",
-        "appleID": "g-o-d-d-e-s-s/1760193681"
+        "appleID": "g-o-d-d-e-s-s/1760193681",
+        "spotifyID": "7E5qtyFBvbyfNbHOTR42rs"
     },
     {
         "ranking": "52",
@@ -396,7 +433,8 @@
         "title": "Ohnana",
         "artist": "Kapo",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/44/26/da/4426daa2-4b70-91d7-cb18-6bb219d176c5/196872167030.jpg/80x80bb.webp",
-        "appleID": "ohnana/1749166491"
+        "appleID": "ohnana/1749166491",
+        "spotifyID": "1fTjqf10accJCDYstPwwZ6"
     },
     {
         "ranking": "58",
@@ -424,7 +462,8 @@
         "title": "Tarde",
         "artist": "Sech",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f1/52/ec/f152ecc0-f5af-dd22-f2ad-7f99690c4661/198846708362.jpg/80x80bb.webp",
-        "appleID": "tarde/1778687417"
+        "appleID": "tarde/1778687417",
+        "youtubeID": "vldl6gXH2ZY"
     },
     {
         "ranking": "62",
@@ -438,7 +477,9 @@
         "title": "Tu Boda",
         "artist": "Óscar Maydon",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e0/f4/2b/e0f42b78-81c3-81a3-aefb-bad4927c21c7/196872471342.jpg/80x80bb.webp",
-        "appleID": "tu-boda/1769510706"
+        "appleID": "tu-boda/1769510706",
+        "youtubeID": "_ymicn0_GYc",
+        "spotifyID": "1cOboCuWYI2osTOfolMRS6"
     },
     {
         "ranking": "64",
@@ -466,28 +507,34 @@
         "title": "Espresso",
         "artist": "Sabrina Carpenter",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cb/64/8c/cb648cf7-e7bb-bd00-efe0-d744312c29a8/24UMGIM32304.rgb.jpg/80x80bb.webp",
-        "appleID": "espresso/1740212434"
+        "appleID": "espresso/1740212434",
+        "youtubeID": "eVli-tstM5E"
     },
     {
         "ranking": "68",
         "title": "Chiste JAJA",
         "artist": "Sech",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f1/52/ec/f152ecc0-f5af-dd22-f2ad-7f99690c4661/198846708362.jpg/80x80bb.webp",
-        "appleID": "chiste-jaja/1778687701"
+        "appleID": "chiste-jaja/1778687701",
+        "youtubeID": "0jvW1exrcqw"
     },
     {
         "ranking": "69",
         "title": "WILDFLOWER",
         "artist": "Billie Eilish",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
-        "appleID": "wildflower/1739659144"
+        "appleID": "wildflower/1739659144",
+        "youtubeID": "IWKyykQBRKo",
+        "spotifyID": "3QaPy1KgI7nu9FJEQUgn6h"
     },
     {
         "ranking": "70",
         "title": "Soltera",
         "artist": "Shakira",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cb/e4/a5/cbe4a5ca-085e-e3ef-eda5-d521ee55bb4b/196872485844.jpg/80x80bb.webp",
-        "appleID": "soltera/1769406416"
+        "appleID": "soltera/1769406416",
+        "youtubeID": "oBofuVYDoG4",
+        "spotifyID": "3OJDtCdYs8QJnui708tEU3"
     },
     {
         "ranking": "71",
@@ -522,7 +569,8 @@
         "title": "Me Quedé Off",
         "artist": "Sech",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f1/52/ec/f152ecc0-f5af-dd22-f2ad-7f99690c4661/198846708362.jpg/80x80bb.webp",
-        "appleID": "me-qued%C3%A9-off/1778687714"
+        "appleID": "me-qued%C3%A9-off/1778687714",
+        "youtubeID": "dZ0-1EYKmrI"
     },
     {
         "ranking": "76",
@@ -599,7 +647,8 @@
         "title": "LA FALDA",
         "artist": "Myke Towers",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/fd/f9/40/fdf9402c-95ae-8152-17b0-984649c6172a/5054197903205.jpg/80x80bb.webp",
-        "appleID": "la-falda/1717187395"
+        "appleID": "la-falda/1717187395",
+        "spotifyID": "7iUtQNMRB8ZkKC4AmEuCJC"
     },
     {
         "ranking": "87",
@@ -627,7 +676,8 @@
         "title": "Pa' Que La Pases Bien",
         "artist": "Arcángel",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/22/4e/72/224e725e-aa32-9332-626c-98ea931d984e/898717002017_art.jpg/80x80bb.webp",
-        "appleID": "pa-que-la-pases-bien/1247228818"
+        "appleID": "pa-que-la-pases-bien/1247228818",
+        "spotifyID": "1pLCpA1RN8avJxSD3ZCwhj"
     },
     {
         "ranking": "91",
@@ -641,7 +691,8 @@
         "title": "Feliz Cumpleaños Ferxxo",
         "artist": "Feid",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/54/90/df/5490dfaf-d6a4-579c-f6e4-81fd59f6ae3f/22UM1IM04831.rgb.jpg/80x80bb.webp",
-        "appleID": "feliz-cumplea%C3%B1os-ferxxo/1645032135"
+        "appleID": "feliz-cumplea%C3%B1os-ferxxo/1645032135",
+        "spotifyID": "2CeKVsFFXG4QzA415QygGb"
     },
     {
         "ranking": "93",
