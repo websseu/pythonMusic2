@@ -56,10 +56,6 @@ jobs:
           git add youtube/**/*.json
           git commit -m "Youtube Chart Updated - $(date +"%Y-%m-%d")" || echo "No changes to commit"
 
-          python3 worldSpotifyChart.py
-          git add youtube/**/*.json
-          git commit -m "Spotify Chart Updated - $(date +"%Y-%m-%d")" || echo "No changes to commit"
-
           python3 zipWorldIDAdd.py
           git add apple/**/*.json korea/**/*.json youtube/**/*.json spotify/**/*.json
           git commit -m "ID ADD Updated - $(date +"%Y-%m-%d")" || echo "No changes to commit"
