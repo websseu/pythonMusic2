@@ -25,7 +25,8 @@
         "title": "Every Night Every Morning",
         "artist": "Maoli",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/db/73/4f/db734ffc-785c-9999-be7c-f0c54458690a/0.jpg/80x80bb.webp",
-        "appleID": "every-night-every-morning/1761629618"
+        "appleID": "every-night-every-morning/1761629618",
+        "youtubeID": "20k90wvdLco"
     },
     {
         "ranking": "5",
@@ -39,14 +40,16 @@
         "title": "Not Like Us",
         "artist": "Kendrick Lamar",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d0/ef/b6/d0efb685-73be-fdee-58c9-be655f4cd4fd/24UMGIM51924.rgb.jpg/80x80bb.webp",
-        "appleID": "not-like-us/1744776167"
+        "appleID": "not-like-us/1744776167",
+        "youtubeID": "H58vbez_m4E"
     },
     {
         "ranking": "7",
         "title": "luther",
         "artist": "Kendrick Lamar",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/50/c2/cc/50c2cc95-3658-9417-0d4b-831abde44ba1/24UM1IM28978.rgb.jpg/80x80bb.webp",
-        "appleID": "luther/1781270323"
+        "appleID": "luther/1781270323",
+        "youtubeID": "4_taypLmSMU"
     },
     {
         "ranking": "8",
@@ -214,7 +217,7 @@
         "title": "Go Flex",
         "artist": "Post Malone",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/c1/ea/45/c1ea4509-59b6-c323-c6f5-d8d676f79577/16UMGIM76040.rgb.jpg/80x80bb.webp",
-        "appleID": "go-flex/1440887746"
+        "appleID": "go-flex/1762886299"
     },
     {
         "ranking": "32",
@@ -382,7 +385,8 @@
         "title": "Fast Car",
         "artist": "Luke Combs",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/7d/24/14/7d241439-671a-d957-9613-2f738f43a064/196589485991.jpg/80x80bb.webp",
-        "appleID": "fast-car/1666738585"
+        "appleID": "fast-car/1666738585",
+        "spotifyID": "1Lo0QY9cvc8sUB2vnIOxDT"
     },
     {
         "ranking": "56",
@@ -452,7 +456,8 @@
         "title": "I Had Some Help (feat. Morgan Wallen)",
         "artist": "Post Malone",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e1/b7/09/e1b7098f-d6e1-2b18-fd6f-8390110908eb/24UMGIM50612.rgb.jpg/80x80bb.webp",
-        "appleID": "i-had-some-help-feat-morgan-wallen/1744439049"
+        "appleID": "i-had-some-help-feat-morgan-wallen/1744439049",
+        "youtubeID": "4QIZE708gJ4"
     },
     {
         "ranking": "66",
@@ -494,7 +499,7 @@
         "title": "White Iverson",
         "artist": "Post Malone",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cc/72/92/cc72922f-2b24-a45d-ca03-05c597941a3f/23UMGIM42184.rgb.jpg/80x80bb.webp",
-        "appleID": "white-iverson/1762885423"
+        "appleID": "white-iverson/1440887523"
     },
     {
         "ranking": "72",
@@ -550,7 +555,8 @@
         "title": "Water",
         "artist": "Tyla",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/1e/c9/5b/1ec95bbc-a56f-cbef-070c-ddec9f4fdd3c/196871296205.jpg/80x80bb.webp",
-        "appleID": "water/1699082734"
+        "appleID": "water/1699082734",
+        "spotifyID": "5aIVCx5tnk0ntmdiinnYvw"
     },
     {
         "ranking": "80",
@@ -599,7 +605,8 @@
         "title": "Rush",
         "artist": "Ayra Starr",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/b5/4a/3d/b54a3d1a-f493-7a9b-1807-a73f01709053/5059449090122.png/80x80bb.webp",
-        "appleID": "rush/1642898573"
+        "appleID": "rush/1642898573",
+        "youtubeID": "crtQSTYWtqE"
     },
     {
         "ranking": "87",
@@ -613,7 +620,8 @@
         "title": "Memories",
         "artist": "Maroon 5",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/22/58/58/225858c4-ef47-2b91-723a-47af3e99699a/19UMGIM64502.rgb.jpg/80x80bb.webp",
-        "appleID": "memories/1479600902"
+        "appleID": "memories/1479600902",
+        "youtubeID": "SlPhMPnQ58k"
     },
     {
         "ranking": "89",
