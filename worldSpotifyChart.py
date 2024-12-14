@@ -15,13 +15,14 @@ SPOTIFY_USERNAME = "webstoryboy@naver.com"
 SPOTIFY_PASSWORD = "Forever8888!s"
 
 # 이틀 전 날짜 계산
-current_date = datetime.now().strftime("%Y-%m-%d")
+# current_date = datetime.now().strftime("%Y-%m-%d")
+current_date = "2024-12-13"
 # two_days_ago = "latest"
 two_days_ago = "2024-12-11"
 
 # 국가별 URL 설정
 countries = {
-     "global": f"https://charts.spotify.com/charts/view/regional-global-daily/{two_days_ago}",
+    "global": f"https://charts.spotify.com/charts/view/regional-global-daily/{two_days_ago}",
     "argentina": f"https://charts.spotify.com/charts/view/regional-ar-daily/{two_days_ago}",
     "australia": f"https://charts.spotify.com/charts/view/regional-au-daily/{two_days_ago}",
     "austria": f"https://charts.spotify.com/charts/view/regional-at-daily/{two_days_ago}",
