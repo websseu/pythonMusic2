@@ -16,7 +16,8 @@ SPOTIFY_PASSWORD = "Forever8888!s"
 
 # 이틀 전 날짜 계산
 current_date = datetime.now().strftime("%Y-%m-%d")
-two_days_ago = "latest"
+# two_days_ago = "latest"
+two_days_ago = "2024-12-11"
 
 # 국가별 URL 설정
 countries = {
