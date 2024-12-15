@@ -107,7 +107,9 @@
         "prev": "11",
         "streak": "48",
         "streams": "511,468",
-        "youtubeID": "0a3oQGKhp24"
+        "youtubeID": "0a3oQGKhp24",
+        "appleID": "%D9%87%D9%8A%D8%AC%D9%8A%D9%84%D9%8A-%D9%85%D9%88%D8%AC%D9%88%D8%B9/1724979987",
+        "spotifyID": "2Heqj9jtxarmecKxycGSWn"
     },
     {
         "ranking": "12",
@@ -117,7 +119,9 @@
         "prev": "16",
         "streak": "14",
         "streams": "477,454",
-        "youtubeID": "kPa7bsKwL-c"
+        "youtubeID": "kPa7bsKwL-c",
+        "appleID": "die-with-a-smile/1762656732",
+        "spotifyID": "2plbrEY59IikOBgBGLjaoe"
     },
     {
         "ranking": "13",
@@ -127,7 +131,8 @@
         "prev": "14",
         "streak": "9",
         "streams": "453,560",
-        "youtubeID": "qDzDFSItK_0"
+        "youtubeID": "qDzDFSItK_0",
+        "appleID": "ya-ana-ya-la/1775965916"
     },
     {
         "ranking": "14",
@@ -157,7 +162,9 @@
         "prev": "12",
         "streak": "5",
         "streams": "408,402",
-        "youtubeID": "H9MUAiBeb3w"
+        "youtubeID": "H9MUAiBeb3w",
+        "appleID": "%D8%A7%D9%86%D8%A7-%D9%85%D9%86-%D8%BA%D9%8A%D8%B1%D9%83/1775716935",
+        "spotifyID": "2nQeY3iJpE57Rnc7r8z2Qx"
     },
     {
         "ranking": "17",
@@ -237,7 +244,8 @@
         "prev": "24",
         "streak": "32",
         "streams": "349,208",
-        "youtubeID": "XjR75FkY4xc"
+        "youtubeID": "XjR75FkY4xc",
+        "spotifyID": "5iyZWYdb4RmL94Ul9Nfta7"
     },
     {
         "ranking": "25",
@@ -337,7 +345,9 @@
         "prev": "-",
         "streak": "1",
         "streams": "252,951",
-        "youtubeID": "eA0lHNZ1KCA"
+        "youtubeID": "eA0lHNZ1KCA",
+        "appleID": "toxic-till-the-end/1771105929",
+        "spotifyID": "1z5ebC9238uGoBgzYyvGpQ"
     },
     {
         "ranking": "35",
@@ -367,7 +377,8 @@
         "prev": "35",
         "streak": "25",
         "streams": "249,234",
-        "youtubeID": "UMN1zILdLTs"
+        "youtubeID": "UMN1zILdLTs",
+        "appleID": "ganeni/1736841202"
     },
     {
         "ranking": "38",
@@ -567,7 +578,9 @@
         "prev": "50",
         "streak": "11",
         "streams": "201,695",
-        "youtubeID": "IWKyykQBRKo"
+        "youtubeID": "IWKyykQBRKo",
+        "appleID": "wildflower/1739659144",
+        "spotifyID": "3QaPy1KgI7nu9FJEQUgn6h"
     },
     {
         "ranking": "58",
@@ -587,7 +600,9 @@
         "prev": "70",
         "streak": "5",
         "streams": "192,352",
-        "youtubeID": "KLZ4lEwEgWY"
+        "youtubeID": "KLZ4lEwEgWY",
+        "appleID": "%D8%A7%D8%AA%D9%86%D8%B3%D9%8A%D9%86%D8%A7/1775761913",
+        "spotifyID": "0kZtRxxBDbMO4vZApAiNOZ"
     },
     {
         "ranking": "60",
@@ -667,7 +682,8 @@
         "prev": "62",
         "streak": "20",
         "streams": "174,213",
-        "youtubeID": "wXmzYi-ufEA"
+        "youtubeID": "wXmzYi-ufEA",
+        "spotifyID": "1qGEGcxFCJ0LhBCBSeZmqO"
     },
     {
         "ranking": "68",
@@ -707,7 +723,7 @@
         "prev": "-",
         "streak": "1",
         "streams": "163,496",
-        "youtubeID": "Sz_wWzgh-vQ"
+        "youtubeID": "LcV0eAgCSgw"
     },
     {
         "ranking": "72",
@@ -767,7 +783,8 @@
         "prev": "71",
         "streak": "14",
         "streams": "151,185",
-        "youtubeID": "iXeRU3F5CK8"
+        "youtubeID": "iXeRU3F5CK8",
+        "spotifyID": "3MyX3ndru7RTKvLkMZJJeJ"
     },
     {
         "ranking": "78",
@@ -807,7 +824,8 @@
         "prev": "85",
         "streak": "5",
         "streams": "146,141",
-        "youtubeID": "gS5S5hKcKJ4"
+        "youtubeID": "gS5S5hKcKJ4",
+        "spotifyID": "6RodD6CVu4mHQRrQJD8XhP"
     },
     {
         "ranking": "82",
@@ -997,6 +1015,7 @@
         "prev": "-",
         "streak": "49",
         "streams": "132,642",
-        "youtubeID": "23ruEfLScnM"
+        "youtubeID": "23ruEfLScnM",
+        "spotifyID": "03OoXcz5TPOCyU6RTR1bgk"
     }
 ]
