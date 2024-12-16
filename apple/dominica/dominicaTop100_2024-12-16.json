@@ -18,7 +18,9 @@
         "title": "4 Kampé",
         "artist": "Joé Dwèt Filé",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/05/32/0a/05320ae3-1eef-3cd6-8f19-9ad9f078fa25/cover.jpg/80x80bb.webp",
-        "appleID": "4-kamp%C3%A9/1773819412"
+        "appleID": "4-kamp%C3%A9/1773819412",
+        "youtubeID": "Srvt_6up-0o",
+        "spotifyID": "7dzuYJwwtNnfcptmbD58aJ"
     },
     {
         "ranking": "4",
@@ -32,14 +34,16 @@
         "title": "25",
         "artist": "Rod Wave",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5a/37/da/5a37da14-dea1-6123-6553-4a24010657e8/196872534610.jpg/80x80bb.webp",
-        "appleID": "25/1772368558"
+        "appleID": "25/1772368558",
+        "youtubeID": "-SSgaCAsU6M"
     },
     {
         "ranking": "6",
         "title": "luther",
         "artist": "Kendrick Lamar",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/50/c2/cc/50c2cc95-3658-9417-0d4b-831abde44ba1/24UM1IM28978.rgb.jpg/80x80bb.webp",
-        "appleID": "luther/1781270323"
+        "appleID": "luther/1781270323",
+        "youtubeID": "4_taypLmSMU"
     },
     {
         "ranking": "7",
@@ -95,7 +99,8 @@
         "title": "IRan",
         "artist": "Rod Wave",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5a/37/da/5a37da14-dea1-6123-6553-4a24010657e8/196872534610.jpg/80x80bb.webp",
-        "appleID": "iran/1772368702"
+        "appleID": "iran/1772368702",
+        "youtubeID": "hpee_qmBBHw"
     },
     {
         "ranking": "15",
@@ -186,7 +191,8 @@
         "title": "Snooze",
         "artist": "SZA",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/bd/3b/a9/bd3ba9fb-9609-144f-bcfe-ead67b5f6ab3/196589564931.jpg/80x80bb.webp",
-        "appleID": "snooze/1657869492"
+        "appleID": "snooze/1657869492",
+        "spotifyID": "4iZ4pt7kvcaH6Yo8UoZ4s2"
     },
     {
         "ranking": "28",
@@ -263,7 +269,8 @@
         "title": "tv off (feat. Lefty Gunplay)",
         "artist": "Kendrick Lamar",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/50/c2/cc/50c2cc95-3658-9417-0d4b-831abde44ba1/24UM1IM28978.rgb.jpg/80x80bb.webp",
-        "appleID": "tv-off-feat-lefty-gunplay/1781270540"
+        "appleID": "tv-off-feat-lefty-gunplay/1781270540",
+        "youtubeID": "U8F5G5wR1mk"
     },
     {
         "ranking": "39",
@@ -277,7 +284,7 @@
         "title": "POOKIE'S REQUIEM",
         "artist": "SAILORR",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/14/e8/90/14e890ed-60a5-bb21-db21-bda9025d64cc/810129984897.jpg/80x80bb.webp",
-        "appleID": "pookies-requiem/1783433064"
+        "appleID": "pookies-requiem/1776916375"
     },
     {
         "ranking": "41",
@@ -347,7 +354,8 @@
         "title": "Not Like Us",
         "artist": "Kendrick Lamar",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d0/ef/b6/d0efb685-73be-fdee-58c9-be655f4cd4fd/24UMGIM51924.rgb.jpg/80x80bb.webp",
-        "appleID": "not-like-us/1744776167"
+        "appleID": "not-like-us/1744776167",
+        "youtubeID": "H58vbez_m4E"
     },
     {
         "ranking": "51",
@@ -389,14 +397,17 @@
         "title": "WHATCHU KNO ABOUT ME",
         "artist": "GloRilla",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/28/af/7e/28af7e54-74d1-dad1-c103-71f5951e83aa/24UM1IM01471.rgb.jpg/80x80bb.webp",
-        "appleID": "whatchu-kno-about-me/1769454783"
+        "appleID": "whatchu-kno-about-me/1769454783",
+        "youtubeID": "Py9S2bD0RZQ"
     },
     {
         "ranking": "57",
         "title": "PUSH 2 START",
         "artist": "Tyla",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2a/cc/48/2acc48c7-e092-6b83-ce65-ff80ac6eb51c/196872520118.jpg/80x80bb.webp",
-        "appleID": "push-2-start/1772394889"
+        "appleID": "push-2-start/1772394889",
+        "youtubeID": "uLK2r3sG4lE",
+        "spotifyID": "1Cbl3Yq8rHo7hhDQmLQagU"
     },
     {
         "ranking": "58",
@@ -515,7 +526,9 @@
         "title": "WILDFLOWER",
         "artist": "Billie Eilish",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
-        "appleID": "wildflower/1739659144"
+        "appleID": "wildflower/1739659144",
+        "youtubeID": "IWKyykQBRKo",
+        "spotifyID": "3QaPy1KgI7nu9FJEQUgn6h"
     },
     {
         "ranking": "75",
@@ -543,7 +556,8 @@
         "title": "Timeless",
         "artist": "The Weeknd",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ef/14/11/ef14117b-6681-088b-3c74-e127ca3b46ed/24UM1IM04061.rgb.jpg/80x80bb.webp",
-        "appleID": "timeless/1770380890"
+        "appleID": "timeless/1770380890",
+        "youtubeID": "5EpyN_6dqyk"
     },
     {
         "ranking": "79",
@@ -571,7 +585,8 @@
         "title": "Brokey",
         "artist": "Latto",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c9/6c/04/c96c0498-0da1-ffab-2093-8efcacc93a2a/196872136791.jpg/80x80bb.webp",
-        "appleID": "brokey/1761455582"
+        "appleID": "brokey/1761455582",
+        "youtubeID": "Kz8Um5t6d58"
     },
     {
         "ranking": "83",
@@ -592,14 +607,16 @@
         "title": "heart pt. 6",
         "artist": "Kendrick Lamar",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/50/c2/cc/50c2cc95-3658-9417-0d4b-831abde44ba1/24UM1IM28978.rgb.jpg/80x80bb.webp",
-        "appleID": "heart-pt-6/1781270549"
+        "appleID": "heart-pt-6/1781270549",
+        "youtubeID": "m-PO1_fzxVM"
     },
     {
         "ranking": "86",
         "title": "dodger blue (feat. Wallie the Sensei, Siete7x & Roddy Ricch)",
         "artist": "Kendrick Lamar",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/50/c2/cc/50c2cc95-3658-9417-0d4b-831abde44ba1/24UM1IM28978.rgb.jpg/80x80bb.webp",
-        "appleID": "dodger-blue-feat-wallie-the-sensei-siete7x-roddy-ricch/1781270543"
+        "appleID": "dodger-blue-feat-wallie-the-sensei-siete7x-roddy-ricch/1781270543",
+        "youtubeID": "c7y2ziOBA1s"
     },
     {
         "ranking": "87",
