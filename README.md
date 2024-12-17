@@ -20,7 +20,7 @@ Install dependencies using:
 pip install selenium beautifulsoup4 lxml requests
 ```
 
-## 🇰🇷 Korea Musci Chart
+## Korea Music Chart
 
 ```
 https://websseu.github.io/pythonMusic2/korea/bugs/bugsTop100_[current_date].json
@@ -36,7 +36,7 @@ https://websseu.github.io/pythonMusic2/korea/vibe/vibeTop100_[current_date].json
 플로(flo) 뮤직 순위 100  
 바이브(vibe) 뮤직 순위 100
 
-## 📹 유튜브 뮤직 전세계 챠트
+## YouTube Global Music Chart
 
 ```
 https://websseu.github.io/pythonMusic2/youtube/[cuntry]/[cuntry]Top100_[current_date].json
@@ -103,7 +103,7 @@ https://websseu.github.io/pythonMusic2/youtube/[cuntry]/[cuntry]Top100_[current_
 유튜브 뮤직 🇺🇾 우루과이(uy) 순위 100  
 유튜브 뮤직 🇿🇼 짐바브웨(zw) 순위 100
 
-## 🍎 애플 뮤직 전세계 챠트
+## Apple Global Music Chart
 
 ```
 https://websseu.github.io/pythonMusic2/apple/[cuntry]/[cuntry]Top100_[current_date].json
@@ -217,7 +217,7 @@ https://websseu.github.io/pythonMusic2/apple/[cuntry]/[cuntry]Top100_[current_da
 애플 뮤직 🇻🇳 베트남(vietnam) 순위 100  
 애플 뮤직 🇿🇼 짐바브웨(Zimbabwe) 순위 100
 
-## 스포티파이(spotify) 뮤직 전세계 챠트
+## Spotify Global Music Chart
 
 ```
 https://websseu.github.io/pythonMusic2/spotify/[cuntry]/[cuntry]Top100_[current_date].json
