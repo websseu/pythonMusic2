@@ -25,7 +25,8 @@
         "title": "ANATOLI",
         "artist": "Marina Satti",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b1/69/50/b1695045-a0ec-9a82-c806-f6b8181e109c/24UM1IM28699.rgb.jpg/80x80bb.webp",
-        "appleID": "anatoli/1780327669"
+        "appleID": "anatoli/1780327669",
+        "spotifyID": "1XaESunLfD5BmNNjSExrHq"
     },
     {
         "ranking": "5",
@@ -74,7 +75,8 @@
         "title": "Se Periptosi Pou",
         "artist": "Anna Vissi",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3e/35/dc/3e35dcda-64cb-3eb7-3ec2-7456a6047114/cover.jpg/80x80bb.webp",
-        "appleID": "se-periptosi-pou/1777139739"
+        "appleID": "se-periptosi-pou/1777139739",
+        "spotifyID": "4iJkeikfkJ7EzkR2xUu0m4"
     },
     {
         "ranking": "12",
@@ -88,7 +90,8 @@
         "title": "SHOOTER ME TN",
         "artist": "RACK",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/15/56/45/15564590-dd62-9ebd-e201-ae51642209a7/198846955100.jpg/80x80bb.webp",
-        "appleID": "shooter-me-tn/1780302265"
+        "appleID": "shooter-me-tn/1780302265",
+        "spotifyID": "37netkV0ymoeRg5qmwtmwW"
     },
     {
         "ranking": "14",
@@ -109,7 +112,8 @@
         "title": "Timeless",
         "artist": "The Weeknd",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ef/14/11/ef14117b-6681-088b-3c74-e127ca3b46ed/24UM1IM04061.rgb.jpg/80x80bb.webp",
-        "appleID": "timeless/1770380890"
+        "appleID": "timeless/1770380890",
+        "youtubeID": "5EpyN_6dqyk"
     },
     {
         "ranking": "17",
@@ -123,7 +127,9 @@
         "title": "Die With A Smile",
         "artist": "Lady Gaga",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/11/ae/f2/11aef294-f57c-bab9-c9fc-529162984e62/24UMGIM85348.rgb.jpg/80x80bb.webp",
-        "appleID": "die-with-a-smile/1762656732"
+        "appleID": "die-with-a-smile/1762656732",
+        "youtubeID": "kPa7bsKwL-c",
+        "spotifyID": "2plbrEY59IikOBgBGLjaoe"
     },
     {
         "ranking": "19",
@@ -179,28 +185,33 @@
         "title": "AUTOS",
         "artist": "Sicario",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b0/86/4e/b0864ea6-fe31-fe1c-f3d4-b7d6f4aa0d24/cover.jpg/80x80bb.webp",
-        "appleID": "autos/1774686848"
+        "appleID": "autos/1774686848",
+        "spotifyID": "0EwKlAawFATYjR7Od5ps6k"
     },
     {
         "ranking": "27",
         "title": "APT.",
         "artist": "ROSÉ",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2d/1a/7d/2d1a7d91-587e-0ceb-d434-327bd66d9e86/075679628312.jpg/80x80bb.webp",
-        "appleID": "apt/1773452221"
+        "appleID": "apt/1773452221",
+        "youtubeID": "ekr2nIex040",
+        "spotifyID": "4wJ5Qq0jBN4ajy7ouZIV1c"
     },
     {
         "ranking": "28",
         "title": "Vorias",
         "artist": "APON",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/21/57/81/215781d0-91e8-38d1-7bdd-74915c9f725e/cover.jpg/80x80bb.webp",
-        "appleID": "vorias/1750062276"
+        "appleID": "vorias/1750062276",
+        "spotifyID": "0ZK2jpmk44WBUfe2UV30AY"
     },
     {
         "ranking": "29",
         "title": "BIRDS OF A FEATHER",
         "artist": "Billie Eilish",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
-        "appleID": "birds-of-a-feather/1739659142"
+        "appleID": "birds-of-a-feather/1739659142",
+        "youtubeID": "V9PVRfjEBTI"
     },
     {
         "ranking": "30",
@@ -214,7 +225,8 @@
         "title": "Xiliometra",
         "artist": "APON",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f9/1b/04/f91b0448-6458-6ae4-dc63-0cef1c29d15e/cover.jpg/80x80bb.webp",
-        "appleID": "xiliometra/1766994773"
+        "appleID": "xiliometra/1766994773",
+        "spotifyID": "2acUYxCZbgndtm70LgCCbS"
     },
     {
         "ranking": "32",
@@ -235,42 +247,49 @@
         "title": "To Viografiko",
         "artist": "Nikos Oikonomopoulos",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b4/e4/8f/b4e48fb8-d109-eb01-6ed4-b1d24e7483b6/5204958083220.png/80x80bb.webp",
-        "appleID": "to-viografiko/1778170251"
+        "appleID": "to-viografiko/1778170251",
+        "spotifyID": "2AlQniZwMjUWcOqtawNvxF"
     },
     {
         "ranking": "35",
         "title": "All I Want for Christmas Is You",
         "artist": "Mariah Carey",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/c6/b7/27/c6b727f7-3a32-6b43-cee2-05bb71daf1cf/dj.itfmdeif.jpg/80x80bb.webp",
-        "appleID": "all-i-want-for-christmas-is-you/585972803"
+        "appleID": "all-i-want-for-christmas-is-you/585972803",
+        "youtubeID": "aAkMkVFwAoo"
     },
     {
         "ranking": "36",
         "title": "Kataramenos",
         "artist": "Roi 6/12",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7f/65/0e/7f650ee6-277f-a1bb-0b36-aaadeda3468b/24UM1IM26699.rgb.jpg/80x80bb.webp",
-        "appleID": "kataramenos/1778700737"
+        "appleID": "kataramenos/1778700737",
+        "spotifyID": "0BX3JjlMC0KOUD1zqXc3Eg"
     },
     {
         "ranking": "37",
         "title": "Last Christmas (Single Version)",
         "artist": "Wham!",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/eb/4a/f9/eb4af984-fc68-56ab-7b89-1d070c04e1dd/5099765318524.jpg/80x80bb.webp",
-        "appleID": "last-christmas-single-version/202117984"
+        "appleID": "last-christmas/282658482",
+        "youtubeID": "E8gmARGvPlI",
+        "spotifyID": "2FRnf9qhLbvw8fu4IBXx78"
     },
     {
         "ranking": "38",
         "title": "3:15",
         "artist": "TOQUEL",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/fd/2d/47/fd2d471b-03cf-073c-8430-29d5095b424b/23UM1IM48699.rgb.jpg/80x80bb.webp",
-        "appleID": "3-15/1715296646"
+        "appleID": "3-15/1715296646",
+        "spotifyID": "5d2ETO2YDunJTXd5yuCCRA"
     },
     {
         "ranking": "39",
         "title": "Frena",
         "artist": "Roi 6/12",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9c/bc/c5/9cbcc5ce-c0c7-abe9-c554-228afb3ea0a1/24UM1IM08819.rgb.jpg/80x80bb.webp",
-        "appleID": "frena/1772864290"
+        "appleID": "frena/1772864290",
+        "spotifyID": "1sk1gRQHhySVQvLKEheGmm"
     },
     {
         "ranking": "40",
@@ -284,14 +303,18 @@
         "title": "Follow You",
         "artist": "Noizy",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/28/45/f8/2845f8f1-d754-a8d8-69b1-7aecf8c11d01/24UM1IM17511.rgb.jpg/80x80bb.webp",
-        "appleID": "follow-you/1776618465"
+        "appleID": "follow-you/1776618465",
+        "youtubeID": "PP2fELH8uTQ",
+        "spotifyID": "7cMhicmOIwfJlWURl90AOc"
     },
     {
         "ranking": "42",
         "title": "That’s So True",
         "artist": "Gracie Abrams",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/26/78/81/26788143-5e5f-0813-2480-ecf4280ef221/24UM1IM07082.rgb.jpg/80x80bb.webp",
-        "appleID": "thats-so-true/1773474483"
+        "appleID": "thats-so-true/1773474483",
+        "youtubeID": "BDHM8cyJQa8",
+        "spotifyID": "7ne4VBA60CxGM75vw0EYad"
     },
     {
         "ranking": "43",
@@ -326,14 +349,17 @@
         "title": "WILDFLOWER",
         "artist": "Billie Eilish",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
-        "appleID": "wildflower/1739659144"
+        "appleID": "wildflower/1739659144",
+        "youtubeID": "IWKyykQBRKo",
+        "spotifyID": "3QaPy1KgI7nu9FJEQUgn6h"
     },
     {
         "ranking": "48",
         "title": "To Vale",
         "artist": "Katerina Lioliou",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a9/a6/10/a9a610b0-7ca7-d959-a488-d2e29a0997e2/cover.jpg/80x80bb.webp",
-        "appleID": "to-vale/1778725588"
+        "appleID": "to-vale/1778725588",
+        "spotifyID": "6ZHaixZ8kSAhnkz3zvFZCP"
     },
     {
         "ranking": "49",
@@ -361,7 +387,8 @@
         "title": "tv off (feat. Lefty Gunplay)",
         "artist": "Kendrick Lamar",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/50/c2/cc/50c2cc95-3658-9417-0d4b-831abde44ba1/24UM1IM28978.rgb.jpg/80x80bb.webp",
-        "appleID": "tv-off-feat-lefty-gunplay/1781270540"
+        "appleID": "tv-off-feat-lefty-gunplay/1781270540",
+        "youtubeID": "U8F5G5wR1mk"
     },
     {
         "ranking": "53",
@@ -417,7 +444,9 @@
         "title": "Jingle Bell Rock",
         "artist": "Bobby Helms",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/e8/18/6b/e8186bf9-5696-e721-b273-a5f173caf8c1/18UMGIM07062.rgb.jpg/80x80bb.webp",
-        "appleID": "jingle-bell-rock/1358462132"
+        "appleID": "jingle-bell-rock/1358462132",
+        "youtubeID": "Z0ajuTaHBtM",
+        "spotifyID": "7vQbuQcyTflfCIOu3Uzzya"
     },
     {
         "ranking": "61",
@@ -452,7 +481,8 @@
         "title": "Espresso",
         "artist": "Sabrina Carpenter",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cb/64/8c/cb648cf7-e7bb-bd00-efe0-d744312c29a8/24UMGIM32304.rgb.jpg/80x80bb.webp",
-        "appleID": "espresso/1740212434"
+        "appleID": "espresso/1740212434",
+        "youtubeID": "eVli-tstM5E"
     },
     {
         "ranking": "66",
@@ -473,7 +503,8 @@
         "title": "Underneath the Tree",
         "artist": "Kelly Clarkson",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/d8/e3/a5/d8e3a5f3-9296-07cc-9714-26069c01fd44/886448741190.jpg/80x80bb.webp",
-        "appleID": "underneath-the-tree/1537216368"
+        "appleID": "underneath-the-tree/1537216368",
+        "youtubeID": "EM2Fnp_qnE8"
     },
     {
         "ranking": "69",
@@ -501,7 +532,8 @@
         "title": "ISOS",
         "artist": "Sicario",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/78/88/c9/7888c994-5e27-e875-619b-39af1c69aad3/cover.jpg/80x80bb.webp",
-        "appleID": "isos/1717963275"
+        "appleID": "isos/1717963275",
+        "spotifyID": "3CdFVH8SOVnvT0sJLT198p"
     },
     {
         "ranking": "73",
@@ -515,7 +547,9 @@
         "title": "It's Beginning To Look a Lot Like Christmas",
         "artist": "Michael Bublé",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/37/2d/6e/372d6e16-7a32-91f0-1a03-0f2d9dbe389e/093624942788.jpg/80x80bb.webp",
-        "appleID": "its-beginning-to-look-a-lot-like-christmas/669854831"
+        "appleID": "its-beginning-to-look-a-lot-like-christmas/1592740089",
+        "youtubeID": "QJ5DOWPGxwg",
+        "spotifyID": "1rv46mRwDqMEhOBZ7vODg3"
     },
     {
         "ranking": "75",
@@ -529,14 +563,17 @@
         "title": "luther",
         "artist": "Kendrick Lamar",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/50/c2/cc/50c2cc95-3658-9417-0d4b-831abde44ba1/24UM1IM28978.rgb.jpg/80x80bb.webp",
-        "appleID": "luther/1781270323"
+        "appleID": "luther/1781270323",
+        "youtubeID": "4_taypLmSMU"
     },
     {
         "ranking": "77",
         "title": "Messy",
         "artist": "Lola Young",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d4/85/6b/d4856be7-64d4-5c70-5d5d-18552f826426/24UMGIM46883.rgb.jpg/80x80bb.webp",
-        "appleID": "messy/1743250261"
+        "appleID": "messy/1743250261",
+        "youtubeID": "k-k2_Liofy8",
+        "spotifyID": "35ISBknsCeZQtq66xABI9g"
     },
     {
         "ranking": "78",
@@ -571,14 +608,18 @@
         "title": "Let It Snow! Let It Snow! Let It Snow!",
         "artist": "Dean Martin",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/87/ee/3a/87ee3ae8-dc96-e287-6f1e-2332d4ae4c1d/13UAEIM07388.rgb.jpg/80x80bb.webp",
-        "appleID": "let-it-snow-let-it-snow-let-it-snow/1440830243"
+        "appleID": "let-it-snow-let-it-snow-let-it-snow/1440830243",
+        "youtubeID": "2TA3IKH8Y5c",
+        "spotifyID": "2uFaJJtFpPDc5Pa95XzTvg"
     },
     {
         "ranking": "83",
         "title": "squabble up",
         "artist": "Kendrick Lamar",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/50/c2/cc/50c2cc95-3658-9417-0d4b-831abde44ba1/24UM1IM28978.rgb.jpg/80x80bb.webp",
-        "appleID": "squabble-up/1781270321"
+        "appleID": "squabble-up/1781270321",
+        "youtubeID": "fuV4yQWdn_4",
+        "spotifyID": "0nj9Bq5sHDiTxSHunhgkFb"
     },
     {
         "ranking": "84",
@@ -613,21 +654,25 @@
         "title": "Not Like Us",
         "artist": "Kendrick Lamar",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d0/ef/b6/d0efb685-73be-fdee-58c9-be655f4cd4fd/24UMGIM51924.rgb.jpg/80x80bb.webp",
-        "appleID": "not-like-us/1744776167"
+        "appleID": "not-like-us/1744776167",
+        "youtubeID": "H58vbez_m4E"
     },
     {
         "ranking": "89",
         "title": "It's the Most Wonderful Time of the Year",
         "artist": "Andy Williams",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/d9/84/16/d98416a4-d960-4602-8f2c-4f03165d434d/mzi.hohpjzfa.jpg/80x80bb.webp",
-        "appleID": "its-the-most-wonderful-time-of-the-year/171434594"
+        "appleID": "its-the-most-wonderful-time-of-the-year/171434594",
+        "youtubeID": "cbZTfrhcamA",
+        "spotifyID": "1IcR6RlgvDczfvoWJSSY2A"
     },
     {
         "ranking": "90",
         "title": "Monaxiki Kardia",
         "artist": "Melisses",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e2/e3/16/e2e31677-76f2-4e6e-d02e-6b785fc71aa1/cover.jpg/80x80bb.webp",
-        "appleID": "monaxiki-kardia/1746779370"
+        "appleID": "monaxiki-kardia/1746779370",
+        "spotifyID": "46aH7ZYbc2P5qQno3G49OH"
     },
     {
         "ranking": "91",
@@ -676,7 +721,8 @@
         "title": "Lose Control",
         "artist": "Teddy Swims",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/36/19/66/36196640-1561-dc5e-c6bc-1e5f4befa583/093624856771.jpg/80x80bb.webp",
-        "appleID": "lose-control/1691699836"
+        "appleID": "lose-control/1691699836",
+        "spotifyID": "17phhZDn6oGtzMe56NuWvj"
     },
     {
         "ranking": "98",
