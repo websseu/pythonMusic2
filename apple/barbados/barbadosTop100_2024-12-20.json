@@ -46,7 +46,8 @@
         "title": "25",
         "artist": "Rod Wave",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5a/37/da/5a37da14-dea1-6123-6553-4a24010657e8/196872534610.jpg/80x80bb.webp",
-        "appleID": "25/1772368558"
+        "appleID": "25/1772368558",
+        "youtubeID": "-SSgaCAsU6M"
     },
     {
         "ranking": "8",
@@ -67,7 +68,8 @@
         "title": "luther",
         "artist": "Kendrick Lamar",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/50/c2/cc/50c2cc95-3658-9417-0d4b-831abde44ba1/24UM1IM28978.rgb.jpg/80x80bb.webp",
-        "appleID": "luther/1781270323"
+        "appleID": "luther/1781270323",
+        "youtubeID": "4_taypLmSMU"
     },
     {
         "ranking": "11",
@@ -88,7 +90,8 @@
         "title": "tv off (feat. Lefty Gunplay)",
         "artist": "Kendrick Lamar",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/50/c2/cc/50c2cc95-3658-9417-0d4b-831abde44ba1/24UM1IM28978.rgb.jpg/80x80bb.webp",
-        "appleID": "tv-off-feat-lefty-gunplay/1781270540"
+        "appleID": "tv-off-feat-lefty-gunplay/1781270540",
+        "youtubeID": "U8F5G5wR1mk"
     },
     {
         "ranking": "14",
@@ -158,7 +161,8 @@
         "title": "IRan",
         "artist": "Rod Wave",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5a/37/da/5a37da14-dea1-6123-6553-4a24010657e8/196872534610.jpg/80x80bb.webp",
-        "appleID": "iran/1772368702"
+        "appleID": "iran/1772368702",
+        "youtubeID": "hpee_qmBBHw"
     },
     {
         "ranking": "24",
@@ -186,7 +190,8 @@
         "title": "Snooze",
         "artist": "SZA",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/bd/3b/a9/bd3ba9fb-9609-144f-bcfe-ead67b5f6ab3/196589564931.jpg/80x80bb.webp",
-        "appleID": "snooze/1657869492"
+        "appleID": "snooze/1657869492",
+        "spotifyID": "4iZ4pt7kvcaH6Yo8UoZ4s2"
     },
     {
         "ranking": "28",
@@ -200,7 +205,8 @@
         "title": "All I Want for Christmas Is You",
         "artist": "Mariah Carey",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/c6/b7/27/c6b727f7-3a32-6b43-cee2-05bb71daf1cf/dj.itfmdeif.jpg/80x80bb.webp",
-        "appleID": "all-i-want-for-christmas-is-you/585972803"
+        "appleID": "all-i-want-for-christmas-is-you/585972803",
+        "youtubeID": "aAkMkVFwAoo"
     },
     {
         "ranking": "30",
@@ -214,14 +220,15 @@
         "title": "BIRDS OF A FEATHER",
         "artist": "Billie Eilish",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
-        "appleID": "birds-of-a-feather/1739659142"
+        "appleID": "birds-of-a-feather/1739659142",
+        "youtubeID": "V9PVRfjEBTI"
     },
     {
         "ranking": "32",
         "title": "1Rifle (Remix)",
         "artist": "Najeeriii",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c3/1d/94/c31d9463-87db-d4a0-e468-41af0d22a67c/0.jpg/80x80bb.webp",
-        "appleID": "1rifle-remix/1774071764"
+        "appleID": "1rifle/1765399467"
     },
     {
         "ranking": "33",
@@ -235,14 +242,18 @@
         "title": "squabble up",
         "artist": "Kendrick Lamar",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/50/c2/cc/50c2cc95-3658-9417-0d4b-831abde44ba1/24UM1IM28978.rgb.jpg/80x80bb.webp",
-        "appleID": "squabble-up/1781270321"
+        "appleID": "squabble-up/1781270321",
+        "youtubeID": "fuV4yQWdn_4",
+        "spotifyID": "0nj9Bq5sHDiTxSHunhgkFb"
     },
     {
         "ranking": "35",
         "title": "PUSH 2 START",
         "artist": "Tyla",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2a/cc/48/2acc48c7-e092-6b83-ce65-ff80ac6eb51c/196872520118.jpg/80x80bb.webp",
-        "appleID": "push-2-start/1772394889"
+        "appleID": "push-2-start/1772394889",
+        "youtubeID": "uLK2r3sG4lE",
+        "spotifyID": "1Cbl3Yq8rHo7hhDQmLQagU"
     },
     {
         "ranking": "36",
@@ -284,7 +295,8 @@
         "title": "Santa Tell Me",
         "artist": "Ariana Grande",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/60/c8/2b/60c82b22-cd58-cdcd-5b51-6fad7a8b7055/14UMGIM55455.rgb.jpg/80x80bb.webp",
-        "appleID": "santa-tell-me/1444319982"
+        "appleID": "santa-tell-me/1444319982",
+        "youtubeID": "nlR0MkrRklg"
     },
     {
         "ranking": "42",
@@ -354,7 +366,9 @@
         "title": "wacced out murals",
         "artist": "Kendrick Lamar",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/50/c2/cc/50c2cc95-3658-9417-0d4b-831abde44ba1/24UM1IM28978.rgb.jpg/80x80bb.webp",
-        "appleID": "wacced-out-murals/1781270320"
+        "appleID": "wacced-out-murals/1781270320",
+        "youtubeID": "YwUQ_5iV9pY",
+        "spotifyID": "5gOfC9UzZQzTyShqPMrpjT"
     },
     {
         "ranking": "52",
@@ -375,7 +389,7 @@
         "title": "POOKIE'S REQUIEM",
         "artist": "SAILORR",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f4/d3/5c/f4d35ce0-41f1-835a-a212-9279aa795efc/797885496850.jpg/80x80bb.webp",
-        "appleID": "pookies-requiem/1783225440"
+        "appleID": "pookies-requiem/1776916375"
     },
     {
         "ranking": "55",
@@ -452,7 +466,8 @@
         "title": "Not Like Us",
         "artist": "Kendrick Lamar",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d0/ef/b6/d0efb685-73be-fdee-58c9-be655f4cd4fd/24UMGIM51924.rgb.jpg/80x80bb.webp",
-        "appleID": "not-like-us/1744776167"
+        "appleID": "not-like-us/1744776167",
+        "youtubeID": "H58vbez_m4E"
     },
     {
         "ranking": "66",
@@ -494,14 +509,17 @@
         "title": "Die With A Smile",
         "artist": "Lady Gaga",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/11/ae/f2/11aef294-f57c-bab9-c9fc-529162984e62/24UMGIM85348.rgb.jpg/80x80bb.webp",
-        "appleID": "die-with-a-smile/1762656732"
+        "appleID": "die-with-a-smile/1762656732",
+        "youtubeID": "kPa7bsKwL-c",
+        "spotifyID": "2plbrEY59IikOBgBGLjaoe"
     },
     {
         "ranking": "72",
         "title": "man at the garden",
         "artist": "Kendrick Lamar",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/50/c2/cc/50c2cc95-3658-9417-0d4b-831abde44ba1/24UM1IM28978.rgb.jpg/80x80bb.webp",
-        "appleID": "man-at-the-garden/1781270326"
+        "appleID": "man-at-the-garden/1781270326",
+        "youtubeID": "wiALRpD0Ztg"
     },
     {
         "ranking": "73",
@@ -536,14 +554,16 @@
         "title": "WHATCHU KNO ABOUT ME",
         "artist": "GloRilla",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/28/af/7e/28af7e54-74d1-dad1-c103-71f5951e83aa/24UM1IM01471.rgb.jpg/80x80bb.webp",
-        "appleID": "whatchu-kno-about-me/1769454783"
+        "appleID": "whatchu-kno-about-me/1769454783",
+        "youtubeID": "Py9S2bD0RZQ"
     },
     {
         "ranking": "78",
         "title": "dodger blue (feat. Wallie the Sensei, Siete7x & Roddy Ricch)",
         "artist": "Kendrick Lamar",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/50/c2/cc/50c2cc95-3658-9417-0d4b-831abde44ba1/24UM1IM28978.rgb.jpg/80x80bb.webp",
-        "appleID": "dodger-blue-feat-wallie-the-sensei-siete7x-roddy-ricch/1781270543"
+        "appleID": "dodger-blue-feat-wallie-the-sensei-siete7x-roddy-ricch/1781270543",
+        "youtubeID": "c7y2ziOBA1s"
     },
     {
         "ranking": "79",
@@ -585,14 +605,16 @@
         "title": "hey now (feat. Dody6)",
         "artist": "Kendrick Lamar",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/50/c2/cc/50c2cc95-3658-9417-0d4b-831abde44ba1/24UM1IM28978.rgb.jpg/80x80bb.webp",
-        "appleID": "hey-now-feat-dody6/1781270328"
+        "appleID": "hey-now-feat-dody6/1781270328",
+        "youtubeID": "9PumlOWjXMM"
     },
     {
         "ranking": "85",
         "title": "heart pt. 6",
         "artist": "Kendrick Lamar",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/50/c2/cc/50c2cc95-3658-9417-0d4b-831abde44ba1/24UM1IM28978.rgb.jpg/80x80bb.webp",
-        "appleID": "heart-pt-6/1781270549"
+        "appleID": "heart-pt-6/1781270549",
+        "youtubeID": "m-PO1_fzxVM"
     },
     {
         "ranking": "86",
@@ -641,7 +663,8 @@
         "title": "peekaboo (feat. AzChike)",
         "artist": "Kendrick Lamar",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/50/c2/cc/50c2cc95-3658-9417-0d4b-831abde44ba1/24UM1IM28978.rgb.jpg/80x80bb.webp",
-        "appleID": "peekaboo-feat-azchike/1781270545"
+        "appleID": "peekaboo-feat-azchike/1781270545",
+        "youtubeID": "cbHkzwa0QmM"
     },
     {
         "ranking": "93",
@@ -655,21 +678,26 @@
         "title": "WILDFLOWER",
         "artist": "Billie Eilish",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
-        "appleID": "wildflower/1739659144"
+        "appleID": "wildflower/1739659144",
+        "youtubeID": "IWKyykQBRKo",
+        "spotifyID": "3QaPy1KgI7nu9FJEQUgn6h"
     },
     {
         "ranking": "95",
         "title": "Timeless",
         "artist": "The Weeknd",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ef/14/11/ef14117b-6681-088b-3c74-e127ca3b46ed/24UM1IM04061.rgb.jpg/80x80bb.webp",
-        "appleID": "timeless/1770380890"
+        "appleID": "timeless/1770380890",
+        "youtubeID": "5EpyN_6dqyk"
     },
     {
         "ranking": "96",
         "title": "reincarnated",
         "artist": "Kendrick Lamar",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/50/c2/cc/50c2cc95-3658-9417-0d4b-831abde44ba1/24UM1IM28978.rgb.jpg/80x80bb.webp",
-        "appleID": "reincarnated/1781270539"
+        "appleID": "reincarnated/1781270539",
+        "youtubeID": "Ek7UvQPCQnE",
+        "spotifyID": "0RgjEkSbeuStKfT2Pa4Zai"
     },
     {
         "ranking": "97",

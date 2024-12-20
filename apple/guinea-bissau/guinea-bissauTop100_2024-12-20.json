@@ -88,14 +88,16 @@
         "title": "Lose Yourself (From \"8 Mile\")",
         "artist": "Eminem",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/a7/06/99/a70699f9-2f5a-9198-fe70-6236b534738f/06UMGIM16683.rgb.jpg/80x80bb.webp",
-        "appleID": "lose-yourself-from-8-mile/1445727316"
+        "appleID": "lose-yourself-from-8-mile/1445727316",
+        "youtubeID": "xFYQQPAOz7Y"
     },
     {
         "ranking": "14",
         "title": "Not Like Us",
         "artist": "Kendrick Lamar",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d0/ef/b6/d0efb685-73be-fdee-58c9-be655f4cd4fd/24UMGIM51924.rgb.jpg/80x80bb.webp",
-        "appleID": "not-like-us/1744776167"
+        "appleID": "not-like-us/1744776167",
+        "youtubeID": "H58vbez_m4E"
     },
     {
         "ranking": "15",
@@ -109,7 +111,8 @@
         "title": "Super Homem",
         "artist": "Liriany",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8d/91/37/8d913778-b5ff-b8fd-40bb-98c803d3fa14/0.jpg/80x80bb.webp",
-        "appleID": "super-homem/1772745001"
+        "appleID": "super-homem/1772745001",
+        "youtubeID": "qNw5st-0nPw"
     },
     {
         "ranking": "17",
@@ -319,7 +322,8 @@
         "title": "Rush",
         "artist": "Ayra Starr",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/b5/4a/3d/b54a3d1a-f493-7a9b-1807-a73f01709053/5059449090122.png/80x80bb.webp",
-        "appleID": "rush/1642898573"
+        "appleID": "rush/1642898573",
+        "youtubeID": "crtQSTYWtqE"
     },
     {
         "ranking": "47",
@@ -396,14 +400,16 @@
         "title": "Girlfriend",
         "artist": "Ruger",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/78/68/ce/7868ce23-2ce0-0cfd-7ce3-3eb1196f1d96/196589221094_Cover.jpg/80x80bb.webp",
-        "appleID": "girlfriend/1709394555"
+        "appleID": "girlfriend/1709394555",
+        "youtubeID": "7M2Gps9xR8g"
     },
     {
         "ranking": "58",
         "title": "KANTE (feat. Fave)",
         "artist": "Davido",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/40/12/87/4012878d-d267-09b8-7fe0-8c3fd8fdf169/886449553617.jpg/80x80bb.webp",
-        "appleID": "kante-feat-fave/1675379770"
+        "appleID": "kante-feat-fave/1675379770",
+        "youtubeID": "3bFPDfWReN0"
     },
     {
         "ranking": "59",
