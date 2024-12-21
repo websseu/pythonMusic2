@@ -313,7 +313,8 @@
         "title": "Santa Claus Is Comin' to Town",
         "artist": "Frank Sinatra",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/07/ec/01/07ec011d-f158-eb3d-f521-b35f5e4189ab/886444694155.jpg/80x80bb.webp",
-        "appleID": "santa-claus-is-comin-to-town/923608497"
+        "appleID": "santa-claus-is-comin-to-town/923608497",
+        "youtubeID": "rHKn6N-1_EY"
     },
     {
         "ranking": "39",
@@ -416,7 +417,9 @@
         "title": "Little Saint Nick",
         "artist": "The Beach Boys",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/65/0a/39/650a39be-5682-77b8-e98d-7a72285b5602/13UABIM51358.rgb.jpg/80x80bb.webp",
-        "appleID": "little-saint-nick/1440856020"
+        "appleID": "little-saint-nick/1440856020",
+        "youtubeID": "xp9rK8FmYog",
+        "spotifyID": "5xlS0QkVrSH7ssEbBgBzbM"
     },
     {
         "ranking": "52",
@@ -432,7 +435,9 @@
         "title": "Please Come Home for Christmas",
         "artist": "Eagles",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music2/v4/b7/b1/5a/b7b15a8e-bf61-11be-4a64-cde4904c5daa/603497214266.jpg/80x80bb.webp",
-        "appleID": "please-come-home-for-christmas/635815759"
+        "appleID": "please-come-home-for-christmas/635815759",
+        "youtubeID": "5LUfDEATQHM",
+        "spotifyID": "3QIoEi8Enr9uHffwInGIsC"
     },
     {
         "ranking": "54",
@@ -463,7 +468,8 @@
         "artist": "Teddy Swims",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/36/19/66/36196640-1561-dc5e-c6bc-1e5f4befa583/093624856771.jpg/80x80bb.webp",
         "appleID": "lose-control/1691699836",
-        "spotifyID": "17phhZDn6oGtzMe56NuWvj"
+        "spotifyID": "17phhZDn6oGtzMe56NuWvj",
+        "youtubeID": "GZ3zL7kT6_c"
     },
     {
         "ranking": "58",
@@ -536,7 +542,8 @@
         "title": "Christmas (Baby Please Come Home)",
         "artist": "Darlene Love",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/2e/92/5f/2e925fa4-6a4e-a15e-7cfc-bb3f13f053e1/mzi.ermvbetx.jpg/80x80bb.webp",
-        "appleID": "christmas-baby-please-come-home/336037344"
+        "appleID": "christmas-baby-please-come-home/336037344",
+        "youtubeID": "vf4ZXBzbAio"
     },
     {
         "ranking": "68",
@@ -599,7 +606,9 @@
         "title": "Santa Claus Is Comin' to Town (Live at C.W. Post College, Greenvale, NY - December 1975)",
         "artist": "Bruce Springsteen",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Features124/v4/75/3e/0a/753e0a5e-888d-fca1-2e62-e4916c3cfc01/dj.jmpfisia.jpg/80x80bb.webp",
-        "appleID": "santa-claus-is-comin-to-town-live-at-c-w-post-college/299701862"
+        "appleID": "santa-claus-is-comin-to-town/923608497",
+        "youtubeID": "76WFkKp8Tjs",
+        "spotifyID": "6s2wpWPFPAgKg2LXxi1Oee"
     },
     {
         "ranking": "76",
@@ -761,7 +770,8 @@
         "title": "Someday At Christmas",
         "artist": "Stevie Wonder",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/48/38/75/4838752f-752a-524a-7621-5011c99c202d/24UMGIM56142.rgb.jpg/80x80bb.webp",
-        "appleID": "someday-at-christmas/1749926250"
+        "appleID": "someday-at-christmas/1749926250",
+        "youtubeID": "MaA7B9cu4kU"
     },
     {
         "ranking": "97",
@@ -792,6 +802,7 @@
         "artist": "Billie Eilish",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
         "appleID": "chihiro/1739659141",
-        "spotifyID": "7BRD7x5pt8Lqa1eGYC4dzj"
+        "spotifyID": "7BRD7x5pt8Lqa1eGYC4dzj",
+        "youtubeID": "BY_XwvKogC8"
     }
 ]

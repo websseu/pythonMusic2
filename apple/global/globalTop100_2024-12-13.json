@@ -209,7 +209,8 @@
         "artist": "SZA",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/bd/3b/a9/bd3ba9fb-9609-144f-bcfe-ead67b5f6ab3/196589564931.jpg/80x80bb.webp",
         "appleID": "snooze/1657869492",
-        "spotifyID": "4iZ4pt7kvcaH6Yo8UoZ4s2"
+        "spotifyID": "4iZ4pt7kvcaH6Yo8UoZ4s2",
+        "youtubeID": "LDY_XyxBu8A"
     },
     {
         "ranking": "26",
@@ -234,7 +235,8 @@
         "artist": "Teddy Swims",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/36/19/66/36196640-1561-dc5e-c6bc-1e5f4befa583/093624856771.jpg/80x80bb.webp",
         "appleID": "lose-control/1691699836",
-        "spotifyID": "17phhZDn6oGtzMe56NuWvj"
+        "spotifyID": "17phhZDn6oGtzMe56NuWvj",
+        "youtubeID": "GZ3zL7kT6_c"
     },
     {
         "ranking": "29",
@@ -446,7 +448,8 @@
         "title": "Like That",
         "artist": "Future",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4e/9f/7b/4e9f7b71-28ad-a8dc-9b34-da532feb82f6/196871937382.jpg/80x80bb.webp",
-        "appleID": "like-that/1737150439"
+        "appleID": "like-that/1737150439",
+        "youtubeID": "N9bKBAA22Go"
     },
     {
         "ranking": "54",
@@ -480,14 +483,16 @@
         "artist": "Chuck Berry",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/03/bd/06/03bd06bd-91bd-d8c2-03c4-4930e98742de/06UMGIM18712.rgb.jpg/80x80bb.webp",
         "appleID": "run-rudolph-run/1443832242",
-        "spotifyID": "2pnPe4pJtq7689i5ydzvJJ"
+        "spotifyID": "2pnPe4pJtq7689i5ydzvJJ",
+        "youtubeID": "YiadNVhaGwk"
     },
     {
         "ranking": "58",
         "title": "Christmas (Baby Please Come Home)",
         "artist": "Darlene Love",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/2e/92/5f/2e925fa4-6a4e-a15e-7cfc-bb3f13f053e1/mzi.ermvbetx.jpg/80x80bb.webp",
-        "appleID": "christmas-baby-please-come-home/336037344"
+        "appleID": "christmas-baby-please-come-home/336037344",
+        "youtubeID": "vf4ZXBzbAio"
     },
     {
         "ranking": "59",
@@ -527,7 +532,9 @@
         "title": "DOS DÍAS",
         "artist": "Tito Double P",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d6/b1/c5/d6b1c5e2-104d-c427-465e-fea8dfe663d4/198588874653.jpg/80x80bb.webp",
-        "appleID": "dos-d%C3%ADas/1761412603"
+        "appleID": "dos-d%C3%ADas/1761412603",
+        "youtubeID": "nne3lXKc1OU",
+        "spotifyID": "5lKFO0PrOC9jmOlPEdjHsL"
     },
     {
         "ranking": "64",
@@ -535,14 +542,16 @@
         "artist": "Tito Double P",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/30/75/0d/30750d8c-20c7-5c80-f9be-97b7fd6fcfc5/199066153628.jpg/80x80bb.webp",
         "appleID": "rosones/1783211314",
-        "spotifyID": "0LTwdL5yZ6YOTEGUQPFuSN"
+        "spotifyID": "0LTwdL5yZ6YOTEGUQPFuSN",
+        "youtubeID": "hrhu8OE4WMM"
     },
     {
         "ranking": "65",
         "title": "WAIT FOR U (feat. Drake & Tems)",
         "artist": "Future",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/65/f2/06/65f2067b-a8ea-239c-c219-8e0f0282dcea/196589073693.jpg/80x80bb.webp",
-        "appleID": "wait-for-u-feat-drake-tems/1621119447"
+        "appleID": "wait-for-u-feat-drake-tems/1621119447",
+        "youtubeID": "rP09GUQFDFk"
     },
     {
         "ranking": "66",
@@ -567,7 +576,8 @@
         "title": "Indigo (feat. Avery Anna)",
         "artist": "Sam Barber",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/74/52/77/745277cf-4917-193f-829a-876ab625f01b/075679629432.jpg/80x80bb.webp",
-        "appleID": "indigo-feat-avery-anna/1772722911"
+        "appleID": "indigo-feat-avery-anna/1772722911",
+        "spotifyID": "0iMPhRWExTo"
     },
     {
         "ranking": "69",
@@ -582,7 +592,8 @@
         "title": "Freestyle",
         "artist": "Lil Baby",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/93/e7/aa/93e7aa59-da8b-15bc-2992-5803f70fe8fa/17UM1IM55478.rgb.jpg/80x80bb.webp",
-        "appleID": "freestyle/1440929293"
+        "appleID": "freestyle/1440929293",
+        "youtubeID": "MHryuYVyHhk"
     },
     {
         "ranking": "71",
@@ -621,7 +632,9 @@
         "title": "Little Saint Nick",
         "artist": "The Beach Boys",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/65/0a/39/650a39be-5682-77b8-e98d-7a72285b5602/13UABIM51358.rgb.jpg/80x80bb.webp",
-        "appleID": "little-saint-nick/1440856020"
+        "appleID": "little-saint-nick/1440856020",
+        "youtubeID": "xp9rK8FmYog",
+        "spotifyID": "5xlS0QkVrSH7ssEbBgBzbM"
     },
     {
         "ranking": "76",
@@ -642,7 +655,8 @@
         "title": "Otonoke (Opening Theme to DAN DA DAN)",
         "artist": "Creepy Nuts",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2c/66/b5/2c66b5b5-a46f-1064-4802-fe82c0e56200/4547366705638.jpg/80x80bb.webp",
-        "appleID": "otonoke-opening-theme-to-dan-da-dan/1771603031"
+        "appleID": "otonoke-opening-theme-to-dan-da-dan/1771603031",
+        "spotifyID": "6KYOlIwDHbrbeBbJEtQ0Fj"
     },
     {
         "ranking": "79",
@@ -650,7 +664,8 @@
         "artist": "Travis Scott",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/50/f7/a3/50f7a39d-3bd5-28e9-0264-532f08b5b810/886446074726.jpg/80x80bb.webp",
         "appleID": "goosebumps/1150135924",
-        "spotifyID": "6gBFPUFcJLzWGx4lenP6h2"
+        "spotifyID": "6gBFPUFcJLzWGx4lenP6h2",
+        "youtubeID": "Dst9gZkq1a8"
     },
     {
         "ranking": "80",
@@ -666,14 +681,16 @@
         "title": "Type Shit",
         "artist": "Future",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4e/9f/7b/4e9f7b71-28ad-a8dc-9b34-da532feb82f6/196871937382.jpg/80x80bb.webp",
-        "appleID": "type-shit/1737150156"
+        "appleID": "type-shit/1737150156",
+        "youtubeID": "I0fgkcTbBoI"
     },
     {
         "ranking": "82",
         "title": "Bitter Vacances",
         "artist": "Mrs. GREEN APPLE",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/80/71/e4/8071e497-c866-d369-1ff4-bf42d2ce099a/24UM1IM25234.rgb.jpg/80x80bb.webp",
-        "appleID": "bitter-vacances/1780452035"
+        "appleID": "bitter-vacances/1780452035",
+        "youtubeID": "-6YeAmmRdoA"
     },
     {
         "ranking": "83",
@@ -688,7 +705,8 @@
         "title": "Lies Lies Lies",
         "artist": "Morgan Wallen",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e2/53/2f/e2532f80-b877-c273-938d-85565456cba4/24UMGIM69835.rgb.jpg/80x80bb.webp",
-        "appleID": "lies-lies-lies/1754189283"
+        "appleID": "lies-lies-lies/1754189283",
+        "youtubeID": "aN7WCsC9nkI"
     },
     {
         "ranking": "85",
@@ -703,7 +721,8 @@
         "title": "FE!N (feat. Playboi Carti)",
         "artist": "Travis Scott",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/09/7d/b0/097db06f-8403-3cf7-7510-139e570ca66b/196871341882.jpg/80x80bb.webp",
-        "appleID": "fe-n-feat-playboi-carti/1699712651"
+        "appleID": "fe-n-feat-playboi-carti/1699712651",
+        "youtubeID": "B9synWjqBn8"
     },
     {
         "ranking": "87",
@@ -736,7 +755,8 @@
         "artist": "Jonas Brothers",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/27/9d/df/279ddfe1-74db-1929-b48e-8faade18e3a1/19UMGIM98457.rgb.jpg/80x80bb.webp",
         "appleID": "like-its-christmas/1485796558",
-        "spotifyID": "1OjmlSFuzYflWjSMTCyTJv"
+        "spotifyID": "1OjmlSFuzYflWjSMTCyTJv",
+        "youtubeID": "tIyE3IrC7r0"
     },
     {
         "ranking": "91",
@@ -744,28 +764,33 @@
         "artist": "Morgan Wallen",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/86/cc/00/86cc001c-2efc-9ebb-8290-17f4f3ba3e4a/23UMGIM08087.rgb.jpg/80x80bb.webp",
         "appleID": "last-night/1667990774",
-        "spotifyID": "7K3BhSpAxZBznislvUMVtn"
+        "spotifyID": "7K3BhSpAxZBznislvUMVtn",
+        "youtubeID": "bUjPPBxbQrQ"
     },
     {
         "ranking": "92",
         "title": "You Make It Feel Like Christmas (feat. Blake Shelton)",
         "artist": "Gwen Stefani",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/a1/89/5d/a1895dd5-f61e-e14e-b7b2-c1c4aa434934/20UMGIM91349.rgb.jpg/80x80bb.webp",
-        "appleID": "you-make-it-feel-like-christmas-feat-blake-shelton/1536494812"
+        "appleID": "you-make-it-feel-like-christmas-feat-blake-shelton/1536494812",
+        "youtubeID": "3ZT9_H4-hbM"
     },
     {
         "ranking": "93",
         "title": "Knife Talk (feat. 21 Savage & Project Pat)",
         "artist": "Drake",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/11/36/38/1136384a-eebc-697a-c005-d890e41c0854/21UM1IM07518.rgb.jpg/80x80bb.webp",
-        "appleID": "knife-talk-feat-21-savage-project-pat/1584281787"
+        "appleID": "knife-talk-feat-21-savage-project-pat/1584281787",
+        "youtubeID": "XqpQpt_cmhE"
     },
     {
         "ranking": "94",
         "title": "Merry Christmas",
         "artist": "Ed Sheeran",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/f4/22/23/f42223bc-9636-239d-83ba-95313f0c3f8a/190296347870.jpg/80x80bb.webp",
-        "appleID": "merry-christmas/1597450885"
+        "appleID": "merry-christmas/1597450885",
+        "youtubeID": "Q_yuO8UNGmY",
+        "spotifyID": "0hz5PNF2wejwUKCMpesQWt"
     },
     {
         "ranking": "95",
@@ -803,7 +828,8 @@
         "title": "Santa Claus Is Comin' to Town",
         "artist": "Frank Sinatra",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/07/ec/01/07ec011d-f158-eb3d-f521-b35f5e4189ab/886444694155.jpg/80x80bb.webp",
-        "appleID": "santa-claus-is-comin-to-town/923608497"
+        "appleID": "santa-claus-is-comin-to-town/923608497",
+        "youtubeID": "rHKn6N-1_EY"
     },
     {
         "ranking": "100",

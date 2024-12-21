@@ -332,7 +332,9 @@
         "prev": "29",
         "streak": "22",
         "streams": "218,532",
-        "spotifyID": "0hz5PNF2wejwUKCMpesQWt"
+        "spotifyID": "0hz5PNF2wejwUKCMpesQWt",
+        "appleID": "merry-christmas/1597450885",
+        "youtubeID": "Q_yuO8UNGmY"
     },
     {
         "ranking": "28",
@@ -974,7 +976,8 @@
         "streak": "343",
         "streams": "118,341",
         "spotifyID": "17phhZDn6oGtzMe56NuWvj",
-        "appleID": "lose-control/1691699836"
+        "appleID": "lose-control/1691699836",
+        "youtubeID": "GZ3zL7kT6_c"
     },
     {
         "ranking": "83",
@@ -1054,7 +1057,8 @@
         "prev": "84",
         "streak": "345",
         "streams": "115,544",
-        "spotifyID": "42VsgItocQwOQC3XWZ8JNA"
+        "spotifyID": "42VsgItocQwOQC3XWZ8JNA",
+        "youtubeID": "B9synWjqBn8"
     },
     {
         "ranking": "90",
@@ -1182,6 +1186,7 @@
         "streak": "14",
         "streams": "108,595",
         "spotifyID": "1OjmlSFuzYflWjSMTCyTJv",
-        "appleID": "like-its-christmas/1485796558"
+        "appleID": "like-its-christmas/1485796558",
+        "youtubeID": "tIyE3IrC7r0"
     }
 ]

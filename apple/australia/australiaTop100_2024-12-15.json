@@ -107,7 +107,8 @@
         "artist": "Teddy Swims",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/36/19/66/36196640-1561-dc5e-c6bc-1e5f4befa583/093624856771.jpg/80x80bb.webp",
         "appleID": "lose-control/1691699836",
-        "spotifyID": "17phhZDn6oGtzMe56NuWvj"
+        "spotifyID": "17phhZDn6oGtzMe56NuWvj",
+        "youtubeID": "GZ3zL7kT6_c"
     },
     {
         "ranking": "14",
@@ -423,7 +424,8 @@
         "artist": "Morgan Wallen",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/86/cc/00/86cc001c-2efc-9ebb-8290-17f4f3ba3e4a/23UMGIM08087.rgb.jpg/80x80bb.webp",
         "appleID": "last-night/1667990774",
-        "spotifyID": "7K3BhSpAxZBznislvUMVtn"
+        "spotifyID": "7K3BhSpAxZBznislvUMVtn",
+        "youtubeID": "bUjPPBxbQrQ"
     },
     {
         "ranking": "52",
@@ -481,7 +483,8 @@
         "title": "Dancing In The Flames",
         "artist": "The Weeknd",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/34/7e/9f/347e9f54-2d74-820f-a910-68d01f044fcf/24UMGIM95646.rgb.jpg/80x80bb.webp",
-        "appleID": "dancing-in-the-flames/1767511513"
+        "appleID": "dancing-in-the-flames/1767511513",
+        "youtubeID": "gu0_ixJMx5U"
     },
     {
         "ranking": "59",
@@ -670,7 +673,8 @@
         "artist": "Chuck Berry",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/03/bd/06/03bd06bd-91bd-d8c2-03c4-4930e98742de/06UMGIM18712.rgb.jpg/80x80bb.webp",
         "appleID": "run-rudolph-run/1443832242",
-        "spotifyID": "2pnPe4pJtq7689i5ydzvJJ"
+        "spotifyID": "2pnPe4pJtq7689i5ydzvJJ",
+        "youtubeID": "YiadNVhaGwk"
     },
     {
         "ranking": "83",
@@ -748,7 +752,8 @@
         "title": "FE!N (feat. Playboi Carti)",
         "artist": "Travis Scott",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/09/7d/b0/097db06f-8403-3cf7-7510-139e570ca66b/196871341882.jpg/80x80bb.webp",
-        "appleID": "fe-n-feat-playboi-carti/1699712651"
+        "appleID": "fe-n-feat-playboi-carti/1699712651",
+        "youtubeID": "B9synWjqBn8"
     },
     {
         "ranking": "93",
@@ -777,7 +782,8 @@
         "title": "Christmas (Baby Please Come Home)",
         "artist": "Darlene Love",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/2e/92/5f/2e925fa4-6a4e-a15e-7cfc-bb3f13f053e1/mzi.ermvbetx.jpg/80x80bb.webp",
-        "appleID": "christmas-baby-please-come-home/336037344"
+        "appleID": "christmas-baby-please-come-home/336037344",
+        "youtubeID": "vf4ZXBzbAio"
     },
     {
         "ranking": "97",
@@ -806,6 +812,7 @@
         "title": "Santa Claus Is Comin' to Town",
         "artist": "Frank Sinatra",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/07/ec/01/07ec011d-f158-eb3d-f521-b35f5e4189ab/886444694155.jpg/80x80bb.webp",
-        "appleID": "santa-claus-is-comin-to-town/923608497"
+        "appleID": "santa-claus-is-comin-to-town/923608497",
+        "youtubeID": "rHKn6N-1_EY"
     }
 ]

@@ -63,7 +63,8 @@
         "title": "7:00 (Raw)",
         "artist": "Malie Donn",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a4/8c/7c/a48c7c31-b161-eb07-a068-46d746a47c60/199066249772.jpg/80x80bb.webp",
-        "appleID": "7-00-raw/1784818257"
+        "appleID": "7-00-raw/1784818257",
+        "youtubeID": "PdoPIpKdsPI"
     },
     {
         "ranking": "9",
@@ -79,7 +80,8 @@
         "title": "Cocoa Tea",
         "artist": "Kes",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f6/57/69/f65769d6-86f9-dde2-56c1-2580a73805d8/198937079722_cover.jpg/80x80bb.webp",
-        "appleID": "cocoa-tea/1778350176"
+        "appleID": "cocoa-tea/1778350176",
+        "youtubeID": "GiKDPyAADeM"
     },
     {
         "ranking": "11",
@@ -189,7 +191,8 @@
         "artist": "SZA",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/bd/3b/a9/bd3ba9fb-9609-144f-bcfe-ead67b5f6ab3/196589564931.jpg/80x80bb.webp",
         "appleID": "snooze/1657869492",
-        "spotifyID": "4iZ4pt7kvcaH6Yo8UoZ4s2"
+        "spotifyID": "4iZ4pt7kvcaH6Yo8UoZ4s2",
+        "youtubeID": "LDY_XyxBu8A"
     },
     {
         "ranking": "24",
@@ -205,14 +208,16 @@
         "artist": "Teddy Swims",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/36/19/66/36196640-1561-dc5e-c6bc-1e5f4befa583/093624856771.jpg/80x80bb.webp",
         "appleID": "lose-control/1691699836",
-        "spotifyID": "17phhZDn6oGtzMe56NuWvj"
+        "spotifyID": "17phhZDn6oGtzMe56NuWvj",
+        "youtubeID": "GZ3zL7kT6_c"
     },
     {
         "ranking": "26",
         "title": "HAAD (Fiesta)",
         "artist": "Armanii",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c5/29/26/c5292650-3f7f-89ba-2a46-2efe26f47fe1/0.jpg/80x80bb.webp",
-        "appleID": "haad-fiesta/1740628715"
+        "appleID": "haad-fiesta/1740628715",
+        "youtubeID": "-HdnnXfPUvs"
     },
     {
         "ranking": "27",
@@ -229,7 +234,8 @@
         "artist": "Bad Bunny",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/3e/04/eb/3e04ebf6-370f-f59d-ec84-2c2643db92f1/196626945068.jpg/80x80bb.webp",
         "appleID": "moscow-mule/1622045625",
-        "spotifyID": "6Xom58OOXk2SoU711L2IXO"
+        "spotifyID": "6Xom58OOXk2SoU711L2IXO",
+        "youtubeID": "p38WgakuYDo"
     },
     {
         "ranking": "29",
@@ -416,7 +422,8 @@
         "title": "Big Breeze",
         "artist": "SQUASH",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/6a/f9/fa/6af9fa33-cf44-388d-0e4d-8d2b2c48eafb/198391892738.jpg/80x80bb.webp",
-        "appleID": "big-breeze/1742858758"
+        "appleID": "big-breeze/1742858758",
+        "youtubeID": "Yo3QyiD28Dc"
     },
     {
         "ranking": "53",
@@ -433,7 +440,8 @@
         "artist": "Jonas Brothers",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/27/9d/df/279ddfe1-74db-1929-b48e-8faade18e3a1/19UMGIM98457.rgb.jpg/80x80bb.webp",
         "appleID": "like-its-christmas/1485796558",
-        "spotifyID": "1OjmlSFuzYflWjSMTCyTJv"
+        "spotifyID": "1OjmlSFuzYflWjSMTCyTJv",
+        "youtubeID": "tIyE3IrC7r0"
     },
     {
         "ranking": "55",
@@ -450,7 +458,8 @@
         "artist": "Rauw Alejandro",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ab/e8/09/abe8092d-ef44-61b9-6b50-ab7efb78ca51/196872401516.jpg/80x80bb.webp",
         "appleID": "d%C3%A9jame-entrar/1775462852",
-        "spotifyID": "5tZgkV8FTe3rtl8OcSeQAb"
+        "spotifyID": "5tZgkV8FTe3rtl8OcSeQAb",
+        "youtubeID": "UUzmHevEneY"
     },
     {
         "ranking": "57",
@@ -570,7 +579,8 @@
         "title": "Pounds",
         "artist": "Armanii",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/56/74/8b/56748b6c-5841-d592-34cd-fb543ba1f85d/198342681671_cover.jpg/80x80bb.webp",
-        "appleID": "pounds/1756564617"
+        "appleID": "pounds/1756564617",
+        "youtubeID": "QRNaLVXxGwI"
     },
     {
         "ranking": "73",
@@ -593,7 +603,8 @@
         "artist": "Chuck Berry",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/03/bd/06/03bd06bd-91bd-d8c2-03c4-4930e98742de/06UMGIM18712.rgb.jpg/80x80bb.webp",
         "appleID": "run-rudolph-run/1443832242",
-        "spotifyID": "2pnPe4pJtq7689i5ydzvJJ"
+        "spotifyID": "2pnPe4pJtq7689i5ydzvJJ",
+        "youtubeID": "YiadNVhaGwk"
     },
     {
         "ranking": "76",
@@ -688,7 +699,8 @@
         "title": "Expensive",
         "artist": "Valiant",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/67/ef/ba/67efba92-a95d-8a3e-f26e-7751657948f4/197188257088.jpg/80x80bb.webp",
-        "appleID": "expensive/1674670010"
+        "appleID": "expensive/1674670010",
+        "youtubeID": "nuMKdd_JkHo"
     },
     {
         "ranking": "89",
@@ -758,7 +770,8 @@
         "title": "Cups Up",
         "artist": "Malie Donn",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/23/49/26/2349266a-4fd1-4c96-8ddd-8a21cfe23227/197189042348.jpg/80x80bb.webp",
-        "appleID": "cups-up/1691201515"
+        "appleID": "cups-up/1691201515",
+        "youtubeID": "_7OrZfivZqE"
     },
     {
         "ranking": "99",

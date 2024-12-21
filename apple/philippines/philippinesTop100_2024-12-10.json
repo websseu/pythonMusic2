@@ -150,7 +150,8 @@
         "artist": "SZA",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/bd/3b/a9/bd3ba9fb-9609-144f-bcfe-ead67b5f6ab3/196589564931.jpg/80x80bb.webp",
         "appleID": "snooze/1657869492",
-        "spotifyID": "4iZ4pt7kvcaH6Yo8UoZ4s2"
+        "spotifyID": "4iZ4pt7kvcaH6Yo8UoZ4s2",
+        "youtubeID": "LDY_XyxBu8A"
     },
     {
         "ranking": "19",
@@ -599,7 +600,8 @@
         "title": "Kiss Me More (feat. SZA)",
         "artist": "Doja Cat",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/d1/52/a4/d152a430-1906-e507-0682-75e144085141/886449138791.jpg/80x80bb.webp",
-        "appleID": "kiss-me-more-feat-sza/1561866170"
+        "appleID": "kiss-me-more-feat-sza/1561866170",
+        "youtubeID": "0EVVKs6DQLo"
     },
     {
         "ranking": "76",
@@ -627,7 +629,8 @@
         "title": "Good Days",
         "artist": "SZA",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/ef/09/cf/ef09cf1f-a057-6039-00d3-7b5d14c7eba1/886449006717.jpg/80x80bb.webp",
-        "appleID": "good-days/1546390051"
+        "appleID": "good-days/1546390051",
+        "youtubeID": "0BdlKkvjEgA"
     },
     {
         "ranking": "80",
@@ -673,7 +676,8 @@
         "title": "Guilty as Sin?",
         "artist": "Taylor Swift",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a4/86/59/a486593a-53c9-1c2a-5122-8f25339f7359/24UMGIM44778.rgb.jpg/80x80bb.webp",
-        "appleID": "guilty-as-sin/1742058097"
+        "appleID": "guilty-as-sin/1742058097",
+        "youtubeID": "OOYlWF6V8t8"
     },
     {
         "ranking": "86",
@@ -749,7 +753,9 @@
         "title": "Burgis",
         "artist": "Flow G",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/13/e6/4b/13e64b05-3010-ffe7-e486-0c3b612950ed/859784787184_cover.jpg/80x80bb.webp",
-        "appleID": "burgis/1733636732"
+        "appleID": "burgis/1733636732",
+        "youtubeID": "v_-DGRtD4_I",
+        "spotifyID": "3O5P2ZDUwExzcIdZkJwFq1"
     },
     {
         "ranking": "96",

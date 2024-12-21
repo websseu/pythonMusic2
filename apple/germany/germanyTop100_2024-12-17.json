@@ -87,7 +87,9 @@
         "title": "Merry Christmas",
         "artist": "Ed Sheeran",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/f4/22/23/f42223bc-9636-239d-83ba-95313f0c3f8a/190296347870.jpg/80x80bb.webp",
-        "appleID": "merry-christmas/1597450885"
+        "appleID": "merry-christmas/1597450885",
+        "youtubeID": "Q_yuO8UNGmY",
+        "spotifyID": "0hz5PNF2wejwUKCMpesQWt"
     },
     {
         "ranking": "12",
@@ -168,7 +170,8 @@
         "title": "You Make It Feel Like Christmas (feat. Blake Shelton)",
         "artist": "Gwen Stefani",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/a1/89/5d/a1895dd5-f61e-e14e-b7b2-c1c4aa434934/20UMGIM91349.rgb.jpg/80x80bb.webp",
-        "appleID": "you-make-it-feel-like-christmas-feat-blake-shelton/1536494812"
+        "appleID": "you-make-it-feel-like-christmas-feat-blake-shelton/1536494812",
+        "youtubeID": "3ZT9_H4-hbM"
     },
     {
         "ranking": "22",
@@ -207,7 +210,8 @@
         "artist": "Jonas Brothers",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/27/9d/df/279ddfe1-74db-1929-b48e-8faade18e3a1/19UMGIM98457.rgb.jpg/80x80bb.webp",
         "appleID": "like-its-christmas/1485796558",
-        "spotifyID": "1OjmlSFuzYflWjSMTCyTJv"
+        "spotifyID": "1OjmlSFuzYflWjSMTCyTJv",
+        "youtubeID": "tIyE3IrC7r0"
     },
     {
         "ranking": "27",
@@ -537,7 +541,9 @@
         "title": "Please Come Home for Christmas",
         "artist": "Eagles",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music2/v4/b7/b1/5a/b7b15a8e-bf61-11be-4a64-cde4904c5daa/603497214266.jpg/80x80bb.webp",
-        "appleID": "please-come-home-for-christmas/635815759"
+        "appleID": "please-come-home-for-christmas/635815759",
+        "youtubeID": "5LUfDEATQHM",
+        "spotifyID": "3QIoEi8Enr9uHffwInGIsC"
     },
     {
         "ranking": "69",
@@ -651,7 +657,8 @@
         "artist": "Teddy Swims",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/36/19/66/36196640-1561-dc5e-c6bc-1e5f4befa583/093624856771.jpg/80x80bb.webp",
         "appleID": "lose-control/1691699836",
-        "spotifyID": "17phhZDn6oGtzMe56NuWvj"
+        "spotifyID": "17phhZDn6oGtzMe56NuWvj",
+        "youtubeID": "GZ3zL7kT6_c"
     },
     {
         "ranking": "83",
@@ -692,7 +699,8 @@
         "title": "Christmas (Baby Please Come Home)",
         "artist": "Darlene Love",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/2e/92/5f/2e925fa4-6a4e-a15e-7cfc-bb3f13f053e1/mzi.ermvbetx.jpg/80x80bb.webp",
-        "appleID": "christmas-baby-please-come-home/336037344"
+        "appleID": "christmas-baby-please-come-home/336037344",
+        "youtubeID": "vf4ZXBzbAio"
     },
     {
         "ranking": "88",
@@ -765,7 +773,8 @@
         "title": "Someday At Christmas",
         "artist": "Joy Denalane",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/d4/95/9a/d4959a86-d7f2-de96-1bd1-bb4c411b9898/20UMGIM85829.rgb.jpg/80x80bb.webp",
-        "appleID": "someday-at-christmas/1540020098"
+        "appleID": "someday-at-christmas/1540020098",
+        "youtubeID": "vmp1lLy78cY"
     },
     {
         "ranking": "98",

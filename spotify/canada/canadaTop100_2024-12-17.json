@@ -299,7 +299,8 @@
         "prev": "18",
         "streak": "31",
         "streams": "148,680",
-        "spotifyID": "5humEOJehpAwMJEJmb0JJ2"
+        "spotifyID": "5humEOJehpAwMJEJmb0JJ2",
+        "youtubeID": "wKhRnZZ0cJI"
     },
     {
         "ranking": "25",
@@ -419,7 +420,8 @@
         "prev": "28",
         "streak": "24",
         "streams": "131,413",
-        "spotifyID": "47ohYW8e7dxCYn9qbUMBCI"
+        "spotifyID": "47ohYW8e7dxCYn9qbUMBCI",
+        "youtubeID": "vf4ZXBzbAio"
     },
     {
         "ranking": "35",
@@ -431,7 +433,8 @@
         "streak": "25",
         "streams": "129,148",
         "spotifyID": "2pnPe4pJtq7689i5ydzvJJ",
-        "appleID": "run-rudolph-run/1443832242"
+        "appleID": "run-rudolph-run/1443832242",
+        "youtubeID": "YiadNVhaGwk"
     },
     {
         "ranking": "36",
@@ -575,7 +578,8 @@
         "streak": "357",
         "streams": "116,358",
         "spotifyID": "17phhZDn6oGtzMe56NuWvj",
-        "appleID": "lose-control/1691699836"
+        "appleID": "lose-control/1691699836",
+        "youtubeID": "GZ3zL7kT6_c"
     },
     {
         "ranking": "48",
@@ -608,7 +612,9 @@
         "prev": "41",
         "streak": "24",
         "streams": "113,023",
-        "spotifyID": "5xlS0QkVrSH7ssEbBgBzbM"
+        "spotifyID": "5xlS0QkVrSH7ssEbBgBzbM",
+        "appleID": "little-saint-nick/1440856020",
+        "youtubeID": "xp9rK8FmYog"
     },
     {
         "ranking": "51",
@@ -699,7 +705,8 @@
         "prev": "59",
         "streak": "18",
         "streams": "100,016",
-        "spotifyID": "2OQ6a4CfUeYskpTTgyawyJ"
+        "spotifyID": "2OQ6a4CfUeYskpTTgyawyJ",
+        "youtubeID": "3ZT9_H4-hbM"
     },
     {
         "ranking": "59",
@@ -721,7 +728,9 @@
         "prev": "49",
         "streak": "18",
         "streams": "99,629",
-        "spotifyID": "3QIoEi8Enr9uHffwInGIsC"
+        "spotifyID": "3QIoEi8Enr9uHffwInGIsC",
+        "appleID": "please-come-home-for-christmas/635815759",
+        "youtubeID": "5LUfDEATQHM"
     },
     {
         "ranking": "61",
@@ -790,7 +799,9 @@
         "prev": "54",
         "streak": "17",
         "streams": "96,214",
-        "spotifyID": "0hz5PNF2wejwUKCMpesQWt"
+        "spotifyID": "0hz5PNF2wejwUKCMpesQWt",
+        "appleID": "merry-christmas/1597450885",
+        "youtubeID": "Q_yuO8UNGmY"
     },
     {
         "ranking": "67",
@@ -956,7 +967,8 @@
         "streak": "686",
         "streams": "84,248",
         "spotifyID": "7K3BhSpAxZBznislvUMVtn",
-        "appleID": "last-night/1667990774"
+        "appleID": "last-night/1667990774",
+        "youtubeID": "bUjPPBxbQrQ"
     },
     {
         "ranking": "81",
@@ -1001,7 +1013,9 @@
         "prev": "69",
         "streak": "17",
         "streams": "79,916",
-        "spotifyID": "6s2wpWPFPAgKg2LXxi1Oee"
+        "spotifyID": "6s2wpWPFPAgKg2LXxi1Oee",
+        "appleID": "santa-claus-is-comin-to-town/923608497",
+        "youtubeID": "76WFkKp8Tjs"
     },
     {
         "ranking": "85",
@@ -1190,6 +1204,7 @@
         "streak": "77",
         "streams": "73,653",
         "spotifyID": "4iZ4pt7kvcaH6Yo8UoZ4s2",
-        "appleID": "snooze/1657869492"
+        "appleID": "snooze/1657869492",
+        "youtubeID": "LDY_XyxBu8A"
     }
 ]

@@ -208,7 +208,8 @@
     "title": "Snooze",
     "artist": "SZA",
     "appleID": "snooze/1657869492",
-    "spotifyID": "4iZ4pt7kvcaH6Yo8UoZ4s2"
+    "spotifyID": "4iZ4pt7kvcaH6Yo8UoZ4s2",
+    "youtubeID": "LDY_XyxBu8A"
   },
   {
     "title": "A Bar Song",
@@ -263,7 +264,8 @@
     "title": "Run Rudolph Run",
     "artist": "Chuck Berry",
     "appleID": "run-rudolph-run/1443832242",
-    "spotifyID": "2pnPe4pJtq7689i5ydzvJJ"
+    "spotifyID": "2pnPe4pJtq7689i5ydzvJJ",
+    "youtubeID": "YiadNVhaGwk"
   },
   {
     "title": "Qué Pasaría...",
@@ -301,16 +303,13 @@
     "youtubeID": "7f6SxWMOpdU"
   },
   {
-    "title": "The Christmas Song",
-    "artist": "Nat \"King\" Cole"
-  },
-  {
     "title": "gnx",
     "artist": "Kendrick Lamar"
   },
   {
     "title": "Christmas",
-    "artist": "Darlene Love"
+    "artist": "Darlene Love",
+    "youtubeID": "vf4ZXBzbAio"
   },
   {
     "title": "Tu Boda",
@@ -343,13 +342,15 @@
   {
     "title": "Like That",
     "artist": "Future",
-    "appleID": "like-that/1737150439"
+    "appleID": "like-that/1737150439",
+    "youtubeID": "N9bKBAA22Go"
   },
   {
     "title": "Lose Control",
     "artist": "Teddy Swims",
     "appleID": "lose-control/1691699836",
-    "spotifyID": "17phhZDn6oGtzMe56NuWvj"
+    "spotifyID": "17phhZDn6oGtzMe56NuWvj",
+    "youtubeID": "GZ3zL7kT6_c"
   },
   {
     "title": "APT.",
@@ -386,13 +387,9 @@
     "spotifyID": "2tHwzyyOLoWSFqYNjeVMzj"
   },
   {
-    "title": "Freestyle",
-    "artist": "Lil Baby",
-    "appleID": "freestyle/1440929293"
-  },
-  {
     "title": "WAIT FOR U",
-    "artist": "Future"
+    "artist": "Future",
+    "youtubeID": "rP09GUQFDFk"
   },
   {
     "title": "Taste",
@@ -400,11 +397,6 @@
     "appleID": "taste/1750307079",
     "youtubeID": "KEG7b851Ric",
     "spotifyID": "5G2f63n7IPVPPjfNIGih7Q"
-  },
-  {
-    "title": "Little Saint Nick",
-    "artist": "The Beach Boys",
-    "appleID": "little-saint-nick/1440856020"
   },
   {
     "title": "I LUV HER",
@@ -419,11 +411,6 @@
     "spotifyID": "2QxekHjOYDnzNO5w8hu2D9"
   },
   {
-    "title": "DOS DÍAS",
-    "artist": "Tito Double P",
-    "appleID": "dos-d%C3%ADas/1761412603"
-  },
-  {
     "title": "White Christmas",
     "artist": "Bing Crosby",
     "appleID": "white-christmas/1425235073"
@@ -431,13 +418,15 @@
   {
     "title": "Lies Lies Lies",
     "artist": "Morgan Wallen",
-    "appleID": "lies-lies-lies/1754189283"
+    "appleID": "lies-lies-lies/1754189283",
+    "youtubeID": "aN7WCsC9nkI"
   },
   {
     "title": "ROSONES",
     "artist": "Tito Double P",
     "appleID": "rosones/1783211314",
-    "spotifyID": "0LTwdL5yZ6YOTEGUQPFuSN"
+    "spotifyID": "0LTwdL5yZ6YOTEGUQPFuSN",
+    "youtubeID": "hrhu8OE4WMM"
   },
   {
     "title": "Messy",
@@ -509,11 +498,6 @@
     "youtubeID": "94Ye-3C1FC8"
   },
   {
-    "title": "Santa Claus Is Comin' to Town",
-    "artist": "Frank Sinatra",
-    "appleID": "santa-claus-is-comin-to-town/923608497"
-  },
-  {
     "title": "In A Minute",
     "artist": "Lil Baby",
     "appleID": "in-a-minute/1618285316"
@@ -521,23 +505,27 @@
   {
     "title": "Type Shit",
     "artist": "Future",
-    "appleID": "type-shit/1737150156"
+    "appleID": "type-shit/1737150156",
+    "youtubeID": "I0fgkcTbBoI"
   },
   {
     "title": "Last Night",
     "artist": "Morgan Wallen",
     "appleID": "last-night/1667990774",
-    "spotifyID": "7K3BhSpAxZBznislvUMVtn"
+    "spotifyID": "7K3BhSpAxZBznislvUMVtn",
+    "youtubeID": "bUjPPBxbQrQ"
   },
   {
     "title": "Like It's Christmas",
     "artist": "Jonas Brothers",
     "appleID": "like-its-christmas/1485796558",
-    "spotifyID": "1OjmlSFuzYflWjSMTCyTJv"
+    "spotifyID": "1OjmlSFuzYflWjSMTCyTJv",
+    "youtubeID": "tIyE3IrC7r0"
   },
   {
     "title": "LIKE ME",
-    "artist": "Future"
+    "artist": "Future",
+    "youtubeID": "0-45KAhyshI"
   },
   {
     "title": "Bed Chem",
@@ -555,11 +543,13 @@
   },
   {
     "title": "Knife Talk",
-    "artist": "Drake"
+    "artist": "Drake",
+    "youtubeID": "XqpQpt_cmhE"
   },
   {
     "title": "Wants and Needs",
-    "artist": "Drake"
+    "artist": "Drake",
+    "youtubeID": "0oBeEnY2CAQ"
   },
   {
     "title": "Sailor Song",
@@ -570,7 +560,13 @@
   },
   {
     "title": "You Make It Feel Like Christmas",
-    "artist": "Gwen Stefani"
+    "artist": "Gwen Stefani",
+    "youtubeID": "3ZT9_H4-hbM"
+  },
+  {
+    "title": "You Make It Feel Like Christmas",
+    "artist": "Gwen Stefani, Blake Shelton",
+    "youtubeID": "3ZT9_H4-hbM"
   },
   {
     "title": "Passport Junkie",
@@ -622,7 +618,16 @@
   {
     "title": "Please Come Home for Christmas",
     "artist": "Eagles",
-    "appleID": "please-come-home-for-christmas/635815759"
+    "appleID": "please-come-home-for-christmas/635815759",
+    "spotifyID": "3QIoEi8Enr9uHffwInGIsC",
+    "youtubeID": "5LUfDEATQHM"
+  },
+  {
+    "title": "Please Come Home for Christmas - 2013 Remaster",
+    "artist": "Eagles",
+    "appleID": "please-come-home-for-christmas/635815759",
+    "spotifyID": "3QIoEi8Enr9uHffwInGIsC",
+    "youtubeID": "5LUfDEATQHM"
   },
   {
     "title": "TGIF",
@@ -653,7 +658,8 @@
     "title": "goosebumps",
     "artist": "Travis Scott",
     "appleID": "goosebumps/1150135924",
-    "spotifyID": "6gBFPUFcJLzWGx4lenP6h2"
+    "spotifyID": "6gBFPUFcJLzWGx4lenP6h2",
+    "youtubeID": "Dst9gZkq1a8"
   },
   {
     "title": "Touchdown",
@@ -917,7 +923,13 @@
   },
   {
     "title": "FE!N",
-    "artist": "Travis Scott"
+    "artist": "Travis Scott",
+    "youtubeID": "B9synWjqBn8"
+  },
+  {
+    "title": "FE!N",
+    "artist": "Travis Scott, Playboi Carti",
+    "youtubeID": "B9synWjqBn8"
   },
   {
     "title": "one of wun",
@@ -1039,7 +1051,8 @@
     "title": "CHIHIRO",
     "artist": "Billie Eilish",
     "appleID": "chihiro/1739659141",
-    "spotifyID": "7BRD7x5pt8Lqa1eGYC4dzj"
+    "spotifyID": "7BRD7x5pt8Lqa1eGYC4dzj",
+    "youtubeID": "BY_XwvKogC8"
   },
   {
     "title": "drinks or coffee",
@@ -1138,7 +1151,8 @@
   {
     "title": "THE GREATEST",
     "artist": "Billie Eilish",
-    "appleID": "the-greatest/1739659145"
+    "appleID": "the-greatest/1739659145",
+    "youtubeID": "aZqCFE_9U9o"
   },
   {
     "title": "Fair Trade",
@@ -1177,7 +1191,8 @@
   {
     "title": "Dancing In The Flames",
     "artist": "The Weeknd",
-    "appleID": "dancing-in-the-flames/1767511513"
+    "appleID": "dancing-in-the-flames/1767511513",
+    "youtubeID": "gu0_ixJMx5U"
   },
   {
     "title": "I Love You, I'm Sorry",
@@ -1780,11 +1795,6 @@
     "spotifyID": "67mgz7S5y7hnCE63YBjfO6"
   },
   {
-    "title": "Merry Christmas",
-    "artist": "Ed Sheeran",
-    "appleID": "merry-christmas/1597450885"
-  },
-  {
     "title": "Sophia Loren",
     "artist": "Tymek",
     "appleID": "sophia-loren/1715307637",
@@ -1903,21 +1913,31 @@
   {
     "title": "Someday At Christmas",
     "artist": "Stevie Wonder",
-    "appleID": "someday-at-christmas/1749926250"
+    "appleID": "someday-at-christmas/1749926250",
+    "youtubeID": "MaA7B9cu4kU"
+  },
+  {
+    "title": "Someday At Christmas",
+    "artist": "Joy Denalane",
+    "appleID": "someday-at-christmas/1540020098",
+    "youtubeID": "vmp1lLy78cY"
   },
   {
     "title": "Mistletoe & Wine",
-    "artist": "Cliff Richard"
+    "artist": "Cliff Richard",
+    "youtubeID": "rZCEBibnRM8"
   },
   {
     "title": "Pada śnieg [2020 Remaster]",
-    "artist": "Edyta Gorniak"
+    "artist": "Edyta Gorniak",
+    "youtubeID": "Tu6PhXdH2ms"
   },
   {
     "title": "Z kopyta kulig rwie",
     "artist": "Skaldowie",
     "appleID": "z-kopyta-kulig-rwie/1066512620",
-    "spotifyID": "2g59LWL5y0BuPsyJZQTubb"
+    "spotifyID": "2g59LWL5y0BuPsyJZQTubb",
+    "youtubeID": "vai57ui11Ys"
   },
   {
     "title": "Złamane serce jest OK",
@@ -1930,7 +1950,8 @@
     "title": "Moscow Mule",
     "artist": "Bad Bunny",
     "appleID": "moscow-mule/1622045625",
-    "spotifyID": "6Xom58OOXk2SoU711L2IXO"
+    "spotifyID": "6Xom58OOXk2SoU711L2IXO",
+    "youtubeID": "p38WgakuYDo"
   },
   {
     "title": "EL LOKERÓN",
@@ -1942,7 +1963,8 @@
     "title": "Déjame Entrar",
     "artist": "Rauw Alejandro",
     "appleID": "d%C3%A9jame-entrar/1775462852",
-    "spotifyID": "5tZgkV8FTe3rtl8OcSeQAb"
+    "spotifyID": "5tZgkV8FTe3rtl8OcSeQAb",
+    "youtubeID": "UUzmHevEneY"
   },
   {
     "title": "Tú Con Él",
@@ -3378,10 +3400,6 @@
     "artist": "Andy Williams",
     "appleID": "happy-holiday-the-holiday-season/171434558",
     "spotifyID": "1Wf14bTyb6UeKojy8ykPYm"
-  },
-  {
-    "title": "Santa Claus Is Comin' to Town",
-    "artist": "Bruce Springsteen"
   },
   {
     "title": "Silver Bells",
@@ -5109,17 +5127,20 @@
   {
     "title": "Whites",
     "artist": "Masicka",
-    "appleID": "whites/1777116735"
+    "appleID": "whites/1777116735",
+    "youtubeID": "2C0mGEfQnt4"
   },
   {
     "title": "Scream",
     "artist": "Jah Vinci",
-    "appleID": "scream/1781731740"
+    "appleID": "scream/1781731740",
+    "youtubeID": "XiZ8gCNZpPw"
   },
   {
     "title": "Cocoa Tea",
     "artist": "Kes",
-    "appleID": "cocoa-tea/1778350176"
+    "appleID": "cocoa-tea/1778350176",
+    "youtubeID": "GiKDPyAADeM"
   },
   {
     "title": "IRan",
@@ -5129,7 +5150,8 @@
   },
   {
     "title": "7:00",
-    "artist": "Malie Donn"
+    "artist": "Malie Donn",
+    "youtubeID": "PdoPIpKdsPI"
   },
   {
     "title": "ROUGH PATCH",
@@ -5139,12 +5161,14 @@
   {
     "title": "Get Up",
     "artist": "SQUASH",
-    "appleID": "get-up/1769704571"
+    "appleID": "get-up/1769704571",
+    "youtubeID": "u1SBBofdFUM"
   },
   {
     "title": "Don’t Fall",
     "artist": "Chronic Law",
-    "appleID": "dont-fall/1738365979"
+    "appleID": "dont-fall/1738365979",
+    "youtubeID": "CaJBWcTLgbM"
   },
   {
     "title": "Last Lap",
@@ -5154,12 +5178,14 @@
   {
     "title": "Tyrant",
     "artist": "Masicka",
-    "appleID": "tyrant/1687575941"
+    "appleID": "tyrant/1687575941",
+    "youtubeID": "AGonQbpNooU"
   },
   {
     "title": "Shubout",
     "artist": "SQUASH",
-    "appleID": "shubout/1757871236"
+    "appleID": "shubout/1757871236",
+    "youtubeID": "jltjjqz0-Rg"
   },
   {
     "title": "Still a Bleed",
@@ -5169,179 +5195,216 @@
   {
     "title": "Big Breeze",
     "artist": "SQUASH",
-    "appleID": "big-breeze/1742858758"
+    "appleID": "big-breeze/1742858758",
+    "youtubeID": "Yo3QyiD28Dc"
   },
   {
     "title": "Cups Up",
     "artist": "Malie Donn",
-    "appleID": "cups-up/1691201515"
+    "appleID": "cups-up/1691201515",
+    "youtubeID": "_7OrZfivZqE"
   },
   {
     "title": "Grimey",
     "artist": "Chronic Law",
-    "appleID": "grimey/1779792317"
+    "appleID": "grimey/1779792317",
+    "youtubeID": "HXyLOMbOYlY"
   },
   {
     "title": "Who Fi Stop We",
     "artist": "Masicka",
-    "appleID": "who-fi-stop-we/1775847902"
+    "appleID": "who-fi-stop-we/1775847902",
+    "youtubeID": "7R3hj9F6SJg"
   },
   {
     "title": "Alive",
-    "artist": "Malie Donn"
+    "artist": "Malie Donn",
+    "youtubeID": "dsWhA8feQhw"
   },
   {
     "title": "I Love Freaks",
-    "artist": "Mafi"
+    "artist": "Mafi",
+    "youtubeID": "4kfjaTlRpMU"
   },
   {
     "title": "Choppa",
     "artist": "Byron Messia",
-    "appleID": "choppa/1732826749"
+    "appleID": "choppa/1732826749",
+    "youtubeID": "TDdt47nmGl8"
   },
   {
     "title": "Pounds",
     "artist": "Armanii",
-    "appleID": "pounds/1756564617"
+    "appleID": "pounds/1756564617",
+    "youtubeID": "QRNaLVXxGwI"
   },
   {
     "title": "Corrupt",
     "artist": "Chronic Law",
-    "appleID": "corrupt/1639060183"
+    "appleID": "corrupt/1639060183",
+    "youtubeID": "BaPGK-HMEZg"
   },
   {
     "title": "Wicked",
-    "artist": "AkaiiUsweet"
+    "artist": "AkaiiUsweet",
+    "youtubeID": "QpD1_Kx5qS4"
   },
   {
     "title": "Pain",
-    "artist": "Masicka"
+    "artist": "Masicka",
+    "youtubeID": "XEAaf_Na36Q"
   },
   {
     "title": "Saved by a Psalm",
     "artist": "Govana",
-    "appleID": "saved-by-a-psalm/1749553132"
+    "appleID": "saved-by-a-psalm/1749553132",
+    "youtubeID": "QF-w-tdJGeI"
   },
   {
     "title": "Te Amo",
     "artist": "Chronic Law",
-    "appleID": "te-amo/1773782879"
+    "appleID": "te-amo/1773782879",
+    "youtubeID": "sm6NW6uU8eo"
   },
   {
     "title": "Obsessed",
     "artist": "Kman 6ixx",
-    "appleID": "obsessed/1758810621"
+    "appleID": "obsessed/1758810621",
+    "youtubeID": "alAoJuqFsMI"
   },
   {
     "title": "ATL",
     "artist": "Chronic Law",
-    "appleID": "atl/1772688396"
+    "appleID": "atl/1772688396",
+    "youtubeID": "h24DnMBRCic"
   },
   {
     "title": "Never Complain",
-    "artist": "Teejay"
+    "artist": "Teejay",
+    "youtubeID": "pM-KzO9P0To"
   },
   {
     "title": "Under You",
     "artist": "Dejour",
-    "appleID": "under-you/1780023034"
+    "appleID": "under-you/1780023034",
+    "youtubeID": "V4YxpElnvfk"
   },
   {
     "title": "Believe",
     "artist": "Prince Swanny",
-    "appleID": "believe/1776653328"
+    "appleID": "believe/1776653328",
+    "youtubeID": "VrJPHxcDLnk"
   },
   {
     "title": "Empty",
     "artist": "Chronic Law",
-    "appleID": "empty/1631582758"
+    "appleID": "empty/1631582758",
+    "youtubeID": "AOME31tgxnk"
   },
   {
     "title": "Wanted Luv",
     "artist": "Chronic Law",
-    "appleID": "wanted-luv/1726764032"
+    "appleID": "wanted-luv/1726764032",
+    "youtubeID": "4mAFiQ2nx9Y"
   },
   {
     "title": "Fada Dark",
     "artist": "Chronic Law",
-    "appleID": "fada-dark/1781382235"
+    "appleID": "fada-dark/1781382235",
+    "youtubeID": "YzHwM7_iXMo"
   },
   {
     "title": "People",
     "artist": "Teejay",
-    "appleID": "people/1640751097"
+    "appleID": "people/1640751097",
+    "youtubeID": "iPGu2FzezW8"
   },
   {
     "title": "Rolling Calf",
     "artist": "Chronic Law",
-    "appleID": "rolling-calf/1581452880"
+    "appleID": "rolling-calf/1581452880",
+    "youtubeID": "0fZIuCSwHR0"
   },
   {
     "title": "Show Them",
-    "artist": "Kman 6ixx"
+    "artist": "Kman 6ixx",
+    "youtubeID": "bNJuspOgP1U"
   },
   {
     "title": "20 Matic",
     "artist": "Masicka",
-    "appleID": "20-matic/1753155292"
+    "appleID": "20-matic/1753155292",
+    "youtubeID": "X-g2GKsxeN8"
   },
   {
     "title": "Angel With An Attitude",
     "artist": "Rod Wave",
-    "appleID": "angel-with-an-attitude/1772368562"
+    "appleID": "angel-with-an-attitude/1772368562",
+    "youtubeID": "sVJYuRPeLJk"
   },
   {
     "title": "Moments",
-    "artist": "Masicka"
+    "artist": "Masicka",
+    "youtubeID": "D9_fuL0rJKg"
   },
   {
     "title": "Expensive",
     "artist": "Valiant",
-    "appleID": "expensive/1674670010"
+    "appleID": "expensive/1674670010",
+    "youtubeID": "nuMKdd_JkHo"
   },
   {
     "title": "Triumph",
     "artist": "Masicka",
-    "appleID": "triumph/1718009985"
+    "appleID": "triumph/1718009985",
+    "youtubeID": "XlbOvWJoQmw"
   },
   {
     "title": "Baddest In The Room",
     "artist": "Fridayy",
-    "appleID": "baddest-in-the-room/1750796336"
+    "appleID": "baddest-in-the-room/1750796336",
+    "youtubeID": "uijhGM3pVCY"
   },
   {
     "title": "Inside Scars",
     "artist": "Chronic Law",
-    "appleID": "inside-scars/1779576260"
+    "appleID": "inside-scars/1779576260",
+    "youtubeID": "_w2wxImBIcw"
   },
   {
     "title": "YOU & I",
     "artist": "Armanii",
-    "appleID": "you-i/1762755569"
+    "appleID": "you-i/1762755569",
+    "youtubeID": "eu_TpFSdxsk"
   },
   {
     "title": "Dungeon",
     "artist": "Malie Donn",
-    "appleID": "dungeon/1703655702"
+    "appleID": "dungeon/1703655702",
+    "youtubeID": "Q4LoZSRlnfg"
   },
   {
     "title": "Tack Back",
     "artist": "Kes",
-    "appleID": "tack-back/1714834281"
+    "appleID": "tack-back/1714834281",
+    "youtubeID": "PYz2vfTPJK8"
   },
   {
     "title": "Pestilence",
-    "artist": "Kman 6ixx"
+    "artist": "Kman 6ixx",
+    "youtubeID": "s75m2KHs6sw"
   },
   {
     "title": "Scared Love",
     "artist": "Rod Wave",
-    "appleID": "scared-love/1772368577"
+    "appleID": "scared-love/1772368577",
+    "youtubeID": "UwWSpSaBuaU"
   },
   {
     "title": "HULU",
     "artist": "Armanii",
-    "appleID": "hulu/1774726625"
+    "appleID": "hulu/1774726625",
+    "youtubeID": "qvtS2qTpksU"
   },
   {
     "title": "POTENTIAL",
@@ -5404,108 +5467,130 @@
   {
     "title": "IKATION",
     "artist": "Kraff Gad",
-    "appleID": "ikation/1768079373"
+    "appleID": "ikation/1768079373",
+    "youtubeID": "W7Ymf9DiBJA"
   },
   {
     "title": "Apply Pressure",
     "artist": "Rod Wave",
-    "appleID": "apply-pressure/1772368557"
+    "appleID": "apply-pressure/1772368557",
+    "youtubeID": "2txeSE5Ahhc"
   },
   {
     "title": "Talibans",
     "artist": "Byron Messia",
-    "appleID": "talibans/1687535038"
+    "appleID": "talibans/1687535038",
+    "youtubeID": "DaGqWJws4WY"
   },
   {
     "title": "Mirage",
     "artist": "Alkaline",
-    "appleID": "mirage/1340015210"
+    "appleID": "mirage/1340015210",
+    "youtubeID": "eDyt4tlfD4w"
   },
   {
     "title": "Stars R Us",
     "artist": "Masicka",
-    "appleID": "stars-r-us/1718009971"
+    "appleID": "stars-r-us/1718009971",
+    "youtubeID": "vzZoiw8bIRk"
   },
   {
     "title": "Reverse Time",
     "artist": "Masicka",
-    "appleID": "reverse-time/1718009973"
+    "appleID": "reverse-time/1718009973",
+    "youtubeID": "3okTAtIHz8g"
   },
   {
     "title": "CPR",
     "artist": "Summer Walker",
-    "appleID": "cpr/1438765140"
+    "appleID": "cpr/1438765140",
+    "youtubeID": "1eomjy9Xy3M"
   },
   {
     "title": "HAAD",
-    "artist": "Armanii"
+    "artist": "Armanii",
+    "youtubeID": "-HdnnXfPUvs"
   },
   {
     "title": "Top Tier",
     "artist": "Jada Kingdom",
-    "appleID": "top-tier/1726512791"
+    "appleID": "top-tier/1726512791",
+    "youtubeID": "zCJ--CElyHQ"
   },
   {
     "title": "Narcos",
     "artist": "Hi Light",
-    "appleID": "narcos/1716387503"
+    "appleID": "narcos/1716387503",
+    "youtubeID": "4f7LqhRKzUM"
   },
   {
     "title": "Not Bad",
-    "artist": "Prince Swanny"
+    "artist": "Prince Swanny",
+    "youtubeID": "gAvCeHTq9Yo"
   },
   {
     "title": "Fall Fast in Love",
     "artist": "Rod Wave",
-    "appleID": "fall-fast-in-love/1766381138"
+    "appleID": "fall-fast-in-love/1766381138",
+    "youtubeID": "eM2hELFg3wE"
   },
   {
     "title": "Turtle Race",
     "artist": "Rod Wave",
-    "appleID": "turtle-race/1772368555"
+    "appleID": "turtle-race/1772368555",
+    "youtubeID": "XiD56kJQs40"
   },
   {
     "title": "Can You",
-    "artist": "Grand Masters Band"
+    "artist": "Grand Masters Band",
+    "youtubeID": "a5slBGr75P8"
   },
   {
     "title": "Vent",
     "artist": "Byron Messia",
-    "appleID": "vent/1687535030"
+    "appleID": "vent/1687535030",
+    "youtubeID": "K-TXDSiAZjE"
   },
   {
     "title": "Moca",
     "artist": "Byron Messia",
-    "appleID": "moca/1677752731"
+    "appleID": "moca/1677752731",
+    "youtubeID": "vU5aOY0qTgM"
   },
   {
     "title": "Bad Everyday",
-    "artist": "Skillibeng"
+    "artist": "Skillibeng",
+    "youtubeID": "e2OuC5dP6PM"
   },
   {
     "title": "Let Me Be",
     "artist": "Dejour",
-    "appleID": "let-me-be/1780023039"
+    "appleID": "let-me-be/1780023039",
+    "youtubeID": "6Az7kQGvMgM"
   },
   {
     "title": "Nobody Else",
     "artist": "Dejour",
-    "appleID": "nobody-else/1780023028"
+    "appleID": "nobody-else/1780023028",
+    "youtubeID": "1RutNKiJK5Y"
   },
   {
     "title": "Heart Freeze",
     "artist": "Chronic Law",
-    "appleID": "heart-freeze/1641173324"
+    "appleID": "heart-freeze/1641173324",
+    "youtubeID": "uDC88vPetVc"
   },
   {
     "title": "Proud",
     "artist": "Chronic Law",
-    "appleID": "proud/1680090469"
+    "appleID": "proud/1680090469",
+    "youtubeID": "TzsR0EwACNY"
   },
   {
     "title": "Bad",
     "artist": "Chronic Law",
-    "appleID": "bad/1747770010"
+    "appleID": "bad/1747770010",
+    "youtubeID": "XgXc0q4MlJ4"
   },
   {
     "title": "Кульбаби",
@@ -10457,11 +10542,6 @@
     "spotifyID": "64f3yNXsi2Vk76odcHCOnw"
   },
   {
-    "title": "Someday At Christmas",
-    "artist": "Joy Denalane",
-    "appleID": "someday-at-christmas/1540020098"
-  },
-  {
     "title": "White Christmas",
     "artist": "OneRepublic",
     "appleID": "white-christmas/1441150829"
@@ -14124,11 +14204,18 @@
   {
     "title": "Bitter Vacances",
     "artist": "Mrs. GREEN APPLE",
-    "appleID": "bitter-vacances/1780452035"
+    "appleID": "bitter-vacances/1780452035",
+    "youtubeID": "-6YeAmmRdoA"
   },
   {
     "title": "Otonoke",
-    "artist": "Creepy Nuts"
+    "artist": "Creepy Nuts",
+    "spotifyID": "6KYOlIwDHbrbeBbJEtQ0Fj"
+  },
+  {
+    "title": "オトノケ - Otonoke - Opening Theme to DAN DA DAN",
+    "artist": "Creepy Nuts",
+    "spotifyID": "6KYOlIwDHbrbeBbJEtQ0Fj"
   },
   {
     "title": "Soranji",
@@ -19180,7 +19267,8 @@
   {
     "title": "Good Days",
     "artist": "SZA",
-    "appleID": "good-days/1546390051"
+    "appleID": "good-days/1546390051",
+    "youtubeID": "0BdlKkvjEgA"
   },
   {
     "title": "You'll Be Safe Here",
@@ -19190,7 +19278,8 @@
   },
   {
     "title": "Kiss Me More",
-    "artist": "Doja Cat"
+    "artist": "Doja Cat",
+    "youtubeID": "0EVVKs6DQLo"
   },
   {
     "title": "Museo",
@@ -19201,12 +19290,8 @@
   {
     "title": "Guilty as Sin?",
     "artist": "Taylor Swift",
-    "appleID": "guilty-as-sin/1742058097"
-  },
-  {
-    "title": "Burgis",
-    "artist": "Flow G",
-    "appleID": "burgis/1733636732"
+    "appleID": "guilty-as-sin/1742058097",
+    "youtubeID": "OOYlWF6V8t8"
   },
   {
     "title": "Feather",
@@ -23137,7 +23222,6 @@
     "artist": "BIGBANG",
     "youtubeID": "eN5mG_yMDiM"
   },
-
   {
     "title": "다시 만날 수 있을까",
     "artist": "임영웅",
@@ -23228,7 +23312,23 @@
   },
   {
     "title": "Must Have Love",
-    "artist": "SG워너비 & 브라운아이드걸스"
+    "artist": "SG워너비 & 브라운아이드걸스",
+    "youtubeID": "29Snr9dRMcU"
+  },
+  {
+    "title": "살기위해서",
+    "artist": "순순희",
+    "youtubeID": "CX_XdfO6O1Y"
+  },
+  {
+    "title": "Walkin On Water",
+    "artist": "Stray Kids",
+    "youtubeID": "ovHoY8UBIu8"
+  },
+  {
+    "title": "Must Have Love",
+    "artist": "SG Wannabe & Brown Eyed Girls",
+    "youtubeID": "29Snr9dRMcU"
   },
   {
     "title": "인생찬가",
@@ -23810,7 +23910,6 @@
     "title": "Number One",
     "artist": "Rayvanny"
   },
-
   {
     "title": "Particula",
     "artist": "Major Lazer & DJ Maphorisa"
@@ -24814,11 +24913,6 @@
     "artist": "Kbp el Terrorista"
   },
   {
-    "title": "DOS DÍAS",
-    "artist": "Tito Double P & Peso Pluma",
-    "youtubeID": "nne3lXKc1OU"
-  },
-  {
     "title": "QUE VAS HACER HOY?",
     "artist": "Omar Courtz & DE LA ROSE",
     "youtubeID": "Lu8u_SEjt1Y"
@@ -25334,11 +25428,6 @@
     "title": "Bezos Vs Hung Up",
     "artist": "",
     "youtubeID": "XabDpkqWMX0"
-  },
-  {
-    "title": "Merry Christmas",
-    "artist": "Ed Sheeran & Elton John",
-    "youtubeID": "Q_yuO8UNGmY"
   },
   {
     "title": "ZEMRAT E MIA",
@@ -32018,7 +32107,6 @@
     "title": "Fate",
     "artist": "I-DLE"
   },
-
   {
     "title": "晩餐歌",
     "artist": "tuki.",
@@ -32067,11 +32155,6 @@
     "title": "I Don’t Think That I Like Her",
     "artist": "Charlie Puth",
     "youtubeID": "9voN0gkdlS4"
-  },
-  {
-    "title": "Must Have Love",
-    "artist": "SG Wannabe & Brown Eyed Girls",
-    "youtubeID": "29Snr9dRMcU"
   },
   {
     "title": "オトノケ",
@@ -32166,7 +32249,6 @@
     "title": "Stitching",
     "artist": "DAVICHI"
   },
-
   {
     "title": "好きだから。",
     "artist": "Yuika",
@@ -37647,7 +37729,8 @@
   },
   {
     "title": "The Christmas Song",
-    "artist": "Nat King Cole"
+    "artist": "Nat King Cole",
+    "youtubeID": "wKhRnZZ0cJI"
   },
   {
     "title": "White Christmas - 1947 Version",
@@ -37681,7 +37764,16 @@
   {
     "title": "Little Saint Nick - 1991 Remix",
     "artist": "The Beach Boys",
-    "spotifyID": "5xlS0QkVrSH7ssEbBgBzbM"
+    "appleID": "little-saint-nick/1440856020",
+    "spotifyID": "5xlS0QkVrSH7ssEbBgBzbM",
+    "youtubeID": "xp9rK8FmYog"
+  },
+  {
+    "title": "Little Saint Nick",
+    "artist": "The Beach Boys",
+    "appleID": "little-saint-nick/1440856020",
+    "spotifyID": "5xlS0QkVrSH7ssEbBgBzbM",
+    "youtubeID": "xp9rK8FmYog"
   },
   {
     "title": "I Had Some Help",
@@ -37749,11 +37841,6 @@
     "spotifyID": "47otoIkhx3fkdivEXL5OB6"
   },
   {
-    "title": "Please Come Home for Christmas - 2013 Remaster",
-    "artist": "Eagles",
-    "spotifyID": "3QIoEi8Enr9uHffwInGIsC"
-  },
-  {
     "title": "What Is This Feeling?",
     "artist": "Ariana Grande, Cynthia Erivo",
     "spotifyID": "7eGuPhpdS8sBjPJNuAShUX"
@@ -37771,7 +37858,6 @@
     "artist": "Mitski",
     "spotifyID": "3vkCueOmm7xQDoJ17W1Pm3"
   },
-
   {
     "title": "on one tonight",
     "artist": "Gunna",
@@ -37823,10 +37909,6 @@
     "artist": "Bee Remix"
   },
   {
-    "title": "FE!N",
-    "artist": "Travis Scott, Playboi Carti"
-  },
-  {
     "title": "One Of The Girls",
     "artist": "The Weeknd, JENNIE, Lily-Rose Depp"
   },
@@ -37835,7 +37917,6 @@
     "artist": "Jin",
     "spotifyID": "2SR0alFA2oWYXSoePGTj0V"
   },
-
   {
     "title": "حبيبي راح مسرع",
     "artist": "Kstr",
@@ -38187,7 +38268,23 @@
   {
     "title": "Merry Christmas",
     "artist": "Ed Sheeran, Elton John",
-    "spotifyID": "0hz5PNF2wejwUKCMpesQWt"
+    "spotifyID": "0hz5PNF2wejwUKCMpesQWt",
+    "appleID": "merry-christmas/1597450885",
+    "youtubeID": "Q_yuO8UNGmY"
+  },
+  {
+    "title": "Merry Christmas",
+    "artist": "Ed Sheeran & Elton John",
+    "spotifyID": "0hz5PNF2wejwUKCMpesQWt",
+    "appleID": "merry-christmas/1597450885",
+    "youtubeID": "Q_yuO8UNGmY"
+  },
+  {
+    "title": "Merry Christmas",
+    "artist": "Ed Sheeran",
+    "spotifyID": "0hz5PNF2wejwUKCMpesQWt",
+    "appleID": "merry-christmas/1597450885",
+    "youtubeID": "Q_yuO8UNGmY"
   },
   {
     "title": "Nicea",
@@ -38226,7 +38323,23 @@
   {
     "title": "DOS DÍAS",
     "artist": "Tito Double P, Peso Pluma",
-    "spotifyID": "5lKFO0PrOC9jmOlPEdjHsL"
+    "appleID": "dos-d%C3%ADas/1761412603",
+    "spotifyID": "5lKFO0PrOC9jmOlPEdjHsL",
+    "youtubeID": "nne3lXKc1OU"
+  },
+  {
+    "title": "DOS DÍAS",
+    "artist": "Tito Double P & Peso Pluma",
+    "appleID": "dos-d%C3%ADas/1761412603",
+    "spotifyID": "5lKFO0PrOC9jmOlPEdjHsL",
+    "youtubeID": "nne3lXKc1OU"
+  },
+  {
+    "title": "DOS DÍAS",
+    "artist": "Tito Double P",
+    "appleID": "dos-d%C3%ADas/1761412603",
+    "spotifyID": "5lKFO0PrOC9jmOlPEdjHsL",
+    "youtubeID": "nne3lXKc1OU"
   },
   {
     "title": "Si No Quieres No",
@@ -41099,7 +41212,22 @@
   {
     "title": "Santa Claus Is Comin' to Town - Live at C.W. Post College, Greenvale, NY - December 1975",
     "artist": "Bruce Springsteen",
-    "spotifyID": "6s2wpWPFPAgKg2LXxi1Oee"
+    "appleID": "santa-claus-is-comin-to-town/923608497",
+    "spotifyID": "6s2wpWPFPAgKg2LXxi1Oee",
+    "youtubeID": "76WFkKp8Tjs"
+  },
+  {
+    "title": "Santa Claus Is Comin' to Town",
+    "artist": "Bruce Springsteen",
+    "appleID": "santa-claus-is-comin-to-town/923608497",
+    "spotifyID": "6s2wpWPFPAgKg2LXxi1Oee",
+    "youtubeID": "76WFkKp8Tjs"
+  },
+  {
+    "title": "Santa Claus Is Comin' to Town",
+    "artist": "Frank Sinatra",
+    "appleID": "santa-claus-is-comin-to-town/923608497",
+    "youtubeID": "rHKn6N-1_EY"
   },
   {
     "title": "Waterdicht",
@@ -41842,6 +41970,11 @@
     "spotifyID": "6xqQDwzjswlToEEHgvA3KM"
   },
   {
+    "title": "Indigo",
+    "artist": "Sam Barber",
+    "spotifyID": "0iMPhRWExTo"
+  },
+  {
     "title": "Dame La Verde",
     "artist": "Luar La L, Dei V",
     "spotifyID": "6onnX1hYWcqP2dXgfvExNG"
@@ -42097,10 +42230,6 @@
     "title": "Es schneit",
     "artist": "Rolf Zuckowski",
     "spotifyID": "4NhNX3C9Ue4gatgwHQobyY"
-  },
-  {
-    "title": "You Make It Feel Like Christmas",
-    "artist": "Gwen Stefani, Blake Shelton"
   },
   {
     "title": "PLAYBOYBUNNIES",
@@ -43637,6 +43766,12 @@
   {
     "title": "Mirame",
     "artist": "Boy Wonder CF, Tivi Gunz, Nino Freestyle, Three Seven Music, The Chosen Few"
+  },
+  {
+    "title": "Freestyle",
+    "artist": "Lil Baby",
+    "appleID": "freestyle/1440929293",
+    "youtubeID": "MHryuYVyHhk"
   },
   {
     "title": "Skrr",
@@ -46086,22 +46221,34 @@
   {
     "title": "Burgis",
     "artist": "Flow G, Hev Abi",
-    "spotifyID": "3O5P2ZDUwExzcIdZkJwFq1"
+    "spotifyID": "3O5P2ZDUwExzcIdZkJwFq1",
+    "appleID": "burgis/1733636732",
+    "youtubeID": "v_-DGRtD4_I"
+  },
+  {
+    "title": "Burgis",
+    "artist": "Flow G",
+    "spotifyID": "3O5P2ZDUwExzcIdZkJwFq1",
+    "appleID": "burgis/1733636732",
+    "youtubeID": "v_-DGRtD4_I"
   },
   {
     "title": "The Day You Said Goodnight",
     "artist": "Hale",
-    "spotifyID": "08hFNg8Oz3lvaAms7qrIif"
+    "spotifyID": "08hFNg8Oz3lvaAms7qrIif",
+    "youtubeID": "DbIY9NSho8Y"
   },
   {
     "title": "Kung Wala Ka",
     "artist": "Hale",
-    "spotifyID": "4he4CYDhvSPTxQc0e0Le1L"
+    "spotifyID": "4he4CYDhvSPTxQc0e0Le1L",
+    "youtubeID": "OgMvTXPPMWU"
   },
   {
     "title": "Unti-Unti",
     "artist": "Up Dharma Down",
-    "spotifyID": "0DdC92EziGIEN6j7kTCKQX"
+    "spotifyID": "0DdC92EziGIEN6j7kTCKQX",
+    "youtubeID": "g2t7utfVD50"
   },
   {
     "title": "Wag Na",
@@ -48999,7 +49146,6 @@
     "artist": "NewJeans",
     "youtubeID": "Q3K0TOvTOno"
   },
-
   {
     "title": "Small girl",
     "artist": "Lee Young Ji",
@@ -49080,7 +49226,6 @@
     "artist": "Jimin",
     "youtubeID": "Av9DvtlJ9_M"
   },
-
   {
     "title": "Chk Chk Boom",
     "artist": "Stray Kids",
@@ -49096,7 +49241,6 @@
     "artist": "Lim Young-woong",
     "youtubeID": "2WGc-5VdoGw"
   },
-
   {
     "title": "Boom Boom Bass",
     "artist": "RIIZE",
@@ -49152,7 +49296,6 @@
     "artist": "Nerd Connection",
     "youtubeID": "IMWT6937uUs"
   },
-
   {
     "title": "디스코드",
     "artist": "QWER",
@@ -49168,7 +49311,6 @@
     "artist": "Crush",
     "youtubeID": "Z4qVfCi_lUI"
   },
-
   {
     "title": "晩餐歌",
     "artist": "tuki.",
@@ -49474,7 +49616,6 @@
     "artist": "IVE",
     "youtubeID": "07EzMbVH3QE"
   },
-
   {
     "title": "Accendio",
     "artist": "IVE",
@@ -49560,7 +49701,6 @@
     "artist": "BIBI",
     "youtubeID": "smdmEhkIRVc"
   },
-
   {
     "title": "Super Shy",
     "artist": "NewJeans",
@@ -49591,7 +49731,6 @@
     "artist": "AKMU",
     "youtubeID": "3kGAlp_PNUg"
   },
-
   {
     "title": "Rhapsody of Sadness",
     "artist": "Lim Jae Hyun",
@@ -49662,7 +49801,6 @@
     "artist": "Lee Mujin",
     "youtubeID": "e7JladYoq9U"
   },
-
   {
     "title": "LUNCH",
     "artist": "Billie Eilish",
@@ -50020,13 +50158,11 @@
     "artist": "ECLIPSE",
     "youtubeID": "ESWcsKySnNs"
   },
-
   {
     "title": "나는 반딧불",
     "artist": "Lunch",
     "youtubeID": "YRcYiIBuWMQ"
   },
-
   {
     "title": "Fate",
     "artist": "I-DLE",
@@ -50047,13 +50183,11 @@
     "artist": "Car, the Garden",
     "youtubeID": "CAxPgfOqtr8"
   },
-
   {
     "title": "Warmth",
     "artist": "Lim Young-woong",
     "youtubeID": "2WGc-5VdoGw"
   },
-
   {
     "title": "Bubble Gum",
     "artist": "NewJeans",
@@ -50094,7 +50228,6 @@
     "artist": "FIFTY FIFTY",
     "youtubeID": "uuLC6wfVA8Q"
   },
-
   {
     "title": "APT",
     "artist": "Jang Beom June",
@@ -50145,7 +50278,6 @@
     "artist": "VIVIZ",
     "youtubeID": "_ow5Yp9RWhM"
   },
-
   {
     "title": "CROOKED",
     "artist": "G-DRAGON",
@@ -50297,11 +50429,6 @@
     "youtubeID": "SlPhMPnQ58k"
   },
   {
-    "title": "Must Have Love",
-    "artist": "SG Wannabe & Brown Eyed Girls",
-    "youtubeID": "29Snr9dRMcU"
-  },
-  {
     "title": "No Doubt",
     "artist": "ENHYPEN",
     "youtubeID": "rDolt3jJRsM"
@@ -50311,7 +50438,6 @@
     "artist": "Damons Year",
     "youtubeID": "VHj6IYA-Dxs"
   },
-
   {
     "title": "BIRDS OF A FEATHER",
     "artist": "Billie Eilish",
@@ -50332,7 +50458,6 @@
     "artist": "Zia",
     "youtubeID": "j2t_VmzuZSc"
   },
-
   {
     "title": "붉은 노을",
     "artist": "BIGBANG",
@@ -50348,7 +50473,6 @@
     "artist": "The Black Skirts",
     "youtubeID": "Aq_gsctWHtQ"
   },
-
   {
     "title": "Fate",
     "artist": "I-DLE",
@@ -50384,7 +50508,6 @@
     "artist": "LE SSERAFIM",
     "youtubeID": "bNKXxwOQYB8"
   },
-
   {
     "title": "Drama",
     "artist": "aespa",
@@ -50425,7 +50548,6 @@
     "artist": "Lim Jae Hyun",
     "youtubeID": "TyCYGCCD6iQ"
   },
-
   {
     "title": "When you alone",
     "artist": "Woody",
@@ -50461,7 +50583,6 @@
     "artist": "Nerd Connection",
     "youtubeID": "IMWT6937uUs"
   },
-
   {
     "title": "Shut Down",
     "artist": "BLACKPINK",
@@ -50482,7 +50603,6 @@
     "artist": "NewJeans",
     "youtubeID": "ArmDp-zijuc"
   },
-
   {
     "title": "Love Lee",
     "artist": "AKMU",
@@ -50833,7 +50953,6 @@
     "artist": "IVE",
     "youtubeID": "07EzMbVH3QE"
   },
-
   {
     "title": "Bubble Gum",
     "artist": "NewJeans",
@@ -50844,7 +50963,6 @@
     "artist": "I-DLE",
     "youtubeID": "ATK7gAaZTOM"
   },
-
   {
     "title": "Sudden Shower",
     "artist": "ECLIPSE",
@@ -50900,7 +51018,6 @@
     "artist": "NewJeans",
     "youtubeID": "jOTfBlKSQYY"
   },
-
   {
     "title": "동창회",
     "artist": "TimeFeveR",
@@ -50926,7 +51043,6 @@
     "artist": "DAY6",
     "youtubeID": "RowlrvmyFEk"
   },
-
   {
     "title": "Blue Moon",
     "artist": "N.Flying",
@@ -51272,7 +51388,6 @@
     "artist": "WOODZ",
     "youtubeID": "tiKFuzpX-NA"
   },
-
   {
     "title": "Supernatural",
     "artist": "NewJeans",
@@ -51298,7 +51413,6 @@
     "artist": "aespa",
     "youtubeID": "nFYwcndNuOY"
   },
-
   {
     "title": "Rockstar",
     "artist": "LISA",
@@ -51324,7 +51438,6 @@
     "artist": "ECLIPSE",
     "youtubeID": "ESWcsKySnNs"
   },
-
   {
     "title": "Right Now",
     "artist": "NewJeans",
@@ -51345,7 +51458,6 @@
     "artist": "RIIZE",
     "youtubeID": "78lNnCitcBM"
   },
-
   {
     "title": "내가 S면 넌 나의 N이 되어줘",
     "artist": "TWS",
@@ -51361,13 +51473,11 @@
     "artist": "NAYEON",
     "youtubeID": "oUZttxRcPZw"
   },
-
   {
     "title": "Accendio",
     "artist": "IVE",
     "youtubeID": "PGLx4V680J8"
   },
-
   {
     "title": "I Will",
     "artist": "Ha Dong Qn",
@@ -51398,7 +51508,6 @@
     "artist": "BABYMONSTER",
     "youtubeID": "2wA_b6YHjqQ"
   },
-
   {
     "title": "ETA",
     "artist": "NewJeans",
@@ -51444,7 +51553,6 @@
     "artist": "Men's Tear",
     "youtubeID": "ems6T2dXkgU"
   },
-
   {
     "title": "디스코드",
     "artist": "QWER",
@@ -51745,7 +51853,6 @@
     "artist": "I-DLE",
     "youtubeID": "ATK7gAaZTOM"
   },
-
   {
     "title": "Holssi",
     "artist": "IU",
@@ -51796,7 +51903,6 @@
     "artist": "I-DLE",
     "youtubeID": "baaNwRAhHBo"
   },
-
   {
     "title": "디스코드",
     "artist": "QWER",
@@ -51832,7 +51938,6 @@
     "artist": "RIIZE",
     "youtubeID": "0TAAUWHo4Ec"
   },
-
   {
     "title": "Shopper",
     "artist": "IU",
@@ -51843,13 +51948,11 @@
     "artist": "NMIXX",
     "youtubeID": "7UecFm_bSTU"
   },
-
   {
     "title": "If I have you only",
     "artist": "Nerd Connection",
     "youtubeID": "IMWT6937uUs"
   },
-
   {
     "title": "Get A Guitar",
     "artist": "RIIZE",
@@ -51925,7 +52028,6 @@
     "artist": "IU",
     "youtubeID": "_ZfT3M6ZKEM"
   },
-
   {
     "title": "ONE SPARK",
     "artist": "TWICE",
@@ -52061,7 +52163,6 @@
     "artist": "HYUKOH",
     "youtubeID": "bVrW1eDMtL8"
   },
-
   {
     "title": "사랑..그게 뭔데",
     "artist": "Zia",
@@ -52297,7 +52398,6 @@
     "artist": "tuki.",
     "youtubeID": "oZpYEEcvu5I"
   },
-
   {
     "title": "Bubble Gum",
     "artist": "NewJeans",
@@ -52313,7 +52413,6 @@
     "artist": "Lim Young-woong",
     "youtubeID": "2WGc-5VdoGw"
   },
-
   {
     "title": "SOS",
     "artist": "FIFTY FIFTY",
@@ -52334,7 +52433,6 @@
     "artist": "DAY6",
     "youtubeID": "x3sFsHrUyLQ"
   },
-
   {
     "title": "Home",
     "artist": "Lim Young-woong",
@@ -52350,7 +52448,6 @@
     "artist": "DAY6",
     "youtubeID": "yss4rIrHl6o"
   },
-
   {
     "title": "그래서 그대는",
     "artist": "DK",
@@ -52426,7 +52523,6 @@
     "artist": "Roy Kim",
     "youtubeID": "Jmr_EEDkV-U"
   },
-
   {
     "title": "Live My Life",
     "artist": "aespa",
@@ -52482,7 +52578,6 @@
     "artist": "LISA",
     "youtubeID": "pxGM_TOgHuM"
   },
-
   {
     "title": "어른",
     "artist": "Sondia",
@@ -52533,7 +52628,6 @@
     "artist": "BABYMONSTER",
     "youtubeID": "eJCHKjt0MPw"
   },
-
   {
     "title": "슈퍼슈퍼",
     "artist": "YOUNGTAK",
@@ -52634,7 +52728,6 @@
     "artist": "NewJeans",
     "youtubeID": "sVTy_wmn5SU"
   },
-
   {
     "title": "고민중독",
     "artist": "QWER",
@@ -52705,7 +52798,6 @@
     "artist": "LE SSERAFIM",
     "youtubeID": "KNexS61fjus"
   },
-
   {
     "title": "MANIAC",
     "artist": "VIVIZ",
@@ -52726,7 +52818,6 @@
     "artist": "KISS OF LIFE",
     "youtubeID": "oKVYm8mIUdo"
   },
-
   {
     "title": "디스코드",
     "artist": "QWER",
@@ -52752,7 +52843,6 @@
     "artist": "LE SSERAFIM",
     "youtubeID": "hLvWy2b857I"
   },
-
   {
     "title": "Rhapsody of Sadness",
     "artist": "Lim Jae Hyun",
@@ -52803,7 +52893,6 @@
     "artist": "aespa",
     "youtubeID": "Os_heh8vPfs"
   },
-
   {
     "title": "Earth, Wind & Fire",
     "artist": "BOYNEXTDOOR",
@@ -53216,25 +53305,21 @@
     "artist": "I-DLE",
     "youtubeID": "ATK7gAaZTOM"
   },
-
   {
     "title": "무제",
     "artist": "G-DRAGON",
     "youtubeID": "9kaCAbIXuyg"
   },
-
   {
     "title": "봄여름가을겨울",
     "artist": "BIGBANG",
     "youtubeID": "eN5mG_yMDiM"
   },
-
   {
     "title": "晩餐歌",
     "artist": "tuki.",
     "youtubeID": "oZpYEEcvu5I"
   },
-
   {
     "title": "Closely Far Away",
     "artist": "Car, the Garden",
@@ -53250,7 +53335,6 @@
     "artist": "Lim Young-woong",
     "youtubeID": "2WGc-5VdoGw"
   },
-
   {
     "title": "All I Want for Christmas Is You",
     "artist": "Mariah Carey",
@@ -53286,7 +53370,6 @@
     "artist": "Paul Kim",
     "youtubeID": "KHouJsSH4PM"
   },
-
   {
     "title": "NASA",
     "artist": "DEAN",
@@ -53306,11 +53389,6 @@
     "title": "I Don’t Think That I Like Her",
     "artist": "Charlie Puth",
     "youtubeID": "9voN0gkdlS4"
-  },
-  {
-    "title": "Must Have Love",
-    "artist": "SG Wannabe & Brown Eyed Girls",
-    "youtubeID": "29Snr9dRMcU"
   },
   {
     "title": "LAST DANCE",
@@ -53447,7 +53525,6 @@
     "artist": "DAY6",
     "youtubeID": "yss4rIrHl6o"
   },
-
   {
     "title": "好きだから。",
     "artist": "Yuika",
@@ -53463,7 +53540,6 @@
     "artist": "MEOVV",
     "youtubeID": "jpLHg-AsQV0"
   },
-
   {
     "title": "Defying Gravity",
     "artist": "Cynthia Erivo",
@@ -53534,19 +53610,16 @@
     "artist": "QWER",
     "youtubeID": "ImuWa3SJulY"
   },
-
   {
     "title": "How Sweet",
     "artist": "NewJeans",
     "youtubeID": "Q3K0TOvTOno"
   },
-
   {
     "title": "Armageddon",
     "artist": "aespa",
     "youtubeID": "nFYwcndNuOY"
   },
-
   {
     "title": "Fate",
     "artist": "I-DLE",
@@ -53607,13 +53680,11 @@
     "artist": "TWS",
     "youtubeID": "hVAc1Vf2ITU"
   },
-
   {
     "title": "Boom Boom Bass",
     "artist": "RIIZE",
     "youtubeID": "78lNnCitcBM"
   },
-
   {
     "title": "Drama",
     "artist": "aespa",
@@ -53639,7 +53710,6 @@
     "artist": "Lim Young-woong",
     "youtubeID": "2WGc-5VdoGw"
   },
-
   {
     "title": "Right Now",
     "artist": "NewJeans",
@@ -53675,7 +53745,6 @@
     "artist": "NewJeans",
     "youtubeID": "jOTfBlKSQYY"
   },
-
   {
     "title": "Rhapsody of Sadness",
     "artist": "Lim Jae Hyun",
@@ -53701,7 +53770,6 @@
     "artist": "Crush",
     "youtubeID": "Z4qVfCi_lUI"
   },
-
   {
     "title": "晩餐歌",
     "artist": "tuki.",
@@ -54057,7 +54125,6 @@
     "artist": "LEE CHANGSUB",
     "youtubeID": "fQ84rvbfa08"
   },
-
   {
     "title": "Sudden Shower",
     "artist": "ECLIPSE",
@@ -54073,13 +54140,11 @@
     "artist": "aespa",
     "youtubeID": "D8VEhcPeSlc"
   },
-
   {
     "title": "Coming Of Age Story",
     "artist": "Lee Mujin",
     "youtubeID": "NTWmbtEyJSo"
   },
-
   {
     "title": "CLIK CLAK",
     "artist": "BABYMONSTER",
@@ -54090,7 +54155,6 @@
     "artist": "NewJeans",
     "youtubeID": "ft70sAYrFyY"
   },
-
   {
     "title": "Warmth",
     "artist": "Lim Young-woong",
@@ -54141,7 +54205,6 @@
     "artist": "LE SSERAFIM",
     "youtubeID": "n6B5gQXlB-0"
   },
-
   {
     "title": "별별별",
     "artist": "NMIXX",
@@ -54182,7 +54245,6 @@
     "artist": "JIN",
     "youtubeID": "PWjZ3p1jNho"
   },
-
   {
     "title": "Say Yes",
     "artist": "Loco & Punch",
@@ -54318,7 +54380,6 @@
     "artist": "Cho Yong Pil",
     "youtubeID": "bo_dfa1p950"
   },
-
   {
     "title": "FOREVER",
     "artist": "BABYMONSTER",
@@ -54439,7 +54500,6 @@
     "artist": "MEOVV",
     "youtubeID": "jpLHg-AsQV0"
   },
-
   {
     "title": "How Sweet",
     "artist": "NewJeans",
@@ -54485,7 +54545,6 @@
     "artist": "NMIXX",
     "youtubeID": "_Q8Jskeps9w"
   },
-
   {
     "title": "Gravity",
     "artist": "FIFTY FIFTY",
@@ -54511,7 +54570,6 @@
     "artist": "FIFTY FIFTY",
     "youtubeID": "lzm-7YfBJBU"
   },
-
   {
     "title": "Bubble Gum",
     "artist": "NewJeans",
@@ -54542,7 +54600,6 @@
     "artist": "aespa",
     "youtubeID": "D8VEhcPeSlc"
   },
-
   {
     "title": "GGUM",
     "artist": "YEONJUN",
@@ -54563,7 +54620,6 @@
     "artist": "VIVIZ",
     "youtubeID": "9JFi7MmjtGA"
   },
-
   {
     "title": "NA",
     "artist": "HWASA",
@@ -54589,13 +54645,11 @@
     "artist": "Lim Jae Hyun",
     "youtubeID": "TyCYGCCD6iQ"
   },
-
   {
     "title": "Beautiful Things",
     "artist": "Benson Boone",
     "youtubeID": "Oa_RSwwpPaA"
   },
-
   {
     "title": "Love me or Leave me",
     "artist": "DAY6",
@@ -54646,7 +54700,6 @@
     "artist": "Kocchi no Kento",
     "youtubeID": "jzi6RNVEOtA"
   },
-
   {
     "title": "FOREVER",
     "artist": "BABYMONSTER",
@@ -54737,7 +54790,6 @@
     "artist": "Homies",
     "youtubeID": "UwZcOLvxkAA"
   },
-
   {
     "title": "When Spring Comes",
     "artist": "Roy Kim",
@@ -54833,13 +54885,11 @@
     "artist": "VIBE",
     "youtubeID": "_PKjh7IFPMM"
   },
-
   {
     "title": "Wife",
     "artist": "I-DLE",
     "youtubeID": "baaNwRAhHBo"
   },
-
   {
     "title": "Rhapsody of Sadness",
     "artist": "Lim Jae Hyun",
@@ -54860,7 +54910,6 @@
     "artist": "aespa",
     "youtubeID": "D8VEhcPeSlc"
   },
-
   {
     "title": "I Love You",
     "artist": "Ahn Se-ha",
@@ -54886,7 +54935,6 @@
     "artist": "NMIXX",
     "youtubeID": "7UecFm_bSTU"
   },
-
   {
     "title": "Bling-Bang-Bang-Born",
     "artist": "Creepy Nuts",
@@ -54937,7 +54985,6 @@
     "artist": "AKMU",
     "youtubeID": "3kGAlp_PNUg"
   },
-
   {
     "title": "I AM",
     "artist": "IVE",
@@ -55018,13 +55065,11 @@
     "artist": "SISTAR19",
     "youtubeID": "zBXhUQcmhT0"
   },
-
   {
     "title": "손오공",
     "artist": "SEVENTEEN",
     "youtubeID": "-GQg25oP0S4"
   },
-
   {
     "title": "Do or Die",
     "artist": "Lim Young-woong",
@@ -55310,13 +55355,11 @@
     "artist": "Younha",
     "youtubeID": "j1uXcHwLhHM"
   },
-
   {
     "title": "Rhapsody of Sadness",
     "artist": "Lim Jae Hyun",
     "youtubeID": "TyCYGCCD6iQ"
   },
-
   {
     "title": "MANIAC",
     "artist": "VIVIZ",
@@ -55337,7 +55380,6 @@
     "artist": "AKMU",
     "youtubeID": "3kGAlp_PNUg"
   },
-
   {
     "title": "White",
     "artist": "Paul Kim",
@@ -55368,7 +55410,6 @@
     "artist": "December",
     "youtubeID": "OMjDI2NqQ9M"
   },
-
   {
     "title": "Get A Guitar",
     "artist": "RIIZE",
@@ -55429,7 +55470,6 @@
     "artist": "MeloMance",
     "youtubeID": "UoBsiQW23IY"
   },
-
   {
     "title": "퀸카",
     "artist": "I-DLE",
@@ -55465,7 +55505,6 @@
     "artist": "IVE",
     "youtubeID": "_ApV7Lm87cg"
   },
-
   {
     "title": "Chill Kill",
     "artist": "Red Velvet",
@@ -55481,7 +55520,6 @@
     "artist": "QWER",
     "youtubeID": "1BTTbopyDWw"
   },
-
   {
     "title": "DIE 4 YOU",
     "artist": "DEAN",
@@ -55737,7 +55775,6 @@
     "artist": "I-DLE",
     "youtubeID": "ATK7gAaZTOM"
   },
-
   {
     "title": "plot twist",
     "artist": "TWS",
@@ -55753,7 +55790,6 @@
     "artist": "LE SSERAFIM",
     "youtubeID": "bNKXxwOQYB8"
   },
-
   {
     "title": "Drama",
     "artist": "aespa",
@@ -55799,7 +55835,6 @@
     "artist": "BABYMONSTER",
     "youtubeID": "2wA_b6YHjqQ"
   },
-
   {
     "title": "Rhapsody of Sadness",
     "artist": "Lim Jae Hyun",
@@ -55855,13 +55890,11 @@
     "artist": "QWER",
     "youtubeID": "ImuWa3SJulY"
   },
-
   {
     "title": "Attention",
     "artist": "NewJeans",
     "youtubeID": "js1CtxSY38I"
   },
-
   {
     "title": "Super Shy",
     "artist": "NewJeans",
@@ -56172,7 +56205,6 @@
     "artist": "Jagwar Twin",
     "youtubeID": "y5BJHYrbg1U"
   },
-
   {
     "title": "Nobody Knows",
     "artist": "KISS OF LIFE",
@@ -56223,7 +56255,6 @@
     "artist": "aespa",
     "youtubeID": "nFYwcndNuOY"
   },
-
   {
     "title": "Sudden Shower",
     "artist": "ECLIPSE",
@@ -56254,7 +56285,6 @@
     "artist": "YENA",
     "youtubeID": "MPp8hbuZwW0"
   },
-
   {
     "title": "SOS",
     "artist": "FIFTY FIFTY",
@@ -56270,7 +56300,6 @@
     "artist": "tuki.",
     "youtubeID": "oZpYEEcvu5I"
   },
-
   {
     "title": "녹아내려요",
     "artist": "DAY6",
@@ -56296,25 +56325,21 @@
     "artist": "DAY6",
     "youtubeID": "x3sFsHrUyLQ"
   },
-
   {
     "title": "Drama",
     "artist": "aespa",
     "youtubeID": "D8VEhcPeSlc"
   },
-
   {
     "title": "Home",
     "artist": "Lim Young-woong",
     "youtubeID": "zTmuZtjeNqo"
   },
-
   {
     "title": "해야",
     "artist": "IVE",
     "youtubeID": "07EzMbVH3QE"
   },
-
   {
     "title": "plot twist",
     "artist": "TWS",
@@ -56335,7 +56360,6 @@
     "artist": "KATSEYE",
     "youtubeID": "l9CZykYZkOQ"
   },
-
   {
     "title": "KICK BACK",
     "artist": "Leeraon",
@@ -56431,7 +56455,6 @@
     "artist": "natori",
     "youtubeID": "H08YWE4CIFQ"
   },
-
   {
     "title": "GGUM",
     "artist": "YEONJUN",
@@ -56447,7 +56470,6 @@
     "artist": "Gunho Jeon",
     "youtubeID": "Klis6a-tLZw"
   },
-
   {
     "title": "가을 타나 봐",
     "artist": "VIBE",
@@ -56568,7 +56590,6 @@
     "artist": "Vaundy",
     "youtubeID": "7HgJIAUtICU"
   },
-
   {
     "title": "BIRDS OF A FEATHER",
     "artist": "Billie Eilish",
@@ -56634,7 +56655,6 @@
     "artist": "QWER",
     "youtubeID": "ImuWa3SJulY"
   },
-
   {
     "title": "Bubble Gum",
     "artist": "NewJeans",
@@ -56705,7 +56725,6 @@
     "artist": "aespa",
     "youtubeID": "D8VEhcPeSlc"
   },
-
   {
     "title": "MANIAC",
     "artist": "VIVIZ",
@@ -56721,7 +56740,6 @@
     "artist": "ILLIT",
     "youtubeID": "UCmgGZbfjmk"
   },
-
   {
     "title": "Beautiful",
     "artist": "pH-1",
@@ -56747,7 +56765,6 @@
     "artist": "KISS OF LIFE",
     "youtubeID": "oKVYm8mIUdo"
   },
-
   {
     "title": "Bling-Bang-Bang-Born",
     "artist": "Creepy Nuts",
@@ -56758,7 +56775,6 @@
     "artist": "JENNIE",
     "youtubeID": "eQNHDV7lKgE"
   },
-
   {
     "title": "Beautiful Things",
     "artist": "Benson Boone",
@@ -56819,7 +56835,6 @@
     "artist": "ECLIPSE",
     "youtubeID": "ESWcsKySnNs"
   },
-
   {
     "title": "DASH",
     "artist": "NMIXX",
@@ -57095,7 +57110,6 @@
     "artist": "aespa",
     "youtubeID": "phuiiNCxRMg"
   },
-
   {
     "title": "고민중독",
     "artist": "QWER",
@@ -57106,13 +57120,11 @@
     "artist": "NewJeans",
     "youtubeID": "Q3K0TOvTOno"
   },
-
   {
     "title": "Armageddon",
     "artist": "aespa",
     "youtubeID": "nFYwcndNuOY"
   },
-
   {
     "title": "Bubble Gum",
     "artist": "NewJeans",
@@ -57158,7 +57170,6 @@
     "artist": "RIIZE",
     "youtubeID": "78lNnCitcBM"
   },
-
   {
     "title": "Cosmic",
     "artist": "Red Velvet",
@@ -57169,7 +57180,6 @@
     "artist": "BABYMONSTER",
     "youtubeID": "eJCHKjt0MPw"
   },
-
   {
     "title": "はいよろこんで",
     "artist": "Kocchi no Kento",
@@ -57185,7 +57195,6 @@
     "artist": "aespa",
     "youtubeID": "D8VEhcPeSlc"
   },
-
   {
     "title": "SHEESH",
     "artist": "BABYMONSTER",
@@ -57221,7 +57230,6 @@
     "artist": "VIVIZ",
     "youtubeID": "9JFi7MmjtGA"
   },
-
   {
     "title": "If I have you only",
     "artist": "Nerd Connection",
@@ -57232,7 +57240,6 @@
     "artist": "Lee Mujin",
     "youtubeID": "K16nk_7VyL0"
   },
-
   {
     "title": "ETA",
     "artist": "NewJeans",
@@ -57278,7 +57285,6 @@
     "artist": "QWER",
     "youtubeID": "WGm2HmXeeRI"
   },
-
   {
     "title": "T.B.H",
     "artist": "HYB",
@@ -57614,7 +57620,6 @@
     "artist": "LEE CHANGSUB",
     "youtubeID": "fQ84rvbfa08"
   },
-
   {
     "title": "Sudden Shower",
     "artist": "ECLIPSE",
@@ -57650,13 +57655,11 @@
     "artist": "CHRISTOPHER & CHUNG HA",
     "youtubeID": "Ua3aNDJE_Cg"
   },
-
   {
     "title": "Touch",
     "artist": "KATSEYE",
     "youtubeID": "l9CZykYZkOQ"
   },
-
   {
     "title": "Bubble Gum",
     "artist": "NewJeans",
@@ -57677,13 +57680,11 @@
     "artist": "SEVENTEEN",
     "youtubeID": "5NPe8_gDSr4"
   },
-
   {
     "title": "晩餐歌",
     "artist": "tuki.",
     "youtubeID": "oZpYEEcvu5I"
   },
-
   {
     "title": "MANIAC",
     "artist": "VIVIZ",
@@ -57729,7 +57730,6 @@
     "artist": "tripleS",
     "youtubeID": "2tda_TCjz8w"
   },
-
   {
     "title": "Congratulations",
     "artist": "DAY6",
@@ -57795,7 +57795,6 @@
     "artist": "Loco & Punch",
     "youtubeID": "6GC8JF2FOgA"
   },
-
   {
     "title": "녹아내려요",
     "artist": "DAY6",
@@ -57981,7 +57980,6 @@
     "artist": "Creepy Nuts",
     "youtubeID": "mLW35YMzELE"
   },
-
   {
     "title": "Drama",
     "artist": "aespa",
@@ -57992,7 +57990,6 @@
     "artist": "VIVIZ",
     "youtubeID": "9JFi7MmjtGA"
   },
-
   {
     "title": "Beautiful Things",
     "artist": "Benson Boone",
@@ -58013,7 +58010,6 @@
     "artist": "IVE",
     "youtubeID": "6ZUIwj3FgUY"
   },
-
   {
     "title": "Rhapsody of Sadness",
     "artist": "Lim Jae Hyun",
@@ -58044,7 +58040,6 @@
     "artist": "AKMU",
     "youtubeID": "3kGAlp_PNUg"
   },
-
   {
     "title": "Heavenly fate",
     "artist": "LEE CHANGSUB",
@@ -58080,13 +58075,11 @@
     "artist": "I-DLE",
     "youtubeID": "baaNwRAhHBo"
   },
-
   {
     "title": "Super Shy",
     "artist": "NewJeans",
     "youtubeID": "ArmDp-zijuc"
   },
-
   {
     "title": "Do or Die",
     "artist": "Lim Young-woong",
@@ -58162,7 +58155,6 @@
     "artist": "IVE",
     "youtubeID": "pG6iaOMV46I"
   },
-
   {
     "title": "퀸카",
     "artist": "I-DLE",
@@ -58283,7 +58275,6 @@
     "artist": "IU",
     "youtubeID": "D1PvIWdJ8xo"
   },
-
   {
     "title": "WAY 4 LUV",
     "artist": "PLAVE",
@@ -58419,7 +58410,6 @@
     "artist": "j7S8Gcrd468",
     "youtubeID": "ypDwSxEQBIs"
   },
-
   {
     "title": "고민중독",
     "artist": "QWER",
@@ -58445,7 +58435,6 @@
     "artist": "RIIZE",
     "youtubeID": "Ey53EQhkLY8"
   },
-
   {
     "title": "한 페이지가 될 수 있게",
     "artist": "DAY6",
@@ -58466,7 +58455,6 @@
     "artist": "aespa",
     "youtubeID": "D8VEhcPeSlc"
   },
-
   {
     "title": "MANIAC",
     "artist": "VIVIZ",
@@ -58492,7 +58480,6 @@
     "artist": "Benson Boone",
     "youtubeID": "Oa_RSwwpPaA"
   },
-
   {
     "title": "Perfect Night",
     "artist": "LE SSERAFIM",
@@ -58543,7 +58530,6 @@
     "artist": "Nerd Connection",
     "youtubeID": "IMWT6937uUs"
   },
-
   {
     "title": "You & Me",
     "artist": "JENNIE",
@@ -58564,7 +58550,6 @@
     "artist": "BOYNEXTDOOR",
     "youtubeID": "u9nP3qXQA4o"
   },
-
   {
     "title": "When you alone",
     "artist": "Woody",
@@ -58905,7 +58890,6 @@
     "artist": "LE SSERAFIM",
     "youtubeID": "KNexS61fjus"
   },
-
   {
     "title": "AK47",
     "artist": "Men's Tear",
@@ -58941,7 +58925,6 @@
     "artist": "IVE",
     "youtubeID": "6ZUIwj3FgUY"
   },
-
   {
     "title": "디스코드",
     "artist": "QWER",
@@ -58977,7 +58960,6 @@
     "artist": "AKMU",
     "youtubeID": "3kGAlp_PNUg"
   },
-
   {
     "title": "Heavenly fate",
     "artist": "LEE CHANGSUB",
@@ -59023,7 +59005,6 @@
     "artist": "RIIZE",
     "youtubeID": "0TAAUWHo4Ec"
   },
-
   {
     "title": "Off The Record",
     "artist": "IVE",
@@ -59039,7 +59020,6 @@
     "artist": "JENNIE",
     "youtubeID": "eQNHDV7lKgE"
   },
-
   {
     "title": "DASH",
     "artist": "NMIXX",
@@ -59085,7 +59065,6 @@
     "artist": "aespa",
     "youtubeID": "Os_heh8vPfs"
   },
-
   {
     "title": "I stan U",
     "artist": "IU",
@@ -59186,7 +59165,6 @@
     "artist": "Zia",
     "youtubeID": "crgvbjlLrTc"
   },
-
   {
     "title": "Like I Do",
     "artist": "J.Tajor",
@@ -59342,7 +59320,6 @@
     "artist": "M.C the MAX",
     "youtubeID": "N7_ICgc0L_M"
   },
-
   {
     "title": "Wife",
     "artist": "I-DLE",
@@ -59353,7 +59330,6 @@
     "artist": "TWS",
     "youtubeID": "hVAc1Vf2ITU"
   },
-
   {
     "title": "Super Lady",
     "artist": "I-DLE",
@@ -59414,7 +59390,6 @@
     "artist": "YOASOBI",
     "youtubeID": "ZRtdQ81jPUQ"
   },
-
   {
     "title": "후라이의 꿈",
     "artist": "AKMU",
@@ -59425,7 +59400,6 @@
     "artist": "NewJeans",
     "youtubeID": "ArmDp-zijuc"
   },
-
   {
     "title": "Get A Guitar",
     "artist": "RIIZE",
@@ -59446,7 +59420,6 @@
     "artist": "NewJeans",
     "youtubeID": "jOTfBlKSQYY"
   },
-
   {
     "title": "Love Lee",
     "artist": "AKMU",
@@ -59512,7 +59485,6 @@
     "artist": "Gitae",
     "youtubeID": "RyiFowxqN-Q"
   },
-
   {
     "title": "꿈",
     "artist": "TAEYEON",
@@ -59648,7 +59620,6 @@
     "artist": "Lee Mujin",
     "youtubeID": "aShjZO9sue0"
   },
-
   {
     "title": "最終花",
     "artist": "Airi Kanna",
@@ -59710,6 +59681,11 @@
     "youtubeID": "JH4-MRLfjf8"
   },
   {
+    "title": "광대",
+    "artist": "박서진",
+    "youtubeID": "ia63B-MSwbM"
+  },
+  {
     "title": "신호등",
     "artist": "Lee Mujin",
     "youtubeID": "9Ibf10h9U0c"
@@ -59748,6 +59724,16 @@
     "title": "잘 지내길 바래",
     "artist": "Kim Seungmin",
     "youtubeID": "f9TH7HruP-Y"
+  },
+  {
+    "title": "지나야",
+    "artist": "박서진",
+    "youtubeID": "913chFsIyX8"
+  },
+  {
+    "title": "춘몽",
+    "artist": "박서진",
+    "youtubeID": "BTMkJP0LB1w"
   },
   {
     "title": "One Love",
@@ -59859,19 +59845,16 @@
     "artist": "QWER",
     "youtubeID": "JFGRPgYeu38"
   },
-
   {
     "title": "별별별",
     "artist": "NMIXX",
     "youtubeID": "_Q8Jskeps9w"
   },
-
   {
     "title": "Fate",
     "artist": "I-DLE",
     "youtubeID": "ATK7gAaZTOM"
   },
-
   {
     "title": "Sudden Shower",
     "artist": "ECLIPSE",
@@ -59892,7 +59875,6 @@
     "artist": "Younha",
     "youtubeID": "3VwfUp1UYqw"
   },
-
   {
     "title": "Starry Night",
     "artist": "FIFTY FIFTY",
@@ -59933,13 +59915,11 @@
     "artist": "Nerd Connection",
     "youtubeID": "IMWT6937uUs"
   },
-
   {
     "title": "내가 S면 넌 나의 N이 되어줘",
     "artist": "TWS",
     "youtubeID": "NRgZuuwD2WY"
   },
-
   {
     "title": "When I Get Old",
     "artist": "CHRISTOPHER & CHUNG HA",
@@ -59965,13 +59945,11 @@
     "artist": "Kocchi no Kento",
     "youtubeID": "jzi6RNVEOtA"
   },
-
   {
     "title": "처음 본 순간",
     "artist": "WINTER",
     "youtubeID": "SRUS7CD6IZQ"
   },
-
   {
     "title": "Beautiful Things",
     "artist": "Benson Boone",
@@ -59982,7 +59960,6 @@
     "artist": "Sabrina Carpenter",
     "youtubeID": "eVli-tstM5E"
   },
-
   {
     "title": "Lemon",
     "artist": "Kenshi Yonezu",
@@ -60013,7 +59990,6 @@
     "artist": "aespa",
     "youtubeID": "YEA1ROHi0Eg"
   },
-
   {
     "title": "Congratulations",
     "artist": "DAY6",
@@ -60239,7 +60215,6 @@
     "artist": "Dynamicduo",
     "youtubeID": "CqBAVQOkui0"
   },
-
   {
     "title": "Rhapsody of Sadness",
     "artist": "Lim Jae Hyun",
@@ -60250,7 +60225,6 @@
     "artist": "LE SSERAFIM",
     "youtubeID": "hLvWy2b857I"
   },
-
   {
     "title": "Love 119",
     "artist": "RIIZE",
@@ -60261,7 +60235,6 @@
     "artist": "aespa",
     "youtubeID": "D8VEhcPeSlc"
   },
-
   {
     "title": "I Love You",
     "artist": "Ahn Se-ha",
@@ -60277,7 +60250,6 @@
     "artist": "VIVIZ",
     "youtubeID": "9JFi7MmjtGA"
   },
-
   {
     "title": "Fox Rain",
     "artist": "CHUU",
@@ -60313,7 +60285,6 @@
     "artist": "December",
     "youtubeID": "OMjDI2NqQ9M"
   },
-
   {
     "title": "DASH",
     "artist": "NMIXX",
@@ -60359,7 +60330,6 @@
     "artist": "RIIZE",
     "youtubeID": "iUw3LPM7OBU"
   },
-
   {
     "title": "Standing Next to You",
     "artist": "Jung Kook",
@@ -60430,7 +60400,6 @@
     "artist": "IVE",
     "youtubeID": "Da4P2uT4mVc"
   },
-
   {
     "title": "Yes or No",
     "artist": "GroovyRoom",
@@ -60721,19 +60690,16 @@
     "artist": "NMIXX",
     "youtubeID": "_Q8Jskeps9w"
   },
-
   {
     "title": "Armageddon",
     "artist": "aespa",
     "youtubeID": "nFYwcndNuOY"
   },
-
   {
     "title": "Welcome to the Show",
     "artist": "DAY6",
     "youtubeID": "RowlrvmyFEk"
   },
-
   {
     "title": "Fate",
     "artist": "I-DLE",
@@ -60794,7 +60760,6 @@
     "artist": "aespa",
     "youtubeID": "D8VEhcPeSlc"
   },
-
   {
     "title": "晩餐歌",
     "artist": "tuki.",
@@ -60805,7 +60770,6 @@
     "artist": "Nerd Connection",
     "youtubeID": "IMWT6937uUs"
   },
-
   {
     "title": "MANIAC",
     "artist": "VIVIZ",
@@ -60846,7 +60810,6 @@
     "artist": "Crush",
     "youtubeID": "Z4qVfCi_lUI"
   },
-
   {
     "title": "Rhapsody of Sadness",
     "artist": "Lim Jae Hyun",
@@ -60887,7 +60850,6 @@
     "artist": "BABYMONSTER",
     "youtubeID": "eJCHKjt0MPw"
   },
-
   {
     "title": "도망가자",
     "artist": "Roy Kim",
@@ -60963,7 +60925,6 @@
     "artist": "Vaundy",
     "youtubeID": "7HgJIAUtICU"
   },
-
   {
     "title": "Who",
     "artist": "Jimin",
@@ -61204,7 +61165,6 @@
     "artist": "NewJeans",
     "youtubeID": "Q3K0TOvTOno"
   },
-
   {
     "title": "Sudden Shower",
     "artist": "ECLIPSE",
@@ -61235,7 +61195,6 @@
     "artist": "aespa",
     "youtubeID": "D8VEhcPeSlc"
   },
-
   {
     "title": "CRAZY",
     "artist": "LE SSERAFIM",
@@ -61256,13 +61215,11 @@
     "artist": "LISA",
     "youtubeID": "pxGM_TOgHuM"
   },
-
   {
     "title": "晩餐歌",
     "artist": "tuki.",
     "youtubeID": "oZpYEEcvu5I"
   },
-
   {
     "title": "별별별",
     "artist": "NMIXX",
@@ -61293,13 +61250,11 @@
     "artist": "Lim Young-woong",
     "youtubeID": "zTmuZtjeNqo"
   },
-
   {
     "title": "Warmth",
     "artist": "Lim Young-woong",
     "youtubeID": "2WGc-5VdoGw"
   },
-
   {
     "title": "MANIAC",
     "artist": "VIVIZ",
@@ -61350,7 +61305,6 @@
     "artist": "DAY6",
     "youtubeID": "yss4rIrHl6o"
   },
-
   {
     "title": "내 인생 언제 달라질까",
     "artist": "LEE SUHYUN",
@@ -61436,7 +61390,6 @@
     "artist": "BABYMONSTER",
     "youtubeID": "eJCHKjt0MPw"
   },
-
   {
     "title": "Kill It",
     "artist": "aespa",
@@ -61597,7 +61550,6 @@
     "artist": "NMIXX",
     "youtubeID": "_Q8Jskeps9w"
   },
-
   {
     "title": "Welcome to the Show",
     "artist": "DAY6",
@@ -61608,13 +61560,11 @@
     "artist": "aespa",
     "youtubeID": "nFYwcndNuOY"
   },
-
   {
     "title": "FAKE IDOL",
     "artist": "QWER",
     "youtubeID": "JFGRPgYeu38"
   },
-
   {
     "title": "Fate",
     "artist": "I-DLE",
@@ -61685,13 +61635,11 @@
     "artist": "Kocchi no Kento",
     "youtubeID": "jzi6RNVEOtA"
   },
-
   {
     "title": "Runaway",
     "artist": "Kanye West",
     "youtubeID": "Bm5iA4Zupek"
   },
-
   {
     "title": "Espresso",
     "artist": "Sabrina Carpenter",
@@ -61712,7 +61660,6 @@
     "artist": "Younha",
     "youtubeID": "3VwfUp1UYqw"
   },
-
   {
     "title": "MANIAC",
     "artist": "VIVIZ",
@@ -61753,7 +61700,6 @@
     "artist": "OH MY GIRL",
     "youtubeID": "VPg-HtAUeRQ"
   },
-
   {
     "title": "참다행이야",
     "artist": "탁재훈",
@@ -61764,7 +61710,6 @@
     "artist": "Sam Smith",
     "youtubeID": "nCkpzqqog4k"
   },
-
   {
     "title": "ベテルギウス",
     "artist": "Yuuri",
@@ -61935,7 +61880,6 @@
     "artist": "NAYEON",
     "youtubeID": "oUZttxRcPZw"
   },
-
   {
     "title": "Viva La Vida",
     "artist": "Coldplay",
@@ -61991,7 +61935,6 @@
     "artist": "PSY",
     "youtubeID": "UtYBunDqp30"
   },
-
   {
     "title": "Holssi",
     "artist": "IU",
@@ -62007,7 +61950,6 @@
     "artist": "LE SSERAFIM",
     "youtubeID": "bNKXxwOQYB8"
   },
-
   {
     "title": "Drama",
     "artist": "aespa",
@@ -62073,7 +62015,6 @@
     "artist": "NMIXX",
     "youtubeID": "7UecFm_bSTU"
   },
-
   {
     "title": "Love 119",
     "artist": "RIIZE",
@@ -62089,13 +62030,11 @@
     "artist": "NewJeans",
     "youtubeID": "ArmDp-zijuc"
   },
-
   {
     "title": "Do or Die",
     "artist": "Lim Young-woong",
     "youtubeID": "tJut2wIsC1w"
   },
-
   {
     "title": "Get A Guitar",
     "artist": "RIIZE",
@@ -62171,7 +62110,6 @@
     "artist": "Lauv",
     "youtubeID": "GTwu-YsMvyo"
   },
-
   {
     "title": "GODS",
     "artist": "League of Legends",
@@ -62242,7 +62180,6 @@
     "artist": "Hwagok-dong green frog",
     "youtubeID": "ZxjJWEj5xe0"
   },
-
   {
     "title": "BATTER UP",
     "artist": "BABYMONSTER",
@@ -62483,7 +62420,6 @@
     "artist": "IVE",
     "youtubeID": "07EzMbVH3QE"
   },
-
   {
     "title": "Fate",
     "artist": "I-DLE",
@@ -62539,7 +62475,6 @@
     "artist": "NewJeans",
     "youtubeID": "jOTfBlKSQYY"
   },
-
   {
     "title": "Happy",
     "artist": "Cha Noeul",
@@ -62555,13 +62490,11 @@
     "artist": "NewJeans",
     "youtubeID": "ArmDp-zijuc"
   },
-
   {
     "title": "MAESTRO",
     "artist": "SEVENTEEN",
     "youtubeID": "ThI0pBAbFnk"
   },
-
   {
     "title": "디스코드",
     "artist": "QWER",
@@ -62582,7 +62515,6 @@
     "artist": "DAY6",
     "youtubeID": "RowlrvmyFEk"
   },
-
   {
     "title": "후라이의 꿈",
     "artist": "AKMU",
@@ -62658,7 +62590,6 @@
     "artist": "AKMU",
     "youtubeID": "fx227oTnnPc"
   },
-
   {
     "title": "Propose",
     "artist": "Lee Mujin",
@@ -62788,6 +62719,111 @@
     "title": "잘자요 아가씨",
     "artist": "ASMRZ",
     "youtubeID": "7Fsie5WvzFM"
+  },
+  {
+    "title": "여백",
+    "artist": "정동원",
+    "youtubeID": "rlRrWB8wB1I"
+  },
+  {
+    "title": "고리",
+    "artist": "정동원",
+    "youtubeID": "ymsc-Y19MTk"
+  },
+  {
+    "title": "꿀팁",
+    "artist": "박서진",
+    "youtubeID": "kwHy0bDXEtc"
+  },
+  {
+    "title": "공주에서",
+    "artist": "박서진",
+    "youtubeID": "FB9BV2-s91M"
+  },
+  {
+    "title": "별아 별아",
+    "artist": "박서진",
+    "youtubeID": "zjX2Ca08FjU"
+  },
+  {
+    "title": "붉은 입술",
+    "artist": "박서진",
+    "youtubeID": "aoWPvH0Jr2A"
+  },
+  {
+    "title": "헛살았네",
+    "artist": "박서진",
+    "youtubeID": "ZnzNF8QLybE"
+  },
+  {
+    "title": "Bounce Back",
+    "artist": "Stray Kids",
+    "youtubeID": "DEIhaHvW_JE"
+  },
+  {
+    "title": "HERO",
+    "artist": "박효신",
+    "youtubeID": "yI0BNkRQWYE"
+  },
+  {
+    "title": "서진이네 건어물",
+    "artist": "박서진",
+    "youtubeID": "0idui2pbBGk"
+  },
+  {
+    "title": "U",
+    "artist": "Stray Kids",
+    "youtubeID": "_QBFjcOAmVI"
+  },
+  {
+    "title": "책임져",
+    "artist": "JD1",
+    "youtubeID": "GcKO95fSXQI"
+  },
+  {
+    "title": "뱃놀이",
+    "artist": "정동원",
+    "youtubeID": "MReLmgu_qzk"
+  },
+  {
+    "title": "To Forget",
+    "artist": "Yale Lee",
+    "youtubeID": "vXcpu06ytnk"
+  },
+  {
+    "title": "시작",
+    "artist": "경서",
+    "youtubeID": "TytKBEjw54I"
+  },
+  {
+    "title": "하늘 여행",
+    "artist": "이찬원",
+    "youtubeID": "AhmRaCQayv8"
+  },
+  {
+    "title": "시절인연",
+    "artist": "이찬원",
+    "youtubeID": "nLxP_T9ZT9g"
+  },
+  {
+    "title": "꽃다운 날",
+    "artist": "이찬원",
+    "youtubeID": "IX1qjFK3VdU"
+  },
+  {
+    "title": "만약에",
+    "artist": "정동원",
+    "youtubeID": "EA5rjprJDJk"
+  },
+  {
+    "title": "물망초",
+    "artist": "정동원",
+    "youtubeID": "9_kOOA1OrZA"
+  },
+  {
+    "title": "잘가요 내사랑",
+    "artist": "정동원",
+    "youtubeID": "05un-yeeQ4I"
   },
   {
     "title": "Harmony of Stars",
@@ -62934,7 +62970,6 @@
     "artist": "aespa",
     "youtubeID": "nFYwcndNuOY"
   },
-
   {
     "title": "해야",
     "artist": "IVE",
@@ -62970,7 +63005,6 @@
     "artist": "ECLIPSE",
     "youtubeID": "ESWcsKySnNs"
   },
-
   {
     "title": "plot twist",
     "artist": "TWS",
@@ -63016,7 +63050,6 @@
     "artist": "tripleS",
     "youtubeID": "2tda_TCjz8w"
   },
-
   {
     "title": "ETA",
     "artist": "NewJeans",
@@ -63027,7 +63060,6 @@
     "artist": "Crush",
     "youtubeID": "Z4qVfCi_lUI"
   },
-
   {
     "title": "Super Shy",
     "artist": "NewJeans",
@@ -63048,7 +63080,6 @@
     "artist": "QWER",
     "youtubeID": "WGm2HmXeeRI"
   },
-
   {
     "title": "후라이의 꿈",
     "artist": "AKMU",
@@ -63104,7 +63135,6 @@
     "artist": "ILLIT",
     "youtubeID": "UCmgGZbfjmk"
   },
-
   {
     "title": "You & Me",
     "artist": "JENNIE",
@@ -63395,7 +63425,6 @@
     "artist": "NewJeans",
     "youtubeID": "Q3K0TOvTOno"
   },
-
   {
     "title": "Armageddon",
     "artist": "aespa",
@@ -63456,7 +63485,6 @@
     "artist": "aespa",
     "youtubeID": "D8VEhcPeSlc"
   },
-
   {
     "title": "Warmth",
     "artist": "Lim Young-woong",
@@ -63467,7 +63495,6 @@
     "artist": "Jimin",
     "youtubeID": "Av9DvtlJ9_M"
   },
-
   {
     "title": "MANIAC",
     "artist": "VIVIZ",
@@ -63508,13 +63535,11 @@
     "artist": "BABYMONSTER",
     "youtubeID": "eJCHKjt0MPw"
   },
-
   {
     "title": "후라이의 꿈",
     "artist": "AKMU",
     "youtubeID": "3kGAlp_PNUg"
   },
-
   {
     "title": "Rhapsody of Sadness",
     "artist": "Lim Jae Hyun",
@@ -63540,7 +63565,6 @@
     "artist": "QWER",
     "youtubeID": "WGm2HmXeeRI"
   },
-
   {
     "title": "Perfect Night",
     "artist": "LE SSERAFIM",
@@ -63551,7 +63575,6 @@
     "artist": "Benson Boone",
     "youtubeID": "Oa_RSwwpPaA"
   },
-
   {
     "title": "삐그덕",
     "artist": "NCT 127",
@@ -63917,25 +63940,21 @@
     "artist": "LEE CHANGSUB",
     "youtubeID": "fQ84rvbfa08"
   },
-
   {
     "title": "Fate",
     "artist": "I-DLE",
     "youtubeID": "ATK7gAaZTOM"
   },
-
   {
     "title": "we were in love",
     "artist": "Ko Kyungpyo",
     "youtubeID": "-g0MOHe-Lik"
   },
-
   {
     "title": "晩餐歌",
     "artist": "tuki.",
     "youtubeID": "oZpYEEcvu5I"
   },
-
   {
     "title": "Warmth",
     "artist": "Lim Young-woong",
@@ -64031,7 +64050,6 @@
     "artist": "Lim Young-woong",
     "youtubeID": "hJJmjq-q5_I"
   },
-
   {
     "title": "Skrr)",
     "artist": "HAON",
@@ -64103,11 +64121,6 @@
     "youtubeID": "gset79KMmt0"
   },
   {
-    "title": "Must Have Love",
-    "artist": "SG Wannabe & Brown Eyed Girls",
-    "youtubeID": "29Snr9dRMcU"
-  },
-  {
     "title": "녹아내려요",
     "artist": "DAY6",
     "youtubeID": "yss4rIrHl6o"
@@ -64122,7 +64135,6 @@
     "artist": "AILEE",
     "youtubeID": "6rS7OUGXUik"
   },
-
   {
     "title": "Touch",
     "artist": "KATSEYE",
@@ -64213,7 +64225,6 @@
     "artist": "Sasha Alex Sloan",
     "youtubeID": "Rb_tqxQKSPM"
   },
-
   {
     "title": "술 한잔 해요",
     "artist": "Zia",
@@ -64239,7 +64250,6 @@
     "artist": "TAEYEON",
     "youtubeID": "QF7FydI-TZQ"
   },
-
   {
     "title": "Fate",
     "artist": "I-DLE",
@@ -64260,13 +64270,11 @@
     "artist": "LE SSERAFIM",
     "youtubeID": "KNexS61fjus"
   },
-
   {
     "title": "EASY",
     "artist": "LE SSERAFIM",
     "youtubeID": "bNKXxwOQYB8"
   },
-
   {
     "title": "SHEESH",
     "artist": "BABYMONSTER",
@@ -64327,7 +64335,6 @@
     "artist": "Lim Jae Hyun",
     "youtubeID": "TyCYGCCD6iQ"
   },
-
   {
     "title": "후라이의 꿈",
     "artist": "AKMU",
@@ -64378,7 +64385,6 @@
     "artist": "Roy Kim",
     "youtubeID": "k3-BDy55tq4"
   },
-
   {
     "title": "Not Spring, Love, or Cherry Blossoms",
     "artist": "HIGH4 & IU",
@@ -64404,13 +64410,11 @@
     "artist": "ASMRZ",
     "youtubeID": "7Fsie5WvzFM"
   },
-
   {
     "title": "ETA",
     "artist": "NewJeans",
     "youtubeID": "jOTfBlKSQYY"
   },
-
   {
     "title": "우연히 봄",
     "artist": "Loco & YUJU",
@@ -64701,7 +64705,6 @@
     "artist": "Hoshimachi Suisei",
     "youtubeID": "8ZP5eqm4JqM"
   },
-
   {
     "title": "Supernova",
     "artist": "aespa",
@@ -64732,7 +64735,6 @@
     "artist": "NewJeans",
     "youtubeID": "m6pTbEz4w3o"
   },
-
   {
     "title": "해야",
     "artist": "IVE",
@@ -64763,7 +64765,6 @@
     "artist": "LEE CHANGSUB",
     "youtubeID": "fQ84rvbfa08"
   },
-
   {
     "title": "ABCD",
     "artist": "NAYEON",
@@ -64799,7 +64800,6 @@
     "artist": "Lim Young-woong",
     "youtubeID": "2WGc-5VdoGw"
   },
-
   {
     "title": "SHEESH",
     "artist": "BABYMONSTER",
@@ -64810,7 +64810,6 @@
     "artist": "aespa",
     "youtubeID": "D8VEhcPeSlc"
   },
-
   {
     "title": "Welcome to the Show",
     "artist": "DAY6",
@@ -64836,13 +64835,11 @@
     "artist": "NewJeans",
     "youtubeID": "ArmDp-zijuc"
   },
-
   {
     "title": "MANIAC",
     "artist": "VIVIZ",
     "youtubeID": "9JFi7MmjtGA"
   },
-
   {
     "title": "디스코드",
     "artist": "QWER",
@@ -64883,7 +64880,6 @@
     "artist": "Ayatsuno Yuni",
     "youtubeID": "R_RAWjqdgTs"
   },
-
   {
     "title": "Home",
     "artist": "Lim Young-woong",
@@ -65174,13 +65170,11 @@
     "artist": "NewJeans",
     "youtubeID": "Q3K0TOvTOno"
   },
-
   {
     "title": "Armageddon",
     "artist": "aespa",
     "youtubeID": "nFYwcndNuOY"
   },
-
   {
     "title": "Fate",
     "artist": "I-DLE",
@@ -65236,13 +65230,11 @@
     "artist": "aespa",
     "youtubeID": "D8VEhcPeSlc"
   },
-
   {
     "title": "Warmth",
     "artist": "Lim Young-woong",
     "youtubeID": "2WGc-5VdoGw"
   },
-
   {
     "title": "Accendio",
     "artist": "IVE",
@@ -65258,7 +65250,6 @@
     "artist": "tuki.",
     "youtubeID": "oZpYEEcvu5I"
   },
-
   {
     "title": "Girls Never Die",
     "artist": "tripleS",
@@ -65269,7 +65260,6 @@
     "artist": "Nerd Connection",
     "youtubeID": "IMWT6937uUs"
   },
-
   {
     "title": "미안해 미워해 사랑해",
     "artist": "Crush",
@@ -65305,7 +65295,6 @@
     "artist": "Red Velvet",
     "youtubeID": "FyG21rXCxlY"
   },
-
   {
     "title": "Chk Chk Boom",
     "artist": "Stray Kids",
@@ -65331,7 +65320,6 @@
     "artist": "QWER",
     "youtubeID": "WGm2HmXeeRI"
   },
-
   {
     "title": "Who",
     "artist": "Jimin",
@@ -65607,13 +65595,11 @@
     "artist": "TWS",
     "youtubeID": "hVAc1Vf2ITU"
   },
-
   {
     "title": "Holssi",
     "artist": "IU",
     "youtubeID": "mFbILexYSQg"
   },
-
   {
     "title": "Drama",
     "artist": "aespa",
@@ -65674,7 +65660,6 @@
     "artist": "Lim Jae Hyun",
     "youtubeID": "TyCYGCCD6iQ"
   },
-
   {
     "title": "디스코드",
     "artist": "QWER",
@@ -65695,7 +65680,6 @@
     "artist": "NMIXX",
     "youtubeID": "7UecFm_bSTU"
   },
-
   {
     "title": "Super Shy",
     "artist": "NewJeans",
@@ -65711,7 +65695,6 @@
     "artist": "RIIZE",
     "youtubeID": "0TAAUWHo4Ec"
   },
-
   {
     "title": "Get A Guitar",
     "artist": "RIIZE",
@@ -65802,7 +65785,6 @@
     "artist": "Lauv",
     "youtubeID": "GTwu-YsMvyo"
   },
-
   {
     "title": "GODS",
     "artist": "League of Legends",
@@ -65933,7 +65915,6 @@
     "artist": "ITZY",
     "youtubeID": "5e3rKInegeU"
   },
-
   {
     "title": "사랑..그게 뭔데",
     "artist": "Zia",
@@ -66084,7 +66065,6 @@
     "artist": "Creepy Nuts",
     "youtubeID": "mLW35YMzELE"
   },
-
   {
     "title": "Drama",
     "artist": "aespa",
@@ -66095,7 +66075,6 @@
     "artist": "VIVIZ",
     "youtubeID": "9JFi7MmjtGA"
   },
-
   {
     "title": "Beautiful Things",
     "artist": "Benson Boone",
@@ -66116,13 +66095,11 @@
     "artist": "LE SSERAFIM",
     "youtubeID": "hLvWy2b857I"
   },
-
   {
     "title": "AK47",
     "artist": "Men's Tear",
     "youtubeID": "C2YKyrhuygI"
   },
-
   {
     "title": "Rhapsody of Sadness",
     "artist": "Lim Jae Hyun",
@@ -66163,7 +66140,6 @@
     "artist": "GroovyRoom",
     "youtubeID": "59DAuFD9D0U"
   },
-
   {
     "title": "If I have you only",
     "artist": "Nerd Connection",
@@ -66179,7 +66155,6 @@
     "artist": "RIIZE",
     "youtubeID": "iUw3LPM7OBU"
   },
-
   {
     "title": "When Spring Comes",
     "artist": "Roy Kim",
@@ -66195,7 +66170,6 @@
     "artist": "I-DLE",
     "youtubeID": "6f3RzjXPQwA"
   },
-
   {
     "title": "Super Shy",
     "artist": "NewJeans",
@@ -66421,7 +66395,6 @@
     "artist": "Heize",
     "youtubeID": "jRRCWFLAO6k"
   },
-
   {
     "title": "Water",
     "artist": "Tyla & Travis Scott",
@@ -66604,7 +66577,6 @@
     "artist": "Ko Kyungpyo",
     "youtubeID": "-g0MOHe-Lik"
   },
-
   {
     "title": "너라는 별",
     "artist": "고추잠자리",
@@ -66645,25 +66617,21 @@
     "artist": "I-DLE",
     "youtubeID": "ATK7gAaZTOM"
   },
-
   {
     "title": "무제",
     "artist": "G-DRAGON",
     "youtubeID": "9kaCAbIXuyg"
   },
-
   {
     "title": "봄여름가을겨울",
     "artist": "BIGBANG",
     "youtubeID": "eN5mG_yMDiM"
   },
-
   {
     "title": "晩餐歌",
     "artist": "tuki.",
     "youtubeID": "oZpYEEcvu5I"
   },
-
   {
     "title": "Closely Far Away",
     "artist": "Car, the Garden",
@@ -66679,7 +66647,6 @@
     "artist": "Lim Young-woong",
     "youtubeID": "2WGc-5VdoGw"
   },
-
   {
     "title": "All I Want for Christmas Is You",
     "artist": "Mariah Carey",
@@ -66715,7 +66682,6 @@
     "artist": "Paul Kim",
     "youtubeID": "KHouJsSH4PM"
   },
-
   {
     "title": "NASA",
     "artist": "DEAN",
@@ -66735,11 +66701,6 @@
     "title": "I Don’t Think That I Like Her",
     "artist": "Charlie Puth",
     "youtubeID": "9voN0gkdlS4"
-  },
-  {
-    "title": "Must Have Love",
-    "artist": "SG Wannabe & Brown Eyed Girls",
-    "youtubeID": "29Snr9dRMcU"
   },
   {
     "title": "LAST DANCE",
@@ -66876,7 +66837,6 @@
     "artist": "DAY6",
     "youtubeID": "yss4rIrHl6o"
   },
-
   {
     "title": "好きだから。",
     "artist": "Yuika",
@@ -66892,7 +66852,6 @@
     "artist": "MEOVV",
     "youtubeID": "jpLHg-AsQV0"
   },
-
   {
     "title": "Defying Gravity",
     "artist": "Cynthia Erivo",
@@ -66973,7 +66932,6 @@
     "artist": "IVE",
     "youtubeID": "07EzMbVH3QE"
   },
-
   {
     "title": "Bubble Gum",
     "artist": "NewJeans",
@@ -66984,7 +66942,6 @@
     "artist": "I-DLE",
     "youtubeID": "ATK7gAaZTOM"
   },
-
   {
     "title": "Accendio",
     "artist": "IVE",
@@ -67025,7 +66982,6 @@
     "artist": "aespa",
     "youtubeID": "D8VEhcPeSlc"
   },
-
   {
     "title": "미안해 미워해 사랑해",
     "artist": "Crush",
@@ -67036,7 +66992,6 @@
     "artist": "NewJeans",
     "youtubeID": "jOTfBlKSQYY"
   },
-
   {
     "title": "Super Shy",
     "artist": "NewJeans",
@@ -67052,13 +67007,11 @@
     "artist": "QWER",
     "youtubeID": "WGm2HmXeeRI"
   },
-
   {
     "title": "Happy",
     "artist": "Cha Noeul",
     "youtubeID": "5KhH7u3dxJ0"
   },
-
   {
     "title": "Welcome to the Show",
     "artist": "DAY6",
@@ -67424,7 +67377,6 @@
     "artist": "IVE",
     "youtubeID": "07EzMbVH3QE"
   },
-
   {
     "title": "Fate",
     "artist": "I-DLE",
@@ -67480,7 +67432,6 @@
     "artist": "tripleS",
     "youtubeID": "2tda_TCjz8w"
   },
-
   {
     "title": "ETA",
     "artist": "NewJeans",
@@ -67506,7 +67457,6 @@
     "artist": "ILLIT",
     "youtubeID": "UCmgGZbfjmk"
   },
-
   {
     "title": "Super Shy",
     "artist": "NewJeans",
@@ -67517,7 +67467,6 @@
     "artist": "Lim Young-woong",
     "youtubeID": "zTmuZtjeNqo"
   },
-
   {
     "title": "디스코드",
     "artist": "QWER",
@@ -67543,7 +67492,6 @@
     "artist": "LE SSERAFIM",
     "youtubeID": "KNexS61fjus"
   },
-
   {
     "title": "Beautiful Things",
     "artist": "Benson Boone",
@@ -67614,7 +67562,6 @@
     "artist": "Lim Young-woong",
     "youtubeID": "xuexbvO29Gk"
   },
-
   {
     "title": "DASH",
     "artist": "NMIXX",
@@ -67950,7 +67897,6 @@
     "artist": "LEE CHANGSUB",
     "youtubeID": "fQ84rvbfa08"
   },
-
   {
     "title": "How Sweet",
     "artist": "NewJeans",
@@ -67961,7 +67907,6 @@
     "artist": "ECLIPSE",
     "youtubeID": "ESWcsKySnNs"
   },
-
   {
     "title": "Fate",
     "artist": "I-DLE",
@@ -67982,7 +67927,6 @@
     "artist": "tuki.",
     "youtubeID": "oZpYEEcvu5I"
   },
-
   {
     "title": "Closely Far Away",
     "artist": "Car, the Garden",
@@ -67993,7 +67937,6 @@
     "artist": "NewJeans",
     "youtubeID": "ft70sAYrFyY"
   },
-
   {
     "title": "Warmth",
     "artist": "Lim Young-woong",
@@ -68004,7 +67947,6 @@
     "artist": "FIFTY FIFTY",
     "youtubeID": "uuLC6wfVA8Q"
   },
-
   {
     "title": "Coming Of Age Story",
     "artist": "Lee Mujin",
@@ -68035,7 +67977,6 @@
     "artist": "Lim Young-woong",
     "youtubeID": "zTmuZtjeNqo"
   },
-
   {
     "title": "Girls Never Die",
     "artist": "tripleS",
@@ -68316,7 +68257,6 @@
     "artist": "NewJeans",
     "youtubeID": "Q3K0TOvTOno"
   },
-
   {
     "title": "Armageddon",
     "artist": "aespa",
@@ -68327,7 +68267,6 @@
     "artist": "LISA",
     "youtubeID": "UxXY_hR_wzo"
   },
-
   {
     "title": "Fate",
     "artist": "I-DLE",
@@ -68383,7 +68322,6 @@
     "artist": "aespa",
     "youtubeID": "D8VEhcPeSlc"
   },
-
   {
     "title": "Home",
     "artist": "Lim Young-woong",
@@ -68394,7 +68332,6 @@
     "artist": "Lim Young-woong",
     "youtubeID": "2WGc-5VdoGw"
   },
-
   {
     "title": "Pump Up The Volume!",
     "artist": "PLAVE",
@@ -68410,7 +68347,6 @@
     "artist": "tuki.",
     "youtubeID": "oZpYEEcvu5I"
   },
-
   {
     "title": "Girls Never Die",
     "artist": "tripleS",
@@ -68426,7 +68362,6 @@
     "artist": "IVE",
     "youtubeID": "PGLx4V680J8"
   },
-
   {
     "title": "미안해 미워해 사랑해",
     "artist": "Crush",
@@ -68472,7 +68407,6 @@
     "artist": "탁재훈",
     "youtubeID": "PchyLRAIr0c"
   },
-
   {
     "title": "Beautiful Things",
     "artist": "Benson Boone",
@@ -68563,7 +68497,6 @@
     "artist": "*NSYNC",
     "youtubeID": "Eo-KmOd3i7s"
   },
-
   {
     "title": "Because I Loved You",
     "artist": "I'll",
@@ -68749,7 +68682,6 @@
     "artist": "aespa",
     "youtubeID": "phuiiNCxRMg"
   },
-
   {
     "title": "How Sweet",
     "artist": "NewJeans",
@@ -68760,13 +68692,11 @@
     "artist": "QWER",
     "youtubeID": "ImuWa3SJulY"
   },
-
   {
     "title": "Armageddon",
     "artist": "aespa",
     "youtubeID": "nFYwcndNuOY"
   },
-
   {
     "title": "Bubble Gum",
     "artist": "NewJeans",
@@ -68782,7 +68712,6 @@
     "artist": "I-DLE",
     "youtubeID": "ATK7gAaZTOM"
   },
-
   {
     "title": "Sudden Shower",
     "artist": "ECLIPSE",
@@ -68813,7 +68742,6 @@
     "artist": "TWS",
     "youtubeID": "hVAc1Vf2ITU"
   },
-
   {
     "title": "Welcome to the Show",
     "artist": "DAY6",
@@ -68829,13 +68757,11 @@
     "artist": "NewJeans",
     "youtubeID": "m6pTbEz4w3o"
   },
-
   {
     "title": "Rockstar",
     "artist": "LISA",
     "youtubeID": "hbcGx4MGUMg"
   },
-
   {
     "title": "ABCD",
     "artist": "NAYEON",
@@ -68891,13 +68817,11 @@
     "artist": "Nerd Connection",
     "youtubeID": "IMWT6937uUs"
   },
-
   {
     "title": "애상",
     "artist": "Lee Mujin",
     "youtubeID": "K16nk_7VyL0"
   },
-
   {
     "title": "Girls Never Die",
     "artist": "tripleS",
@@ -69228,7 +69152,6 @@
     "artist": "NewJeans",
     "youtubeID": "Q3K0TOvTOno"
   },
-
   {
     "title": "Armageddon",
     "artist": "aespa",
@@ -69289,7 +69212,6 @@
     "artist": "NMIXX",
     "youtubeID": "_Q8Jskeps9w"
   },
-
   {
     "title": "Gravity",
     "artist": "FIFTY FIFTY",
@@ -69300,7 +69222,6 @@
     "artist": "WINTER",
     "youtubeID": "SRUS7CD6IZQ"
   },
-
   {
     "title": "Touch",
     "artist": "KATSEYE",
@@ -69336,7 +69257,6 @@
     "artist": "Lim Young-woong",
     "youtubeID": "2WGc-5VdoGw"
   },
-
   {
     "title": "Drama",
     "artist": "aespa",
@@ -69352,7 +69272,6 @@
     "artist": "VIVIZ",
     "youtubeID": "9JFi7MmjtGA"
   },
-
   {
     "title": "Beautiful Things",
     "artist": "Benson Boone",
@@ -69363,7 +69282,6 @@
     "artist": "Lim Jae Hyun",
     "youtubeID": "TyCYGCCD6iQ"
   },
-
   {
     "title": "Girls Never Die",
     "artist": "tripleS",
@@ -69439,7 +69357,6 @@
     "artist": "NCT WISH",
     "youtubeID": "IKlkZZv76Ho"
   },
-
   {
     "title": "Closely Far Away",
     "artist": "Car, the Garden",
@@ -69565,7 +69482,6 @@
     "artist": "RESCENE",
     "youtubeID": "9XttLI0oH0I"
   },
-
   {
     "title": "不得不愛",
     "artist": "潘瑋柏官方頻道Will Pan & 弦子",
@@ -69671,7 +69587,6 @@
     "artist": "NewJeans",
     "youtubeID": "Q3K0TOvTOno"
   },
-
   {
     "title": "Armageddon",
     "artist": "aespa",
@@ -69687,7 +69602,6 @@
     "artist": "I-DLE",
     "youtubeID": "ATK7gAaZTOM"
   },
-
   {
     "title": "Sudden Shower",
     "artist": "ECLIPSE",
@@ -69698,7 +69612,6 @@
     "artist": "NMIXX",
     "youtubeID": "_Q8Jskeps9w"
   },
-
   {
     "title": "FAKE IDOL",
     "artist": "QWER",
@@ -69724,7 +69637,6 @@
     "artist": "Lim Young-woong",
     "youtubeID": "zTmuZtjeNqo"
   },
-
   {
     "title": "Bubble Gum",
     "artist": "NewJeans",
@@ -69755,7 +69667,6 @@
     "artist": "Kenshi Yonezu",
     "youtubeID": "SX_ViT4Ra7k"
   },
-
   {
     "title": "Nice Guy",
     "artist": "BOYNEXTDOOR",
@@ -69806,19 +69717,16 @@
     "artist": "Kocchi no Kento",
     "youtubeID": "jzi6RNVEOtA"
   },
-
   {
     "title": "Espresso",
     "artist": "Sabrina Carpenter",
     "youtubeID": "eVli-tstM5E"
   },
-
   {
     "title": "미안해 미워해 사랑해",
     "artist": "Crush",
     "youtubeID": "Z4qVfCi_lUI"
   },
-
   {
     "title": "Accendio",
     "artist": "IVE",
@@ -69939,7 +69847,6 @@
     "artist": "IU",
     "youtubeID": "_ZfT3M6ZKEM"
   },
-
   {
     "title": "Monster Forest",
     "artist": "Miiro",
@@ -70095,7 +70002,6 @@
     "artist": "Lim Jae Hyun",
     "youtubeID": "TyCYGCCD6iQ"
   },
-
   {
     "title": "MANIAC",
     "artist": "VIVIZ",
@@ -70111,7 +70017,6 @@
     "artist": "QWER",
     "youtubeID": "WGm2HmXeeRI"
   },
-
   {
     "title": "心",
     "artist": "December",
@@ -70127,7 +70032,6 @@
     "artist": "AKMU",
     "youtubeID": "3kGAlp_PNUg"
   },
-
   {
     "title": "ETA",
     "artist": "NewJeans",
@@ -70178,7 +70082,6 @@
     "artist": "Ahn Se-ha",
     "youtubeID": "OwBVD6pbe94"
   },
-
   {
     "title": "Stuck in me",
     "artist": "Gitae",
@@ -70264,7 +70167,6 @@
     "artist": "I-DLE",
     "youtubeID": "7HDeem-JaSY"
   },
-
   {
     "title": "Off The Record",
     "artist": "IVE",
@@ -70280,7 +70182,6 @@
     "artist": "LEE CHANHYUK",
     "youtubeID": "HOj9ij0XVWU"
   },
-
   {
     "title": "‎Good Night Good Dream",
     "artist": "Nerd Connection",
@@ -70516,13 +70417,11 @@
     "artist": "QWER",
     "youtubeID": "1BTTbopyDWw"
   },
-
   {
     "title": "Wife",
     "artist": "I-DLE",
     "youtubeID": "baaNwRAhHBo"
   },
-
   {
     "title": "Super Lady",
     "artist": "I-DLE",
@@ -70583,7 +70482,6 @@
     "artist": "NMIXX",
     "youtubeID": "7UecFm_bSTU"
   },
-
   {
     "title": "アイドル",
     "artist": "YOASOBI",
@@ -70594,7 +70492,6 @@
     "artist": "AKMU",
     "youtubeID": "3kGAlp_PNUg"
   },
-
   {
     "title": "If I have you only",
     "artist": "Nerd Connection",
@@ -70615,7 +70512,6 @@
     "artist": "JENNIE",
     "youtubeID": "eQNHDV7lKgE"
   },
-
   {
     "title": "Standing Next to You",
     "artist": "Jung Kook",
@@ -70681,7 +70577,6 @@
     "artist": "Gitae",
     "youtubeID": "RyiFowxqN-Q"
   },
-
   {
     "title": "Remember Me",
     "artist": "Hwagok-dong green frog",
@@ -70772,7 +70667,6 @@
     "artist": "SEVENTEEN",
     "youtubeID": "zSQ48zyWZrY"
   },
-
   {
     "title": "Soñar",
     "artist": "NMIXX",

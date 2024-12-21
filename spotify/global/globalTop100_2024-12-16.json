@@ -361,7 +361,8 @@
         "streak": "10",
         "streams": "2,916,684",
         "spotifyID": "0LTwdL5yZ6YOTEGUQPFuSN",
-        "appleID": "rosones/1783211314"
+        "appleID": "rosones/1783211314",
+        "youtubeID": "hrhu8OE4WMM"
     },
     {
         "ranking": "30",
@@ -421,7 +422,8 @@
         "prev": "38",
         "streak": "18",
         "streams": "2,827,917",
-        "spotifyID": "5humEOJehpAwMJEJmb0JJ2"
+        "spotifyID": "5humEOJehpAwMJEJmb0JJ2",
+        "youtubeID": "wKhRnZZ0cJI"
     },
     {
         "ranking": "35",
@@ -623,7 +625,8 @@
         "prev": "55",
         "streak": "16",
         "streams": "2,343,100",
-        "spotifyID": "47ohYW8e7dxCYn9qbUMBCI"
+        "spotifyID": "47ohYW8e7dxCYn9qbUMBCI",
+        "youtubeID": "vf4ZXBzbAio"
     },
     {
         "ranking": "52",
@@ -634,7 +637,9 @@
         "prev": "52",
         "streak": "16",
         "streams": "2,341,569",
-        "spotifyID": "0hz5PNF2wejwUKCMpesQWt"
+        "spotifyID": "0hz5PNF2wejwUKCMpesQWt",
+        "appleID": "merry-christmas/1597450885",
+        "youtubeID": "Q_yuO8UNGmY"
     },
     {
         "ranking": "53",
@@ -658,7 +663,8 @@
         "streak": "356",
         "streams": "2,324,273",
         "spotifyID": "17phhZDn6oGtzMe56NuWvj",
-        "appleID": "lose-control/1691699836"
+        "appleID": "lose-control/1691699836",
+        "youtubeID": "GZ3zL7kT6_c"
     },
     {
         "ranking": "55",
@@ -849,7 +855,8 @@
         "streak": "16",
         "streams": "2,081,502",
         "spotifyID": "2pnPe4pJtq7689i5ydzvJJ",
-        "appleID": "run-rudolph-run/1443832242"
+        "appleID": "run-rudolph-run/1443832242",
+        "youtubeID": "YiadNVhaGwk"
     },
     {
         "ranking": "71",
@@ -860,7 +867,9 @@
         "prev": "75",
         "streak": "108",
         "streams": "2,074,326",
-        "spotifyID": "5lKFO0PrOC9jmOlPEdjHsL"
+        "spotifyID": "5lKFO0PrOC9jmOlPEdjHsL",
+        "appleID": "dos-d%C3%ADas/1761412603",
+        "youtubeID": "nne3lXKc1OU"
     },
     {
         "ranking": "72",
@@ -1199,6 +1208,8 @@
         "prev": "98",
         "streak": "5",
         "streams": "1,744,622",
-        "spotifyID": "5xlS0QkVrSH7ssEbBgBzbM"
+        "spotifyID": "5xlS0QkVrSH7ssEbBgBzbM",
+        "appleID": "little-saint-nick/1440856020",
+        "youtubeID": "xp9rK8FmYog"
     }
 ]

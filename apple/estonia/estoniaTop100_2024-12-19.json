@@ -183,7 +183,8 @@
         "artist": "Billie Eilish",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
         "appleID": "chihiro/1739659141",
-        "spotifyID": "7BRD7x5pt8Lqa1eGYC4dzj"
+        "spotifyID": "7BRD7x5pt8Lqa1eGYC4dzj",
+        "youtubeID": "BY_XwvKogC8"
     },
     {
         "ranking": "24",
@@ -294,7 +295,8 @@
         "artist": "Teddy Swims",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/36/19/66/36196640-1561-dc5e-c6bc-1e5f4befa583/093624856771.jpg/80x80bb.webp",
         "appleID": "lose-control/1691699836",
-        "spotifyID": "17phhZDn6oGtzMe56NuWvj"
+        "spotifyID": "17phhZDn6oGtzMe56NuWvj",
+        "youtubeID": "GZ3zL7kT6_c"
     },
     {
         "ranking": "38",
@@ -367,7 +369,8 @@
         "title": "FE!N (feat. Playboi Carti)",
         "artist": "Travis Scott",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/09/7d/b0/097db06f-8403-3cf7-7510-139e570ca66b/196871341882.jpg/80x80bb.webp",
-        "appleID": "fe-n-feat-playboi-carti/1699712651"
+        "appleID": "fe-n-feat-playboi-carti/1699712651",
+        "youtubeID": "B9synWjqBn8"
     },
     {
         "ranking": "48",
@@ -456,7 +459,8 @@
         "title": "Dancing In The Flames",
         "artist": "The Weeknd",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/34/7e/9f/347e9f54-2d74-820f-a910-68d01f044fcf/24UMGIM95646.rgb.jpg/80x80bb.webp",
-        "appleID": "dancing-in-the-flames/1767511513"
+        "appleID": "dancing-in-the-flames/1767511513",
+        "youtubeID": "gu0_ixJMx5U"
     },
     {
         "ranking": "59",
@@ -599,7 +603,8 @@
         "title": "Santa Claus Is Comin' to Town",
         "artist": "Frank Sinatra",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/07/ec/01/07ec011d-f158-eb3d-f521-b35f5e4189ab/886444694155.jpg/80x80bb.webp",
-        "appleID": "santa-claus-is-comin-to-town/923608497"
+        "appleID": "santa-claus-is-comin-to-town/923608497",
+        "youtubeID": "rHKn6N-1_EY"
     },
     {
         "ranking": "77",
@@ -691,14 +696,17 @@
         "title": "Type Shit",
         "artist": "Future",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4e/9f/7b/4e9f7b71-28ad-a8dc-9b34-da532feb82f6/196871937382.jpg/80x80bb.webp",
-        "appleID": "type-shit/1737150156"
+        "appleID": "type-shit/1737150156",
+        "youtubeID": "I0fgkcTbBoI"
     },
     {
         "ranking": "90",
         "title": "Little Saint Nick",
         "artist": "The Beach Boys",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/65/0a/39/650a39be-5682-77b8-e98d-7a72285b5602/13UABIM51358.rgb.jpg/80x80bb.webp",
-        "appleID": "little-saint-nick/1440856020"
+        "appleID": "little-saint-nick/1440856020",
+        "youtubeID": "xp9rK8FmYog",
+        "spotifyID": "5xlS0QkVrSH7ssEbBgBzbM"
     },
     {
         "ranking": "91",
@@ -773,6 +781,8 @@
         "title": "Please Come Home for Christmas",
         "artist": "Eagles",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music2/v4/b7/b1/5a/b7b15a8e-bf61-11be-4a64-cde4904c5daa/603497214266.jpg/80x80bb.webp",
-        "appleID": "please-come-home-for-christmas/635815759"
+        "appleID": "please-come-home-for-christmas/635815759",
+        "youtubeID": "5LUfDEATQHM",
+        "spotifyID": "3QIoEi8Enr9uHffwInGIsC"
     }
 ]
