@@ -512,7 +512,8 @@
         "artist": "Billie Eilish",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
         "appleID": "chihiro/1739659141",
-        "spotifyID": "7BRD7x5pt8Lqa1eGYC4dzj"
+        "spotifyID": "7BRD7x5pt8Lqa1eGYC4dzj",
+        "youtubeID": "BY_XwvKogC8"
     },
     {
         "ranking": "64",
@@ -601,7 +602,8 @@
         "artist": "Teddy Swims",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/36/19/66/36196640-1561-dc5e-c6bc-1e5f4befa583/093624856771.jpg/80x80bb.webp",
         "appleID": "lose-control/1691699836",
-        "spotifyID": "17phhZDn6oGtzMe56NuWvj"
+        "spotifyID": "17phhZDn6oGtzMe56NuWvj",
+        "youtubeID": "GZ3zL7kT6_c"
     },
     {
         "ranking": "76",
@@ -672,7 +674,9 @@
         "title": "Santa Claus Is Comin' to Town (Live at C.W. Post College, Greenvale, NY - December 1975)",
         "artist": "Bruce Springsteen",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Features124/v4/75/3e/0a/753e0a5e-888d-fca1-2e62-e4916c3cfc01/dj.jmpfisia.jpg/80x80bb.webp",
-        "appleID": "santa-claus-is-comin-to-town-live-at-c-w-post-college/299701862"
+        "appleID": "santa-claus-is-comin-to-town/923608497",
+        "youtubeID": "76WFkKp8Tjs",
+        "spotifyID": "6s2wpWPFPAgKg2LXxi1Oee"
     },
     {
         "ranking": "85",
@@ -751,7 +755,8 @@
         "title": "THE GREATEST",
         "artist": "Billie Eilish",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
-        "appleID": "the-greatest/1739659145"
+        "appleID": "the-greatest/1739659145",
+        "youtubeID": "aZqCFE_9U9o"
     },
     {
         "ranking": "95",
@@ -790,13 +795,16 @@
         "title": "Merry Christmas",
         "artist": "Ed Sheeran",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/f4/22/23/f42223bc-9636-239d-83ba-95313f0c3f8a/190296347870.jpg/80x80bb.webp",
-        "appleID": "merry-christmas/1597450885"
+        "appleID": "merry-christmas/1597450885",
+        "youtubeID": "Q_yuO8UNGmY",
+        "spotifyID": "0hz5PNF2wejwUKCMpesQWt"
     },
     {
         "ranking": "100",
         "title": "Christmas (Baby Please Come Home)",
         "artist": "Darlene Love",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/2e/92/5f/2e925fa4-6a4e-a15e-7cfc-bb3f13f053e1/mzi.ermvbetx.jpg/80x80bb.webp",
-        "appleID": "christmas-baby-please-come-home/336037344"
+        "appleID": "christmas-baby-please-come-home/336037344",
+        "youtubeID": "vf4ZXBzbAio"
     }
 ]
