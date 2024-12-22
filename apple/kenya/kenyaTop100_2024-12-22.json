@@ -32,7 +32,8 @@
         "title": "luther",
         "artist": "Kendrick Lamar",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/50/c2/cc/50c2cc95-3658-9417-0d4b-831abde44ba1/24UM1IM28978.rgb.jpg/80x80bb.webp",
-        "appleID": "luther/1781270323"
+        "appleID": "luther/1781270323",
+        "youtubeID": "4_taypLmSMU"
     },
     {
         "ranking": "6",
@@ -81,14 +82,16 @@
         "title": "KANTE (feat. Fave)",
         "artist": "Davido",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/40/12/87/4012878d-d267-09b8-7fe0-8c3fd8fdf169/886449553617.jpg/80x80bb.webp",
-        "appleID": "kante-feat-fave/1675379770"
+        "appleID": "kante-feat-fave/1675379770",
+        "youtubeID": "3bFPDfWReN0"
     },
     {
         "ranking": "13",
         "title": "Timeless",
         "artist": "The Weeknd",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ef/14/11/ef14117b-6681-088b-3c74-e127ca3b46ed/24UM1IM04061.rgb.jpg/80x80bb.webp",
-        "appleID": "timeless/1770380890"
+        "appleID": "timeless/1770380890",
+        "youtubeID": "5EpyN_6dqyk"
     },
     {
         "ranking": "14",
@@ -102,21 +105,26 @@
         "title": "Die With A Smile",
         "artist": "Lady Gaga",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/11/ae/f2/11aef294-f57c-bab9-c9fc-529162984e62/24UMGIM85348.rgb.jpg/80x80bb.webp",
-        "appleID": "die-with-a-smile/1762656732"
+        "appleID": "die-with-a-smile/1762656732",
+        "youtubeID": "kPa7bsKwL-c",
+        "spotifyID": "2plbrEY59IikOBgBGLjaoe"
     },
     {
         "ranking": "16",
         "title": "PUSH 2 START",
         "artist": "Tyla",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2a/cc/48/2acc48c7-e092-6b83-ce65-ff80ac6eb51c/196872520118.jpg/80x80bb.webp",
-        "appleID": "push-2-start/1772394889"
+        "appleID": "push-2-start/1772394889",
+        "youtubeID": "uLK2r3sG4lE",
+        "spotifyID": "1Cbl3Yq8rHo7hhDQmLQagU"
     },
     {
         "ranking": "17",
         "title": "tv off (feat. Lefty Gunplay)",
         "artist": "Kendrick Lamar",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/50/c2/cc/50c2cc95-3658-9417-0d4b-831abde44ba1/24UM1IM28978.rgb.jpg/80x80bb.webp",
-        "appleID": "tv-off-feat-lefty-gunplay/1781270540"
+        "appleID": "tv-off-feat-lefty-gunplay/1781270540",
+        "youtubeID": "U8F5G5wR1mk"
     },
     {
         "ranking": "18",
@@ -130,7 +138,8 @@
         "title": "Awolowo",
         "artist": "Fido",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/62/47/35/62473588-693f-71ba-87cb-29f90cfb637d/386564.jpg/80x80bb.webp",
-        "appleID": "awolowo/1765564585"
+        "appleID": "awolowo/1765564585",
+        "youtubeID": "XEL4ksfKIPk"
     },
     {
         "ranking": "20",
@@ -193,7 +202,8 @@
         "title": "BIRDS OF A FEATHER",
         "artist": "Billie Eilish",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
-        "appleID": "birds-of-a-feather/1739659142"
+        "appleID": "birds-of-a-feather/1739659142",
+        "youtubeID": "V9PVRfjEBTI"
     },
     {
         "ranking": "29",
@@ -242,7 +252,9 @@
         "title": "squabble up",
         "artist": "Kendrick Lamar",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/50/c2/cc/50c2cc95-3658-9417-0d4b-831abde44ba1/24UM1IM28978.rgb.jpg/80x80bb.webp",
-        "appleID": "squabble-up/1781270321"
+        "appleID": "squabble-up/1781270321",
+        "youtubeID": "fuV4yQWdn_4",
+        "spotifyID": "0nj9Bq5sHDiTxSHunhgkFb"
     },
     {
         "ranking": "36",
@@ -270,7 +282,8 @@
         "title": "Commas",
         "artist": "Ayra Starr",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/44/b2/de/44b2de15-4e05-77d8-14f3-ec5387ea24ec/24UMGIM51453.rgb.jpg/80x80bb.webp",
-        "appleID": "commas/1759261970"
+        "appleID": "commas/1759261970",
+        "youtubeID": "EhyzYPSHRQU"
     },
     {
         "ranking": "40",
@@ -291,7 +304,8 @@
         "title": "Sina Noma",
         "artist": "Charisma",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/32/b8/66/32b866e6-0d7b-67d3-0cc7-73dec780609a/0757572949649.png/80x80bb.webp",
-        "appleID": "sina-noma/1699366807"
+        "appleID": "sina-noma/1699366807",
+        "youtubeID": "lGMsfh8AqmM"
     },
     {
         "ranking": "43",
@@ -305,7 +319,8 @@
         "title": "Not Like Us",
         "artist": "Kendrick Lamar",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d0/ef/b6/d0efb685-73be-fdee-58c9-be655f4cd4fd/24UMGIM51924.rgb.jpg/80x80bb.webp",
-        "appleID": "not-like-us/1744776167"
+        "appleID": "not-like-us/1744776167",
+        "youtubeID": "H58vbez_m4E"
     },
     {
         "ranking": "45",
@@ -347,7 +362,8 @@
         "title": "Beta",
         "artist": "Mutoriah",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/f2/2c/d8/f22cd8ff-7479-f999-78f6-6c40ccb0d2dd/0.jpg/80x80bb.webp",
-        "appleID": "beta/1703130196"
+        "appleID": "beta/1703130196",
+        "youtubeID": "jmVGCnxnRug"
     },
     {
         "ranking": "51",
@@ -361,7 +377,9 @@
         "title": "Snooze",
         "artist": "SZA",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/bd/3b/a9/bd3ba9fb-9609-144f-bcfe-ead67b5f6ab3/196589564931.jpg/80x80bb.webp",
-        "appleID": "snooze/1657869492"
+        "appleID": "snooze/1657869492",
+        "youtubeID": "LDY_XyxBu8A",
+        "spotifyID": "4iZ4pt7kvcaH6Yo8UoZ4s2"
     },
     {
         "ranking": "53",
@@ -438,7 +456,8 @@
         "title": "Show You Off",
         "artist": "Savara",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ad/6d/50/ad6d5062-27a1-548e-142a-03dbe658de84/723277883168.jpg/80x80bb.webp",
-        "appleID": "show-you-off/1772996975"
+        "appleID": "show-you-off/1772996975",
+        "youtubeID": "bXlPI9TB20E"
     },
     {
         "ranking": "64",
@@ -459,7 +478,9 @@
         "title": "wacced out murals",
         "artist": "Kendrick Lamar",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/50/c2/cc/50c2cc95-3658-9417-0d4b-831abde44ba1/24UM1IM28978.rgb.jpg/80x80bb.webp",
-        "appleID": "wacced-out-murals/1781270320"
+        "appleID": "wacced-out-murals/1781270320",
+        "youtubeID": "YwUQ_5iV9pY",
+        "spotifyID": "5gOfC9UzZQzTyShqPMrpjT"
     },
     {
         "ranking": "67",
@@ -473,7 +494,8 @@
         "title": "Like That",
         "artist": "Future",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4e/9f/7b/4e9f7b71-28ad-a8dc-9b34-da532feb82f6/196871937382.jpg/80x80bb.webp",
-        "appleID": "like-that/1737150439"
+        "appleID": "like-that/1737150439",
+        "youtubeID": "N9bKBAA22Go"
     },
     {
         "ranking": "69",
@@ -564,7 +586,9 @@
         "title": "reincarnated",
         "artist": "Kendrick Lamar",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/50/c2/cc/50c2cc95-3658-9417-0d4b-831abde44ba1/24UM1IM28978.rgb.jpg/80x80bb.webp",
-        "appleID": "reincarnated/1781270539"
+        "appleID": "reincarnated/1781270539",
+        "youtubeID": "Ek7UvQPCQnE",
+        "spotifyID": "0RgjEkSbeuStKfT2Pa4Zai"
     },
     {
         "ranking": "82",
@@ -599,7 +623,9 @@
         "title": "WILDFLOWER",
         "artist": "Billie Eilish",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
-        "appleID": "wildflower/1739659144"
+        "appleID": "wildflower/1739659144",
+        "youtubeID": "IWKyykQBRKo",
+        "spotifyID": "3QaPy1KgI7nu9FJEQUgn6h"
     },
     {
         "ranking": "87",
@@ -662,7 +688,8 @@
         "title": "HIGHEST IN THE ROOM",
         "artist": "Travis Scott",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/30/5f/c4/305fc4b4-155d-8e67-7c7a-8eb35032fbcb/886448042792.jpg/80x80bb.webp",
-        "appleID": "highest-in-the-room/1481874619"
+        "appleID": "highest-in-the-room/1481874619",
+        "spotifyID": "3eekarcy7kvN4yt5ZFzltW"
     },
     {
         "ranking": "96",
@@ -676,14 +703,16 @@
         "title": "Rush",
         "artist": "Ayra Starr",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/b5/4a/3d/b54a3d1a-f493-7a9b-1807-a73f01709053/5059449090122.png/80x80bb.webp",
-        "appleID": "rush/1642898573"
+        "appleID": "rush/1642898573",
+        "youtubeID": "crtQSTYWtqE"
     },
     {
         "ranking": "98",
         "title": "WAIT FOR U (feat. Drake & Tems)",
         "artist": "Future",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/65/f2/06/65f2067b-a8ea-239c-c219-8e0f0282dcea/196589073693.jpg/80x80bb.webp",
-        "appleID": "wait-for-u-feat-drake-tems/1621119447"
+        "appleID": "wait-for-u-feat-drake-tems/1621119447",
+        "youtubeID": "rP09GUQFDFk"
     },
     {
         "ranking": "99",
@@ -697,6 +726,7 @@
         "title": "man at the garden",
         "artist": "Kendrick Lamar",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/50/c2/cc/50c2cc95-3658-9417-0d4b-831abde44ba1/24UM1IM28978.rgb.jpg/80x80bb.webp",
-        "appleID": "man-at-the-garden/1781270326"
+        "appleID": "man-at-the-garden/1781270326",
+        "youtubeID": "wiALRpD0Ztg"
     }
 ]
