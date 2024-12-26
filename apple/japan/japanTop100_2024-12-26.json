@@ -4,14 +4,17 @@
         "title": "APT.",
         "artist": "ROSÉ",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2d/1a/7d/2d1a7d91-587e-0ceb-d434-327bd66d9e86/075679628312.jpg/80x80bb.webp",
-        "appleID": "apt/1773452221"
+        "appleID": "apt/1773452221",
+        "youtubeID": "ekr2nIex040",
+        "spotifyID": "4wJ5Qq0jBN4ajy7ouZIV1c"
     },
     {
         "ranking": "2",
         "title": "Lilac",
         "artist": "Mrs. GREEN APPLE",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4c/3b/b2/4c3bb247-3be8-0c57-aa9a-7f1775a7b7a8/24UMGIM32931.rgb.jpg/80x80bb.webp",
-        "appleID": "lilac/1739088799"
+        "appleID": "lilac/1739088799",
+        "youtubeID": "QjrkrVmC-8M"
     },
     {
         "ranking": "3",
@@ -25,28 +28,33 @@
         "title": "All I Want for Christmas Is You",
         "artist": "Mariah Carey",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/c6/b7/27/c6b727f7-3a32-6b43-cee2-05bb71daf1cf/dj.itfmdeif.jpg/80x80bb.webp",
-        "appleID": "all-i-want-for-christmas-is-you/585972803"
+        "appleID": "all-i-want-for-christmas-is-you/585972803",
+        "youtubeID": "aAkMkVFwAoo"
     },
     {
         "ranking": "5",
         "title": "Otonoke (Opening Theme to DAN DA DAN)",
         "artist": "Creepy Nuts",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2c/66/b5/2c66b5b5-a46f-1064-4802-fe82c0e56200/4547366705638.jpg/80x80bb.webp",
-        "appleID": "otonoke-opening-theme-to-dan-da-dan/1771603031"
+        "appleID": "otonoke-opening-theme-to-dan-da-dan/1771603031",
+        "spotifyID": "6KYOlIwDHbrbeBbJEtQ0Fj"
     },
     {
         "ranking": "6",
         "title": "Soranji",
         "artist": "Mrs. GREEN APPLE",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/e1/ec/d4/e1ecd4b4-4f2f-c49e-fa95-958c6b4cf7ab/22UM1IM16537.rgb.jpg/80x80bb.webp",
-        "appleID": "soranji/1648865575"
+        "appleID": "soranji/1648865575",
+        "youtubeID": "44cICMd3jW4",
+        "spotifyID": "3YML5IHoqWbw9c9vJJvrvM"
     },
     {
         "ranking": "7",
         "title": "Bitter Vacances",
         "artist": "Mrs. GREEN APPLE",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/80/71/e4/8071e497-c866-d369-1ff4-bf42d2ce099a/24UM1IM25234.rgb.jpg/80x80bb.webp",
-        "appleID": "bitter-vacances/1780452035"
+        "appleID": "bitter-vacances/1780452035",
+        "youtubeID": "-6YeAmmRdoA"
     },
     {
         "ranking": "8",
@@ -67,7 +75,8 @@
         "title": "Kaiju no Hanauta",
         "artist": "VAUNDY",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/0e/a0/5d/0ea05d5f-81b1-8bad-957b-fee6fef2849c/197189952203.jpg/80x80bb.webp",
-        "appleID": "kaiju-no-hanauta/1707015516"
+        "appleID": "kaiju-no-hanauta/1707015516",
+        "spotifyID": "7dTW21YAJxnAOiUh7Rtu9S"
     },
     {
         "ranking": "11",
@@ -88,14 +97,16 @@
         "title": "Santa Tell Me",
         "artist": "Ariana Grande",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/60/c8/2b/60c82b22-cd58-cdcd-5b51-6fad7a8b7055/14UMGIM55455.rgb.jpg/80x80bb.webp",
-        "appleID": "santa-tell-me/1444319982"
+        "appleID": "santa-tell-me/1444319982",
+        "youtubeID": "nlR0MkrRklg"
     },
     {
         "ranking": "14",
         "title": "Whiplash",
         "artist": "aespa",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d5/c1/f5/d5c1f505-f588-775f-df05-c672a8ec22e9/888735949562_Cover.jpg/80x80bb.webp",
-        "appleID": "whiplash/1772214981"
+        "appleID": "whiplash/1772214981",
+        "youtubeID": "jWQx2f-CErU"
     },
     {
         "ranking": "15",
@@ -116,7 +127,8 @@
         "title": "Subtitle",
         "artist": "OFFICIAL HIGE DANDISM",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5e/35/b0/5e35b0e7-4c59-d77b-5856-5edc4413adae/PCCA_06304_A.jpg/80x80bb.webp",
-        "appleID": "subtitle/1754117477"
+        "appleID": "subtitle/1754117477",
+        "spotifyID": "5ZkHkXPHrIM8K5twCe78i9"
     },
     {
         "ranking": "18",
@@ -130,7 +142,8 @@
         "title": "Bling-Bang-Bang-Born",
         "artist": "Creepy Nuts",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/12/81/dc/1281dc28-48e6-5ff7-642d-6cf4d487d9e0/4547366660890.jpg/80x80bb.webp",
-        "appleID": "bling-bang-bang-born/1720332181"
+        "appleID": "bling-bang-bang-born/1720332181",
+        "youtubeID": "mLW35YMzELE"
     },
     {
         "ranking": "20",
@@ -151,7 +164,9 @@
         "title": "familie",
         "artist": "Mrs. GREEN APPLE",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/34/5f/f6/345ff67f-c93d-108b-9f74-db8949fe3d63/24UMGIM76510.rgb.jpg/80x80bb.webp",
-        "appleID": "familie/1760670654"
+        "appleID": "familie/1760670654",
+        "youtubeID": "FYhxYcXfhYA",
+        "spotifyID": "4PCQHOJFMV9BWq46UMVf2l"
     },
     {
         "ranking": "23",
@@ -165,7 +180,9 @@
         "title": "Bunny Girl",
         "artist": "AKASAKI",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d1/f0/19/d1f01983-f104-2b34-0983-e8dc3ff17601/24UMGIM94859.rgb.jpg/80x80bb.webp",
-        "appleID": "bunny-girl/1769165500"
+        "appleID": "bunny-girl/1769165500",
+        "youtubeID": "eQndIPCv4Z0",
+        "spotifyID": "5skCbGGAnc7Ns18Figz54h"
     },
     {
         "ranking": "25",
@@ -186,7 +203,8 @@
         "title": "Magic",
         "artist": "Mrs. GREEN APPLE",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/a4/ad/58/a4ad5816-0612-60d0-3ea2-917bea2e9c8e/23UMGIM61979.rgb.jpg/80x80bb.webp",
-        "appleID": "magic/1691229801"
+        "appleID": "magic/1691229801",
+        "spotifyID": "170XOP1T4MvY9TLTgPw07D"
     },
     {
         "ranking": "28",
@@ -207,7 +225,9 @@
         "title": "Jingle Bell Rock",
         "artist": "Bobby Helms",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/e8/18/6b/e8186bf9-5696-e721-b273-a5f173caf8c1/18UMGIM07062.rgb.jpg/80x80bb.webp",
-        "appleID": "jingle-bell-rock/1358462132"
+        "appleID": "jingle-bell-rock/1358462132",
+        "youtubeID": "Z0ajuTaHBtM",
+        "spotifyID": "7vQbuQcyTflfCIOu3Uzzya"
     },
     {
         "ranking": "31",
@@ -235,7 +255,8 @@
         "title": "Happy Birthday",
         "artist": "back number",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/38/22/2e/38222e54-54dd-aa06-0e39-e0a0c0719752/00602577530418.rgb.jpg/80x80bb.webp",
-        "appleID": "happy-birthday/1456063581"
+        "appleID": "happy-birthday/1456063581",
+        "spotifyID": "4FMz2RFrbDGzJO7K4D0vS3"
     },
     {
         "ranking": "35",
@@ -256,7 +277,9 @@
         "title": "NEW LOOK",
         "artist": "MISAMO",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/06/30/f5/0630f5c1-6288-346b-d5c9-3760fe3565cd/5021732513250.jpg/80x80bb.webp",
-        "appleID": "new-look/1772137001"
+        "appleID": "new-look/1772137001",
+        "youtubeID": "FJWLj1-kGC0",
+        "spotifyID": "2dcUJfnd2BAKS7jUSdlmmO"
     },
     {
         "ranking": "38",
@@ -270,7 +293,8 @@
         "title": "Hai Yorokonde",
         "artist": "Kocchi No Kento",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1d/0c/47/1d0c4791-7f6a-9b41-4acb-ea3e8794324e/0198448350686_cover.png/80x80bb.webp",
-        "appleID": "hai-yorokonde/1745488818"
+        "appleID": "hai-yorokonde/1745488818",
+        "spotifyID": "6woV8uWxn7rcLZxJKYruS1"
     },
     {
         "ranking": "40",
@@ -291,14 +315,17 @@
         "title": "I wonder",
         "artist": "Da-iCE",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b4/32/b8/b432b806-4718-07d6-e37f-59ee11893da4/ANTCD-A0000013226.jpg/80x80bb.webp",
-        "appleID": "i-wonder/1739046217"
+        "appleID": "i-wonder/1739046217",
+        "youtubeID": "i9mGHG8kqoA",
+        "spotifyID": "0voOaunLYYqPHrsgXbFVlW"
     },
     {
         "ranking": "43",
         "title": "Underneath the Tree",
         "artist": "Kelly Clarkson",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/d8/e3/a5/d8e3a5f3-9296-07cc-9714-26069c01fd44/886448741190.jpg/80x80bb.webp",
-        "appleID": "underneath-the-tree/1537216368"
+        "appleID": "underneath-the-tree/1537216368",
+        "youtubeID": "EM2Fnp_qnE8"
     },
     {
         "ranking": "44",
@@ -326,7 +353,9 @@
         "title": "Last Christmas",
         "artist": "Wham!",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/47/55/0c/47550cd6-7ef5-bf86-c194-c7695d63c759/dj.xuditatj.jpg/80x80bb.webp",
-        "appleID": "last-christmas/282658482"
+        "appleID": "last-christmas/282658482",
+        "youtubeID": "E8gmARGvPlI",
+        "spotifyID": "2FRnf9qhLbvw8fu4IBXx78"
     },
     {
         "ranking": "48",
@@ -347,7 +376,8 @@
         "title": "HOME SWEET HOME (feat. TAEYANG & DAESUNG)",
         "artist": "G-DRAGON",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a4/e1/84/a4e1846a-6158-6a43-30c7-0297e891905e/197342826099_cover.jpg/80x80bb.webp",
-        "appleID": "home-sweet-home-feat-taeyang-daesung/1780635199"
+        "appleID": "home-sweet-home-feat-taeyang-daesung/1780635199",
+        "youtubeID": "fLi0EJfi_vg"
     },
     {
         "ranking": "51",
@@ -361,14 +391,17 @@
         "title": "Same Blue",
         "artist": "OFFICIAL HIGE DANDISM",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8e/2b/64/8e2b64e9-85f2-2486-364d-e4b72c40f4c9/PCSP_06085_A.jpg/80x80bb.webp",
-        "appleID": "same-blue/1768218701"
+        "appleID": "same-blue/1768218701",
+        "youtubeID": "A7cp6OVa0Qc",
+        "spotifyID": "3tRgmNTaFYgtbt7XCy6Les"
     },
     {
         "ranking": "53",
         "title": "Pretender",
         "artist": "OFFICIAL HIGE DANDISM",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/9c/7d/88/9c7d883d-4477-bf68-f56f-a726030a63a2/PCCA_04822.jpg/80x80bb.webp",
-        "appleID": "pretender/1479397873"
+        "appleID": "pretender/1479397873",
+        "youtubeID": "TQ8WlA2GXbk"
     },
     {
         "ranking": "54",
@@ -389,14 +422,18 @@
         "title": "toxic till the end",
         "artist": "ROSÉ",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2d/14/66/2d14661b-345b-d0f3-4e86-56ef626e68aa/075679629203.jpg/80x80bb.webp",
-        "appleID": "toxic-till-the-end/1771105929"
+        "appleID": "toxic-till-the-end/1771105929",
+        "youtubeID": "eA0lHNZ1KCA",
+        "spotifyID": "1z5ebC9238uGoBgzYyvGpQ"
     },
     {
         "ranking": "57",
         "title": "Magnetic",
         "artist": "ILLIT",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/3e/49/1e/3e491e43-4961-21ab-2abe-37fb1c0feb40/196922879227_Cover.jpg/80x80bb.webp",
-        "appleID": "magnetic/1734500896"
+        "appleID": "magnetic/1734500896",
+        "youtubeID": "Vk5-c_v4gMU",
+        "spotifyID": "1aKvZDoLGkNMxoRYgkckZG"
     },
     {
         "ranking": "58",
@@ -410,14 +447,16 @@
         "title": "Supernova",
         "artist": "aespa",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/50/7e/e0/507ee09f-ccfd-1e3c-af90-ca5e92b1221b/00888735949869_Cover.jpg/80x80bb.webp",
-        "appleID": "supernova/1773694544"
+        "appleID": "supernova/1773694544",
+        "youtubeID": "phuiiNCxRMg"
     },
     {
         "ranking": "60",
         "title": "SPECIALZ",
         "artist": "King Gnu",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/aa/33/55/aa335541-9932-d73c-6b1e-62bd484fc83d/4547366642308.jpg/80x80bb.webp",
-        "appleID": "specialz/1702823583"
+        "appleID": "specialz/1702823583",
+        "youtubeID": "fhzKLBZJC3w"
     },
     {
         "ranking": "61",
@@ -431,7 +470,8 @@
         "title": "UNDEAD",
         "artist": "YOASOBI",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4f/b3/fb/4fb3fb99-7c8b-f028-8683-6128f3e20caf/198588375464.jpg/80x80bb.webp",
-        "appleID": "undead/1752838890"
+        "appleID": "undead/1752838890",
+        "youtubeID": "Jj1_mfUzjOs"
     },
     {
         "ranking": "63",
@@ -459,21 +499,27 @@
         "title": "Let It Snow! Let It Snow! Let It Snow!",
         "artist": "Dean Martin",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/87/ee/3a/87ee3ae8-dc96-e287-6f1e-2332d4ae4c1d/13UAEIM07388.rgb.jpg/80x80bb.webp",
-        "appleID": "let-it-snow-let-it-snow-let-it-snow/1440830243"
+        "appleID": "let-it-snow-let-it-snow-let-it-snow/1440830243",
+        "youtubeID": "2TA3IKH8Y5c",
+        "spotifyID": "2uFaJJtFpPDc5Pa95XzTvg"
     },
     {
         "ranking": "67",
         "title": "It's Beginning To Look a Lot Like Christmas",
         "artist": "Michael Bublé",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/37/2d/6e/372d6e16-7a32-91f0-1a03-0f2d9dbe389e/093624942788.jpg/80x80bb.webp",
-        "appleID": "its-beginning-to-look-a-lot-like-christmas/669854831"
+        "appleID": "its-beginning-to-look-a-lot-like-christmas/1592740089",
+        "youtubeID": "QJ5DOWPGxwg",
+        "spotifyID": "1rv46mRwDqMEhOBZ7vODg3"
     },
     {
         "ranking": "68",
         "title": "Sleigh Ride",
         "artist": "The Ronettes",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/2e/92/5f/2e925fa4-6a4e-a15e-7cfc-bb3f13f053e1/mzi.ermvbetx.jpg/80x80bb.webp",
-        "appleID": "sleigh-ride/336037282"
+        "appleID": "sleigh-ride/336037282",
+        "youtubeID": "DkXIJe8CaIc",
+        "spotifyID": "7fUYUcWy853HS8YJn0b3Sr"
     },
     {
         "ranking": "69",
@@ -487,21 +533,26 @@
         "title": "It's the Most Wonderful Time of the Year",
         "artist": "Andy Williams",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/d9/84/16/d98416a4-d960-4602-8f2c-4f03165d434d/mzi.hohpjzfa.jpg/80x80bb.webp",
-        "appleID": "its-the-most-wonderful-time-of-the-year/171434594"
+        "appleID": "its-the-most-wonderful-time-of-the-year/171434594",
+        "youtubeID": "cbZTfrhcamA",
+        "spotifyID": "1IcR6RlgvDczfvoWJSSY2A"
     },
     {
         "ranking": "71",
         "title": "Rockin' Around the Christmas Tree (Single)",
         "artist": "Brenda Lee",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/d4/ea/6b/d4ea6b89-f9ac-f476-270d-66931315bc4c/06UMGIM02727.rgb.jpg/80x80bb.webp",
-        "appleID": "rockin-around-the-christmas-tree-single/1444032015"
+        "appleID": "rockin-around-the-christmas-tree-single/1444032015",
+        "youtubeID": "TFsZy9t-qDc",
+        "spotifyID": "2EjXfH91m7f8HiJN1yQg97"
     },
     {
         "ranking": "72",
         "title": "DRIP",
         "artist": "BABYMONSTER",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b9/e1/ef/b9e1ef3a-e3eb-8152-e91b-20aca0fc9ffd/BM_DRIP_Digital-Cover_4000.jpg/80x80bb.webp",
-        "appleID": "drip/1773262055"
+        "appleID": "drip/1773262055",
+        "youtubeID": "Zp-Jhuhq0bQ"
     },
     {
         "ranking": "73",
@@ -578,21 +629,25 @@
         "title": "Cinderella Boy",
         "artist": "Saucy Dog",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/1f/fc/23/1ffc2353-6b56-881c-b053-d160964e335c/4580684128161.jpg/80x80bb.webp",
-        "appleID": "cinderella-boy/1579655668"
+        "appleID": "cinderella-boy/1579655668",
+        "spotifyID": "1Vqs0lXeJafYZz2sxnfB3V"
     },
     {
         "ranking": "84",
         "title": "A Holly Jolly Christmas (Single Version)",
         "artist": "Burl Ives",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/b0/e3/f5/b0e3f581-7086-b1db-9cba-5dda416af1ff/06UMGIM17860.rgb.jpg/80x80bb.webp",
-        "appleID": "a-holly-jolly-christmas-single-version/1444213351"
+        "appleID": "a-holly-jolly-christmas-single-version/1444213351",
+        "youtubeID": "e_AMTbO50vU",
+        "spotifyID": "77khP2fIVhSW23NwxrRluh"
     },
     {
         "ranking": "85",
         "title": "Lemon",
         "artist": "Kenshi Yonezu",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/6b/0f/0b/6b0f0b3d-e842-5ee1-83a8-1b12142a9dfd/dj.bpfbtyiy.jpg/80x80bb.webp",
-        "appleID": "lemon/1538265741"
+        "appleID": "lemon/1538265741",
+        "youtubeID": "SX_ViT4Ra7k"
     },
     {
         "ranking": "86",
@@ -613,7 +668,8 @@
         "title": "Ditto",
         "artist": "NewJeans",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/48/96/08/4896085e-b550-cb0a-3e5b-1f203521cb82/196922265464_Cover.jpg/80x80bb.webp",
-        "appleID": "ditto/1659513448"
+        "appleID": "ditto/1659513448",
+        "youtubeID": "Km71Rr9K-Bw"
     },
     {
         "ranking": "89",
@@ -641,14 +697,16 @@
         "title": "Strategy",
         "artist": "TWICE",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d3/65/0c/d3650c39-d01d-2453-6826-9aa21ad22559/8809928952925_Cover.jpg/80x80bb.webp",
-        "appleID": "strategy/1774299995"
+        "appleID": "strategy/1774299995",
+        "youtubeID": "LcV0eAgCSgw"
     },
     {
         "ranking": "93",
         "title": "Strategy (feat. Megan Thee Stallion)",
         "artist": "TWICE",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d3/65/0c/d3650c39-d01d-2453-6826-9aa21ad22559/8809928952925_Cover.jpg/80x80bb.webp",
-        "appleID": "strategy-feat-megan-thee-stallion/1774299757"
+        "appleID": "strategy-feat-megan-thee-stallion/1774299757",
+        "youtubeID": "LcV0eAgCSgw"
     },
     {
         "ranking": "94",
@@ -697,6 +755,8 @@
         "title": "Azalea",
         "artist": "Kenshi Yonezu",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c3/28/23/c3282346-916d-9e07-7c73-5a52d731d242/4547366717532.jpg/80x80bb.webp",
-        "appleID": "azalea/1776984411"
+        "appleID": "azalea/1776984411",
+        "youtubeID": "FqWBQv7h_3I",
+        "spotifyID": "7kJBYHytiARJlRygfg5VCn"
     }
 ]

@@ -4,35 +4,44 @@
         "title": "Tu Boda",
         "artist": "Óscar Maydon",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e0/f4/2b/e0f42b78-81c3-81a3-aefb-bad4927c21c7/196872471342.jpg/80x80bb.webp",
-        "appleID": "tu-boda/1769510706"
+        "appleID": "tu-boda/1769510706",
+        "youtubeID": "_ymicn0_GYc",
+        "spotifyID": "1cOboCuWYI2osTOfolMRS6"
     },
     {
         "ranking": "2",
         "title": "Last Christmas (Single Version)",
         "artist": "Wham!",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/eb/4a/f9/eb4af984-fc68-56ab-7b89-1d070c04e1dd/5099765318524.jpg/80x80bb.webp",
-        "appleID": "last-christmas-single-version/202117984"
+        "appleID": "last-christmas/282658482",
+        "youtubeID": "E8gmARGvPlI",
+        "spotifyID": "2FRnf9qhLbvw8fu4IBXx78"
     },
     {
         "ranking": "3",
         "title": "All I Want for Christmas Is You",
         "artist": "Mariah Carey",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/c6/b7/27/c6b727f7-3a32-6b43-cee2-05bb71daf1cf/dj.itfmdeif.jpg/80x80bb.webp",
-        "appleID": "all-i-want-for-christmas-is-you/585972803"
+        "appleID": "all-i-want-for-christmas-is-you/585972803",
+        "youtubeID": "aAkMkVFwAoo"
     },
     {
         "ranking": "4",
         "title": "Qué Pasaría...",
         "artist": "Rauw Alejandro",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ab/e8/09/abe8092d-ef44-61b9-6b50-ab7efb78ca51/196872401516.jpg/80x80bb.webp",
-        "appleID": "qu%C3%A9-pasar%C3%ADa/1775462855"
+        "appleID": "qu%C3%A9-pasar%C3%ADa/1775462855",
+        "youtubeID": "g08y_x83d5E",
+        "spotifyID": "0l0vcZMU7AOeQmUIREoI2U"
     },
     {
         "ranking": "5",
         "title": "Khé?",
         "artist": "Rauw Alejandro",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ab/e8/09/abe8092d-ef44-61b9-6b50-ab7efb78ca51/196872401516.jpg/80x80bb.webp",
-        "appleID": "kh%C3%A9/1775463293"
+        "appleID": "kh%C3%A9/1775463293",
+        "youtubeID": "7SNycTMOF74",
+        "spotifyID": "1YYfyJ2yCvGFCxwjsIqEK9"
     },
     {
         "ranking": "6",
@@ -46,14 +55,18 @@
         "title": "NADIE",
         "artist": "Tito Double P",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/38/66/b0/3866b02e-a123-7077-d752-84673080f717/198846892177.jpg/80x80bb.webp",
-        "appleID": "nadie/1779387617"
+        "appleID": "nadie/1779387617",
+        "youtubeID": "sI2TE_hYFYQ",
+        "spotifyID": "7sd6zMrgGpEa7NkQm9TRrg"
     },
     {
         "ranking": "8",
         "title": "DOS DÍAS",
         "artist": "Tito Double P",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d6/b1/c5/d6b1c5e2-104d-c427-465e-fea8dfe663d4/198588874653.jpg/80x80bb.webp",
-        "appleID": "dos-d%C3%ADas/1761412603"
+        "appleID": "dos-d%C3%ADas/1761412603",
+        "youtubeID": "nne3lXKc1OU",
+        "spotifyID": "5lKFO0PrOC9jmOlPEdjHsL"
     },
     {
         "ranking": "9",
@@ -67,14 +80,17 @@
         "title": "EL LOKERÓN",
         "artist": "Tito Double P",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d6/b1/c5/d6b1c5e2-104d-c427-465e-fea8dfe663d4/198588874653.jpg/80x80bb.webp",
-        "appleID": "el-loker%C3%B3n/1761412372"
+        "appleID": "el-loker%C3%B3n/1761412372",
+        "youtubeID": "54YpK2I6BM8"
     },
     {
         "ranking": "11",
         "title": "Feliz Navidad",
         "artist": "José Feliciano",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/cf/a7/f8/cfa7f807-e9a6-758d-97e0-f1cd843b5a20/mzi.vcbwvmqu.jpg/80x80bb.webp",
-        "appleID": "feliz-navidad/255615879"
+        "appleID": "feliz-navidad/255615879",
+        "youtubeID": "N8NcQzMQN_U",
+        "spotifyID": "3qCeq0rWK67SoBDgFd2sId"
     },
     {
         "ranking": "12",
@@ -88,42 +104,53 @@
         "title": "ROSONES",
         "artist": "Tito Double P",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/30/75/0d/30750d8c-20c7-5c80-f9be-97b7fd6fcfc5/199066153628.jpg/80x80bb.webp",
-        "appleID": "rosones/1783211314"
+        "appleID": "rosones/1783211314",
+        "youtubeID": "hrhu8OE4WMM",
+        "spotifyID": "0LTwdL5yZ6YOTEGUQPFuSN"
     },
     {
         "ranking": "14",
         "title": "Jingle Bell Rock",
         "artist": "Bobby Helms",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/e8/18/6b/e8186bf9-5696-e721-b273-a5f173caf8c1/18UMGIM07062.rgb.jpg/80x80bb.webp",
-        "appleID": "jingle-bell-rock/1358462132"
+        "appleID": "jingle-bell-rock/1358462132",
+        "youtubeID": "Z0ajuTaHBtM",
+        "spotifyID": "7vQbuQcyTflfCIOu3Uzzya"
     },
     {
         "ranking": "15",
         "title": "It's the Most Wonderful Time of the Year",
         "artist": "Andy Williams",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/d9/84/16/d98416a4-d960-4602-8f2c-4f03165d434d/mzi.hohpjzfa.jpg/80x80bb.webp",
-        "appleID": "its-the-most-wonderful-time-of-the-year/171434594"
+        "appleID": "its-the-most-wonderful-time-of-the-year/171434594",
+        "youtubeID": "cbZTfrhcamA",
+        "spotifyID": "1IcR6RlgvDczfvoWJSSY2A"
     },
     {
         "ranking": "16",
         "title": "Si Antes Te Hubiera Conocido",
         "artist": "KAROL G",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a0/60/94/a060947c-54d8-0fad-c558-eed12600224c/24UMGIM62705.rgb.jpg/80x80bb.webp",
-        "appleID": "si-antes-te-hubiera-conocido/1752031539"
+        "appleID": "si-antes-te-hubiera-conocido/1752031539",
+        "youtubeID": "QCZZwZQ4qNs",
+        "spotifyID": "6WatFBLVB0x077xWeoVc2k"
     },
     {
         "ranking": "17",
         "title": "NEL",
         "artist": "Fuerza Regida",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/24/95/0f/24950f19-f5dd-696b-8295-df4f780a0d9a/196872326017.jpg/80x80bb.webp",
-        "appleID": "nel/1759045296"
+        "appleID": "nel/1759045296",
+        "youtubeID": "fZcrCrHnYBw",
+        "spotifyID": "5AH31dDNgxCMGDdxubNNn4"
     },
     {
         "ranking": "18",
         "title": "Holly Jolly Christmas",
         "artist": "Michael Bublé",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0e/af/53/0eaf535d-d955-9255-4bb8-aa0fe02fa22a/093624834687.jpg/80x80bb.webp",
-        "appleID": "holly-jolly-christmas/1782947597"
+        "appleID": "holly-jolly-christmas/1782947597",
+        "spotifyID": "67mgz7S5y7hnCE63YBjfO6"
     },
     {
         "ranking": "19",
@@ -137,7 +164,9 @@
         "title": "Rey Sin Reina",
         "artist": "Julión Álvarez y su Norteño Banda",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/77/82/8a/77828a64-43d7-1358-1dbd-cc1aa62f6284/198846198002.jpg/80x80bb.webp",
-        "appleID": "rey-sin-reina/1765585955"
+        "appleID": "rey-sin-reina/1765585955",
+        "youtubeID": "ElRVZ09939k",
+        "spotifyID": "0BiDnJFB3TlRB6aji7jUz3"
     },
     {
         "ranking": "21",
@@ -158,7 +187,9 @@
         "title": "EL CLúB",
         "artist": "Bad Bunny",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/fe/7a/aa/fe7aaaea-640a-30b4-17b0-11a3272e28f1/199066130155.jpg/80x80bb.webp",
-        "appleID": "el-cl%C3%BAb/1783419694"
+        "appleID": "el-cl%C3%BAb/1783419694",
+        "youtubeID": "7f6SxWMOpdU",
+        "spotifyID": "3zOgFY5kpQ6p2cwPIquZks"
     },
     {
         "ranking": "24",
@@ -172,21 +203,26 @@
         "title": "Moscow Mule",
         "artist": "Bad Bunny",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/3e/04/eb/3e04ebf6-370f-f59d-ec84-2c2643db92f1/196626945068.jpg/80x80bb.webp",
-        "appleID": "moscow-mule/1622045625"
+        "appleID": "moscow-mule/1622045625",
+        "youtubeID": "p38WgakuYDo",
+        "spotifyID": "6Xom58OOXk2SoU711L2IXO"
     },
     {
         "ranking": "26",
         "title": "Santa Tell Me",
         "artist": "Ariana Grande",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/60/c8/2b/60c82b22-cd58-cdcd-5b51-6fad7a8b7055/14UMGIM55455.rgb.jpg/80x80bb.webp",
-        "appleID": "santa-tell-me/1444319982"
+        "appleID": "santa-tell-me/1444319982",
+        "youtubeID": "nlR0MkrRklg"
     },
     {
         "ranking": "27",
         "title": "It's Beginning To Look a Lot Like Christmas",
         "artist": "Michael Bublé",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/37/2d/6e/372d6e16-7a32-91f0-1a03-0f2d9dbe389e/093624942788.jpg/80x80bb.webp",
-        "appleID": "its-beginning-to-look-a-lot-like-christmas/669854831"
+        "appleID": "its-beginning-to-look-a-lot-like-christmas/1592740089",
+        "youtubeID": "QJ5DOWPGxwg",
+        "spotifyID": "1rv46mRwDqMEhOBZ7vODg3"
     },
     {
         "ranking": "28",
@@ -200,7 +236,8 @@
         "title": "gervonta",
         "artist": "Peso Pluma",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/39/ed/a6/39eda6fa-33fc-76da-238e-454c5ad8b73c/199066114025.jpg/80x80bb.webp",
-        "appleID": "gervonta/1783250950"
+        "appleID": "gervonta/1783250950",
+        "spotifyID": "0hfXHqWhOpbR9YQmQojDMN"
     },
     {
         "ranking": "30",
@@ -228,21 +265,26 @@
         "title": "TÚ NAME",
         "artist": "Fuerza Regida",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/2e/39/db/2e39db39-bf85-df59-c4c5-22391beeacf8/196871825177.jpg/80x80bb.webp",
-        "appleID": "t%C3%BA-name/1728939096"
+        "appleID": "t%C3%BA-name/1728939096",
+        "spotifyID": "3FqUPvubYeRCMsdJ02QyZR"
     },
     {
         "ranking": "34",
         "title": "Morena Canela",
         "artist": "Chino Pacas",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/86/19/a6/8619a6ca-c16c-c471-8aa0-7bdd7f391297/198704068621_Cover.jpg/80x80bb.webp",
-        "appleID": "morena-canela/1772773671"
+        "appleID": "morena-canela/1772773671",
+        "youtubeID": "j9HE268Um30",
+        "spotifyID": "0NsGFMIo2aNbAkJu48ndaf"
     },
     {
         "ranking": "35",
         "title": "Tú Con Él",
         "artist": "Rauw Alejandro",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ab/e8/09/abe8092d-ef44-61b9-6b50-ab7efb78ca51/196872401516.jpg/80x80bb.webp",
-        "appleID": "t%C3%BA-con-%C3%A9l/1775462856"
+        "appleID": "t%C3%BA-con-%C3%A9l/1775462856",
+        "youtubeID": "NC4wwAtyBA8",
+        "spotifyID": "2eQFYGegTZaObk2kuBz83Z"
     },
     {
         "ranking": "36",
@@ -284,28 +326,35 @@
         "title": "Sleigh Ride",
         "artist": "The Ronettes",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/2e/92/5f/2e925fa4-6a4e-a15e-7cfc-bb3f13f053e1/mzi.ermvbetx.jpg/80x80bb.webp",
-        "appleID": "sleigh-ride/336037282"
+        "appleID": "sleigh-ride/336037282",
+        "youtubeID": "DkXIJe8CaIc",
+        "spotifyID": "7fUYUcWy853HS8YJn0b3Sr"
     },
     {
         "ranking": "42",
         "title": "Running Wild",
         "artist": "Jin",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c5/21/a1/c521a133-2a4d-05da-205f-19093c53cd55/198704169175_Cover.jpg/80x80bb.webp",
-        "appleID": "running-wild/1772351326"
+        "appleID": "running-wild/1772351326",
+        "youtubeID": "uoHol5Dr_go"
     },
     {
         "ranking": "43",
         "title": "Let It Snow! Let It Snow! Let It Snow!",
         "artist": "Dean Martin",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/87/ee/3a/87ee3ae8-dc96-e287-6f1e-2332d4ae4c1d/13UAEIM07388.rgb.jpg/80x80bb.webp",
-        "appleID": "let-it-snow-let-it-snow-let-it-snow/1440830243"
+        "appleID": "let-it-snow-let-it-snow-let-it-snow/1440830243",
+        "youtubeID": "2TA3IKH8Y5c",
+        "spotifyID": "2uFaJJtFpPDc5Pa95XzTvg"
     },
     {
         "ranking": "44",
         "title": "Rockin' Around the Christmas Tree (Single Version)",
         "artist": "Brenda Lee",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/4e/6f/7b/4e6f7b88-da9c-bdde-8e9d-5bd3bf3c4653/06UMGIM05568.rgb.jpg/80x80bb.webp",
-        "appleID": "rockin-around-the-christmas-tree-single-version/1434774881"
+        "appleID": "rockin-around-the-christmas-tree-single-version/1434774881",
+        "youtubeID": "TFsZy9t-qDc",
+        "spotifyID": "2EjXfH91m7f8HiJN1yQg97"
     },
     {
         "ranking": "45",
@@ -347,14 +396,16 @@
         "title": "Underneath the Tree",
         "artist": "Kelly Clarkson",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/d8/e3/a5/d8e3a5f3-9296-07cc-9714-26069c01fd44/886448741190.jpg/80x80bb.webp",
-        "appleID": "underneath-the-tree/1537216368"
+        "appleID": "underneath-the-tree/1537216368",
+        "youtubeID": "EM2Fnp_qnE8"
     },
     {
         "ranking": "51",
         "title": "Snowman",
         "artist": "Sia",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/85/c3/21/85c32113-1c4c-571c-7602-88f568d8081c/075679861016.jpg/80x80bb.webp",
-        "appleID": "snowman/1440098017"
+        "appleID": "snowman/1440098017",
+        "youtubeID": "gset79KMmt0"
     },
     {
         "ranking": "52",
@@ -389,7 +440,8 @@
         "title": "BIRDS OF A FEATHER",
         "artist": "Billie Eilish",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
-        "appleID": "birds-of-a-feather/1739659142"
+        "appleID": "birds-of-a-feather/1739659142",
+        "youtubeID": "V9PVRfjEBTI"
     },
     {
         "ranking": "57",
@@ -403,7 +455,8 @@
         "title": "DILUVIO",
         "artist": "Rauw Alejandro",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/d2/1a/63/d21a6376-80b9-ce89-e4f3-af3f0b70acf9/196871287098.jpg/80x80bb.webp",
-        "appleID": "diluvio/1695651429"
+        "appleID": "diluvio/1695651429",
+        "spotifyID": "2kz1YOhJiNubjigR1gB1VX"
     },
     {
         "ranking": "59",
@@ -431,21 +484,25 @@
         "title": "Déjame Entrar",
         "artist": "Rauw Alejandro",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ab/e8/09/abe8092d-ef44-61b9-6b50-ab7efb78ca51/196872401516.jpg/80x80bb.webp",
-        "appleID": "d%C3%A9jame-entrar/1775462852"
+        "appleID": "d%C3%A9jame-entrar/1775462852",
+        "youtubeID": "UUzmHevEneY",
+        "spotifyID": "5tZgkV8FTe3rtl8OcSeQAb"
     },
     {
         "ranking": "63",
         "title": "Winter Ahead",
         "artist": "V",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9b/7a/b8/9b7ab83b-c635-42fa-a3d3-f8ede6e5920e/198704250583_Cover.jpg/80x80bb.webp",
-        "appleID": "winter-ahead/1780285815"
+        "appleID": "winter-ahead/1780285815",
+        "youtubeID": "HAWYOuMGkK0"
     },
     {
         "ranking": "64",
         "title": "AMARGURA",
         "artist": "KAROL G",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/9b/01/44/9b0144e6-21ae-b53f-2b25-ef6c594b18a3/22UM1IM38716.rgb.jpg/80x80bb.webp",
-        "appleID": "amargura/1670246089"
+        "appleID": "amargura/1670246089",
+        "spotifyID": "505v13epFXodT9fVAJ6h8k"
     },
     {
         "ranking": "65",
@@ -473,14 +530,17 @@
         "title": "El Beneficio De La Duda",
         "artist": "Grupo Firme",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d7/b9/44/d7b944c4-bc0e-a5c3-1133-6c7979fc2ab3/196922990878_Cover.jpg/80x80bb.webp",
-        "appleID": "el-beneficio-de-la-duda/1747762614"
+        "appleID": "el-beneficio-de-la-duda/1747762614",
+        "youtubeID": "iIgsCYgo5P4",
+        "spotifyID": "7xJ1scIZpc33lZ7HpcrjCY"
     },
     {
         "ranking": "69",
         "title": "Y LLORO",
         "artist": "Junior H",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/d3/13/2c/d3132c40-fb9c-e02e-50d8-cd66c24f4020/5054197834332.jpg/80x80bb.webp",
-        "appleID": "y-lloro/1709356377"
+        "appleID": "y-lloro/1709356377",
+        "spotifyID": "6RcAHyC5sAUIbPTkhOQwd8"
     },
     {
         "ranking": "70",
@@ -508,7 +568,9 @@
         "title": "Die With A Smile",
         "artist": "Lady Gaga",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/11/ae/f2/11aef294-f57c-bab9-c9fc-529162984e62/24UMGIM85348.rgb.jpg/80x80bb.webp",
-        "appleID": "die-with-a-smile/1762656732"
+        "appleID": "die-with-a-smile/1762656732",
+        "youtubeID": "kPa7bsKwL-c",
+        "spotifyID": "2plbrEY59IikOBgBGLjaoe"
     },
     {
         "ranking": "74",
@@ -529,21 +591,26 @@
         "title": "SORRY 4 THAT MUCH",
         "artist": "Feid",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9c/20/ab/9c20ab01-62e6-239c-fcce-79dc1d711ac1/24UMGIM61720.rgb.jpg/80x80bb.webp",
-        "appleID": "sorry-4-that-much/1750132050"
+        "appleID": "sorry-4-that-much/1750132050",
+        "youtubeID": "Q2ftMmazZCU",
+        "spotifyID": "63pLfjK6FvcYJYMGwtHjd6"
     },
     {
         "ranking": "77",
         "title": "APT.",
         "artist": "ROSÉ",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2d/1a/7d/2d1a7d91-587e-0ceb-d434-327bd66d9e86/075679628312.jpg/80x80bb.webp",
-        "appleID": "apt/1773452221"
+        "appleID": "apt/1773452221",
+        "youtubeID": "ekr2nIex040",
+        "spotifyID": "4wJ5Qq0jBN4ajy7ouZIV1c"
     },
     {
         "ranking": "78",
         "title": "Cozy Little Christmas",
         "artist": "Katy Perry",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/7e/bb/cc/7ebbcc2c-0f40-aad8-b598-8d4c5d8b38c9/18UMGIM75340.rgb.jpg/80x80bb.webp",
-        "appleID": "cozy-little-christmas/1484609636"
+        "appleID": "cozy-little-christmas/1484609636",
+        "spotifyID": "02FaKXXL7KUtRc7K0k54tL"
     },
     {
         "ranking": "79",
@@ -564,7 +631,9 @@
         "title": "Mistletoe",
         "artist": "Justin Bieber",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/71/b9/49/71b9493c-57d3-c2dc-0ef0-d38417d7e937/11UMGIM34123.rgb.jpg/80x80bb.webp",
-        "appleID": "mistletoe/1440640717"
+        "appleID": "mistletoe/1440640717",
+        "youtubeID": "LUjn3RpkcKY",
+        "spotifyID": "7xapw9Oy21WpfEcib2ErSA"
     },
     {
         "ranking": "82",
@@ -585,7 +654,8 @@
         "title": "Christmas Tree Farm",
         "artist": "Taylor Swift",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/ca/55/5a/ca555a0e-c360-26e6-437d-098b0089482a/19UM1IM09492.rgb.jpg/80x80bb.webp",
-        "appleID": "christmas-tree-farm/1490369895"
+        "appleID": "christmas-tree-farm/1490369895",
+        "spotifyID": "2mvabkN1i2gLnGAPUVdwek"
     },
     {
         "ranking": "85",
@@ -669,14 +739,17 @@
         "title": "Hecha Pa' Mí",
         "artist": "Grupo Frontera",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/74/a3/8e/74a38e0a-8aad-a7f7-1d0b-6672bcd91bae/cover.jpg/80x80bb.webp",
-        "appleID": "hecha-pa-m%C3%AD/1769185167"
+        "appleID": "hecha-pa-m%C3%AD/1769185167",
+        "youtubeID": "IbE7peGTpmc",
+        "spotifyID": "1uGUbgZuO1kD1JZ0UeFupN"
     },
     {
         "ranking": "97",
         "title": "Cero Empatía",
         "artist": "Julión Álvarez y su Norteño Banda",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/59/41/2a/59412ab7-1ab3-bc4c-cc25-4b99f49929b7/198846593357.jpg/80x80bb.webp",
-        "appleID": "cero-empati-a/1773445411"
+        "appleID": "cero-empati-a/1773445411",
+        "youtubeID": "GNyembSi1nw"
     },
     {
         "ranking": "98",

@@ -11,7 +11,9 @@
         "title": "Last Christmas (Single Version)",
         "artist": "Wham!",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/eb/4a/f9/eb4af984-fc68-56ab-7b89-1d070c04e1dd/5099765318524.jpg/80x80bb.webp",
-        "appleID": "last-christmas-single-version/202117984"
+        "appleID": "last-christmas/282658482",
+        "youtubeID": "E8gmARGvPlI",
+        "spotifyID": "2FRnf9qhLbvw8fu4IBXx78"
     },
     {
         "ranking": "3",
@@ -25,14 +27,17 @@
         "title": "It's Beginning To Look a Lot Like Christmas",
         "artist": "Michael Bublé",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/37/2d/6e/372d6e16-7a32-91f0-1a03-0f2d9dbe389e/093624942788.jpg/80x80bb.webp",
-        "appleID": "its-beginning-to-look-a-lot-like-christmas/669854831"
+        "appleID": "its-beginning-to-look-a-lot-like-christmas/1592740089",
+        "youtubeID": "QJ5DOWPGxwg",
+        "spotifyID": "1rv46mRwDqMEhOBZ7vODg3"
     },
     {
         "ranking": "5",
         "title": "All I Want for Christmas Is You",
         "artist": "Mariah Carey",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/c6/b7/27/c6b727f7-3a32-6b43-cee2-05bb71daf1cf/dj.itfmdeif.jpg/80x80bb.webp",
-        "appleID": "all-i-want-for-christmas-is-you/585972803"
+        "appleID": "all-i-want-for-christmas-is-you/585972803",
+        "youtubeID": "aAkMkVFwAoo"
     },
     {
         "ranking": "6",
@@ -46,35 +51,43 @@
         "title": "Timeless",
         "artist": "The Weeknd",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ef/14/11/ef14117b-6681-088b-3c74-e127ca3b46ed/24UM1IM04061.rgb.jpg/80x80bb.webp",
-        "appleID": "timeless/1770380890"
+        "appleID": "timeless/1770380890",
+        "youtubeID": "5EpyN_6dqyk"
     },
     {
         "ranking": "8",
         "title": "Rusia",
         "artist": "Dani Mocanu",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/3e/bc/e2/3ebce263-8518-e3c4-41f2-cede59b5e67d/cover.jpg/80x80bb.webp",
-        "appleID": "rusia/1783344091"
+        "appleID": "rusia/1783344091",
+        "youtubeID": "pXEGZ0V0rvw",
+        "spotifyID": "4IjUK9pVwvf04yYUn2EuUJ"
     },
     {
         "ranking": "9",
         "title": "It's the Most Wonderful Time of the Year",
         "artist": "Andy Williams",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/d9/84/16/d98416a4-d960-4602-8f2c-4f03165d434d/mzi.hohpjzfa.jpg/80x80bb.webp",
-        "appleID": "its-the-most-wonderful-time-of-the-year/171434594"
+        "appleID": "its-the-most-wonderful-time-of-the-year/171434594",
+        "youtubeID": "cbZTfrhcamA",
+        "spotifyID": "1IcR6RlgvDczfvoWJSSY2A"
     },
     {
         "ranking": "10",
         "title": "A venit poliția (From \"Candidatul perfect\" The Movie)",
         "artist": "Theo Rose",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ce/c6/6c/cec66c83-db8e-3f7e-4830-d8dff710bb92/cover.jpg/80x80bb.webp",
-        "appleID": "a-venit-poli%C8%9Bia-from-candidatul-perfect-the-movie/1772034093"
+        "appleID": "a-venit-poli%C8%9Bia-from-candidatul-perfect-the-movie/1772034093",
+        "youtubeID": "BnG6AXPNbco"
     },
     {
         "ranking": "11",
         "title": "Die With A Smile",
         "artist": "Lady Gaga",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/11/ae/f2/11aef294-f57c-bab9-c9fc-529162984e62/24UMGIM85348.rgb.jpg/80x80bb.webp",
-        "appleID": "die-with-a-smile/1762656732"
+        "appleID": "die-with-a-smile/1762656732",
+        "youtubeID": "kPa7bsKwL-c",
+        "spotifyID": "2plbrEY59IikOBgBGLjaoe"
     },
     {
         "ranking": "12",
@@ -95,14 +108,17 @@
         "title": "Snowman",
         "artist": "Sia",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/85/c3/21/85c32113-1c4c-571c-7602-88f568d8081c/075679861016.jpg/80x80bb.webp",
-        "appleID": "snowman/1440098017"
+        "appleID": "snowman/1440098017",
+        "youtubeID": "gset79KMmt0"
     },
     {
         "ranking": "15",
         "title": "APT.",
         "artist": "ROSÉ",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2d/1a/7d/2d1a7d91-587e-0ceb-d434-327bd66d9e86/075679628312.jpg/80x80bb.webp",
-        "appleID": "apt/1773452221"
+        "appleID": "apt/1773452221",
+        "youtubeID": "ekr2nIex040",
+        "spotifyID": "4wJ5Qq0jBN4ajy7ouZIV1c"
     },
     {
         "ranking": "16",
@@ -123,7 +139,9 @@
         "title": "Jingle Bell Rock",
         "artist": "Bobby Helms",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/e8/18/6b/e8186bf9-5696-e721-b273-a5f173caf8c1/18UMGIM07062.rgb.jpg/80x80bb.webp",
-        "appleID": "jingle-bell-rock/1358462132"
+        "appleID": "jingle-bell-rock/1358462132",
+        "youtubeID": "Z0ajuTaHBtM",
+        "spotifyID": "7vQbuQcyTflfCIOu3Uzzya"
     },
     {
         "ranking": "19",
@@ -144,7 +162,9 @@
         "title": "Hai sa ne iubim ca nemtii",
         "artist": "Dani Mocanu",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ac/82/4e/ac824e75-bdb0-dede-3969-d8fa03f382e4/cover.jpg/80x80bb.webp",
-        "appleID": "hai-sa-ne-iubim-ca-nemtii/1756129546"
+        "appleID": "hai-sa-ne-iubim-ca-nemtii/1756129546",
+        "youtubeID": "NYuBwlEWWm0",
+        "spotifyID": "2yUZv6utvoeV0B79YSn7pq"
     },
     {
         "ranking": "22",
@@ -165,7 +185,8 @@
         "title": "BIRDS OF A FEATHER",
         "artist": "Billie Eilish",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
-        "appleID": "birds-of-a-feather/1739659142"
+        "appleID": "birds-of-a-feather/1739659142",
+        "youtubeID": "V9PVRfjEBTI"
     },
     {
         "ranking": "25",
@@ -200,14 +221,17 @@
         "title": "Let It Snow! Let It Snow! Let It Snow!",
         "artist": "Dean Martin",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/87/ee/3a/87ee3ae8-dc96-e287-6f1e-2332d4ae4c1d/13UAEIM07388.rgb.jpg/80x80bb.webp",
-        "appleID": "let-it-snow-let-it-snow-let-it-snow/1440830243"
+        "appleID": "let-it-snow-let-it-snow-let-it-snow/1440830243",
+        "youtubeID": "2TA3IKH8Y5c",
+        "spotifyID": "2uFaJJtFpPDc5Pa95XzTvg"
     },
     {
         "ranking": "30",
         "title": "White Christmas",
         "artist": "Michael Bublé",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/16/73/5a/16735af1-6a9c-8a4a-1664-cf806b2d9bc3/093624874232.jpg/80x80bb.webp",
-        "appleID": "white-christmas/1592740607"
+        "appleID": "white-christmas/1592740607",
+        "spotifyID": "4buHBCFNm5WvttEDevaj9C"
     },
     {
         "ranking": "31",
@@ -312,7 +336,9 @@
         "title": "Feliz Navidad",
         "artist": "José Feliciano",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/cf/a7/f8/cfa7f807-e9a6-758d-97e0-f1cd843b5a20/mzi.vcbwvmqu.jpg/80x80bb.webp",
-        "appleID": "feliz-navidad/255615879"
+        "appleID": "feliz-navidad/255615879",
+        "youtubeID": "N8NcQzMQN_U",
+        "spotifyID": "3qCeq0rWK67SoBDgFd2sId"
     },
     {
         "ranking": "46",
@@ -340,35 +366,42 @@
         "title": "Anglia",
         "artist": "Dani Mocanu",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7c/c7/6b/7cc76bc6-6f05-89d9-1683-971966e1bcc6/cover.jpg/80x80bb.webp",
-        "appleID": "anglia/1777997864"
+        "appleID": "anglia/1777997864",
+        "youtubeID": "sRsOD4TlJYE",
+        "spotifyID": "5sFEhVXljNz3VPW404UHey"
     },
     {
         "ranking": "50",
         "title": "Santa Tell Me",
         "artist": "Ariana Grande",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/60/c8/2b/60c82b22-cd58-cdcd-5b51-6fad7a8b7055/14UMGIM55455.rgb.jpg/80x80bb.webp",
-        "appleID": "santa-tell-me/1444319982"
+        "appleID": "santa-tell-me/1444319982",
+        "youtubeID": "nlR0MkrRklg"
     },
     {
         "ranking": "51",
         "title": "El chapo",
         "artist": "Dani Mocanu",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/20/3d/73/203d7350-05ce-3678-2b26-d5af01735556/cover.jpg/80x80bb.webp",
-        "appleID": "el-chapo/1720228536"
+        "appleID": "el-chapo/1720228536",
+        "spotifyID": "08J3tcESmdRb8IjT12FG50"
     },
     {
         "ranking": "52",
         "title": "WILDFLOWER",
         "artist": "Billie Eilish",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
-        "appleID": "wildflower/1739659144"
+        "appleID": "wildflower/1739659144",
+        "youtubeID": "IWKyykQBRKo",
+        "spotifyID": "3QaPy1KgI7nu9FJEQUgn6h"
     },
     {
         "ranking": "53",
         "title": "Blue Christmas",
         "artist": "Elvis Presley",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/e0/04/02/e0040287-bd23-a030-693b-c48d146de930/886444095303.jpg/80x80bb.webp",
-        "appleID": "blue-christmas/676288368"
+        "appleID": "blue-christmas/676288368",
+        "spotifyID": "3QiAAp20rPC3dcAtKtMaqQ"
     },
     {
         "ranking": "54",
@@ -389,7 +422,8 @@
         "title": "Ia-ma Du-ma",
         "artist": "Babasha",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/ad/a4/aa/ada4aa6e-d170-6810-a695-3a24bc2f871b/cover.jpg/80x80bb.webp",
-        "appleID": "ia-ma-du-ma/1701178945"
+        "appleID": "ia-ma-du-ma/1701178945",
+        "spotifyID": "7dpjndI7KXtTVAERTplKMw"
     },
     {
         "ranking": "57",
@@ -480,7 +514,8 @@
         "title": "Holly Jolly Christmas",
         "artist": "Michael Bublé",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0e/af/53/0eaf535d-d955-9255-4bb8-aa0fe02fa22a/093624834687.jpg/80x80bb.webp",
-        "appleID": "holly-jolly-christmas/1782947597"
+        "appleID": "holly-jolly-christmas/1782947597",
+        "spotifyID": "67mgz7S5y7hnCE63YBjfO6"
     },
     {
         "ranking": "70",
@@ -501,7 +536,8 @@
         "title": "REGINA",
         "artist": "NOUA UNSPE",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e8/1e/00/e81e00f3-2030-e234-59d4-696d50774407/cover.jpg/80x80bb.webp",
-        "appleID": "regina/1740438194"
+        "appleID": "regina/1740438194",
+        "spotifyID": "5yGAxh5wM6di5gmlD79jDY"
     },
     {
         "ranking": "73",
@@ -564,7 +600,9 @@
         "title": "Vreau",
         "artist": "Sami G",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/11/97/27/119727b4-33f6-e8e0-6616-5bbbc57e2a9d/cover.jpg/80x80bb.webp",
-        "appleID": "vreau/1774463706"
+        "appleID": "vreau/1774463706",
+        "youtubeID": "bU4-CGxCXNM",
+        "spotifyID": "6fi9kxR0M6S2chzb2O4YIy"
     },
     {
         "ranking": "82",
@@ -592,7 +630,9 @@
         "title": "Little Saint Nick",
         "artist": "The Beach Boys",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/65/0a/39/650a39be-5682-77b8-e98d-7a72285b5602/13UABIM51358.rgb.jpg/80x80bb.webp",
-        "appleID": "little-saint-nick/1440856020"
+        "appleID": "little-saint-nick/1440856020",
+        "youtubeID": "xp9rK8FmYog",
+        "spotifyID": "5xlS0QkVrSH7ssEbBgBzbM"
     },
     {
         "ranking": "86",
@@ -606,7 +646,8 @@
         "title": "Type Shit",
         "artist": "Future",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4e/9f/7b/4e9f7b71-28ad-a8dc-9b34-da532feb82f6/196871937382.jpg/80x80bb.webp",
-        "appleID": "type-shit/1737150156"
+        "appleID": "type-shit/1737150156",
+        "youtubeID": "I0fgkcTbBoI"
     },
     {
         "ranking": "88",
@@ -676,7 +717,8 @@
         "title": "Espresso",
         "artist": "Sabrina Carpenter",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cb/64/8c/cb648cf7-e7bb-bd00-efe0-d744312c29a8/24UMGIM32304.rgb.jpg/80x80bb.webp",
-        "appleID": "espresso/1740212434"
+        "appleID": "espresso/1740212434",
+        "youtubeID": "eVli-tstM5E"
     },
     {
         "ranking": "98",
