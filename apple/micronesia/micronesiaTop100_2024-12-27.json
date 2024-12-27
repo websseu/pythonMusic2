@@ -4,7 +4,8 @@
         "title": "Every Night Every Morning",
         "artist": "Maoli",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/db/73/4f/db734ffc-785c-9999-be7c-f0c54458690a/0.jpg/80x80bb.webp",
-        "appleID": "every-night-every-morning/1761629618"
+        "appleID": "every-night-every-morning/1761629618",
+        "youtubeID": "20k90wvdLco"
     },
     {
         "ranking": "2",
@@ -60,7 +61,8 @@
         "title": "Good Days",
         "artist": "SZA",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/ef/09/cf/ef09cf1f-a057-6039-00d3-7b5d14c7eba1/886449006717.jpg/80x80bb.webp",
-        "appleID": "good-days/1546390051"
+        "appleID": "good-days/1546390051",
+        "youtubeID": "0BdlKkvjEgA"
     },
     {
         "ranking": "10",
@@ -74,7 +76,8 @@
         "title": "Nobody Gets Me",
         "artist": "SZA",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/bd/3b/a9/bd3ba9fb-9609-144f-bcfe-ead67b5f6ab3/196589564931.jpg/80x80bb.webp",
-        "appleID": "nobody-gets-me/1657869532"
+        "appleID": "nobody-gets-me/1657869532",
+        "spotifyID": "5Y35SjAfXjjG0sFQ3KOxmm"
     },
     {
         "ranking": "12",
@@ -116,7 +119,8 @@
         "title": "M a k e  I t  T o  T h e  M o r n i n g",
         "artist": "PARTYNEXTDOOR",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0d/de/c5/0ddec5e3-42f6-c550-6227-55dcd7d6b89a/39029.jpg/80x80bb.webp",
-        "appleID": "m-a-k-e-i-t-t-o-t-h-e-m-o-r-n-i-n-g/1738702855"
+        "appleID": "m-a-k-e-i-t-t-o-t-h-e-m-o-r-n-i-n-g/1738702855",
+        "spotifyID": "12VH4g5pTMZmrUVzfJq7F7"
     },
     {
         "ranking": "18",
@@ -263,14 +267,17 @@
         "title": "Embrace It",
         "artist": "Ndotz",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ff/86/94/ff869430-207b-7d50-2ddf-49532eb1d57b/89.jpg/80x80bb.webp",
-        "appleID": "embrace-it/1769693705"
+        "appleID": "embrace-it/1769693705",
+        "youtubeID": "48lhqX3jpKY",
+        "spotifyID": "0io16MKpbeDIdYzmGpQaES"
     },
     {
         "ranking": "39",
         "title": "When I Was Your Man",
         "artist": "Bruno Mars",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/e0/a4/7c/e0a47c6f-005a-9f9f-ce29-8e858e2bcfcb/075679957283.jpg/80x80bb.webp",
-        "appleID": "when-i-was-your-man/573962555"
+        "appleID": "when-i-was-your-man/573962555",
+        "youtubeID": "ekzHIouo8Q4"
     },
     {
         "ranking": "40",
@@ -361,7 +368,8 @@
         "title": "Tennessee Whiskey",
         "artist": "Chris Stapleton",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/e2/4b/60/e24b6016-8278-bb18-cf5d-d44bf68371da/00602547223838.rgb.jpg/80x80bb.webp",
-        "appleID": "tennessee-whiskey/1440827492"
+        "appleID": "tennessee-whiskey/1440827492",
+        "spotifyID": "3fqwjXwUGN6vbzIwvyFMhx"
     },
     {
         "ranking": "53",
@@ -438,7 +446,8 @@
         "title": "Every Breath You Take (Remastered 2003)",
         "artist": "The Police",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/a4/67/ba/a467ba62-87df-9d10-98d2-c517f68ac870/16UMGIM60882.rgb.jpg/80x80bb.webp",
-        "appleID": "every-breath-you-take-remastered-2003/1440674160"
+        "appleID": "every-breath-you-take-remastered-2003/1440674160",
+        "spotifyID": "1JSTJqkT5qHq8MDJnJbRE1"
     },
     {
         "ranking": "64",
@@ -459,7 +468,7 @@
         "title": "Go Flex",
         "artist": "Post Malone",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/c1/ea/45/c1ea4509-59b6-c323-c6f5-d8d676f79577/16UMGIM76040.rgb.jpg/80x80bb.webp",
-        "appleID": "go-flex/1440887746"
+        "appleID": "go-flex/1762886299"
     },
     {
         "ranking": "67",
