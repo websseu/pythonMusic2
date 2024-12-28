@@ -11,7 +11,8 @@
         "title": "Every Night Every Morning",
         "artist": "Maoli",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/db/73/4f/db734ffc-785c-9999-be7c-f0c54458690a/0.jpg/80x80bb.webp",
-        "appleID": "every-night-every-morning/1761629618"
+        "appleID": "every-night-every-morning/1761629618",
+        "youtubeID": "20k90wvdLco"
     },
     {
         "ranking": "3",
@@ -109,7 +110,9 @@
         "title": "Embrace It",
         "artist": "Ndotz",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ff/86/94/ff869430-207b-7d50-2ddf-49532eb1d57b/89.jpg/80x80bb.webp",
-        "appleID": "embrace-it/1769693705"
+        "appleID": "embrace-it/1769693705",
+        "youtubeID": "48lhqX3jpKY",
+        "spotifyID": "0io16MKpbeDIdYzmGpQaES"
     },
     {
         "ranking": "17",
@@ -557,7 +560,8 @@
         "title": "Fast Car",
         "artist": "Luke Combs",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/7d/24/14/7d241439-671a-d957-9613-2f738f43a064/196589485991.jpg/80x80bb.webp",
-        "appleID": "fast-car/1666738585"
+        "appleID": "fast-car/1666738585",
+        "spotifyID": "1Lo0QY9cvc8sUB2vnIOxDT"
     },
     {
         "ranking": "81",
@@ -620,7 +624,8 @@
         "title": "I Had Some Help (feat. Morgan Wallen)",
         "artist": "Post Malone",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e1/b7/09/e1b7098f-d6e1-2b18-fd6f-8390110908eb/24UMGIM50612.rgb.jpg/80x80bb.webp",
-        "appleID": "i-had-some-help-feat-morgan-wallen/1744439049"
+        "appleID": "i-had-some-help-feat-morgan-wallen/1744439049",
+        "youtubeID": "4QIZE708gJ4"
     },
     {
         "ranking": "90",
@@ -641,7 +646,8 @@
         "title": "Memories",
         "artist": "Maroon 5",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/22/58/58/225858c4-ef47-2b91-723a-47af3e99699a/19UMGIM64502.rgb.jpg/80x80bb.webp",
-        "appleID": "memories/1479600902"
+        "appleID": "memories/1479600902",
+        "youtubeID": "SlPhMPnQ58k"
     },
     {
         "ranking": "93",
@@ -697,6 +703,6 @@
         "title": "Sorry Not Sorry",
         "artist": "Demi Lovato",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/7a/6b/b5/7a6bb597-9be0-a995-6aec-cef4bc0e353f/21UMGIM26666.rgb.jpg/80x80bb.webp",
-        "appleID": "sorry-not-sorry/1565587920"
+        "appleID": "sorry-not-sorry/1405197239"
     }
 ]

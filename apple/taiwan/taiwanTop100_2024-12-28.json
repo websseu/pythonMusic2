@@ -4,35 +4,43 @@
         "title": "APT.",
         "artist": "ROSÉ",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2d/1a/7d/2d1a7d91-587e-0ceb-d434-327bd66d9e86/075679628312.jpg/80x80bb.webp",
-        "appleID": "apt/1773452221"
+        "appleID": "apt/1773452221",
+        "youtubeID": "ekr2nIex040",
+        "spotifyID": "4wJ5Qq0jBN4ajy7ouZIV1c"
     },
     {
         "ranking": "2",
         "title": "toxic till the end",
         "artist": "ROSÉ",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2d/14/66/2d14661b-345b-d0f3-4e86-56ef626e68aa/075679629203.jpg/80x80bb.webp",
-        "appleID": "toxic-till-the-end/1771105929"
+        "appleID": "toxic-till-the-end/1771105929",
+        "youtubeID": "eA0lHNZ1KCA",
+        "spotifyID": "1z5ebC9238uGoBgzYyvGpQ"
     },
     {
         "ranking": "3",
         "title": "HOME SWEET HOME (feat. TAEYANG & DAESUNG)",
         "artist": "G-DRAGON",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a4/e1/84/a4e1846a-6158-6a43-30c7-0297e891905e/197342826099_cover.jpg/80x80bb.webp",
-        "appleID": "home-sweet-home-feat-taeyang-daesung/1780635199"
+        "appleID": "home-sweet-home-feat-taeyang-daesung/1780635199",
+        "youtubeID": "fLi0EJfi_vg"
     },
     {
         "ranking": "4",
         "title": "number one girl",
         "artist": "ROSÉ",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2d/14/66/2d14661b-345b-d0f3-4e86-56ef626e68aa/075679629203.jpg/80x80bb.webp",
-        "appleID": "number-one-girl/1771105923"
+        "appleID": "number-one-girl/1771105923",
+        "youtubeID": "pZ1NdE69VTs",
+        "spotifyID": "1lcBt7LoEikqYmhUoa2cez"
     },
     {
         "ranking": "5",
         "title": "Whiplash",
         "artist": "aespa",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d5/c1/f5/d5c1f505-f588-775f-df05-c672a8ec22e9/888735949562_Cover.jpg/80x80bb.webp",
-        "appleID": "whiplash/1772214981"
+        "appleID": "whiplash/1772214981",
+        "youtubeID": "jWQx2f-CErU"
     },
     {
         "ranking": "6",
@@ -53,7 +61,8 @@
         "title": "DRIP",
         "artist": "BABYMONSTER",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b9/e1/ef/b9e1ef3a-e3eb-8152-e91b-20aca0fc9ffd/BM_DRIP_Digital-Cover_4000.jpg/80x80bb.webp",
-        "appleID": "drip/1773262055"
+        "appleID": "drip/1773262055",
+        "youtubeID": "Zp-Jhuhq0bQ"
     },
     {
         "ranking": "9",
@@ -74,14 +83,16 @@
         "title": "Supernova",
         "artist": "aespa",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/50/7e/e0/507ee09f-ccfd-1e3c-af90-ca5e92b1221b/00888735949869_Cover.jpg/80x80bb.webp",
-        "appleID": "supernova/1773694544"
+        "appleID": "supernova/1773694544",
+        "youtubeID": "phuiiNCxRMg"
     },
     {
         "ranking": "12",
         "title": "BIRDS OF A FEATHER",
         "artist": "Billie Eilish",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
-        "appleID": "birds-of-a-feather/1739659142"
+        "appleID": "birds-of-a-feather/1739659142",
+        "youtubeID": "V9PVRfjEBTI"
     },
     {
         "ranking": "13",
@@ -95,14 +106,17 @@
         "title": "Die With A Smile",
         "artist": "Lady Gaga",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/11/ae/f2/11aef294-f57c-bab9-c9fc-529162984e62/24UMGIM85348.rgb.jpg/80x80bb.webp",
-        "appleID": "die-with-a-smile/1762656732"
+        "appleID": "die-with-a-smile/1762656732",
+        "youtubeID": "kPa7bsKwL-c",
+        "spotifyID": "2plbrEY59IikOBgBGLjaoe"
     },
     {
         "ranking": "15",
         "title": "POWER",
         "artist": "G-DRAGON",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/36/fa/03/36fa0306-b040-b01b-36d3-181256366615/197342805353_cover.jpg/80x80bb.webp",
-        "appleID": "power/1776670342"
+        "appleID": "power/1776670342",
+        "youtubeID": "NMjhjrBIrG8"
     },
     {
         "ranking": "16",
@@ -144,49 +158,59 @@
         "title": "luther",
         "artist": "Kendrick Lamar",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/50/c2/cc/50c2cc95-3658-9417-0d4b-831abde44ba1/24UM1IM28978.rgb.jpg/80x80bb.webp",
-        "appleID": "luther/1781270323"
+        "appleID": "luther/1781270323",
+        "youtubeID": "4_taypLmSMU"
     },
     {
         "ranking": "22",
         "title": "gameboy",
         "artist": "ROSÉ",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2d/14/66/2d14661b-345b-d0f3-4e86-56ef626e68aa/075679629203.jpg/80x80bb.webp",
-        "appleID": "gameboy/1771106120"
+        "appleID": "gameboy/1771106120",
+        "spotifyID": "77n3jFGqPPxYrEGwrWylNv"
     },
     {
         "ranking": "23",
         "title": "Mantra",
         "artist": "JENNIE",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5d/9a/4c/5d9a4c5f-1c34-1265-0fa5-860dc8f0e802/196872495263.jpg/80x80bb.webp",
-        "appleID": "mantra/1772759719"
+        "appleID": "mantra/1772759719",
+        "youtubeID": "bB3-CUMERIU",
+        "spotifyID": "2CspwnypzT7rcWI9RfsoSb"
     },
     {
         "ranking": "24",
         "title": "UP (KARINA Solo)",
         "artist": "aespa",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/fd/85/0e/fd850e67-f6e2-c4e9-6ea5-501ca5afccbd/aespa_DS_Synk-PARALLEL_LINE_DC.jpg/80x80bb.webp",
-        "appleID": "up-karina-solo/1772223475"
+        "appleID": "up-karina-solo/1772223475",
+        "youtubeID": "sir6uaQ1Ako"
     },
     {
         "ranking": "25",
         "title": "Strategy (feat. Megan Thee Stallion)",
         "artist": "TWICE",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d3/65/0c/d3650c39-d01d-2453-6826-9aa21ad22559/8809928952925_Cover.jpg/80x80bb.webp",
-        "appleID": "strategy-feat-megan-thee-stallion/1774299757"
+        "appleID": "strategy-feat-megan-thee-stallion/1774299757",
+        "youtubeID": "LcV0eAgCSgw"
     },
     {
         "ranking": "26",
         "title": "3am",
         "artist": "ROSÉ",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2d/14/66/2d14661b-345b-d0f3-4e86-56ef626e68aa/075679629203.jpg/80x80bb.webp",
-        "appleID": "3am/1771105924"
+        "appleID": "3am/1771105924",
+        "youtubeID": "OzdJFXyO8ts",
+        "spotifyID": "3y4q6bBdbXsTIaPiwiiUfy"
     },
     {
         "ranking": "27",
         "title": "Magnetic",
         "artist": "ILLIT",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/3e/49/1e/3e491e43-4961-21ab-2abe-37fb1c0feb40/196922879227_Cover.jpg/80x80bb.webp",
-        "appleID": "magnetic/1734500896"
+        "appleID": "magnetic/1734500896",
+        "youtubeID": "Vk5-c_v4gMU",
+        "spotifyID": "1aKvZDoLGkNMxoRYgkckZG"
     },
     {
         "ranking": "28",
@@ -214,14 +238,18 @@
         "title": "two years",
         "artist": "ROSÉ",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2d/14/66/2d14661b-345b-d0f3-4e86-56ef626e68aa/075679629203.jpg/80x80bb.webp",
-        "appleID": "two-years/1771105927"
+        "appleID": "two-years/1771105927",
+        "youtubeID": "lktucPDH5IY",
+        "spotifyID": "4HxGH28DitgAuuKpEVrLzN"
     },
     {
         "ranking": "32",
         "title": "drinks or coffee",
         "artist": "ROSÉ",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2d/14/66/2d14661b-345b-d0f3-4e86-56ef626e68aa/075679629203.jpg/80x80bb.webp",
-        "appleID": "drinks-or-coffee/1771105933"
+        "appleID": "drinks-or-coffee/1771105933",
+        "youtubeID": "PFDO5OZO61Y",
+        "spotifyID": "3fpWkbEZMP1BgOOfymwoaS"
     },
     {
         "ranking": "33",
@@ -235,7 +263,8 @@
         "title": "How Sweet",
         "artist": "NewJeans",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/bf/68/ca/bf68ca64-4acd-543f-bc78-455f11f06105/196922889738_Cover.jpg/80x80bb.webp",
-        "appleID": "how-sweet/1744448416"
+        "appleID": "how-sweet/1744448416",
+        "youtubeID": "Q3K0TOvTOno"
     },
     {
         "ranking": "35",
@@ -256,7 +285,9 @@
         "title": "stay a little longer",
         "artist": "ROSÉ",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2d/14/66/2d14661b-345b-d0f3-4e86-56ef626e68aa/075679629203.jpg/80x80bb.webp",
-        "appleID": "stay-a-little-longer/1771106121"
+        "appleID": "stay-a-little-longer/1771106121",
+        "youtubeID": "vHvOYQ0hbBA",
+        "spotifyID": "5OdI6v2L7Aez4cclpbojiZ"
     },
     {
         "ranking": "38",
@@ -270,7 +301,8 @@
         "title": "Espresso",
         "artist": "Sabrina Carpenter",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cb/64/8c/cb648cf7-e7bb-bd00-efe0-d744312c29a8/24UMGIM32304.rgb.jpg/80x80bb.webp",
-        "appleID": "espresso/1740212434"
+        "appleID": "espresso/1740212434",
+        "youtubeID": "eVli-tstM5E"
     },
     {
         "ranking": "40",
@@ -284,14 +316,16 @@
         "title": "dance all night",
         "artist": "ROSÉ",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2d/14/66/2d14661b-345b-d0f3-4e86-56ef626e68aa/075679629203.jpg/80x80bb.webp",
-        "appleID": "dance-all-night/1771106130"
+        "appleID": "dance-all-night/1771106130",
+        "spotifyID": "50aQbgfdydBXABx2gATQHn"
     },
     {
         "ranking": "42",
         "title": "Armageddon",
         "artist": "aespa",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/50/7e/e0/507ee09f-ccfd-1e3c-af90-ca5e92b1221b/00888735949869_Cover.jpg/80x80bb.webp",
-        "appleID": "armageddon/1773694547"
+        "appleID": "armageddon/1773694547",
+        "youtubeID": "nFYwcndNuOY"
     },
     {
         "ranking": "43",
@@ -319,14 +353,17 @@
         "title": "All I Want for Christmas Is You",
         "artist": "Mariah Carey",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/c6/b7/27/c6b727f7-3a32-6b43-cee2-05bb71daf1cf/dj.itfmdeif.jpg/80x80bb.webp",
-        "appleID": "all-i-want-for-christmas-is-you/585972803"
+        "appleID": "all-i-want-for-christmas-is-you/585972803",
+        "youtubeID": "aAkMkVFwAoo"
     },
     {
         "ranking": "47",
         "title": "not the same",
         "artist": "ROSÉ",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2d/14/66/2d14661b-345b-d0f3-4e86-56ef626e68aa/075679629203.jpg/80x80bb.webp",
-        "appleID": "not-the-same/1771106124"
+        "appleID": "not-the-same/1771106124",
+        "youtubeID": "IKqVcaVrMGs",
+        "spotifyID": "67siqMtQTGPpJZI4Dz8OpM"
     },
     {
         "ranking": "48",
@@ -340,7 +377,9 @@
         "title": "call it the end",
         "artist": "ROSÉ",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2d/14/66/2d14661b-345b-d0f3-4e86-56ef626e68aa/075679629203.jpg/80x80bb.webp",
-        "appleID": "call-it-the-end/1771106126"
+        "appleID": "call-it-the-end/1771106126",
+        "youtubeID": "nOo3a2tT1LQ",
+        "spotifyID": "5a3tLTGA0HIDtrvnszXXBN"
     },
     {
         "ranking": "50",
@@ -354,14 +393,16 @@
         "title": "Drama",
         "artist": "aespa",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/f7/f0/5c/f7f05ce4-e5a4-900d-e087-1dd9668b2b34/888735945939.jpg/80x80bb.webp",
-        "appleID": "drama/1715939931"
+        "appleID": "drama/1715939931",
+        "youtubeID": "D8VEhcPeSlc"
     },
     {
         "ranking": "52",
         "title": "too bad for us",
         "artist": "ROSÉ",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2d/14/66/2d14661b-345b-d0f3-4e86-56ef626e68aa/075679629203.jpg/80x80bb.webp",
-        "appleID": "too-bad-for-us/1771106129"
+        "appleID": "too-bad-for-us/1771106129",
+        "spotifyID": "3tDF6qjNrabjnb23RB2rpa"
     },
     {
         "ranking": "53",
@@ -375,7 +416,8 @@
         "title": "Small girl (feat. D.O.)",
         "artist": "Lee Young Ji",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cf/ff/93/cfff93b5-e7ef-6a28-6786-9f82f79d8117/8804775305474.jpg/80x80bb.webp",
-        "appleID": "small-girl-feat-d-o/1753178654"
+        "appleID": "small-girl-feat-d-o/1753178654",
+        "youtubeID": "11iZcYbq_is"
     },
     {
         "ranking": "55",
@@ -389,7 +431,8 @@
         "title": "FOREVER",
         "artist": "BABYMONSTER",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5b/2a/86/5b2a8611-2005-2287-1981-9edac10b795b/BABYMONSTER_FORVER.jpg/80x80bb.webp",
-        "appleID": "forever/1753210716"
+        "appleID": "forever/1753210716",
+        "youtubeID": "eJCHKjt0MPw"
     },
     {
         "ranking": "57",
@@ -487,14 +530,15 @@
         "title": "SHEESH",
         "artist": "BABYMONSTER",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/fb/68/85/fb68856f-4965-5d30-78ea-fe6bb261f4ff/3000px.jpg/80x80bb.webp",
-        "appleID": "sheesh/1737962890"
+        "appleID": "sheesh/1737962890",
+        "youtubeID": "2wA_b6YHjqQ"
     },
     {
         "ranking": "71",
         "title": "泡沫",
         "artist": "G.E.M.",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/d0/5f/56/d05f568f-cf54-d296-42c5-3a5b8f17f1eb/Cover.jpg/80x80bb.webp",
-        "appleID": "%E6%B3%A1%E6%B2%AB/539454717"
+        "appleID": "%E6%B3%A1%E6%B2%AB/544934807"
     },
     {
         "ranking": "72",
@@ -557,14 +601,16 @@
         "title": "Cruel Summer",
         "artist": "Taylor Swift",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/49/3d/ab/493dab54-f920-9043-6181-80993b8116c9/19UMGIM53909.rgb.jpg/80x80bb.webp",
-        "appleID": "cruel-summer/1468058171"
+        "appleID": "cruel-summer/1468058171",
+        "youtubeID": "ic8j13piAhQ"
     },
     {
         "ranking": "81",
         "title": "Ditto",
         "artist": "NewJeans",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/48/96/08/4896085e-b550-cb0a-3e5b-1f203521cb82/196922265464_Cover.jpg/80x80bb.webp",
-        "appleID": "ditto/1659513448"
+        "appleID": "ditto/1659513448",
+        "youtubeID": "Km71Rr9K-Bw"
     },
     {
         "ranking": "82",
@@ -585,7 +631,8 @@
         "title": "BANG BANG BANG",
         "artist": "BIGBANG",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/5b/9b/8e/5b9b8ef2-998e-1210-8454-dfebfbf6271c/BB_COVER_IMAGE_4000.jpg/80x80bb.webp",
-        "appleID": "bang-bang-bang/1313176083"
+        "appleID": "bang-bang-bang/1313176083",
+        "spotifyID": "6iu311jZAJFLPgoIWgrA72"
     },
     {
         "ranking": "85",
@@ -599,28 +646,33 @@
         "title": "Igloo",
         "artist": "KISS OF LIFE",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/dd/70/86/dd70863e-2571-25cd-d1eb-c44a5cdba57f/cover_KM0020274_1.jpg/80x80bb.webp",
-        "appleID": "igloo/1773345357"
+        "appleID": "igloo/1773345357",
+        "youtubeID": "toF4ee3n-vo"
     },
     {
         "ranking": "87",
         "title": "Taste",
         "artist": "Sabrina Carpenter",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f6/15/d0/f615d0ab-e0c4-575d-907e-1cc084642357/24UMGIM61704.rgb.jpg/80x80bb.webp",
-        "appleID": "taste/1750307079"
+        "appleID": "taste/1750307079",
+        "youtubeID": "KEG7b851Ric",
+        "spotifyID": "5G2f63n7IPVPPjfNIGih7Q"
     },
     {
         "ranking": "88",
         "title": "明明就",
         "artist": "Jay Chou",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/48/95/d0/4895d0c4-c8e3-277b-9616-f878bae55c96/23UM1IM59189.rgb.jpg/80x80bb.webp",
-        "appleID": "%E6%98%8E%E6%98%8E%E5%B0%B1/1721467034"
+        "appleID": "%E6%98%8E%E6%98%8E%E5%B0%B1/1721467034",
+        "spotifyID": "2zB7NKVnzRh7xSUSPLErFr"
     },
     {
         "ranking": "89",
         "title": "Fate",
         "artist": "(G)I-DLE",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/09/7f/70/097f7074-eb06-f99e-838c-07c2a04bd834/8804775368240_Cover.jpg/80x80bb.webp",
-        "appleID": "fate/1725272213"
+        "appleID": "fate/1725272213",
+        "youtubeID": "ATK7gAaZTOM"
     },
     {
         "ranking": "90",
@@ -634,7 +686,8 @@
         "title": "Lemon",
         "artist": "Kenshi Yonezu",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/6b/0f/0b/6b0f0b3d-e842-5ee1-83a8-1b12142a9dfd/dj.bpfbtyiy.jpg/80x80bb.webp",
-        "appleID": "lemon/1538265741"
+        "appleID": "lemon/1538265741",
+        "youtubeID": "SX_ViT4Ra7k"
     },
     {
         "ranking": "92",
