@@ -11,8 +11,8 @@ import json
 import time
 
 # Spotify 로그인 정보
-SPOTIFY_USERNAME = "webstupids@gmail.com"
-SPOTIFY_PASSWORD = "Forever8888!s"
+SPOTIFY_USERNAME = "webstoryboy@naver.com"
+SPOTIFY_PASSWORD = "Forever8879!s"
 
 # 이틀 전 날짜 계산
 # current_date = datetime.now().strftime("%Y-%m-%d")
@@ -95,9 +95,6 @@ countries = {
     "vietnam": f"https://charts.spotify.com/charts/view/regional-vn-daily/{two_days_ago}",
 }
 
-# 웹드라이버 설정
-# browser = webdriver.Chrome()
-
 options = ChromeOptions()
 options.add_argument("--headless")
 options.add_argument("--disable-gpu")
@@ -105,6 +102,9 @@ options.add_argument("--no-sandbox")
 user_agent = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36"
 options.add_argument(f"user-agent={user_agent}")
 browser = webdriver.Chrome(options=options)
+
+# 웹드라이버 설정
+# browser = webdriver.Chrome()
 
 try:
     # Spotify 차트 페이지로 이동
