@@ -4,7 +4,9 @@
         "title": "Ora che non ho più te",
         "artist": "Cesare Cremonini",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c5/75/66/c575666d-2103-7c5d-0532-a511eb8e6c2b/24UMGIM82146.rgb.jpg/80x80bb.webp",
-        "appleID": "ora-che-non-ho-pi%C3%B9-te/1765021052"
+        "appleID": "ora-che-non-ho-pi%C3%B9-te/1765021052",
+        "youtubeID": "LESn4LFOfes",
+        "spotifyID": "2L16IuIQgLL1HupWGN4F4t"
     },
     {
         "ranking": "2",
@@ -25,7 +27,9 @@
         "title": "Islanda",
         "artist": "Pinguini Tattici Nucleari",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/37/44/68/3744680a-1e9a-c936-c4e1-c52b00005d95/196872634570.jpg/80x80bb.webp",
-        "appleID": "islanda/1778058075"
+        "appleID": "islanda/1778058075",
+        "youtubeID": "xbCuG8vgJhg",
+        "spotifyID": "41lOxc6ARYZPXpKeMWcHsD"
     },
     {
         "ranking": "5",
@@ -39,7 +43,9 @@
         "title": "il filo rosso",
         "artist": "Alfa",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f5/ac/4e/f5ac4e26-bb1d-7068-a4eb-03097f579486/8057715114746.png/80x80bb.webp",
-        "appleID": "il-filo-rosso/1770294583"
+        "appleID": "il-filo-rosso/1770294583",
+        "youtubeID": "jYcaxxbiwUo",
+        "spotifyID": "1QcmAp6Ev2HuYxKujUwnw0"
     },
     {
         "ranking": "7",
@@ -67,7 +73,9 @@
         "title": "APT.",
         "artist": "ROSÉ",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2d/1a/7d/2d1a7d91-587e-0ceb-d434-327bd66d9e86/075679628312.jpg/80x80bb.webp",
-        "appleID": "apt/1773452221"
+        "appleID": "apt/1773452221",
+        "youtubeID": "ekr2nIex040",
+        "spotifyID": "4wJ5Qq0jBN4ajy7ouZIV1c"
     },
     {
         "ranking": "11",
@@ -102,14 +110,17 @@
         "title": "Amore Disperato",
         "artist": "Achille Lauro",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8b/1f/06/8b1f0649-04ab-0c0f-389b-0cd795d3ccd6/5021732491329.jpg/80x80bb.webp",
-        "appleID": "amore-disperato/1768034035"
+        "appleID": "amore-disperato/1768034035",
+        "youtubeID": "TWeSGxtDjpA",
+        "spotifyID": "2gI2IA7QGtzKZKuahon3W1"
     },
     {
         "ranking": "16",
         "title": "Amaro",
         "artist": "Pinguini Tattici Nucleari",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8a/da/b5/8adab5b9-42d5-7825-2f0c-de49e6f46ac3/196872595925.jpg/80x80bb.webp",
-        "appleID": "amaro/1779696066"
+        "appleID": "amaro/1779696066",
+        "spotifyID": "3OewdIjWctx4TH6jswXRrc"
     },
     {
         "ranking": "17",
@@ -130,7 +141,9 @@
         "title": "Born With a Broken Heart",
         "artist": "Damiano David",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b0/8e/a8/b08ea833-46f7-da17-c071-70df5d0bb3b3/196872532906.jpg/80x80bb.webp",
-        "appleID": "born-with-a-broken-heart/1772901903"
+        "appleID": "born-with-a-broken-heart/1772901903",
+        "youtubeID": "Z4-g8UXa944",
+        "spotifyID": "2z9FUHRkbkV4BObNzbHsFU"
     },
     {
         "ranking": "20",
@@ -158,14 +171,18 @@
         "title": "Die With A Smile",
         "artist": "Lady Gaga",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/11/ae/f2/11aef294-f57c-bab9-c9fc-529162984e62/24UMGIM85348.rgb.jpg/80x80bb.webp",
-        "appleID": "die-with-a-smile/1762656732"
+        "appleID": "die-with-a-smile/1762656732",
+        "youtubeID": "kPa7bsKwL-c",
+        "spotifyID": "2plbrEY59IikOBgBGLjaoe"
     },
     {
         "ranking": "24",
         "title": "Si Antes Te Hubiera Conocido",
         "artist": "KAROL G",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a0/60/94/a060947c-54d8-0fad-c558-eed12600224c/24UMGIM62705.rgb.jpg/80x80bb.webp",
-        "appleID": "si-antes-te-hubiera-conocido/1752031539"
+        "appleID": "si-antes-te-hubiera-conocido/1752031539",
+        "youtubeID": "QCZZwZQ4qNs",
+        "spotifyID": "6WatFBLVB0x077xWeoVc2k"
     },
     {
         "ranking": "25",
@@ -200,21 +217,26 @@
         "title": "MI PIACCIONO LE ARMI",
         "artist": "Simba La Rue",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ce/f1/28/cef12811-3584-57a4-df91-b6c9cb799525/5021732500038.jpg/80x80bb.webp",
-        "appleID": "mi-piacciono-le-armi/1773122445"
+        "appleID": "mi-piacciono-le-armi/1773122445",
+        "youtubeID": "wQQjggGCkSk"
     },
     {
         "ranking": "30",
         "title": "Romantico Ma Muori",
         "artist": "Pinguini Tattici Nucleari",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9d/cd/85/9dcd8568-3dd8-a3ff-5e56-76f74c38c9d8/196872439199.jpg/80x80bb.webp",
-        "appleID": "romantico-ma-muori/1766289567"
+        "appleID": "romantico-ma-muori/1766289567",
+        "youtubeID": "7NyPatvPCcs",
+        "spotifyID": "0CCWIksRK4Q3um834dNG3a"
     },
     {
         "ranking": "31",
         "title": "Rossetto e caffè",
         "artist": "Sal da Vinci",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a8/60/4b/a8604bcf-2a7e-35f8-8df6-b164201f5f2b/8447053148426.jpg/80x80bb.webp",
-        "appleID": "rossetto-e-caff%C3%A8/1749384331"
+        "appleID": "rossetto-e-caff%C3%A8/1749384331",
+        "youtubeID": "MnnUUYkiMqA",
+        "spotifyID": "1nLGeFQuY7PFxrou3ezEvP"
     },
     {
         "ranking": "32",
@@ -242,7 +264,8 @@
         "title": "BIRDS OF A FEATHER",
         "artist": "Billie Eilish",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
-        "appleID": "birds-of-a-feather/1739659142"
+        "appleID": "birds-of-a-feather/1739659142",
+        "youtubeID": "V9PVRfjEBTI"
     },
     {
         "ranking": "36",
@@ -256,14 +279,17 @@
         "title": "100 MESSAGGI",
         "artist": "Lazza",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/1a/b6/6f/1ab66f83-0924-7769-4356-d4be1b69e1c8/24UMGIM16868.rgb.jpg/80x80bb.webp",
-        "appleID": "100-messaggi/1732402688"
+        "appleID": "100-messaggi/1732402688",
+        "youtubeID": "F7katA08VeA"
     },
     {
         "ranking": "38",
         "title": "That’s So True",
         "artist": "Gracie Abrams",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/26/78/81/26788143-5e5f-0813-2480-ecf4280ef221/24UM1IM07082.rgb.jpg/80x80bb.webp",
-        "appleID": "thats-so-true/1773474483"
+        "appleID": "thats-so-true/1773474483",
+        "youtubeID": "BDHM8cyJQa8",
+        "spotifyID": "7ne4VBA60CxGM75vw0EYad"
     },
     {
         "ranking": "39",
@@ -284,7 +310,8 @@
         "title": "MAI PER SEMPRE",
         "artist": "Geolier",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ec/85/01/ec85014b-6f86-cb80-6589-122216386541/5021732542915.jpg/80x80bb.webp",
-        "appleID": "mai-per-sempre/1779190695"
+        "appleID": "mai-per-sempre/1779190695",
+        "youtubeID": "u8Z_ywK9ylA"
     },
     {
         "ranking": "42",
@@ -298,14 +325,16 @@
         "title": "SESSO E SAMBA",
         "artist": "Tony Effe",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/0a/22/ad/0a22adc7-92ba-17f0-a627-61c4fc070ad5/24UMGIM16845.rgb.jpg/80x80bb.webp",
-        "appleID": "sesso-e-samba/1784010774"
+        "appleID": "sesso-e-samba/1769629395"
     },
     {
         "ranking": "44",
         "title": "30ºC",
         "artist": "ANNA",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2f/43/3d/2f433d89-f73e-c7e6-fb64-b8a5d6cdb80c/24UMGIM59481.rgb.jpg/80x80bb.webp",
-        "appleID": "30%C2%BAc/1748787677"
+        "appleID": "30%C2%BAc/1748787677",
+        "youtubeID": "c1qNZ7r2ov4",
+        "spotifyID": "19DHPlTC2gx1j4jrFzNbwL"
     },
     {
         "ranking": "45",
@@ -347,21 +376,24 @@
         "title": "Timeless",
         "artist": "The Weeknd",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ef/14/11/ef14117b-6681-088b-3c74-e127ca3b46ed/24UM1IM04061.rgb.jpg/80x80bb.webp",
-        "appleID": "timeless/1770380890"
+        "appleID": "timeless/1770380890",
+        "youtubeID": "5EpyN_6dqyk"
     },
     {
         "ranking": "51",
         "title": "Perdono (feat. Shiva)",
         "artist": "Tony Boy",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/13/1a/47/131a475d-522f-74da-d0f6-0a4e0db0efdc/5021732539519.jpg/80x80bb.webp",
-        "appleID": "perdono-feat-shiva/1778313021"
+        "appleID": "perdono/1778313021"
     },
     {
         "ranking": "52",
         "title": "Niente Panico",
         "artist": "Ghali",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/60/a9/83/60a983b1-92a4-fb85-c9af-a25d4c096631/5021732506443.jpg/80x80bb.webp",
-        "appleID": "niente-panico/1770809510"
+        "appleID": "niente-panico/1770809510",
+        "youtubeID": "fTl5nolWYWM",
+        "spotifyID": "1GVDt0vn0wJ1QemPfMEWTU"
     },
     {
         "ranking": "53",
@@ -375,7 +407,8 @@
         "title": "EL PIBE DE ORO",
         "artist": "Geolier",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2c/3f/6c/2c3f6c94-fc83-0bdd-7b5b-3c95bb8efd58/5021732363879.jpg/80x80bb.webp",
-        "appleID": "el-pibe-de-oro/1744162214"
+        "appleID": "el-pibe-de-oro/1744162214",
+        "youtubeID": "eXNTyftGnp0"
     },
     {
         "ranking": "55",
@@ -396,7 +429,7 @@
         "title": "Non mi basta mai (feat. Capo Plaza & Frah Quintale)",
         "artist": "Tony Boy",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/13/1a/47/131a475d-522f-74da-d0f6-0a4e0db0efdc/5021732539519.jpg/80x80bb.webp",
-        "appleID": "non-mi-basta-mai-feat-capo-plaza-frah-quintale/1778313329"
+        "appleID": "non-mi-basta-mai/1778313329"
     },
     {
         "ranking": "58",
@@ -438,14 +471,17 @@
         "title": "ManDarE TuTto All'aRIA",
         "artist": "Marco Mengoni",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/e8/c6/92e8c6f8-0155-1517-515c-1e8d832aa318/196872686296.jpg/80x80bb.webp",
-        "appleID": "mandare-tutto-allaria/1780598671"
+        "appleID": "mandare-tutto-allaria/1780598671",
+        "youtubeID": "Cp7ZT2af1IM"
     },
     {
         "ranking": "64",
         "title": "TONIGHT",
         "artist": "ANNA",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ba/93/31/ba9331ff-6726-3f27-74b2-c9afce9dd45e/24UMGIM63142.rgb.jpg/80x80bb.webp",
-        "appleID": "tonight/1753071193"
+        "appleID": "tonight/1753071193",
+        "youtubeID": "ygD5V7nT2Y8",
+        "spotifyID": "30yZdVYOfemHG7uuntz7HH"
     },
     {
         "ranking": "65",
@@ -466,7 +502,8 @@
         "title": "I P’ ME, TU P’ TE",
         "artist": "Geolier",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/a0/9a/85/a09a8537-b47c-8ad5-c2ff-c166cd27d584/5054197950117.jpg/80x80bb.webp",
-        "appleID": "i-p-me-tu-p-te/1728034575"
+        "appleID": "i-p-me-tu-p-te/1728034575",
+        "youtubeID": "qon1NJ6D3co"
     },
     {
         "ranking": "68",
@@ -480,7 +517,8 @@
         "title": "ALTROVE",
         "artist": "Ultimo",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e7/2a/1e/e72a1e2c-920f-5667-7a52-1d4e3bb71d45/cover.jpg/80x80bb.webp",
-        "appleID": "altrove/1744874815"
+        "appleID": "altrove/1744874815",
+        "spotifyID": "1A1xTBtNnJ09JNINiLjdOK"
     },
     {
         "ranking": "70",
@@ -501,21 +539,24 @@
         "title": "Codeine (feat. ANNA)",
         "artist": "Tony Boy",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/13/1a/47/131a475d-522f-74da-d0f6-0a4e0db0efdc/5021732539519.jpg/80x80bb.webp",
-        "appleID": "codeine-feat-anna/1778313664"
+        "appleID": "codeine/1778313664"
     },
     {
         "ranking": "73",
         "title": "Good Luck, Babe!",
         "artist": "Chappell Roan",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/29/a7/c4/29a7c478-351d-25eb-a116-3e68118cdab8/24UMGIM31246.rgb.jpg/80x80bb.webp",
-        "appleID": "good-luck-babe/1737497080"
+        "appleID": "good-luck-babe/1737497080",
+        "youtubeID": "1RKqOmSkGgM",
+        "spotifyID": "0WbMK4wrZ1wFSty9F7FCgu"
     },
     {
         "ranking": "74",
         "title": "Dillo Solo Al Buio",
         "artist": "Elisa",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e8/f7/b0/e8f7b0fd-d2a1-55cd-a706-bb59c39388a6/24UM1IM26710.rgb.jpg/80x80bb.webp",
-        "appleID": "dillo-solo-al-buio/1778700782"
+        "appleID": "dillo-solo-al-buio/1778700782",
+        "youtubeID": "Ob6B1PPtCvM"
     },
     {
         "ranking": "75",
@@ -543,7 +584,8 @@
         "title": "BUIO DAVANTI",
         "artist": "Lazza",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/30/c1/98/30c1986f-9171-6e3d-4899-694a7a48df84/24UMGIM94964.rgb.jpg/80x80bb.webp",
-        "appleID": "buio-davanti/1780757799"
+        "appleID": "buio-davanti/1780757799",
+        "spotifyID": "5MJc4IVIt17xEt6angtZcq"
     },
     {
         "ranking": "79",
@@ -557,14 +599,16 @@
         "title": "CHE SOLE OGGI",
         "artist": "Geolier",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5f/da/1d/5fda1dd5-2e01-e2ec-53f7-01701fc331c3/5021732527240.jpg/80x80bb.webp",
-        "appleID": "che-sole-oggi/1781926009"
+        "appleID": "che-sole-oggi/1778551205",
+        "youtubeID": "EaUmkbdOA4U"
     },
     {
         "ranking": "81",
         "title": "Burnout",
         "artist": "Pinguini Tattici Nucleari",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8a/da/b5/8adab5b9-42d5-7825-2f0c-de49e6f46ac3/196872595925.jpg/80x80bb.webp",
-        "appleID": "burnout/1779696062"
+        "appleID": "burnout/1779696062",
+        "spotifyID": "1xiCaiy7CFnymZvf80ZKBk"
     },
     {
         "ranking": "82",
@@ -578,7 +622,8 @@
         "title": "Sinceramente",
         "artist": "Annalisa",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/6e/fe/af/6efeaf67-47cc-3808-da77-2f7d36ad0805/5054197949418.jpg/80x80bb.webp",
-        "appleID": "sinceramente/1728034110"
+        "appleID": "sinceramente/1728034110",
+        "youtubeID": "NfEp5l0UMBE"
     },
     {
         "ranking": "84",
@@ -620,21 +665,25 @@
         "title": "RAGNI",
         "artist": "Tananai",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/bf/55/e4/bf55e4f5-0643-fa6a-1022-c8d6c88edd24/24UMGIM90205.rgb.jpg/80x80bb.webp",
-        "appleID": "ragni/1764391324"
+        "appleID": "ragni/1764391324",
+        "youtubeID": "EV5-ClWGymU",
+        "spotifyID": "5HWWpSsNnlc2Kyh5QLrq1W"
     },
     {
         "ranking": "90",
         "title": "OuverFOURe",
         "artist": "Lazza",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/30/c1/98/30c1986f-9171-6e3d-4899-694a7a48df84/24UMGIM94964.rgb.jpg/80x80bb.webp",
-        "appleID": "ouverfoure/1780757374"
+        "appleID": "ouverfoure/1780757374",
+        "youtubeID": "2wmu0ufEXSw"
     },
     {
         "ranking": "91",
         "title": "Il tempo cura",
         "artist": "Tony Boy",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8f/6a/6c/8f6a6c00-9509-0e97-e95d-37f2c18df723/5021732459114.jpg/80x80bb.webp",
-        "appleID": "il-tempo-cura/1760807918"
+        "appleID": "il-tempo-cura/1760807918",
+        "spotifyID": "6T0QOCB2vNIBHlw5OZiyah"
     },
     {
         "ranking": "92",
@@ -655,7 +704,8 @@
         "title": "Beautiful Things",
         "artist": "Benson Boone",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/54/f4/92/54f49210-e260-b519-ebbd-f4f40ee710cd/054391342751.jpg/80x80bb.webp",
-        "appleID": "beautiful-things/1724488124"
+        "appleID": "beautiful-things/1724488124",
+        "youtubeID": "Oa_RSwwpPaA"
     },
     {
         "ranking": "95",
@@ -669,7 +719,8 @@
         "title": "Your Dog",
         "artist": "Pinguini Tattici Nucleari",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8a/da/b5/8adab5b9-42d5-7825-2f0c-de49e6f46ac3/196872595925.jpg/80x80bb.webp",
-        "appleID": "your-dog/1779696065"
+        "appleID": "your-dog/1779696065",
+        "spotifyID": "0rDIjhe1IQJhh3oPDxZJMg"
     },
     {
         "ranking": "97",
@@ -690,7 +741,8 @@
         "title": "TUTA GOLD",
         "artist": "Mahmood",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/3b/ce/22/3bce2227-dd60-6b53-8ecb-99a596b7496f/24UMGIM04779.rgb.jpg/80x80bb.webp",
-        "appleID": "tuta-gold/1728412144"
+        "appleID": "tuta-gold/1728412144",
+        "youtubeID": "Pz168-XMNIk"
     },
     {
         "ranking": "100",

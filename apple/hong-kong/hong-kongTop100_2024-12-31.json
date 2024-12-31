@@ -4,21 +4,26 @@
         "title": "APT.",
         "artist": "ROSÉ",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2d/1a/7d/2d1a7d91-587e-0ceb-d434-327bd66d9e86/075679628312.jpg/80x80bb.webp",
-        "appleID": "apt/1773452221"
+        "appleID": "apt/1773452221",
+        "youtubeID": "ekr2nIex040",
+        "spotifyID": "4wJ5Qq0jBN4ajy7ouZIV1c"
     },
     {
         "ranking": "2",
         "title": "HOME SWEET HOME (feat. TAEYANG & DAESUNG)",
         "artist": "G-DRAGON",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a4/e1/84/a4e1846a-6158-6a43-30c7-0297e891905e/197342826099_cover.jpg/80x80bb.webp",
-        "appleID": "home-sweet-home-feat-taeyang-daesung/1780635199"
+        "appleID": "home-sweet-home-feat-taeyang-daesung/1780635199",
+        "youtubeID": "fLi0EJfi_vg"
     },
     {
         "ranking": "3",
         "title": "toxic till the end",
         "artist": "ROSÉ",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2d/14/66/2d14661b-345b-d0f3-4e86-56ef626e68aa/075679629203.jpg/80x80bb.webp",
-        "appleID": "toxic-till-the-end/1771105929"
+        "appleID": "toxic-till-the-end/1771105929",
+        "youtubeID": "eA0lHNZ1KCA",
+        "spotifyID": "1z5ebC9238uGoBgzYyvGpQ"
     },
     {
         "ranking": "4",
@@ -39,21 +44,25 @@
         "title": "黑玻璃",
         "artist": "Kaho Hung",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/46/2d/d6/462dd6ac-159e-f621-f836-5b34ec2b5b69/5054197946042.jpg/80x80bb.webp",
-        "appleID": "%E9%BB%91%E7%8E%BB%E7%92%83/1722428083"
+        "appleID": "%E9%BB%91%E7%8E%BB%E7%92%83/1722428083",
+        "spotifyID": "65TyCkIJtF8hDF599vCXwe"
     },
     {
         "ranking": "7",
         "title": "number one girl",
         "artist": "ROSÉ",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2d/14/66/2d14661b-345b-d0f3-4e86-56ef626e68aa/075679629203.jpg/80x80bb.webp",
-        "appleID": "number-one-girl/1771105923"
+        "appleID": "number-one-girl/1771105923",
+        "youtubeID": "pZ1NdE69VTs",
+        "spotifyID": "1lcBt7LoEikqYmhUoa2cez"
     },
     {
         "ranking": "8",
         "title": "Whiplash",
         "artist": "aespa",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d5/c1/f5/d5c1f505-f588-775f-df05-c672a8ec22e9/888735949562_Cover.jpg/80x80bb.webp",
-        "appleID": "whiplash/1772214981"
+        "appleID": "whiplash/1772214981",
+        "youtubeID": "jWQx2f-CErU"
     },
     {
         "ranking": "9",
@@ -67,35 +76,41 @@
         "title": "好得太過份",
         "artist": "Keung To",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ff/af/46/ffaf46e9-c492-c425-446f-877f02af1622/4897004795102.jpg/80x80bb.webp",
-        "appleID": "%E5%A5%BD%E5%BE%97%E5%A4%AA%E9%81%8E%E4%BB%BD/1740478908"
+        "appleID": "%E5%A5%BD%E5%BE%97%E5%A4%AA%E9%81%8E%E4%BB%BD/1740478908",
+        "spotifyID": "1jQE96DjtfpWGjSqK6Gfnr"
     },
     {
         "ranking": "11",
         "title": "Every Single Time",
         "artist": "Keung To",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b7/e1/65/b7e165df-f6d5-725e-9772-f1adb3d60470/4897004795331.jpg/80x80bb.webp",
-        "appleID": "every-single-time/1761120667"
+        "appleID": "every-single-time/1761120667",
+        "spotifyID": "1Y6JqAA9wRlgVMLpDnASah"
     },
     {
         "ranking": "12",
         "title": "Dear My Friend,",
         "artist": "Keung To",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9d/7a/a4/9d7aa4ed-4bc5-9d6d-d99c-1bd57d56bcf8/4897004792224.jpg/80x80bb.webp",
-        "appleID": "dear-my-friend/1579993521"
+        "appleID": "dear-my-friend/1579993521",
+        "spotifyID": "11IqNbLOD4s4nVYSuEttFR"
     },
     {
         "ranking": "13",
         "title": "Die With A Smile",
         "artist": "Lady Gaga",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/11/ae/f2/11aef294-f57c-bab9-c9fc-529162984e62/24UMGIM85348.rgb.jpg/80x80bb.webp",
-        "appleID": "die-with-a-smile/1762656732"
+        "appleID": "die-with-a-smile/1762656732",
+        "youtubeID": "kPa7bsKwL-c",
+        "spotifyID": "2plbrEY59IikOBgBGLjaoe"
     },
     {
         "ranking": "14",
         "title": "岩巉",
         "artist": "Keung To",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/bf/01/82/bf01824e-bcee-df41-f1bc-dfb4a564932d/4897004794587.jpg/80x80bb.webp",
-        "appleID": "%E5%B2%A9%E5%B7%89/1717734227"
+        "appleID": "%E5%B2%A9%E5%B7%89/1717734227",
+        "spotifyID": "4ja627NyIBCz7wO2dYr83g"
     },
     {
         "ranking": "15",
@@ -109,7 +124,8 @@
         "title": "黑月",
         "artist": "Keung To",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/8e/6e/73/8e6e73a5-7064-626c-fe0c-962378c01bb3/4897004794778.jpg/80x80bb.webp",
-        "appleID": "%E9%BB%91%E6%9C%88/1725277600"
+        "appleID": "%E9%BB%91%E6%9C%88/1725277600",
+        "spotifyID": "60DcGRqdHMk9H3sat9bcHW"
     },
     {
         "ranking": "17",
@@ -123,28 +139,32 @@
         "title": "POWER",
         "artist": "G-DRAGON",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/36/fa/03/36fa0306-b040-b01b-36d3-181256366615/197342805353_cover.jpg/80x80bb.webp",
-        "appleID": "power/1776670342"
+        "appleID": "power/1776670342",
+        "youtubeID": "NMjhjrBIrG8"
     },
     {
         "ranking": "19",
         "title": "DRIP",
         "artist": "BABYMONSTER",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b9/e1/ef/b9e1ef3a-e3eb-8152-e91b-20aca0fc9ffd/BM_DRIP_Digital-Cover_4000.jpg/80x80bb.webp",
-        "appleID": "drip/1773262055"
+        "appleID": "drip/1773262055",
+        "youtubeID": "Zp-Jhuhq0bQ"
     },
     {
         "ranking": "20",
         "title": "緊急聯絡人",
         "artist": "Gareth.T",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/29/4f/7a/294f7a2e-2391-3c16-b257-d0176ae0ae73/5054197916472.jpg/80x80bb.webp",
-        "appleID": "%E7%B7%8A%E6%80%A5%E8%81%AF%E7%B5%A1%E4%BA%BA/1718045819"
+        "appleID": "%E7%B7%8A%E6%80%A5%E8%81%AF%E7%B5%A1%E4%BA%BA/1718045819",
+        "spotifyID": "1sb71AvysPMJlsx4qYtTpG"
     },
     {
         "ranking": "21",
         "title": "至少做一件離譜的事",
         "artist": "Kiri T",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/19/0e/40/190e400c-d712-4f40-c4a9-9305d2b0d668/5021732256867.jpg/80x80bb.webp",
-        "appleID": "%E8%87%B3%E5%B0%91%E5%81%9A%E4%B8%80%E4%BB%B6%E9%9B%A2%E8%AD%9C%E7%9A%84%E4%BA%8B/1735659500"
+        "appleID": "%E8%87%B3%E5%B0%91%E5%81%9A%E4%B8%80%E4%BB%B6%E9%9B%A2%E8%AD%9C%E7%9A%84%E4%BA%8B/1735659500",
+        "spotifyID": "2oOemghuOplk25PORF4s39"
     },
     {
         "ranking": "22",
@@ -193,14 +213,16 @@
         "title": "隱形遊樂場 (真想給你見到它)",
         "artist": "Hins Cheung",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/1a/79/eb/1a79eb17-4d0b-e626-bfc7-c84007f837f2/4895087614235.jpg/80x80bb.webp",
-        "appleID": "%E9%9A%B1%E5%BD%A2%E9%81%8A%E6%A8%82%E5%A0%B4-%E7%9C%9F%E6%83%B3%E7%B5%A6%E4%BD%A0%E8%A6%8B%E5%88%B0%E5%AE%83/1722014048"
+        "appleID": "%E9%9A%B1%E5%BD%A2%E9%81%8A%E6%A8%82%E5%A0%B4-%E7%9C%9F%E6%83%B3%E7%B5%A6%E4%BD%A0%E8%A6%8B%E5%88%B0%E5%AE%83/1722014048",
+        "spotifyID": "6bMgCXapeQEVFgAOr8EvgY"
     },
     {
         "ranking": "29",
         "title": "BIRDS OF A FEATHER",
         "artist": "Billie Eilish",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
-        "appleID": "birds-of-a-feather/1739659142"
+        "appleID": "birds-of-a-feather/1739659142",
+        "youtubeID": "V9PVRfjEBTI"
     },
     {
         "ranking": "30",
@@ -214,7 +236,8 @@
         "title": "Supernova",
         "artist": "aespa",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/50/7e/e0/507ee09f-ccfd-1e3c-af90-ca5e92b1221b/00888735949869_Cover.jpg/80x80bb.webp",
-        "appleID": "supernova/1773694544"
+        "appleID": "supernova/1773694544",
+        "youtubeID": "phuiiNCxRMg"
     },
     {
         "ranking": "32",
@@ -235,21 +258,26 @@
         "title": "two years",
         "artist": "ROSÉ",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2d/14/66/2d14661b-345b-d0f3-4e86-56ef626e68aa/075679629203.jpg/80x80bb.webp",
-        "appleID": "two-years/1771105927"
+        "appleID": "two-years/1771105927",
+        "youtubeID": "lktucPDH5IY",
+        "spotifyID": "4HxGH28DitgAuuKpEVrLzN"
     },
     {
         "ranking": "35",
         "title": "三生有幸",
         "artist": "Yan Ting",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/7b/70/da/7b70da51-ae4a-da0f-f567-e908db18a21b/24UMGIM08695.rgb.jpg/80x80bb.webp",
-        "appleID": "%E4%B8%89%E7%94%9F%E6%9C%89%E5%B9%B8/1731778084"
+        "appleID": "%E4%B8%89%E7%94%9F%E6%9C%89%E5%B9%B8/1731778084",
+        "spotifyID": "7sKrSZ1EDBtSkCIHs6MGKh"
     },
     {
         "ranking": "36",
         "title": "Mantra",
         "artist": "JENNIE",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5d/9a/4c/5d9a4c5f-1c34-1265-0fa5-860dc8f0e802/196872495263.jpg/80x80bb.webp",
-        "appleID": "mantra/1772759719"
+        "appleID": "mantra/1772759719",
+        "youtubeID": "bB3-CUMERIU",
+        "spotifyID": "2CspwnypzT7rcWI9RfsoSb"
     },
     {
         "ranking": "37",
@@ -277,7 +305,8 @@
         "title": "gameboy",
         "artist": "ROSÉ",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2d/14/66/2d14661b-345b-d0f3-4e86-56ef626e68aa/075679629203.jpg/80x80bb.webp",
-        "appleID": "gameboy/1771106120"
+        "appleID": "gameboy/1771106120",
+        "spotifyID": "77n3jFGqPPxYrEGwrWylNv"
     },
     {
         "ranking": "41",
@@ -298,7 +327,9 @@
         "title": "drinks or coffee",
         "artist": "ROSÉ",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2d/14/66/2d14661b-345b-d0f3-4e86-56ef626e68aa/075679629203.jpg/80x80bb.webp",
-        "appleID": "drinks-or-coffee/1771105933"
+        "appleID": "drinks-or-coffee/1771105933",
+        "youtubeID": "PFDO5OZO61Y",
+        "spotifyID": "3fpWkbEZMP1BgOOfymwoaS"
     },
     {
         "ranking": "44",
@@ -319,7 +350,9 @@
         "title": "3am",
         "artist": "ROSÉ",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2d/14/66/2d14661b-345b-d0f3-4e86-56ef626e68aa/075679629203.jpg/80x80bb.webp",
-        "appleID": "3am/1771105924"
+        "appleID": "3am/1771105924",
+        "youtubeID": "OzdJFXyO8ts",
+        "spotifyID": "3y4q6bBdbXsTIaPiwiiUfy"
     },
     {
         "ranking": "47",
@@ -354,14 +387,16 @@
         "title": "Let go",
         "artist": "Nancy Kwai",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b7/82/bc/b782bc4d-3d10-e565-fe71-f5f0e2829295/5021732441058.jpg/80x80bb.webp",
-        "appleID": "let-go/1758023472"
+        "appleID": "let-go/1758023472",
+        "spotifyID": "0VKdwugDTY088b1J84QH3e"
     },
     {
         "ranking": "52",
         "title": "Espresso",
         "artist": "Sabrina Carpenter",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cb/64/8c/cb648cf7-e7bb-bd00-efe0-d744312c29a8/24UMGIM32304.rgb.jpg/80x80bb.webp",
-        "appleID": "espresso/1740212434"
+        "appleID": "espresso/1740212434",
+        "youtubeID": "eVli-tstM5E"
     },
     {
         "ranking": "53",
@@ -389,7 +424,9 @@
         "title": "stay a little longer",
         "artist": "ROSÉ",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2d/14/66/2d14661b-345b-d0f3-4e86-56ef626e68aa/075679629203.jpg/80x80bb.webp",
-        "appleID": "stay-a-little-longer/1771106121"
+        "appleID": "stay-a-little-longer/1771106121",
+        "youtubeID": "vHvOYQ0hbBA",
+        "spotifyID": "5OdI6v2L7Aez4cclpbojiZ"
     },
     {
         "ranking": "57",
@@ -410,14 +447,16 @@
         "title": "UP (KARINA Solo)",
         "artist": "aespa",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/fd/85/0e/fd850e67-f6e2-c4e9-6ea5-501ca5afccbd/aespa_DS_Synk-PARALLEL_LINE_DC.jpg/80x80bb.webp",
-        "appleID": "up-karina-solo/1772223475"
+        "appleID": "up-karina-solo/1772223475",
+        "youtubeID": "sir6uaQ1Ako"
     },
     {
         "ranking": "60",
         "title": "Armageddon",
         "artist": "aespa",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/50/7e/e0/507ee09f-ccfd-1e3c-af90-ca5e92b1221b/00888735949869_Cover.jpg/80x80bb.webp",
-        "appleID": "armageddon/1773694547"
+        "appleID": "armageddon/1773694547",
+        "youtubeID": "nFYwcndNuOY"
     },
     {
         "ranking": "61",
@@ -431,7 +470,8 @@
         "title": "會再見的",
         "artist": "Jay Fung",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/04/8c/e9/048ce9f2-45ba-17b1-9bfe-49fdf0f5d10d/5021732481719.jpg/80x80bb.webp",
-        "appleID": "%E6%9C%83%E5%86%8D%E8%A6%8B%E7%9A%84/1767762301"
+        "appleID": "%E6%9C%83%E5%86%8D%E8%A6%8B%E7%9A%84/1767762301",
+        "spotifyID": "2HMgfqnkZEynYfW1B9viVe"
     },
     {
         "ranking": "63",
@@ -445,21 +485,25 @@
         "title": "luther",
         "artist": "Kendrick Lamar",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/50/c2/cc/50c2cc95-3658-9417-0d4b-831abde44ba1/24UM1IM28978.rgb.jpg/80x80bb.webp",
-        "appleID": "luther/1781270323"
+        "appleID": "luther/1781270323",
+        "youtubeID": "4_taypLmSMU"
     },
     {
         "ranking": "65",
         "title": "Magnetic",
         "artist": "ILLIT",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/3e/49/1e/3e491e43-4961-21ab-2abe-37fb1c0feb40/196922879227_Cover.jpg/80x80bb.webp",
-        "appleID": "magnetic/1734500896"
+        "appleID": "magnetic/1734500896",
+        "youtubeID": "Vk5-c_v4gMU",
+        "spotifyID": "1aKvZDoLGkNMxoRYgkckZG"
     },
     {
         "ranking": "66",
         "title": "BANG BANG BANG",
         "artist": "BIGBANG",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/5b/9b/8e/5b9b8ef2-998e-1210-8454-dfebfbf6271c/BB_COVER_IMAGE_4000.jpg/80x80bb.webp",
-        "appleID": "bang-bang-bang/1313176083"
+        "appleID": "bang-bang-bang/1313176083",
+        "spotifyID": "6iu311jZAJFLPgoIWgrA72"
     },
     {
         "ranking": "67",
@@ -480,14 +524,16 @@
         "title": "跟你分擔失落比較快樂",
         "artist": "Kaho Hung",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b1/25/c5/b125c5f6-c1b1-2a88-e1bd-df8dbbd1e8e1/5021732500939.jpg/80x80bb.webp",
-        "appleID": "%E8%B7%9F%E4%BD%A0%E5%88%86%E6%93%94%E5%A4%B1%E8%90%BD%E6%AF%94%E8%BC%83%E5%BF%AB%E6%A8%82/1771817270"
+        "appleID": "%E8%B7%9F%E4%BD%A0%E5%88%86%E6%93%94%E5%A4%B1%E8%90%BD%E6%AF%94%E8%BC%83%E5%BF%AB%E6%A8%82/1771817270",
+        "spotifyID": "3Z6eOxbE55QzXsXCcSfl9O"
     },
     {
         "ranking": "70",
         "title": "拜託",
         "artist": "Kaho Hung",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/52/c8/b2/52c8b274-c004-bfdf-9a24-46bc768a0ab4/5021732440723.jpg/80x80bb.webp",
-        "appleID": "%E6%8B%9C%E8%A8%97/1757565739"
+        "appleID": "%E6%8B%9C%E8%A8%97/1757565739",
+        "spotifyID": "1wNJcZPwOanXp5YLU8ivC9"
     },
     {
         "ranking": "71",
@@ -501,7 +547,8 @@
         "title": "Strategy (feat. Megan Thee Stallion)",
         "artist": "TWICE",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d3/65/0c/d3650c39-d01d-2453-6826-9aa21ad22559/8809928952925_Cover.jpg/80x80bb.webp",
-        "appleID": "strategy-feat-megan-thee-stallion/1774299757"
+        "appleID": "strategy-feat-megan-thee-stallion/1774299757",
+        "youtubeID": "LcV0eAgCSgw"
     },
     {
         "ranking": "73",
@@ -529,14 +576,17 @@
         "title": "call it the end",
         "artist": "ROSÉ",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2d/14/66/2d14661b-345b-d0f3-4e86-56ef626e68aa/075679629203.jpg/80x80bb.webp",
-        "appleID": "call-it-the-end/1771106126"
+        "appleID": "call-it-the-end/1771106126",
+        "youtubeID": "nOo3a2tT1LQ",
+        "spotifyID": "5a3tLTGA0HIDtrvnszXXBN"
     },
     {
         "ranking": "77",
         "title": "dance all night",
         "artist": "ROSÉ",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2d/14/66/2d14661b-345b-d0f3-4e86-56ef626e68aa/075679629203.jpg/80x80bb.webp",
-        "appleID": "dance-all-night/1771106130"
+        "appleID": "dance-all-night/1771106130",
+        "spotifyID": "50aQbgfdydBXABx2gATQHn"
     },
     {
         "ranking": "78",
@@ -557,14 +607,16 @@
         "title": "too bad for us",
         "artist": "ROSÉ",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2d/14/66/2d14661b-345b-d0f3-4e86-56ef626e68aa/075679629203.jpg/80x80bb.webp",
-        "appleID": "too-bad-for-us/1771106129"
+        "appleID": "too-bad-for-us/1771106129",
+        "spotifyID": "3tDF6qjNrabjnb23RB2rpa"
     },
     {
         "ranking": "81",
         "title": "How Sweet",
         "artist": "NewJeans",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/bf/68/ca/bf68ca64-4acd-543f-bc78-455f11f06105/196922889738_Cover.jpg/80x80bb.webp",
-        "appleID": "how-sweet/1744448416"
+        "appleID": "how-sweet/1744448416",
+        "youtubeID": "Q3K0TOvTOno"
     },
     {
         "ranking": "82",
@@ -585,7 +637,8 @@
         "title": "New me",
         "artist": "YOASOBI",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2f/97/8c/2f978cc6-ca98-f6f8-5907-3d39ac6f63d3/198846810805.jpg/80x80bb.webp",
-        "appleID": "new-me/1778233191"
+        "appleID": "new-me/1778233191",
+        "youtubeID": "HRlW6yZo6Kc"
     },
     {
         "ranking": "85",
@@ -599,7 +652,9 @@
         "title": "not the same",
         "artist": "ROSÉ",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2d/14/66/2d14661b-345b-d0f3-4e86-56ef626e68aa/075679629203.jpg/80x80bb.webp",
-        "appleID": "not-the-same/1771106124"
+        "appleID": "not-the-same/1771106124",
+        "youtubeID": "IKqVcaVrMGs",
+        "spotifyID": "67siqMtQTGPpJZI4Dz8OpM"
     },
     {
         "ranking": "87",
@@ -634,7 +689,8 @@
         "title": "趁你旅行時搬走",
         "artist": "moon tang",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/24/75/95/247595fe-aa4d-be81-cd7a-e0f374205385/5021732372406.jpg/80x80bb.webp",
-        "appleID": "%E8%B6%81%E4%BD%A0%E6%97%85%E8%A1%8C%E6%99%82%E6%90%AC%E8%B5%B0/1745272198"
+        "appleID": "%E8%B6%81%E4%BD%A0%E6%97%85%E8%A1%8C%E6%99%82%E6%90%AC%E8%B5%B0/1745272198",
+        "spotifyID": "77UfzMhwaH8Nl0LuydjrHH"
     },
     {
         "ranking": "92",
@@ -648,7 +704,8 @@
         "title": "Ditto",
         "artist": "NewJeans",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/48/96/08/4896085e-b550-cb0a-3e5b-1f203521cb82/196922265464_Cover.jpg/80x80bb.webp",
-        "appleID": "ditto/1659513448"
+        "appleID": "ditto/1659513448",
+        "youtubeID": "Km71Rr9K-Bw"
     },
     {
         "ranking": "94",
@@ -662,7 +719,8 @@
         "title": "Drama",
         "artist": "aespa",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/f7/f0/5c/f7f05ce4-e5a4-900d-e087-1dd9668b2b34/888735945939.jpg/80x80bb.webp",
-        "appleID": "drama/1715939931"
+        "appleID": "drama/1715939931",
+        "youtubeID": "D8VEhcPeSlc"
     },
     {
         "ranking": "96",
@@ -683,7 +741,8 @@
         "title": "0.1秒後的世界",
         "artist": "Panther Chan",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b4/f0/16/b4f01655-10f0-9d69-ee56-5c142e8987ed/5021732522139.jpg/80x80bb.webp",
-        "appleID": "0-1%E7%A7%92%E5%BE%8C%E7%9A%84%E4%B8%96%E7%95%8C/1774201606"
+        "appleID": "0-1%E7%A7%92%E5%BE%8C%E7%9A%84%E4%B8%96%E7%95%8C/1774201606",
+        "spotifyID": "6HOzptW6b05V4AFp3nBOCf"
     },
     {
         "ranking": "99",
