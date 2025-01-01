@@ -25,7 +25,8 @@
         "title": "Timeless",
         "artist": "The Weeknd",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ef/14/11/ef14117b-6681-088b-3c74-e127ca3b46ed/24UM1IM04061.rgb.jpg/80x80bb.webp",
-        "appleID": "timeless/1770380890"
+        "appleID": "timeless/1770380890",
+        "youtubeID": "5EpyN_6dqyk"
     },
     {
         "ranking": "5",
@@ -39,14 +40,17 @@
         "title": "A venit poliția (From \"Candidatul perfect\" The Movie)",
         "artist": "Theo Rose",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ce/c6/6c/cec66c83-db8e-3f7e-4830-d8dff710bb92/cover.jpg/80x80bb.webp",
-        "appleID": "a-venit-poli%C8%9Bia-from-candidatul-perfect-the-movie/1772034093"
+        "appleID": "a-venit-poli%C8%9Bia-from-candidatul-perfect-the-movie/1772034093",
+        "youtubeID": "BnG6AXPNbco"
     },
     {
         "ranking": "7",
         "title": "Rusia",
         "artist": "Dani Mocanu",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/3e/bc/e2/3ebce263-8518-e3c4-41f2-cede59b5e67d/cover.jpg/80x80bb.webp",
-        "appleID": "rusia/1783344091"
+        "appleID": "rusia/1783344091",
+        "youtubeID": "pXEGZ0V0rvw",
+        "spotifyID": "4IjUK9pVwvf04yYUn2EuUJ"
     },
     {
         "ranking": "8",
@@ -67,14 +71,18 @@
         "title": "Die With A Smile",
         "artist": "Lady Gaga",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/11/ae/f2/11aef294-f57c-bab9-c9fc-529162984e62/24UMGIM85348.rgb.jpg/80x80bb.webp",
-        "appleID": "die-with-a-smile/1762656732"
+        "appleID": "die-with-a-smile/1762656732",
+        "youtubeID": "kPa7bsKwL-c",
+        "spotifyID": "2plbrEY59IikOBgBGLjaoe"
     },
     {
         "ranking": "11",
         "title": "Hai sa ne iubim ca nemtii",
         "artist": "Dani Mocanu",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ac/82/4e/ac824e75-bdb0-dede-3969-d8fa03f382e4/cover.jpg/80x80bb.webp",
-        "appleID": "hai-sa-ne-iubim-ca-nemtii/1756129546"
+        "appleID": "hai-sa-ne-iubim-ca-nemtii/1756129546",
+        "youtubeID": "NYuBwlEWWm0",
+        "spotifyID": "2yUZv6utvoeV0B79YSn7pq"
     },
     {
         "ranking": "12",
@@ -88,7 +96,9 @@
         "title": "APT.",
         "artist": "ROSÉ",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2d/1a/7d/2d1a7d91-587e-0ceb-d434-327bd66d9e86/075679628312.jpg/80x80bb.webp",
-        "appleID": "apt/1773452221"
+        "appleID": "apt/1773452221",
+        "youtubeID": "ekr2nIex040",
+        "spotifyID": "4wJ5Qq0jBN4ajy7ouZIV1c"
     },
     {
         "ranking": "14",
@@ -116,7 +126,8 @@
         "title": "BIRDS OF A FEATHER",
         "artist": "Billie Eilish",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
-        "appleID": "birds-of-a-feather/1739659142"
+        "appleID": "birds-of-a-feather/1739659142",
+        "youtubeID": "V9PVRfjEBTI"
     },
     {
         "ranking": "18",
@@ -256,14 +267,16 @@
         "title": "El chapo",
         "artist": "Dani Mocanu",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/20/3d/73/203d7350-05ce-3678-2b26-d5af01735556/cover.jpg/80x80bb.webp",
-        "appleID": "el-chapo/1720228536"
+        "appleID": "el-chapo/1720228536",
+        "spotifyID": "08J3tcESmdRb8IjT12FG50"
     },
     {
         "ranking": "38",
         "title": "Espresso",
         "artist": "Sabrina Carpenter",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cb/64/8c/cb648cf7-e7bb-bd00-efe0-d744312c29a8/24UMGIM32304.rgb.jpg/80x80bb.webp",
-        "appleID": "espresso/1740212434"
+        "appleID": "espresso/1740212434",
+        "youtubeID": "eVli-tstM5E"
     },
     {
         "ranking": "39",
@@ -291,14 +304,16 @@
         "title": "Gipsy Style",
         "artist": "Costel Biju",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/6b/84/36/6b8436cb-fc99-a5f0-6e2c-c364258cbd01/cover.jpg/80x80bb.webp",
-        "appleID": "gipsy-style/1676999197"
+        "appleID": "gipsy-style/1676999197",
+        "spotifyID": "6jrg6XKjDtvFGp11a0JQZQ"
     },
     {
         "ranking": "43",
         "title": "Ia-ma Du-ma",
         "artist": "Babasha",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/ad/a4/aa/ada4aa6e-d170-6810-a695-3a24bc2f871b/cover.jpg/80x80bb.webp",
-        "appleID": "ia-ma-du-ma/1701178945"
+        "appleID": "ia-ma-du-ma/1701178945",
+        "spotifyID": "7dpjndI7KXtTVAERTplKMw"
     },
     {
         "ranking": "44",
@@ -312,7 +327,9 @@
         "title": "Anglia",
         "artist": "Dani Mocanu",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7c/c7/6b/7cc76bc6-6f05-89d9-1683-971966e1bcc6/cover.jpg/80x80bb.webp",
-        "appleID": "anglia/1777997864"
+        "appleID": "anglia/1777997864",
+        "youtubeID": "sRsOD4TlJYE",
+        "spotifyID": "5sFEhVXljNz3VPW404UHey"
     },
     {
         "ranking": "46",
@@ -326,7 +343,8 @@
         "title": "De Ce Sa Ne Certam Iubi",
         "artist": "Dani Mocanu",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/19/cc/c7/19ccc72c-c015-be5f-9da7-89d6d79d6644/cover.jpg/80x80bb.webp",
-        "appleID": "de-ce-sa-ne-certam-iubi/1632615907"
+        "appleID": "de-ce-sa-ne-certam-iubi/1632615907",
+        "spotifyID": "7JIMR0dBbjrQfRAu7ne5Jr"
     },
     {
         "ranking": "48",
@@ -396,14 +414,17 @@
         "title": "Messy",
         "artist": "Lola Young",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d4/85/6b/d4856be7-64d4-5c70-5d5d-18552f826426/24UMGIM46883.rgb.jpg/80x80bb.webp",
-        "appleID": "messy/1743250261"
+        "appleID": "messy/1743250261",
+        "youtubeID": "k-k2_Liofy8",
+        "spotifyID": "35ISBknsCeZQtq66xABI9g"
     },
     {
         "ranking": "58",
         "title": "BETO DANCE",
         "artist": "AlbertNbn",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/2d/cc/9b/2dcc9b08-9b46-ab26-ca81-ed4083765afe/cover.jpg/80x80bb.webp",
-        "appleID": "beto-dance/1718225398"
+        "appleID": "beto-dance/1718225398",
+        "spotifyID": "3U2UZLISDB6TjZyOQbASIg"
     },
     {
         "ranking": "59",
@@ -445,7 +466,9 @@
         "title": "WILDFLOWER",
         "artist": "Billie Eilish",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
-        "appleID": "wildflower/1739659144"
+        "appleID": "wildflower/1739659144",
+        "youtubeID": "IWKyykQBRKo",
+        "spotifyID": "3QaPy1KgI7nu9FJEQUgn6h"
     },
     {
         "ranking": "65",
@@ -466,7 +489,9 @@
         "title": "Good Luck, Babe!",
         "artist": "Chappell Roan",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/29/a7/c4/29a7c478-351d-25eb-a116-3e68118cdab8/24UMGIM31246.rgb.jpg/80x80bb.webp",
-        "appleID": "good-luck-babe/1737497080"
+        "appleID": "good-luck-babe/1737497080",
+        "youtubeID": "1RKqOmSkGgM",
+        "spotifyID": "0WbMK4wrZ1wFSty9F7FCgu"
     },
     {
         "ranking": "68",
@@ -522,7 +547,8 @@
         "title": "FE!N (feat. Playboi Carti)",
         "artist": "Travis Scott",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/09/7d/b0/097db06f-8403-3cf7-7510-139e570ca66b/196871341882.jpg/80x80bb.webp",
-        "appleID": "fe-n-feat-playboi-carti/1699712651"
+        "appleID": "fe-n-feat-playboi-carti/1699712651",
+        "youtubeID": "B9synWjqBn8"
     },
     {
         "ranking": "76",
@@ -564,7 +590,8 @@
         "title": "Papusa Barbie",
         "artist": "Alex Botea",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/be/30/f8/be30f88c-813a-f0bc-2028-2b2f6b2f4ff8/cover.jpg/80x80bb.webp",
-        "appleID": "papusa-barbie/1624504212"
+        "appleID": "papusa-barbie/1624504212",
+        "spotifyID": "5hlKmxQyK8TXVsuUBY0ZLo"
     },
     {
         "ranking": "82",
@@ -613,7 +640,8 @@
         "title": "Romeo si Julieta",
         "artist": "Alex Botea",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/34/77/80/3477802e-4fb1-f448-18ed-9af401310673/cover.jpg/80x80bb.webp",
-        "appleID": "romeo-si-julieta/1713593989"
+        "appleID": "romeo-si-julieta/1713593989",
+        "spotifyID": "7MMsotK7YIHmWfgmKdcivz"
     },
     {
         "ranking": "89",
@@ -634,7 +662,8 @@
         "title": "Decibeli",
         "artist": "Alex Botea",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/ed/02/87/ed0287e8-3d8e-55c0-4a7e-a2efa64f7778/cover.jpg/80x80bb.webp",
-        "appleID": "decibeli/1722462346"
+        "appleID": "decibeli/1722462346",
+        "spotifyID": "0ogZ6EecrYbNQhKIQCCXyz"
     },
     {
         "ranking": "92",
@@ -648,21 +677,26 @@
         "title": "Lose Control",
         "artist": "Teddy Swims",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/36/19/66/36196640-1561-dc5e-c6bc-1e5f4befa583/093624856771.jpg/80x80bb.webp",
-        "appleID": "lose-control/1691699836"
+        "appleID": "lose-control/1691699836",
+        "youtubeID": "GZ3zL7kT6_c",
+        "spotifyID": "17phhZDn6oGtzMe56NuWvj"
     },
     {
         "ranking": "94",
         "title": "REGINA",
         "artist": "NOUA UNSPE",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e8/1e/00/e81e00f3-2030-e234-59d4-696d50774407/cover.jpg/80x80bb.webp",
-        "appleID": "regina/1740438194"
+        "appleID": "regina/1740438194",
+        "spotifyID": "5yGAxh5wM6di5gmlD79jDY"
     },
     {
         "ranking": "95",
         "title": "That’s So True",
         "artist": "Gracie Abrams",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/26/78/81/26788143-5e5f-0813-2480-ecf4280ef221/24UM1IM07082.rgb.jpg/80x80bb.webp",
-        "appleID": "thats-so-true/1773474483"
+        "appleID": "thats-so-true/1773474483",
+        "youtubeID": "BDHM8cyJQa8",
+        "spotifyID": "7ne4VBA60CxGM75vw0EYad"
     },
     {
         "ranking": "96",
