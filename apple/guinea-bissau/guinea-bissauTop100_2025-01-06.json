@@ -67,7 +67,8 @@
         "title": "BABETE",
         "artist": "Landrick",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/33/3a/42/333a42fe-7e1c-1e37-3fd9-4bae94e65168/24UMGIM18604.rgb.jpg/80x80bb.webp",
-        "appleID": "babete/1733080344"
+        "appleID": "babete/1733080344",
+        "youtubeID": "H9etTzcocfU"
     },
     {
         "ranking": "11",
@@ -151,7 +152,9 @@
         "title": "goosebumps",
         "artist": "Travis Scott",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/50/f7/a3/50f7a39d-3bd5-28e9-0264-532f08b5b810/886446074726.jpg/80x80bb.webp",
-        "appleID": "goosebumps/1150135924"
+        "appleID": "goosebumps/1150135924",
+        "youtubeID": "Dst9gZkq1a8",
+        "spotifyID": "6gBFPUFcJLzWGx4lenP6h2"
     },
     {
         "ranking": "23",
@@ -249,7 +252,8 @@
         "title": "My Eyes",
         "artist": "Marioo",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6c/7a/eb/6c7aeba3-eec1-40d5-7e26-eb1c7bdebe9c/766214672838.png/80x80bb.webp",
-        "appleID": "my-eyes/1780079863"
+        "appleID": "my-eyes/1780079863",
+        "youtubeID": "O7bHgyx87KI"
     },
     {
         "ranking": "37",
@@ -277,7 +281,8 @@
         "title": "LIKE ME (feat. 42 Dugg & Lil Baby)",
         "artist": "Future",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/c1/27/d1/c127d12a-d259-dbd9-7d02-75056e376fb6/196589131805.jpg/80x80bb.webp",
-        "appleID": "like-me-feat-42-dugg-lil-baby/1621803969"
+        "appleID": "like-me-feat-42-dugg-lil-baby/1621803969",
+        "youtubeID": "0-45KAhyshI"
     },
     {
         "ranking": "41",
@@ -312,7 +317,8 @@
         "title": "País das Maravilhas",
         "artist": "Plutónio",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7d/b5/42/7db54276-a783-c308-bbc4-c75f5efef89f/196872557923.jpg/80x80bb.webp",
-        "appleID": "pa%C3%ADs-das-maravilhas/1776657471"
+        "appleID": "pa%C3%ADs-das-maravilhas/1776657471",
+        "youtubeID": "JolO6Y7TkRQ"
     },
     {
         "ranking": "46",
@@ -578,7 +584,8 @@
         "title": "Rush",
         "artist": "Ayra Starr",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/b5/4a/3d/b54a3d1a-f493-7a9b-1807-a73f01709053/5059449090122.png/80x80bb.webp",
-        "appleID": "rush/1642898573"
+        "appleID": "rush/1642898573",
+        "youtubeID": "crtQSTYWtqE"
     },
     {
         "ranking": "84",
@@ -662,7 +669,8 @@
         "title": "KANTE (feat. Fave)",
         "artist": "Davido",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/40/12/87/4012878d-d267-09b8-7fe0-8c3fd8fdf169/886449553617.jpg/80x80bb.webp",
-        "appleID": "kante-feat-fave/1675379770"
+        "appleID": "kante-feat-fave/1675379770",
+        "youtubeID": "3bFPDfWReN0"
     },
     {
         "ranking": "96",
