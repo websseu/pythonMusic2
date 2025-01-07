@@ -18,14 +18,16 @@
         "title": "VETEMENTS",
         "artist": "Himra",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4e/fc/0c/4efc0cc8-c043-e4fc-dfa7-5e6f9bb189e7/085365044852.jpg/80x80bb.webp",
-        "appleID": "vetements/1758219902"
+        "appleID": "vetements/1774762224"
     },
     {
         "ranking": "4",
         "title": "4 Kampé",
         "artist": "Joé Dwèt Filé",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/05/32/0a/05320ae3-1eef-3cd6-8f19-9ad9f078fa25/cover.jpg/80x80bb.webp",
-        "appleID": "4-kamp%C3%A9/1773819412"
+        "appleID": "4-kamp%C3%A9/1773819412",
+        "youtubeID": "Srvt_6up-0o",
+        "spotifyID": "7dzuYJwwtNnfcptmbD58aJ"
     },
     {
         "ranking": "5",
@@ -53,7 +55,9 @@
         "title": "NANANI NANANA",
         "artist": "Gazo",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/01/5e/2a/015e2a71-e1bf-bd50-02ae-06e03bea3ff9/196872618525.jpg/80x80bb.webp",
-        "appleID": "nanani-nanana/1780778119"
+        "appleID": "nanani-nanana/1780778119",
+        "youtubeID": "8Bkgi6yB6P8",
+        "spotifyID": "0qlYaRFGvgR6afy1f4BBwD"
     },
     {
         "ranking": "9",
@@ -123,7 +127,9 @@
         "title": "SOIS PAS TIMIDE",
         "artist": "GIMS",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/71/45/19/714519f5-40a6-b81a-d099-56512c4e4914/cover.jpg/80x80bb.webp",
-        "appleID": "sois-pas-timide/1757643303"
+        "appleID": "sois-pas-timide/1757643303",
+        "youtubeID": "Sq5EDI7JktA",
+        "spotifyID": "0yyFAbTlOk7DFhh6RSug9S"
     },
     {
         "ranking": "19",
@@ -144,7 +150,7 @@
         "title": "CONTROLE DE KESSIE",
         "artist": "Himra",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/71/b2/77/71b277a2-ad0d-8519-7611-e6f78a67e63a/9360932790334.jpg/80x80bb.webp",
-        "appleID": "controle-de-kessie/1774761474"
+        "appleID": "controle-de-kessie/1758219696"
     },
     {
         "ranking": "22",
@@ -221,7 +227,8 @@
         "title": "OZEBA",
         "artist": "Rema",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/43/67/cd/4367cd08-da60-dbd5-783d-edf824fd5710/24UMGIM73107.rgb.jpg/80x80bb.webp",
-        "appleID": "ozeba/1755408907"
+        "appleID": "ozeba/1755408907",
+        "youtubeID": "CAyD5xr1yGY"
     },
     {
         "ranking": "33",
@@ -270,21 +277,27 @@
         "title": "Minimum ça",
         "artist": "Dr. Yaro",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a7/ba/f8/a7baf8ed-265f-a88c-5fa5-74f13861b5e8/859792094922.jpg/80x80bb.webp",
-        "appleID": "minimum-%C3%A7a/1773286871"
+        "appleID": "minimum-%C3%A7a/1773286871",
+        "youtubeID": "Xjws8nS606Q",
+        "spotifyID": "4mNttG8qiVh4BKrMUrUhCI"
     },
     {
         "ranking": "40",
         "title": "POUR ELLE",
         "artist": "SDM",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/64/46/95/64469515-0230-b26c-69cf-5db61f5ea879/24UMGIM72197.rgb.jpg/80x80bb.webp",
-        "appleID": "pour-elle/1757803290"
+        "appleID": "pour-elle/1757803290",
+        "youtubeID": "eYG5Qg6RCyE",
+        "spotifyID": "5jX61gvbNenSDMldQrbtsU"
     },
     {
         "ranking": "41",
         "title": "PROBATION",
         "artist": "Gazo",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7e/cd/60/7ecd6037-c833-3b0d-c638-d734e3b06c22/196872607345.jpg/80x80bb.webp",
-        "appleID": "probation/1776875282"
+        "appleID": "probation/1776875282",
+        "youtubeID": "e6QY_1fixvk",
+        "spotifyID": "75j42uvZCRoUxBcGsEP9Mk"
     },
     {
         "ranking": "42",
@@ -319,7 +332,9 @@
         "title": "KONGOLESE SOUS BBL",
         "artist": "Theodora",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6e/72/23/6e72239a-a2d5-8e30-3cbd-2eaae9fcc2fc/24UM1IM03894.rgb.jpg/80x80bb.webp",
-        "appleID": "kongolese-sous-bbl/1769644345"
+        "appleID": "kongolese-sous-bbl/1769644345",
+        "youtubeID": "d2tnwgcBfoA",
+        "spotifyID": "7eqwODSSwRSniktCjCXZyW"
     },
     {
         "ranking": "47",
@@ -389,7 +404,9 @@
         "title": "La vie qu'on mène",
         "artist": "Ninho",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/ab/c5/ea/abc5eab6-1a33-3910-6f96-3954d76c5815/190295460259.jpg/80x80bb.webp",
-        "appleID": "la-vie-quon-m%C3%A8ne/1453399179"
+        "appleID": "la-vie-quon-m%C3%A8ne/1453399179",
+        "youtubeID": "BJwovrr6XzI",
+        "spotifyID": "0Jh6iWjna1wk5le0Ahn7No"
     },
     {
         "ranking": "57",
@@ -417,7 +434,8 @@
         "title": "Girlfriend",
         "artist": "Ruger",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/78/68/ce/7868ce23-2ce0-0cfd-7ce3-3eb1196f1d96/196589221094_Cover.jpg/80x80bb.webp",
-        "appleID": "girlfriend/1709394555"
+        "appleID": "girlfriend/1709394555",
+        "youtubeID": "7M2Gps9xR8g"
     },
     {
         "ranking": "61",
@@ -529,7 +547,9 @@
         "title": "CARTIER SANTOS",
         "artist": "SDM",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/64/46/95/64469515-0230-b26c-69cf-5db61f5ea879/24UMGIM72197.rgb.jpg/80x80bb.webp",
-        "appleID": "cartier-santos/1757803302"
+        "appleID": "cartier-santos/1757803302",
+        "youtubeID": "3nGdVePdlT4",
+        "spotifyID": "1Mzg6bu3hkCwJKEf7v49MN"
     },
     {
         "ranking": "77",
@@ -641,7 +661,8 @@
         "title": "Timeless",
         "artist": "The Weeknd",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ef/14/11/ef14117b-6681-088b-3c74-e127ca3b46ed/24UM1IM04061.rgb.jpg/80x80bb.webp",
-        "appleID": "timeless/1770380890"
+        "appleID": "timeless/1770380890",
+        "youtubeID": "5EpyN_6dqyk"
     },
     {
         "ranking": "93",
@@ -676,7 +697,8 @@
         "title": "Strategy (feat. Megan Thee Stallion)",
         "artist": "TWICE",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d3/65/0c/d3650c39-d01d-2453-6826-9aa21ad22559/8809928952925_Cover.jpg/80x80bb.webp",
-        "appleID": "strategy-feat-megan-thee-stallion/1774299757"
+        "appleID": "strategy-feat-megan-thee-stallion/1774299757",
+        "youtubeID": "LcV0eAgCSgw"
     },
     {
         "ranking": "98",
