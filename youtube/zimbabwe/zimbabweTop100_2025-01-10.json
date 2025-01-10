@@ -37,7 +37,8 @@
         "prev": "7",
         "streak": "6",
         "streams": "64,959",
-        "youtubeID": "RRYMMtdlNpE"
+        "youtubeID": "RRYMMtdlNpE",
+        "appleID": "horror/1780980429"
     },
     {
         "ranking": "5",
@@ -47,7 +48,8 @@
         "prev": "4",
         "streak": "10",
         "streams": "55,878",
-        "youtubeID": "fF3yHsxBBHk"
+        "youtubeID": "fF3yHsxBBHk",
+        "appleID": "muchandizwawo/1775275313"
     },
     {
         "ranking": "6",
@@ -107,7 +109,8 @@
         "prev": "12",
         "streak": "21",
         "streams": "42,130",
-        "youtubeID": "pH2P03qa5mE"
+        "youtubeID": "pH2P03qa5mE",
+        "appleID": "fona/1760880835"
     },
     {
         "ranking": "12",
@@ -127,7 +130,8 @@
         "prev": "10",
         "streak": "21",
         "streams": "39,939",
-        "youtubeID": "dPp-UBEFfoo"
+        "youtubeID": "dPp-UBEFfoo",
+        "appleID": "makanaka/1761768969"
     },
     {
         "ranking": "14",
@@ -147,7 +151,8 @@
         "prev": "11",
         "streak": "35",
         "streams": "38,210",
-        "youtubeID": "9ZjfDoP3Vec"
+        "youtubeID": "9ZjfDoP3Vec",
+        "appleID": "kana-ndanyura/1744213877"
     },
     {
         "ranking": "16",
@@ -167,7 +172,8 @@
         "prev": "16",
         "streak": "11",
         "streams": "36,221",
-        "youtubeID": "ca6vCId0SDs"
+        "youtubeID": "ca6vCId0SDs",
+        "appleID": "kudiwa-chaizvo/1773298919"
     },
     {
         "ranking": "18",
@@ -177,7 +183,8 @@
         "prev": "17",
         "streak": "7",
         "streams": "36,144",
-        "youtubeID": "gmGvtMBQ6kI"
+        "youtubeID": "gmGvtMBQ6kI",
+        "appleID": "sunungura-ne-zodzo/1780205949"
     },
     {
         "ranking": "19",
@@ -187,7 +194,8 @@
         "prev": "22",
         "streak": "5",
         "streams": "35,493",
-        "youtubeID": "-zltH0QwEqs"
+        "youtubeID": "1nXZJ7Lw6XM",
+        "appleID": "sunday/1778775329"
     },
     {
         "ranking": "20",
@@ -197,7 +205,8 @@
         "prev": "13",
         "streak": "23",
         "streams": "34,783",
-        "youtubeID": "NZ8idmCE17M"
+        "youtubeID": "NZ8idmCE17M",
+        "appleID": "butter-margarine/1760325307"
     },
     {
         "ranking": "21",
@@ -217,7 +226,8 @@
         "prev": "32",
         "streak": "22",
         "streams": "30,549",
-        "youtubeID": "Wg3fipHRjx0"
+        "youtubeID": "Wg3fipHRjx0",
+        "appleID": "mweya-mutsvene/1761445298"
     },
     {
         "ranking": "23",
@@ -347,7 +357,8 @@
         "prev": "37",
         "streak": "9",
         "streams": "21,257",
-        "youtubeID": "kQMm8HWe6PU"
+        "youtubeID": "kQMm8HWe6PU",
+        "appleID": "mvura/1777433645"
     },
     {
         "ranking": "36",
@@ -507,7 +518,8 @@
         "prev": "53",
         "streak": "8",
         "streams": "15,975",
-        "youtubeID": "eoY3QyZWSeA"
+        "youtubeID": "eoY3QyZWSeA",
+        "spotifyID": "6COIIA7XjaExDj4fkCqaB9"
     },
     {
         "ranking": "52",
@@ -567,7 +579,8 @@
         "prev": "59",
         "streak": "12",
         "streams": "13,480",
-        "youtubeID": "0pCZ7DoWy0M"
+        "youtubeID": "0pCZ7DoWy0M",
+        "appleID": "mushonga/1773105230"
     },
     {
         "ranking": "58",
@@ -627,7 +640,9 @@
         "prev": "81",
         "streak": "8",
         "streams": "12,301",
-        "youtubeID": "uLK2r3sG4lE"
+        "youtubeID": "uLK2r3sG4lE",
+        "appleID": "push-2-start/1772394889",
+        "spotifyID": "1Cbl3Yq8rHo7hhDQmLQagU"
     },
     {
         "ranking": "64",
@@ -707,7 +722,9 @@
         "prev": "-",
         "streak": "3",
         "streams": "<10K",
-        "youtubeID": "kPa7bsKwL-c"
+        "youtubeID": "kPa7bsKwL-c",
+        "appleID": "die-with-a-smile/1762656732",
+        "spotifyID": "2plbrEY59IikOBgBGLjaoe"
     },
     {
         "ranking": "72",
@@ -897,7 +914,8 @@
         "prev": "-",
         "streak": "21",
         "streams": "<10K",
-        "youtubeID": "EhyzYPSHRQU"
+        "youtubeID": "EhyzYPSHRQU",
+        "appleID": "commas/1759261970"
     },
     {
         "ranking": "91",
@@ -907,7 +925,8 @@
         "prev": "93",
         "streak": "12",
         "streams": "<10K",
-        "youtubeID": "sNovFU3-krE"
+        "youtubeID": "sNovFU3-krE",
+        "spotifyID": "1AEiIl8iXEya3SXC5qE1il"
     },
     {
         "ranking": "92",
