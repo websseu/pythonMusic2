@@ -11,21 +11,25 @@
         "title": "Cocoa Tea",
         "artist": "Kes",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f6/57/69/f65769d6-86f9-dde2-56c1-2580a73805d8/198937079722_cover.jpg/80x80bb.webp",
-        "appleID": "cocoa-tea/1778350176"
+        "appleID": "cocoa-tea/1778350176",
+        "youtubeID": "GiKDPyAADeM"
     },
     {
         "ranking": "3",
         "title": "4 Kampé",
         "artist": "Joé Dwèt Filé",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/05/32/0a/05320ae3-1eef-3cd6-8f19-9ad9f078fa25/cover.jpg/80x80bb.webp",
-        "appleID": "4-kamp%C3%A9/1773819412"
+        "appleID": "4-kamp%C3%A9/1773819412",
+        "youtubeID": "Srvt_6up-0o",
+        "spotifyID": "7dzuYJwwtNnfcptmbD58aJ"
     },
     {
         "ranking": "4",
         "title": "7:00 (Raw)",
         "artist": "Malie Donn",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a4/8c/7c/a48c7c31-b161-eb07-a068-46d746a47c60/199066249772.jpg/80x80bb.webp",
-        "appleID": "7-00-raw/1784818257"
+        "appleID": "7-00-raw/1784818257",
+        "youtubeID": "PdoPIpKdsPI"
     },
     {
         "ranking": "5",
@@ -53,7 +57,8 @@
         "title": "IRan",
         "artist": "Rod Wave",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5a/37/da/5a37da14-dea1-6123-6553-4a24010657e8/196872534610.jpg/80x80bb.webp",
-        "appleID": "iran/1772368702"
+        "appleID": "iran/1772368702",
+        "youtubeID": "hpee_qmBBHw"
     },
     {
         "ranking": "9",
@@ -74,21 +79,24 @@
         "title": "25",
         "artist": "Rod Wave",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5a/37/da/5a37da14-dea1-6123-6553-4a24010657e8/196872534610.jpg/80x80bb.webp",
-        "appleID": "25/1772368558"
+        "appleID": "25/1772368558",
+        "youtubeID": "-SSgaCAsU6M"
     },
     {
         "ranking": "12",
         "title": "Whites",
         "artist": "Masicka",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/26/01/27/260127e0-4a19-a2ce-f778-6263789a148d/0.jpg/80x80bb.webp",
-        "appleID": "whites/1777116735"
+        "appleID": "whites/1777116735",
+        "youtubeID": "2C0mGEfQnt4"
     },
     {
         "ranking": "13",
         "title": "Tack Back",
         "artist": "Kes",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/42/69/91/42699164-471e-3f97-11bb-44bdc47b2092/197999406248_cover.jpg/80x80bb.webp",
-        "appleID": "tack-back/1714834281"
+        "appleID": "tack-back/1714834281",
+        "youtubeID": "PYz2vfTPJK8"
     },
     {
         "ranking": "14",
@@ -130,7 +138,8 @@
         "title": "Cups Up",
         "artist": "Malie Donn",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/23/49/26/2349266a-4fd1-4c96-8ddd-8a21cfe23227/197189042348.jpg/80x80bb.webp",
-        "appleID": "cups-up/1691201515"
+        "appleID": "cups-up/1691201515",
+        "youtubeID": "_7OrZfivZqE"
     },
     {
         "ranking": "20",
@@ -144,14 +153,16 @@
         "title": "Saved by a Psalm",
         "artist": "Govana",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/27/97/62/279762d9-d9e6-46d3-b91e-286d593d75e1/198342964743_cover.jpg/80x80bb.webp",
-        "appleID": "saved-by-a-psalm/1749553132"
+        "appleID": "saved-by-a-psalm/1749553132",
+        "youtubeID": "QF-w-tdJGeI"
     },
     {
         "ranking": "22",
         "title": "luther",
         "artist": "Kendrick Lamar",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/50/c2/cc/50c2cc95-3658-9417-0d4b-831abde44ba1/24UM1IM28978.rgb.jpg/80x80bb.webp",
-        "appleID": "luther/1781270323"
+        "appleID": "luther/1781270323",
+        "youtubeID": "4_taypLmSMU"
     },
     {
         "ranking": "23",
@@ -172,7 +183,9 @@
         "title": "Snooze",
         "artist": "SZA",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/bd/3b/a9/bd3ba9fb-9609-144f-bcfe-ead67b5f6ab3/196589564931.jpg/80x80bb.webp",
-        "appleID": "snooze/1657869492"
+        "appleID": "snooze/1657869492",
+        "youtubeID": "LDY_XyxBu8A",
+        "spotifyID": "4iZ4pt7kvcaH6Yo8UoZ4s2"
     },
     {
         "ranking": "26",
@@ -186,14 +199,16 @@
         "title": "Not Bad (feat. Boy Boy)",
         "artist": "Prince Swanny",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5f/66/35/5f66352d-cfd8-0d8d-d356-45a3d9b81e8e/797885418197_cover.jpg/80x80bb.webp",
-        "appleID": "not-bad-feat-boy-boy/1770336578"
+        "appleID": "not-bad-feat-boy-boy/1770336578",
+        "youtubeID": "gAvCeHTq9Yo"
     },
     {
         "ranking": "28",
         "title": "Believe",
         "artist": "Prince Swanny",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a0/df/92/a0df9286-9199-5198-1ad7-0cfbd6bd38c2/0.jpg/80x80bb.webp",
-        "appleID": "believe/1776653328"
+        "appleID": "believe/1776653328",
+        "youtubeID": "VrJPHxcDLnk"
     },
     {
         "ranking": "29",
@@ -235,7 +250,8 @@
         "title": "Choppa",
         "artist": "Byron Messia",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6d/9a/1d/6d9a1d84-5f7d-d7e9-4cbf-80c892821e6f/24UMGIM01167.rgb.jpg/80x80bb.webp",
-        "appleID": "choppa/1732826749"
+        "appleID": "choppa/1732826749",
+        "youtubeID": "TDdt47nmGl8"
     },
     {
         "ranking": "35",
@@ -256,7 +272,8 @@
         "title": "Obsessed",
         "artist": "Kman 6ixx",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d3/60/4d/d3604dc5-0150-aaba-35eb-b320ee619c15/872132904644_bigleaguecover.jpg/80x80bb.webp",
-        "appleID": "obsessed/1758810621"
+        "appleID": "obsessed/1758810621",
+        "youtubeID": "alAoJuqFsMI"
     },
     {
         "ranking": "38",
@@ -284,7 +301,8 @@
         "title": "Shubout",
         "artist": "SQUASH",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/34/87/4d/34874d3d-0881-d5f9-818b-75ae7b31a420/198588751008.jpg/80x80bb.webp",
-        "appleID": "shubout/1757871236"
+        "appleID": "shubout/1757871236",
+        "youtubeID": "jltjjqz0-Rg"
     },
     {
         "ranking": "42",
@@ -298,7 +316,8 @@
         "title": "I Love Freaks (feat. Tafari)",
         "artist": "Mafi",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/04/15/54/04155481-0a27-a1a7-8d5f-6709d8f0c435/0.jpg/80x80bb.webp",
-        "appleID": "i-love-freaks-feat-tafari/1699261591"
+        "appleID": "i-love-freaks-feat-tafari/1699261591",
+        "youtubeID": "4kfjaTlRpMU"
     },
     {
         "ranking": "44",
@@ -312,7 +331,8 @@
         "title": "People",
         "artist": "Teejay",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/f8/44/69/f844695e-ed75-c4e7-6c27-e3e8627a6d12/0.jpg/80x80bb.webp",
-        "appleID": "people/1640751097"
+        "appleID": "people/1640751097",
+        "youtubeID": "iPGu2FzezW8"
     },
     {
         "ranking": "46",
@@ -326,14 +346,16 @@
         "title": "Big Breeze",
         "artist": "SQUASH",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/6a/f9/fa/6af9fa33-cf44-388d-0e4d-8d2b2c48eafb/198391892738.jpg/80x80bb.webp",
-        "appleID": "big-breeze/1742858758"
+        "appleID": "big-breeze/1742858758",
+        "youtubeID": "Yo3QyiD28Dc"
     },
     {
         "ranking": "48",
         "title": "Good Days",
         "artist": "SZA",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/ef/09/cf/ef09cf1f-a057-6039-00d3-7b5d14c7eba1/886449006717.jpg/80x80bb.webp",
-        "appleID": "good-days/1546390051"
+        "appleID": "good-days/1546390051",
+        "youtubeID": "0BdlKkvjEgA"
     },
     {
         "ranking": "49",
@@ -347,7 +369,9 @@
         "title": "PUSH 2 START",
         "artist": "Tyla",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2a/cc/48/2acc48c7-e092-6b83-ce65-ff80ac6eb51c/196872520118.jpg/80x80bb.webp",
-        "appleID": "push-2-start/1772394889"
+        "appleID": "push-2-start/1772394889",
+        "youtubeID": "uLK2r3sG4lE",
+        "spotifyID": "1Cbl3Yq8rHo7hhDQmLQagU"
     },
     {
         "ranking": "51",
@@ -361,7 +385,8 @@
         "title": "Expensive",
         "artist": "Valiant",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/67/ef/ba/67efba92-a95d-8a3e-f26e-7751657948f4/197188257088.jpg/80x80bb.webp",
-        "appleID": "expensive/1674670010"
+        "appleID": "expensive/1674670010",
+        "youtubeID": "nuMKdd_JkHo"
     },
     {
         "ranking": "53",
@@ -403,28 +428,32 @@
         "title": "Pestilence (feat. Tman)",
         "artist": "Kman 6ixx",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/35/61/81/35618167-3b14-6b59-122e-08dc688143d6/0.jpg/80x80bb.webp",
-        "appleID": "pestilence-feat-tman/1775470227"
+        "appleID": "pestilence-feat-tman/1775470227",
+        "youtubeID": "s75m2KHs6sw"
     },
     {
         "ranking": "59",
         "title": "Dungeon",
         "artist": "Malie Donn",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/e0/98/07/e09807c9-4e01-c8b0-c950-bf603332eb00/197189683930.jpg/80x80bb.webp",
-        "appleID": "dungeon/1703655702"
+        "appleID": "dungeon/1703655702",
+        "youtubeID": "Q4LoZSRlnfg"
     },
     {
         "ranking": "60",
         "title": "Heart Of A Woman",
         "artist": "Summer Walker",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9f/2a/d9/9f2ad9e4-8b12-0759-edbf-962d3064168e/24UM1IM12906.rgb.jpg/80x80bb.webp",
-        "appleID": "heart-of-a-woman/1774543831"
+        "appleID": "heart-of-a-woman/1774543831",
+        "youtubeID": "SFddctbZzw8"
     },
     {
         "ranking": "61",
         "title": "Wanted Luv",
         "artist": "Chronic Law",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/de/12/a5/de12a50f-4e37-c5aa-37a3-d0178405d593/195375507855_cover.jpg/80x80bb.webp",
-        "appleID": "wanted-luv/1726764032"
+        "appleID": "wanted-luv/1726764032",
+        "youtubeID": "4mAFiQ2nx9Y"
     },
     {
         "ranking": "62",
@@ -487,7 +516,8 @@
         "title": "Show Them (feat. Byron Messia & Tafari)",
         "artist": "Kman 6ixx",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/30/40/11/30401120-e645-671e-9735-d09f30aaea9e/198672189588_KmanPhoenixFront.jpg/80x80bb.webp",
-        "appleID": "show-them-feat-byron-messia-tafari/1758811868"
+        "appleID": "show-them-feat-byron-messia-tafari/1758811868",
+        "youtubeID": "bNJuspOgP1U"
     },
     {
         "ranking": "71",
@@ -501,7 +531,9 @@
         "title": "Messy",
         "artist": "Lola Young",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d4/85/6b/d4856be7-64d4-5c70-5d5d-18552f826426/24UMGIM46883.rgb.jpg/80x80bb.webp",
-        "appleID": "messy/1743250261"
+        "appleID": "messy/1743250261",
+        "youtubeID": "k-k2_Liofy8",
+        "spotifyID": "35ISBknsCeZQtq66xABI9g"
     },
     {
         "ranking": "73",
@@ -592,7 +624,8 @@
         "title": "WHATCHU KNO ABOUT ME",
         "artist": "GloRilla",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/28/af/7e/28af7e54-74d1-dad1-c103-71f5951e83aa/24UM1IM01471.rgb.jpg/80x80bb.webp",
-        "appleID": "whatchu-kno-about-me/1769454783"
+        "appleID": "whatchu-kno-about-me/1769454783",
+        "youtubeID": "Py9S2bD0RZQ"
     },
     {
         "ranking": "86",
@@ -606,7 +639,9 @@
         "title": "Too Sweet",
         "artist": "Hozier",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a4/12/e3/a412e390-51aa-6625-9adc-d502bf1c349f/196872373004.jpg/80x80bb.webp",
-        "appleID": "too-sweet/1763072931"
+        "appleID": "too-sweet/1763072931",
+        "youtubeID": "NTpbbQUBbuo",
+        "spotifyID": "19XpFsce28aByvCC4g89tJ"
     },
     {
         "ranking": "88",
@@ -662,7 +697,8 @@
         "title": "IKATION",
         "artist": "Kraff Gad",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/60/20/f4/6020f4c1-f374-3745-6720-c3e9e2ac51c9/artwork.jpg/80x80bb.webp",
-        "appleID": "ikation/1768079373"
+        "appleID": "ikation/1768079373",
+        "youtubeID": "W7Ymf9DiBJA"
     },
     {
         "ranking": "96",
@@ -697,6 +733,7 @@
         "title": "Proud",
         "artist": "Chronic Law",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/22/e9/ad/22e9ad2f-f859-0f79-d73c-9a2b57ad33fa/0.jpg/80x80bb.webp",
-        "appleID": "proud/1680090469"
+        "appleID": "proud/1680090469",
+        "youtubeID": "TzsR0EwACNY"
     }
 ]

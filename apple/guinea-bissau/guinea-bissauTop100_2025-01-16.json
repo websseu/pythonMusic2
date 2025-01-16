@@ -200,7 +200,8 @@
         "title": "Pink + White",
         "artist": "Frank Ocean",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/bb/45/68/bb4568f3-68cd-619d-fbcb-4e179916545d/BlondCover-Final.jpg/80x80bb.webp",
-        "appleID": "pink-white/1146195714"
+        "appleID": "pink-white/1146195714",
+        "spotifyID": "3xKsf9qdS1CyvXSMEid6g8"
     },
     {
         "ranking": "30",
@@ -417,7 +418,8 @@
         "title": "Le temps",
         "artist": "Tayc",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/f0/08/a4/f008a40c-b343-91d1-8e57-c396b37a62e6/cover.jpg/80x80bb.webp",
-        "appleID": "le-temps/1554833273"
+        "appleID": "le-temps/1554833273",
+        "youtubeID": "mUTsvbridvM"
     },
     {
         "ranking": "61",
@@ -487,7 +489,9 @@
         "title": "HAY LUPITA",
         "artist": "Lomiiel",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/dc/05/b8/dc05b8b0-6e7a-ae70-523b-1b3c3fe297f7/198470540758_cover.jpg/80x80bb.webp",
-        "appleID": "hay-lupita/1743438404"
+        "appleID": "hay-lupita/1743438404",
+        "youtubeID": "-82WWzgQgaw",
+        "spotifyID": "5jFA0f4ZDGLbQP4nxzL8D4"
     },
     {
         "ranking": "71",
@@ -634,7 +638,8 @@
         "title": "hey now (feat. Dody6)",
         "artist": "Kendrick Lamar",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/50/c2/cc/50c2cc95-3658-9417-0d4b-831abde44ba1/24UM1IM28978.rgb.jpg/80x80bb.webp",
-        "appleID": "hey-now-feat-dody6/1781270328"
+        "appleID": "hey-now-feat-dody6/1781270328",
+        "youtubeID": "9PumlOWjXMM"
     },
     {
         "ranking": "92",
