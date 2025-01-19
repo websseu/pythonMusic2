@@ -4,7 +4,8 @@
         "title": "Devia Ir",
         "artist": "Wet Bed Gang",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/8c/f0/c5/8cf0c5d1-06dd-db23-d83a-82eed4f19363/196871109284.jpg/80x80bb.webp",
-        "appleID": "devia-ir/1685981604"
+        "appleID": "devia-ir/1685981604",
+        "spotifyID": "5KZJORKMEkrsNRD4dfBw1X"
     },
     {
         "ranking": "2",
@@ -39,7 +40,8 @@
         "title": "BABETE",
         "artist": "Landrick",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/33/3a/42/333a42fe-7e1c-1e37-3fd9-4bae94e65168/24UMGIM18604.rgb.jpg/80x80bb.webp",
-        "appleID": "babete/1733080344"
+        "appleID": "babete/1733080344",
+        "youtubeID": "H9etTzcocfU"
     },
     {
         "ranking": "7",
@@ -193,7 +195,9 @@
         "title": "4 Kampé",
         "artist": "Joé Dwèt Filé",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/05/32/0a/05320ae3-1eef-3cd6-8f19-9ad9f078fa25/cover.jpg/80x80bb.webp",
-        "appleID": "4-kamp%C3%A9/1773819412"
+        "appleID": "4-kamp%C3%A9/1773819412",
+        "youtubeID": "Srvt_6up-0o",
+        "spotifyID": "7dzuYJwwtNnfcptmbD58aJ"
     },
     {
         "ranking": "29",
@@ -228,14 +232,16 @@
         "title": "Full",
         "artist": "MHD",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/28/88/c9/2888c927-3e8f-1cd4-938e-82e9faddf5a5/859791762976_cover.jpg/80x80bb.webp",
-        "appleID": "full/1759893641"
+        "appleID": "full/1759893641",
+        "youtubeID": "GNXQFHGEnBg"
     },
     {
         "ranking": "34",
         "title": "Kata",
         "artist": "MHD",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/be/3c/6f/be3c6fde-bcf3-b3a9-2692-0323fb379bfd/859794026822_cover.jpg/80x80bb.webp",
-        "appleID": "kata/1767791153"
+        "appleID": "kata/1767791153",
+        "youtubeID": "dYaw-6UIDdY"
     },
     {
         "ranking": "35",
@@ -389,7 +395,8 @@
         "title": "Pink + White",
         "artist": "Frank Ocean",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/bb/45/68/bb4568f3-68cd-619d-fbcb-4e179916545d/BlondCover-Final.jpg/80x80bb.webp",
-        "appleID": "pink-white/1146195714"
+        "appleID": "pink-white/1146195714",
+        "spotifyID": "3xKsf9qdS1CyvXSMEid6g8"
     },
     {
         "ranking": "57",
@@ -494,7 +501,8 @@
         "title": "Not Like Us",
         "artist": "Kendrick Lamar",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d0/ef/b6/d0efb685-73be-fdee-58c9-be655f4cd4fd/24UMGIM51924.rgb.jpg/80x80bb.webp",
-        "appleID": "not-like-us/1744776167"
+        "appleID": "not-like-us/1744776167",
+        "youtubeID": "H58vbez_m4E"
     },
     {
         "ranking": "72",
@@ -634,7 +642,8 @@
         "title": "Super Homem",
         "artist": "Liriany",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8d/91/37/8d913778-b5ff-b8fd-40bb-98c803d3fa14/0.jpg/80x80bb.webp",
-        "appleID": "super-homem/1772745001"
+        "appleID": "super-homem/1772745001",
+        "youtubeID": "qNw5st-0nPw"
     },
     {
         "ranking": "92",

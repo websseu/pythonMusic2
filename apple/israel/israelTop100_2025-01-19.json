@@ -4,28 +4,36 @@
         "title": "את לא יודעת כמה שאני אוהב אותך",
         "artist": "Odeya",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ac/ae/b4/acaeb4bc-235b-1feb-005b-29b029b9d5b5/7290121543941.png/80x80bb.webp",
-        "appleID": "%D7%90%D7%AA-%D7%9C%D7%90-%D7%99%D7%95%D7%93%D7%A2%D7%AA-%D7%9B%D7%9E%D7%94-%D7%A9%D7%90%D7%A0%D7%99-%D7%90%D7%95%D7%94%D7%91-%D7%90%D7%95%D7%AA%D7%9A/1779465417"
+        "appleID": "%D7%90%D7%AA-%D7%9C%D7%90-%D7%99%D7%95%D7%93%D7%A2%D7%AA-%D7%9B%D7%9E%D7%94-%D7%A9%D7%90%D7%A0%D7%99-%D7%90%D7%95%D7%94%D7%91-%D7%90%D7%95%D7%AA%D7%9A/1779465417",
+        "youtubeID": "J-q28gVKEcA",
+        "spotifyID": "0sMyBmtyp4riKYNpDVNSH4"
     },
     {
         "ranking": "2",
         "title": "תהום",
         "artist": "Omer Adam",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d8/fb/fc/d8fbfca8-51fe-fd8c-c2fa-399fdd7645e7/7290121543132.png/80x80bb.webp",
-        "appleID": "%D7%AA%D7%94%D7%95%D7%9D/1775158823"
+        "appleID": "%D7%AA%D7%94%D7%95%D7%9D/1775158823",
+        "youtubeID": "L5WSsFFElvw",
+        "spotifyID": "3pTsE064ZTJ1n8bP3VAm2c"
     },
     {
         "ranking": "3",
         "title": "טקילה",
         "artist": "Omer Adam",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d8/fb/fc/d8fbfca8-51fe-fd8c-c2fa-399fdd7645e7/7290121543132.png/80x80bb.webp",
-        "appleID": "%D7%98%D7%A7%D7%99%D7%9C%D7%94/1775158820"
+        "appleID": "%D7%98%D7%A7%D7%99%D7%9C%D7%94/1775158820",
+        "youtubeID": "TPs0Fbw1-WY",
+        "spotifyID": "5ppuL7dOIhd7td0YCJJuwf"
     },
     {
         "ranking": "4",
         "title": "אהובתי כבר לא רואה אותי",
         "artist": "Omer Adam",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d8/fb/fc/d8fbfca8-51fe-fd8c-c2fa-399fdd7645e7/7290121543132.png/80x80bb.webp",
-        "appleID": "%D7%90%D7%94%D7%95%D7%91%D7%AA%D7%99-%D7%9B%D7%91%D7%A8-%D7%9C%D7%90-%D7%A8%D7%95%D7%90%D7%94-%D7%90%D7%95%D7%AA%D7%99/1775158819"
+        "appleID": "%D7%90%D7%94%D7%95%D7%91%D7%AA%D7%99-%D7%9B%D7%91%D7%A8-%D7%9C%D7%90-%D7%A8%D7%95%D7%90%D7%94-%D7%90%D7%95%D7%AA%D7%99/1775158819",
+        "youtubeID": "QzDpV_8HVXk",
+        "spotifyID": "2QkVXq7dLpefWAiETsvIOs"
     },
     {
         "ranking": "5",
@@ -53,7 +61,9 @@
         "title": "עובד בכפר",
         "artist": "Odeya",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b0/81/04/b081042b-15c5-f099-6070-144fb7210a11/7290121540353.png/80x80bb.webp",
-        "appleID": "%D7%A2%D7%95%D7%91%D7%93-%D7%91%D7%9B%D7%A4%D7%A8/1763493558"
+        "appleID": "%D7%A2%D7%95%D7%91%D7%93-%D7%91%D7%9B%D7%A4%D7%A8/1763493558",
+        "youtubeID": "pwXHKj1C7hY",
+        "spotifyID": "7hBNxod1lDW2HKu9wlBUp5"
     },
     {
         "ranking": "9",
@@ -74,7 +84,9 @@
         "title": "תמיד אוהב אותי",
         "artist": "ששון איפרם שאולוב",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/69/45/f3/6945f3ad-cde0-c705-7a30-6a3907e41475/cover.jpg/80x80bb.webp",
-        "appleID": "%D7%AA%D7%9E%D7%99%D7%93-%D7%90%D7%95%D7%94%D7%91-%D7%90%D7%95%D7%AA%D7%99/1769105591"
+        "appleID": "%D7%AA%D7%9E%D7%99%D7%93-%D7%90%D7%95%D7%94%D7%91-%D7%90%D7%95%D7%AA%D7%99/1769105591",
+        "youtubeID": "rgSvk335zis",
+        "spotifyID": "3CZdlwKHGTvfveatbfKD3q"
     },
     {
         "ranking": "12",
@@ -88,77 +100,98 @@
         "title": "גברת אגו",
         "artist": "Omer Adam",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d8/fb/fc/d8fbfca8-51fe-fd8c-c2fa-399fdd7645e7/7290121543132.png/80x80bb.webp",
-        "appleID": "%D7%92%D7%91%D7%A8%D7%AA-%D7%90%D7%92%D7%95/1775158821"
+        "appleID": "%D7%92%D7%91%D7%A8%D7%AA-%D7%90%D7%92%D7%95/1775158821",
+        "youtubeID": "0zurI1x0Bmc",
+        "spotifyID": "0auLq7aePfiNwd1YZNlC4S"
     },
     {
         "ranking": "14",
         "title": "לילות וקללות",
         "artist": "Omer Adam",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2d/2e/b2/2d2eb289-4524-f76b-7099-913aeb779b0b/7290120733688.png/80x80bb.webp",
-        "appleID": "%D7%9C%D7%99%D7%9C%D7%95%D7%AA-%D7%95%D7%A7%D7%9C%D7%9C%D7%95%D7%AA/1736747531"
+        "appleID": "%D7%9C%D7%99%D7%9C%D7%95%D7%AA-%D7%95%D7%A7%D7%9C%D7%9C%D7%95%D7%AA/1736747531",
+        "youtubeID": "isCbysjdcQ0",
+        "spotifyID": "4dELL8S6XVMibwBkjJACF1"
     },
     {
         "ranking": "15",
         "title": "שתי טיפות",
         "artist": "Omer Adam",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d8/fb/fc/d8fbfca8-51fe-fd8c-c2fa-399fdd7645e7/7290121543132.png/80x80bb.webp",
-        "appleID": "%D7%A9%D7%AA%D7%99-%D7%98%D7%99%D7%A4%D7%95%D7%AA/1775158879"
+        "appleID": "%D7%A9%D7%AA%D7%99-%D7%98%D7%99%D7%A4%D7%95%D7%AA/1775158879",
+        "youtubeID": "RLDJs7i9qjo",
+        "spotifyID": "2LdUmQdymO99riYOVCrUPK"
     },
     {
         "ranking": "16",
         "title": "לופ",
         "artist": "Osher Cohen",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/86/18/48/86184876-a9e8-8b0e-db43-5df687bf7e93/7290121541770.png/80x80bb.webp",
-        "appleID": "%D7%9C%D7%95%D7%A4/1768105650"
+        "appleID": "%D7%9C%D7%95%D7%A4/1768105650",
+        "youtubeID": "dNQoTRUNQuU",
+        "spotifyID": "1ChZJDdEU5tR4ZrLeuDh5u"
     },
     {
         "ranking": "17",
         "title": "Die With A Smile",
         "artist": "Lady Gaga",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/11/ae/f2/11aef294-f57c-bab9-c9fc-529162984e62/24UMGIM85348.rgb.jpg/80x80bb.webp",
-        "appleID": "die-with-a-smile/1762656732"
+        "appleID": "die-with-a-smile/1762656732",
+        "youtubeID": "kPa7bsKwL-c",
+        "spotifyID": "2plbrEY59IikOBgBGLjaoe"
     },
     {
         "ranking": "18",
         "title": "מה יהיה מחר",
         "artist": "Peer Tasi",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1a/52/e0/1a52e03d-2d98-eba9-b0b9-72a8dc6fba52/7290120736399.png/80x80bb.webp",
-        "appleID": "%D7%9E%D7%94-%D7%99%D7%94%D7%99%D7%94-%D7%9E%D7%97%D7%A8/1747313729"
+        "appleID": "%D7%9E%D7%94-%D7%99%D7%94%D7%99%D7%94-%D7%9E%D7%97%D7%A8/1747313729",
+        "spotifyID": "4DKH1iLhp007TVLURYtmeC"
     },
     {
         "ranking": "19",
         "title": "שווארמה ודמעה",
         "artist": "Omer Adam",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d8/fb/fc/d8fbfca8-51fe-fd8c-c2fa-399fdd7645e7/7290121543132.png/80x80bb.webp",
-        "appleID": "%D7%A9%D7%95%D7%95%D7%90%D7%A8%D7%9E%D7%94-%D7%95%D7%93%D7%9E%D7%A2%D7%94/1775158825"
+        "appleID": "%D7%A9%D7%95%D7%95%D7%90%D7%A8%D7%9E%D7%94-%D7%95%D7%93%D7%9E%D7%A2%D7%94/1775158825",
+        "youtubeID": "U-_xakmyIcQ",
+        "spotifyID": "51XDPGyuq8EgHSXwKCn8CQ"
     },
     {
         "ranking": "20",
         "title": "פלסטרים",
         "artist": "Osher Cohen",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/48/e4/76/48e4764b-86d8-041f-42b5-f4e5467a7026/7290120735149.png/80x80bb.webp",
-        "appleID": "%D7%A4%D7%9C%D7%A1%D7%98%D7%A8%D7%99%D7%9D/1741996609"
+        "appleID": "%D7%A4%D7%9C%D7%A1%D7%98%D7%A8%D7%99%D7%9D/1741996609",
+        "youtubeID": "psKClFBw5S4",
+        "spotifyID": "6qB33ch9RK0aoMfxfnlXa1"
     },
     {
         "ranking": "21",
         "title": "נרקומן של בדידות",
         "artist": "Omer Adam",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d8/fb/fc/d8fbfca8-51fe-fd8c-c2fa-399fdd7645e7/7290121543132.png/80x80bb.webp",
-        "appleID": "%D7%A0%D7%A8%D7%A7%D7%95%D7%9E%D7%9F-%D7%A9%D7%9C-%D7%91%D7%93%D7%99%D7%93%D7%95%D7%AA/1775158822"
+        "appleID": "%D7%A0%D7%A8%D7%A7%D7%95%D7%9E%D7%9F-%D7%A9%D7%9C-%D7%91%D7%93%D7%99%D7%93%D7%95%D7%AA/1775158822",
+        "youtubeID": "C3MTKYn6lhI",
+        "spotifyID": "37ZPaitKESRLXRkjrvJVTb"
     },
     {
         "ranking": "22",
         "title": "רק שלך",
         "artist": "Omer Adam",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2d/2e/b2/2d2eb289-4524-f76b-7099-913aeb779b0b/7290120733688.png/80x80bb.webp",
-        "appleID": "%D7%A8%D7%A7-%D7%A9%D7%9C%D7%9A/1736747533"
+        "appleID": "%D7%A8%D7%A7-%D7%A9%D7%9C%D7%9A/1736747533",
+        "youtubeID": "Jw02uPan7RU",
+        "spotifyID": "4zXfQYhcSboWEOAwIQST9N"
     },
     {
         "ranking": "23",
         "title": "Messy",
         "artist": "Lola Young",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d4/85/6b/d4856be7-64d4-5c70-5d5d-18552f826426/24UMGIM46883.rgb.jpg/80x80bb.webp",
-        "appleID": "messy/1743250261"
+        "appleID": "messy/1743250261",
+        "youtubeID": "k-k2_Liofy8",
+        "spotifyID": "35ISBknsCeZQtq66xABI9g"
     },
     {
         "ranking": "24",
@@ -193,7 +226,9 @@
         "title": "APT.",
         "artist": "ROSÉ",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2d/1a/7d/2d1a7d91-587e-0ceb-d434-327bd66d9e86/075679628312.jpg/80x80bb.webp",
-        "appleID": "apt/1773452221"
+        "appleID": "apt/1773452221",
+        "youtubeID": "ekr2nIex040",
+        "spotifyID": "4wJ5Qq0jBN4ajy7ouZIV1c"
     },
     {
         "ranking": "29",
@@ -207,21 +242,26 @@
         "title": "מנגן ושר",
         "artist": "Osher Cohen",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/26/45/6b/26456b7c-a385-d91e-6aa6-8b82def6981f/7290120731783.png/80x80bb.webp",
-        "appleID": "%D7%9E%D7%A0%D7%92%D7%9F-%D7%95%D7%A9%D7%A8/1729192849"
+        "appleID": "%D7%9E%D7%A0%D7%92%D7%9F-%D7%95%D7%A9%D7%A8/1729192849",
+        "youtubeID": "AZMuSrWcsEg",
+        "spotifyID": "2yPnlfwQ1AmhHauqQWDlWZ"
     },
     {
         "ranking": "31",
         "title": "רוקנרול",
         "artist": "Omer Adam",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d8/fb/fc/d8fbfca8-51fe-fd8c-c2fa-399fdd7645e7/7290121543132.png/80x80bb.webp",
-        "appleID": "%D7%A8%D7%95%D7%A7%D7%A0%D7%A8%D7%95%D7%9C/1775158829"
+        "appleID": "%D7%A8%D7%95%D7%A7%D7%A0%D7%A8%D7%95%D7%9C/1775158829",
+        "youtubeID": "IG57i19tmcA",
+        "spotifyID": "2tFX3wqEPyya8k2bS8pHqW"
     },
     {
         "ranking": "32",
         "title": "מלודי",
         "artist": "Peer Tasi",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1a/52/e0/1a52e03d-2d98-eba9-b0b9-72a8dc6fba52/7290120736399.png/80x80bb.webp",
-        "appleID": "%D7%9E%D7%9C%D7%95%D7%93%D7%99/1747313726"
+        "appleID": "%D7%9E%D7%9C%D7%95%D7%93%D7%99/1747313726",
+        "spotifyID": "0hdDyhwaJpNW5nsJC3qYPe"
     },
     {
         "ranking": "33",
@@ -235,21 +275,25 @@
         "title": "רוז",
         "artist": "Peer Tasi",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1a/52/e0/1a52e03d-2d98-eba9-b0b9-72a8dc6fba52/7290120736399.png/80x80bb.webp",
-        "appleID": "%D7%A8%D7%95%D7%96/1747313723"
+        "appleID": "%D7%A8%D7%95%D7%96/1747313723",
+        "spotifyID": "0Wr6wZgEP1npYg0vrsWPIZ"
     },
     {
         "ranking": "35",
         "title": "אהבה",
         "artist": "Osher Cohen",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/f1/47/50/f1475055-dc93-4780-a15e-9d6b83850627/7290119802609.png/80x80bb.webp",
-        "appleID": "%D7%90%D7%94%D7%91%D7%94/1690376057"
+        "appleID": "%D7%90%D7%94%D7%91%D7%94/1690376057",
+        "spotifyID": "34aKXUhVdHGTzWOt85RjGq"
     },
     {
         "ranking": "36",
         "title": "אם אתה שלי",
         "artist": "Odeya",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/dd/2c/80/dd2c80f3-f904-390c-c2c5-1eb904c6f0e3/7290120731301.png/80x80bb.webp",
-        "appleID": "%D7%90%D7%9D-%D7%90%D7%AA%D7%94-%D7%A9%D7%9C%D7%99/1728219599"
+        "appleID": "%D7%90%D7%9D-%D7%90%D7%AA%D7%94-%D7%A9%D7%9C%D7%99/1728219599",
+        "youtubeID": "_aAE56KOPtI",
+        "spotifyID": "2foTZaysNY65xcTXlQKxg4"
     },
     {
         "ranking": "37",
@@ -263,14 +307,18 @@
         "title": "פינו נואר",
         "artist": "Omer Adam",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d8/fb/fc/d8fbfca8-51fe-fd8c-c2fa-399fdd7645e7/7290121543132.png/80x80bb.webp",
-        "appleID": "%D7%A4%D7%99%D7%A0%D7%95-%D7%A0%D7%95%D7%90%D7%A8/1775158824"
+        "appleID": "%D7%A4%D7%99%D7%A0%D7%95-%D7%A0%D7%95%D7%90%D7%A8/1775158824",
+        "youtubeID": "bgjVNXJ0hEo",
+        "spotifyID": "0S0lWP18AryHmMcQaHOngD"
     },
     {
         "ranking": "39",
         "title": "עברנו הכל",
         "artist": "Omer Adam",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/87/20/2f/87202f71-1bc7-83f3-3687-228857d55fb8/7290121541688.png/80x80bb.webp",
-        "appleID": "%D7%A2%D7%91%D7%A8%D7%A0%D7%95-%D7%94%D7%9B%D7%9C/1768078478"
+        "appleID": "%D7%A2%D7%91%D7%A8%D7%A0%D7%95-%D7%94%D7%9B%D7%9C/1768078478",
+        "youtubeID": "N7zMIrriszM",
+        "spotifyID": "4L5Uj4Dt6rjFL0H7hl2qHF"
     },
     {
         "ranking": "40",
@@ -291,28 +339,33 @@
         "title": "בן אדם",
         "artist": "Odeya",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/10/0c/51/100c51a4-2d7a-76ab-10f4-7fd04aed0ef1/7290121540346.png/80x80bb.webp",
-        "appleID": "%D7%91%D7%9F-%D7%90%D7%93%D7%9D/1763493507"
+        "appleID": "%D7%91%D7%9F-%D7%90%D7%93%D7%9D/1763493507",
+        "youtubeID": "upYVC1W4KeI",
+        "spotifyID": "40i7ilG9ltStXi09E5m32E"
     },
     {
         "ranking": "43",
         "title": "צ'יק צ'ק",
         "artist": "Static",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/52/03/83/5203837f-f465-343e-ac5b-147af008d8ec/cover.jpg/80x80bb.webp",
-        "appleID": "%D7%A6%D7%99%D7%A7-%D7%A6%D7%A7/1759011392"
+        "appleID": "%D7%A6%D7%99%D7%A7-%D7%A6%D7%A7/1759011392",
+        "spotifyID": "78FrkrO3KgizjXDObyFvzW"
     },
     {
         "ranking": "44",
         "title": "That’s So True",
         "artist": "Gracie Abrams",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/26/78/81/26788143-5e5f-0813-2480-ecf4280ef221/24UM1IM07082.rgb.jpg/80x80bb.webp",
-        "appleID": "thats-so-true/1773474483"
+        "appleID": "thats-so-true/1773474483",
+        "youtubeID": "BDHM8cyJQa8",
+        "spotifyID": "7ne4VBA60CxGM75vw0EYad"
     },
     {
         "ranking": "45",
         "title": "הטוב הרע ועודיה",
         "artist": "Odeya",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ff/13/15/ff13159d-6a74-9eb2-d810-0d1102ee70dc/7290121546867.png/80x80bb.webp",
-        "appleID": "%D7%94%D7%98%D7%95%D7%91-%D7%94%D7%A8%D7%A2-%D7%95%D7%A2%D7%95%D7%93%D7%99%D7%94/1790533035"
+        "appleID": "%D7%94%D7%98%D7%95%D7%91-%D7%94%D7%A8%D7%A2-%D7%95%D7%A2%D7%95%D7%93%D7%99%D7%94/1766526498"
     },
     {
         "ranking": "46",
@@ -340,7 +393,9 @@
         "title": "סולמות ונחשים",
         "artist": "Omer Adam",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d8/fb/fc/d8fbfca8-51fe-fd8c-c2fa-399fdd7645e7/7290121543132.png/80x80bb.webp",
-        "appleID": "%D7%A1%D7%95%D7%9C%D7%9E%D7%95%D7%AA-%D7%95%D7%A0%D7%97%D7%A9%D7%99%D7%9D/1775158880"
+        "appleID": "%D7%A1%D7%95%D7%9C%D7%9E%D7%95%D7%AA-%D7%95%D7%A0%D7%97%D7%A9%D7%99%D7%9D/1775158880",
+        "youtubeID": "bqr4CXHFsOI",
+        "spotifyID": "0c9Sq3RDqb8sd6N9B8yM4v"
     },
     {
         "ranking": "50",
@@ -354,14 +409,17 @@
         "title": "אוהבת לא אוהבת",
         "artist": "Omer Adam",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d8/fb/fc/d8fbfca8-51fe-fd8c-c2fa-399fdd7645e7/7290121543132.png/80x80bb.webp",
-        "appleID": "%D7%90%D7%95%D7%94%D7%91%D7%AA-%D7%9C%D7%90-%D7%90%D7%95%D7%94%D7%91%D7%AA/1775158828"
+        "appleID": "%D7%90%D7%95%D7%94%D7%91%D7%AA-%D7%9C%D7%90-%D7%90%D7%95%D7%94%D7%91%D7%AA/1775158828",
+        "youtubeID": "d2sULea7Q3U",
+        "spotifyID": "10pnfojlZf9nHvKngPHB7k"
     },
     {
         "ranking": "52",
         "title": "חורף בלעדיי",
         "artist": "Eden Ben Zaken",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/af/c2/8d/afc28d1f-0a7b-6ffc-3cb6-cbdac38f98e2/7290121543637.png/80x80bb.webp",
-        "appleID": "%D7%97%D7%95%D7%A8%D7%A3-%D7%91%D7%9C%D7%A2%D7%93%D7%99%D7%99/1778211214"
+        "appleID": "%D7%97%D7%95%D7%A8%D7%A3-%D7%91%D7%9C%D7%A2%D7%93%D7%99%D7%99/1778211214",
+        "youtubeID": "1Wcys9VZkuk"
     },
     {
         "ranking": "53",
@@ -403,7 +461,8 @@
         "title": "דאמ",
         "artist": "Jasmin Moallem",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/20/e5/56/20e55629-1106-b175-8ff2-d52494d49ce0/dj.uzyjvkaz.jpg/80x80bb.webp",
-        "appleID": "%D7%93%D7%90%D7%9E/1761357881"
+        "appleID": "%D7%93%D7%90%D7%9E/1761357881",
+        "spotifyID": "7AlqKFiOM5X7nJdtbwvsi6"
     },
     {
         "ranking": "59",
@@ -431,14 +490,17 @@
         "title": "לבד על המיטה",
         "artist": "Omer Adam",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/ab/c4/9a/abc49ad0-29df-5617-b281-2fde0153db4e/7290117733721.png/80x80bb.webp",
-        "appleID": "%D7%9C%D7%91%D7%93-%D7%A2%D7%9C-%D7%94%D7%9E%D7%99%D7%98%D7%94/1608851934"
+        "appleID": "%D7%9C%D7%91%D7%93-%D7%A2%D7%9C-%D7%94%D7%9E%D7%99%D7%98%D7%94/1608851934",
+        "youtubeID": "ckObp0fTNmU"
     },
     {
         "ranking": "63",
         "title": "WILDFLOWER",
         "artist": "Billie Eilish",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
-        "appleID": "wildflower/1739659144"
+        "appleID": "wildflower/1739659144",
+        "youtubeID": "IWKyykQBRKo",
+        "spotifyID": "3QaPy1KgI7nu9FJEQUgn6h"
     },
     {
         "ranking": "64",
@@ -466,14 +528,16 @@
         "title": "צוחקת ובוכה",
         "artist": "Eden Hason",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/15/44/78/15447883-3f87-dbd1-8770-537c920f765d/cover.jpg/80x80bb.webp",
-        "appleID": "%D7%A6%D7%95%D7%97%D7%A7%D7%AA-%D7%95%D7%91%D7%95%D7%9B%D7%94/1728010171"
+        "appleID": "%D7%A6%D7%95%D7%97%D7%A7%D7%AA-%D7%95%D7%91%D7%95%D7%9B%D7%94/1728010171",
+        "spotifyID": "2fewVF6oOGKux69rHGbPMq"
     },
     {
         "ranking": "68",
         "title": "Timeless",
         "artist": "The Weeknd",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ef/14/11/ef14117b-6681-088b-3c74-e127ca3b46ed/24UM1IM04061.rgb.jpg/80x80bb.webp",
-        "appleID": "timeless/1770380890"
+        "appleID": "timeless/1770380890",
+        "youtubeID": "5EpyN_6dqyk"
     },
     {
         "ranking": "69",
@@ -487,7 +551,8 @@
         "title": "BIRDS OF A FEATHER",
         "artist": "Billie Eilish",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
-        "appleID": "birds-of-a-feather/1739659142"
+        "appleID": "birds-of-a-feather/1739659142",
+        "youtubeID": "V9PVRfjEBTI"
     },
     {
         "ranking": "71",
@@ -508,7 +573,9 @@
         "title": "לילה",
         "artist": "Omer Adam",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d8/fb/fc/d8fbfca8-51fe-fd8c-c2fa-399fdd7645e7/7290121543132.png/80x80bb.webp",
-        "appleID": "%D7%9C%D7%99%D7%9C%D7%94/1775158827"
+        "appleID": "%D7%9C%D7%99%D7%9C%D7%94/1775158827",
+        "youtubeID": "i4HmxqSXTy0",
+        "spotifyID": "6FbmUqAPNiQ5IXxMTNKV3u"
     },
     {
         "ranking": "74",
@@ -550,14 +617,17 @@
         "title": "מלאך של כבוד",
         "artist": "Omer Adam",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d8/fb/fc/d8fbfca8-51fe-fd8c-c2fa-399fdd7645e7/7290121543132.png/80x80bb.webp",
-        "appleID": "%D7%9E%D7%9C%D7%90%D7%9A-%D7%A9%D7%9C-%D7%9B%D7%91%D7%95%D7%93/1775158843"
+        "appleID": "%D7%9E%D7%9C%D7%90%D7%9A-%D7%A9%D7%9C-%D7%9B%D7%91%D7%95%D7%93/1775158843",
+        "youtubeID": "4HXpfAZZF0E",
+        "spotifyID": "5dDkX66Ov8pqr1l9Cyk02l"
     },
     {
         "ranking": "80",
         "title": "luther",
         "artist": "Kendrick Lamar",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/50/c2/cc/50c2cc95-3658-9417-0d4b-831abde44ba1/24UM1IM28978.rgb.jpg/80x80bb.webp",
-        "appleID": "luther/1781270323"
+        "appleID": "luther/1781270323",
+        "youtubeID": "4_taypLmSMU"
     },
     {
         "ranking": "81",
@@ -571,7 +641,9 @@
         "title": "ילדה של אמונה",
         "artist": "Odeya",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ff/13/15/ff13159d-6a74-9eb2-d810-0d1102ee70dc/7290121546867.png/80x80bb.webp",
-        "appleID": "%D7%99%D7%9C%D7%93%D7%94-%D7%A9%D7%9C-%D7%90%D7%9E%D7%95%D7%A0%D7%94/1790533036"
+        "appleID": "%D7%99%D7%9C%D7%93%D7%94-%D7%A9%D7%9C-%D7%90%D7%9E%D7%95%D7%A0%D7%94/1766526529",
+        "youtubeID": "YMr4WyGrdmc",
+        "spotifyID": "2vrxPmQrOrdC48Yt3lAQdY"
     },
     {
         "ranking": "83",
@@ -585,7 +657,8 @@
         "title": "פסיכופט",
         "artist": "עידו מלכה",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/f2/d4/25/f2d4253c-6353-e832-4778-8ce63b99ae58/cover.jpg/80x80bb.webp",
-        "appleID": "%D7%A4%D7%A1%D7%99%D7%9B%D7%95%D7%A4%D7%98/1734247867"
+        "appleID": "%D7%A4%D7%A1%D7%99%D7%9B%D7%95%D7%A4%D7%98/1734247867",
+        "youtubeID": "Rz24lvBBO80"
     },
     {
         "ranking": "85",
@@ -599,7 +672,8 @@
         "title": "חורף באוטו",
         "artist": "Omer Adam",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/18/86/02/188602a5-7649-a650-2e4c-4a918a07eab1/7290116169903.png/80x80bb.webp",
-        "appleID": "%D7%97%D7%95%D7%A8%D7%A3-%D7%91%D7%90%D7%95%D7%98%D7%95/1591789413"
+        "appleID": "%D7%97%D7%95%D7%A8%D7%A3-%D7%91%D7%90%D7%95%D7%98%D7%95/1591789413",
+        "youtubeID": "tlkKybWF11c"
     },
     {
         "ranking": "87",
@@ -655,7 +729,9 @@
         "title": "Lose Control",
         "artist": "Teddy Swims",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/36/19/66/36196640-1561-dc5e-c6bc-1e5f4befa583/093624856771.jpg/80x80bb.webp",
-        "appleID": "lose-control/1691699836"
+        "appleID": "lose-control/1691699836",
+        "youtubeID": "GZ3zL7kT6_c",
+        "spotifyID": "17phhZDn6oGtzMe56NuWvj"
     },
     {
         "ranking": "95",
@@ -676,7 +752,8 @@
         "title": "שקיעות אדומות",
         "artist": "Eden Hason",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/23/ff/7a/23ff7a26-2941-4935-5d29-0484590448a1/cover.jpg/80x80bb.webp",
-        "appleID": "%D7%A9%D7%A7%D7%99%D7%A2%D7%95%D7%AA-%D7%90%D7%93%D7%95%D7%9E%D7%95%D7%AA/1536723062"
+        "appleID": "%D7%A9%D7%A7%D7%99%D7%A2%D7%95%D7%AA-%D7%90%D7%93%D7%95%D7%9E%D7%95%D7%AA/1536723062",
+        "spotifyID": "68kVzJf0STAv91tuLutuDr"
     },
     {
         "ranking": "98",
