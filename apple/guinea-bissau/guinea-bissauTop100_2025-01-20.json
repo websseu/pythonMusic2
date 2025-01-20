@@ -81,7 +81,8 @@
         "title": "Devia Ir",
         "artist": "Wet Bed Gang",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/8c/f0/c5/8cf0c5d1-06dd-db23-d83a-82eed4f19363/196871109284.jpg/80x80bb.webp",
-        "appleID": "devia-ir/1685981604"
+        "appleID": "devia-ir/1685981604",
+        "spotifyID": "5KZJORKMEkrsNRD4dfBw1X"
     },
     {
         "ranking": "13",
@@ -151,7 +152,9 @@
         "title": "Die With A Smile",
         "artist": "Lady Gaga",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/11/ae/f2/11aef294-f57c-bab9-c9fc-529162984e62/24UMGIM85348.rgb.jpg/80x80bb.webp",
-        "appleID": "die-with-a-smile/1762656732"
+        "appleID": "die-with-a-smile/1762656732",
+        "youtubeID": "kPa7bsKwL-c",
+        "spotifyID": "2plbrEY59IikOBgBGLjaoe"
     },
     {
         "ranking": "23",
@@ -179,7 +182,8 @@
         "title": "KANTE (feat. Fave)",
         "artist": "Davido",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/40/12/87/4012878d-d267-09b8-7fe0-8c3fd8fdf169/886449553617.jpg/80x80bb.webp",
-        "appleID": "kante-feat-fave/1675379770"
+        "appleID": "kante-feat-fave/1675379770",
+        "youtubeID": "3bFPDfWReN0"
     },
     {
         "ranking": "27",
@@ -207,7 +211,8 @@
         "title": "Lovin On Me",
         "artist": "Jack Harlow",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/c1/95/0e/c1950e0a-3fc8-83c2-8913-a14dd33bfe62/075679664990.jpg/80x80bb.webp",
-        "appleID": "lovin-on-me/1715277428"
+        "appleID": "lovin-on-me/1715277428",
+        "spotifyID": "4xhsWYTOGcal8zt0J161CU"
     },
     {
         "ranking": "31",
@@ -340,7 +345,8 @@
         "title": "BABETE",
         "artist": "Landrick",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/33/3a/42/333a42fe-7e1c-1e37-3fd9-4bae94e65168/24UMGIM18604.rgb.jpg/80x80bb.webp",
-        "appleID": "babete/1733080344"
+        "appleID": "babete/1733080344",
+        "youtubeID": "H9etTzcocfU"
     },
     {
         "ranking": "50",
@@ -410,7 +416,8 @@
         "title": "Pink + White",
         "artist": "Frank Ocean",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/bb/45/68/bb4568f3-68cd-619d-fbcb-4e179916545d/BlondCover-Final.jpg/80x80bb.webp",
-        "appleID": "pink-white/1146195714"
+        "appleID": "pink-white/1146195714",
+        "spotifyID": "3xKsf9qdS1CyvXSMEid6g8"
     },
     {
         "ranking": "60",
@@ -459,7 +466,8 @@
         "title": "Commas",
         "artist": "Ayra Starr",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/44/b2/de/44b2de15-4e05-77d8-14f3-ec5387ea24ec/24UMGIM51453.rgb.jpg/80x80bb.webp",
-        "appleID": "commas/1759261970"
+        "appleID": "commas/1759261970",
+        "youtubeID": "EhyzYPSHRQU"
     },
     {
         "ranking": "67",
@@ -599,7 +607,8 @@
         "title": "DILUVIO",
         "artist": "Rauw Alejandro",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/d2/1a/63/d21a6376-80b9-ce89-e4f3-af3f0b70acf9/196871287098.jpg/80x80bb.webp",
-        "appleID": "diluvio/1695651429"
+        "appleID": "diluvio/1695651429",
+        "spotifyID": "2kz1YOhJiNubjigR1gB1VX"
     },
     {
         "ranking": "87",
@@ -655,14 +664,17 @@
         "title": "Ohnana",
         "artist": "Kapo",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/44/26/da/4426daa2-4b70-91d7-cb18-6bb219d176c5/196872167030.jpg/80x80bb.webp",
-        "appleID": "ohnana/1749166491"
+        "appleID": "ohnana/1749166491",
+        "spotifyID": "1fTjqf10accJCDYstPwwZ6"
     },
     {
         "ranking": "95",
         "title": "UWAIE",
         "artist": "Kapo",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4d/e8/03/4de80347-86da-bed6-47c4-1478b3aa46fa/196872367263.jpg/80x80bb.webp",
-        "appleID": "uwaie/1761902101"
+        "appleID": "uwaie/1761902101",
+        "youtubeID": "spbagny8OjM",
+        "spotifyID": "5QjmUqgpPQgXgg4606DqZF"
     },
     {
         "ranking": "96",
