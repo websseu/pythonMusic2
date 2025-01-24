@@ -228,14 +228,16 @@
         "title": "BABETE",
         "artist": "Landrick",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/33/3a/42/333a42fe-7e1c-1e37-3fd9-4bae94e65168/24UMGIM18604.rgb.jpg/80x80bb.webp",
-        "appleID": "babete/1733080344"
+        "appleID": "babete/1733080344",
+        "youtubeID": "H9etTzcocfU"
     },
     {
         "ranking": "34",
         "title": "KANTE (feat. Fave)",
         "artist": "Davido",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/40/12/87/4012878d-d267-09b8-7fe0-8c3fd8fdf169/886449553617.jpg/80x80bb.webp",
-        "appleID": "kante-feat-fave/1675379770"
+        "appleID": "kante-feat-fave/1675379770",
+        "youtubeID": "3bFPDfWReN0"
     },
     {
         "ranking": "35",
@@ -529,7 +531,8 @@
         "title": "Super Homem",
         "artist": "Liriany",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8d/91/37/8d913778-b5ff-b8fd-40bb-98c803d3fa14/0.jpg/80x80bb.webp",
-        "appleID": "super-homem/1772745001"
+        "appleID": "super-homem/1772745001",
+        "youtubeID": "qNw5st-0nPw"
     },
     {
         "ranking": "77",

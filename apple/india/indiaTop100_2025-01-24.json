@@ -4,7 +4,9 @@
         "title": "Wavy",
         "artist": "Karan Aujla",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cd/df/5a/cddf5a8c-464e-3958-cf4a-7fac9e490aa5/5063616597178_cover.jpg/80x80bb.webp",
-        "appleID": "wavy/1779786209"
+        "appleID": "wavy/1779786209",
+        "youtubeID": "XTp5jaRU3Ws",
+        "spotifyID": "4d2jV5fmX6hbRwaRbY39dt"
     },
     {
         "ranking": "2",
@@ -18,14 +20,17 @@
         "title": "Die With A Smile",
         "artist": "Lady Gaga",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/11/ae/f2/11aef294-f57c-bab9-c9fc-529162984e62/24UMGIM85348.rgb.jpg/80x80bb.webp",
-        "appleID": "die-with-a-smile/1762656732"
+        "appleID": "die-with-a-smile/1762656732",
+        "youtubeID": "kPa7bsKwL-c",
+        "spotifyID": "2plbrEY59IikOBgBGLjaoe"
     },
     {
         "ranking": "4",
         "title": "Antidote",
         "artist": "Karan Aujla",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c2/ce/a0/c2cea088-dbde-43db-346f-e536058fdcfb/5063483978438_cover.jpg/80x80bb.webp",
-        "appleID": "antidote/1753101077"
+        "appleID": "antidote/1753101077",
+        "spotifyID": "7KmCQLSSde0UX5OqCgvGN9"
     },
     {
         "ranking": "5",
@@ -46,7 +51,9 @@
         "title": "Millionaire",
         "artist": "Yo Yo Honey Singh",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/11/e3/9c/11e39c6d-0ac9-8728-cb9e-94197f645bfd/8903431012173_cover.jpg/80x80bb.webp",
-        "appleID": "millionaire/1763807340"
+        "appleID": "millionaire/1763807340",
+        "youtubeID": "XO8wew38VM8",
+        "spotifyID": "78BWCd70D1X6LMkDZm1UoF"
     },
     {
         "ranking": "8",
@@ -67,14 +74,18 @@
         "title": "Jo Tum Mere Ho",
         "artist": "Anuv Jain",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cd/df/37/cddf37f9-9794-175e-d68f-272c8a3853b2/24UMGIM79558.rgb.jpg/80x80bb.webp",
-        "appleID": "jo-tum-mere-ho/1758669726"
+        "appleID": "jo-tum-mere-ho/1758669726",
+        "youtubeID": "ilNt2bikxDI",
+        "spotifyID": "0eCajpR75pDW0r64U6hP2x"
     },
     {
         "ranking": "11",
         "title": "Sifar Safar",
         "artist": "Karan Aujla",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b5/a1/5f/b5a15f57-7184-47a6-564e-272d515b4810/5063616203642_cover.jpg/80x80bb.webp",
-        "appleID": "sifar-safar/1773799678"
+        "appleID": "sifar-safar/1773799678",
+        "youtubeID": "TU1HQnU_9ME",
+        "spotifyID": "3lQPwCmD918SyoiIkw1zqx"
     },
     {
         "ranking": "12",
@@ -88,14 +99,16 @@
         "title": "On Top",
         "artist": "Karan Aujla",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/a8/60/5f/a8605f98-0b93-da9e-76fe-e239fed1e38c/5059950896060.png/80x80bb.webp",
-        "appleID": "on-top/1658012467"
+        "appleID": "on-top/1658012467",
+        "spotifyID": "4SJMuaIYcBS8ke96lDYOsw"
     },
     {
         "ranking": "14",
         "title": "Timeless",
         "artist": "The Weeknd",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ef/14/11/ef14117b-6681-088b-3c74-e127ca3b46ed/24UM1IM04061.rgb.jpg/80x80bb.webp",
-        "appleID": "timeless/1770380890"
+        "appleID": "timeless/1770380890",
+        "youtubeID": "5EpyN_6dqyk"
     },
     {
         "ranking": "15",
@@ -144,28 +157,33 @@
         "title": "A Sky Full of Stars",
         "artist": "Coldplay",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/60/90/ad/6090adc3-8863-861d-afcc-23c55c6fe5da/dj.vmtulfyu.jpg/80x80bb.webp",
-        "appleID": "a-sky-full-of-stars/829910927"
+        "appleID": "a-sky-full-of-stars/829910927",
+        "youtubeID": "VPRjCeoBqrI"
     },
     {
         "ranking": "22",
         "title": "Old Money",
         "artist": "AP Dhillon",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5a/fb/61/5afb613a-c9ca-625d-da7f-8d4b501f8eab/24UMGIM84219.rgb.jpg/80x80bb.webp",
-        "appleID": "old-money/1760672989"
+        "appleID": "old-money/1760672989",
+        "spotifyID": "5xlYVZxEwriP6hetG7QJw7"
     },
     {
         "ranking": "23",
         "title": "Yellow",
         "artist": "Coldplay",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f5/93/8c/f5938c49-964c-31d1-4b33-78b634f71fb7/190295978075.jpg/80x80bb.webp",
-        "appleID": "yellow/1122782283"
+        "appleID": "yellow/1122782283",
+        "spotifyID": "3AJwUDP919kvQ9QcozQPxg"
     },
     {
         "ranking": "24",
         "title": "APT.",
         "artist": "ROSÉ",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2d/1a/7d/2d1a7d91-587e-0ceb-d434-327bd66d9e86/075679628312.jpg/80x80bb.webp",
-        "appleID": "apt/1773452221"
+        "appleID": "apt/1773452221",
+        "youtubeID": "ekr2nIex040",
+        "spotifyID": "4wJ5Qq0jBN4ajy7ouZIV1c"
     },
     {
         "ranking": "25",
@@ -179,7 +197,9 @@
         "title": "Russian Bandana",
         "artist": "Dhanda Nyoliwala",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/bf/0d/15/bf0d1594-b24c-73cb-d440-13d422c40b4b/24UMGIM96203.rgb.jpg/80x80bb.webp",
-        "appleID": "russian-bandana/1766914121"
+        "appleID": "russian-bandana/1766914121",
+        "youtubeID": "1OAjeECW90E",
+        "spotifyID": "1dFrZr9eMUsFqeag04ClqD"
     },
     {
         "ranking": "27",
@@ -277,14 +297,16 @@
         "title": "Viva La Vida",
         "artist": "Coldplay",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/52/aa/85/52aa851f-15b7-6322-f91f-df84b15b7b19/190295978044.jpg/80x80bb.webp",
-        "appleID": "viva-la-vida/1122773680"
+        "appleID": "viva-la-vida/1122773680",
+        "youtubeID": "dvgZkm1xWPE"
     },
     {
         "ranking": "41",
         "title": "Cheques",
         "artist": "Shubh",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/dc/46/a9/dc46a9c9-794e-2d7a-1afb-97eb4ae0fff6/197188915704.jpg/80x80bb.webp",
-        "appleID": "cheques/1687649562"
+        "appleID": "cheques/1687649562",
+        "spotifyID": "4eBvRhTJ2AcxCsbfTUjoRp"
     },
     {
         "ranking": "42",
@@ -298,7 +320,8 @@
         "title": "Born to Shine",
         "artist": "Diljit Dosanjh",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/d2/89/ac/d289ac98-749e-3822-6b6e-b06aa4815715/859740651597_cover.jpg/80x80bb.webp",
-        "appleID": "born-to-shine/1523521607"
+        "appleID": "born-to-shine/1523521607",
+        "spotifyID": "4XxfOvudrnBRdlgzEaq1sd"
     },
     {
         "ranking": "44",
@@ -319,7 +342,8 @@
         "title": "Pehle Bhi Main",
         "artist": "Vishal Mishra",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/db/ad/5e/dbad5e8b-0bee-d962-92d4-021c90e375ac/8902894362092_cover.jpg/80x80bb.webp",
-        "appleID": "pehle-bhi-main/1718278234"
+        "appleID": "pehle-bhi-main/1718278234",
+        "youtubeID": "lwv_0SEJ4NQ"
     },
     {
         "ranking": "47",
@@ -347,7 +371,8 @@
         "title": "Husn",
         "artist": "Anuv Jain",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/b6/3d/12/b63d1218-7bc1-f4f2-5fdd-5d1909abda1c/23UM1IM56437.rgb.jpg/80x80bb.webp",
-        "appleID": "husn/1717140552"
+        "appleID": "husn/1717140552",
+        "spotifyID": "0TL0LFcwIBF5eX7arDIKxY"
     },
     {
         "ranking": "51",
@@ -382,7 +407,9 @@
         "title": "blue",
         "artist": "yung kai",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/33/62/62/33626226-0cf3-ff64-3296-b2355de71fac/0748777703419.jpg/80x80bb.webp",
-        "appleID": "blue/1776246888"
+        "appleID": "blue/1776246888",
+        "youtubeID": "98zHKN-xSHk",
+        "spotifyID": "3be9ACTxtcL6Zm4vJRUiPG"
     },
     {
         "ranking": "56",
@@ -396,7 +423,8 @@
         "title": "One Love",
         "artist": "Shubh",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/48/4f/3c/484f3c19-fdab-1fa8-fdb4-c7de79852d12/197189603969.jpg/80x80bb.webp",
-        "appleID": "one-love/1700735404"
+        "appleID": "one-love/1700735404",
+        "spotifyID": "5ZLkihi6DVsHwDL3B8ym1t"
     },
     {
         "ranking": "58",
@@ -417,7 +445,8 @@
         "title": "Knife Brows",
         "artist": "Dhanda Nyoliwala",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/82/fd/c8/82fdc8b3-0ed3-d5d8-a0c5-32f0bd8e27e0/24UM1IM13158.rgb.jpg/80x80bb.webp",
-        "appleID": "knife-brows/1774466793"
+        "appleID": "knife-brows/1774466793",
+        "youtubeID": "69-yupf0pAY"
     },
     {
         "ranking": "61",
@@ -452,7 +481,8 @@
         "title": "G.O.A.T.",
         "artist": "Diljit Dosanjh",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/d2/89/ac/d289ac98-749e-3822-6b6e-b06aa4815715/859740651597_cover.jpg/80x80bb.webp",
-        "appleID": "g-o-a-t/1523521149"
+        "appleID": "g-o-a-t/1523521149",
+        "spotifyID": "46QbY78ha62aiu6gBgC7lS"
     },
     {
         "ranking": "66",
@@ -494,14 +524,16 @@
         "title": "Tauba Tauba (From \"Bad Newz\")",
         "artist": "Karan Aujla",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/79/d2/01/79d201d2-e54d-5604-81fb-313f30db7219/198588533581.jpg/80x80bb.webp",
-        "appleID": "tauba-tauba-from-bad-newz/1754562159"
+        "appleID": "tauba-tauba-from-bad-newz/1754562159",
+        "youtubeID": "LK7-_dgAVQE"
     },
     {
         "ranking": "72",
         "title": "King Shit",
         "artist": "Shubh",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/05/b6/ed/05b6ed4c-ada8-01e2-965b-03b58801b836/197190670639.jpg/80x80bb.webp",
-        "appleID": "king-shit/1721323017"
+        "appleID": "king-shit/1721323017",
+        "spotifyID": "1BpvuKIG7jK5EiTp2tv5z8"
     },
     {
         "ranking": "73",
@@ -585,7 +617,8 @@
         "title": "luther",
         "artist": "Kendrick Lamar",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/50/c2/cc/50c2cc95-3658-9417-0d4b-831abde44ba1/24UM1IM28978.rgb.jpg/80x80bb.webp",
-        "appleID": "luther/1781270323"
+        "appleID": "luther/1781270323",
+        "youtubeID": "4_taypLmSMU"
     },
     {
         "ranking": "85",
@@ -606,7 +639,8 @@
         "title": "Tere Bina Na Guzara E (feat. Kinza Hashmi)",
         "artist": "Josh Brar",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/da/10/c6/da10c6d9-8ef3-f843-e0b5-9974a61a3372/8902633358683.jpg/80x80bb.webp",
-        "appleID": "tere-bina-na-guzara-e-feat-kinza-hashmi/1767538707"
+        "appleID": "tere-bina-na-guzara-e-feat-kinza-hashmi/1767538707",
+        "youtubeID": "aYG6oEUXyuQ"
     },
     {
         "ranking": "88",
