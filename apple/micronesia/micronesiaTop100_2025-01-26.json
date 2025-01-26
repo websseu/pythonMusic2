@@ -333,7 +333,9 @@
         "title": "I Love You, I'm Sorry",
         "artist": "Gracie Abrams",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/52/9a/a7/529aa76f-5d60-cd81-9eb0-0eb521de861d/24UMGIM43968.rgb.jpg/80x80bb.webp",
-        "appleID": "i-love-you-im-sorry/1743054747"
+        "appleID": "i-love-you-im-sorry/1743054747",
+        "youtubeID": "uxjhN_Donfw",
+        "spotifyID": "51rfRCiUSvxXlCSCfIztBy"
     },
     {
         "ranking": "49",
@@ -389,7 +391,8 @@
         "title": "Just the Way You Are",
         "artist": "Bruno Mars",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/98/ae/c2/98aec2e1-3be4-0311-1b44-69348fc87abb/075679956484.jpg/80x80bb.webp",
-        "appleID": "just-the-way-you-are/576670459"
+        "appleID": "just-the-way-you-are/576670459",
+        "spotifyID": "7BqBn9nzAq8spo5e7cZ0dJ"
     },
     {
         "ranking": "57",
@@ -543,7 +546,7 @@
         "title": "On the Low",
         "artist": "Burna Boy",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/ac/4c/e3/ac4ce34b-c2cd-a057-e049-b0914c51be1a/075679849304.jpg/80x80bb.webp",
-        "appleID": "on-the-low/1471446273"
+        "appleID": "on-the-low/1743942529"
     },
     {
         "ranking": "79",
@@ -613,7 +616,8 @@
         "title": "Dancing In The Flames",
         "artist": "The Weeknd",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/34/7e/9f/347e9f54-2d74-820f-a910-68d01f044fcf/24UMGIM95646.rgb.jpg/80x80bb.webp",
-        "appleID": "dancing-in-the-flames/1767511513"
+        "appleID": "dancing-in-the-flames/1767511513",
+        "youtubeID": "gu0_ixJMx5U"
     },
     {
         "ranking": "89",

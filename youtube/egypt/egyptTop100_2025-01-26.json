@@ -77,7 +77,9 @@
         "prev": "6",
         "streak": "13",
         "streams": "1,063,004",
-        "youtubeID": "H9MUAiBeb3w"
+        "youtubeID": "H9MUAiBeb3w",
+        "appleID": "%D8%A7%D9%86%D8%A7-%D9%85%D9%86-%D8%BA%D9%8A%D8%B1%D9%83/1775716935",
+        "spotifyID": "2nQeY3iJpE57Rnc7r8z2Qx"
     },
     {
         "ranking": "9",
@@ -107,7 +109,8 @@
         "prev": "10",
         "streak": "16",
         "streams": "911,935",
-        "youtubeID": "vRI4RDhi9lg"
+        "youtubeID": "vRI4RDhi9lg",
+        "spotifyID": "2KFvDnkJK7AIlRJ9DjNrLj"
     },
     {
         "ranking": "12",
@@ -137,7 +140,8 @@
         "prev": "16",
         "streak": "30",
         "streams": "871,204",
-        "youtubeID": "juc-IBbJVkE"
+        "youtubeID": "juc-IBbJVkE",
+        "spotifyID": "77KkVJB8SLW6mZvYOxYWV6"
     },
     {
         "ranking": "15",
@@ -147,7 +151,9 @@
         "prev": "14",
         "streak": "13",
         "streams": "836,611",
-        "youtubeID": "KLZ4lEwEgWY"
+        "youtubeID": "KLZ4lEwEgWY",
+        "appleID": "%D8%A7%D8%AA%D9%86%D8%B3%D9%8A%D9%86%D8%A7/1775761913",
+        "spotifyID": "0kZtRxxBDbMO4vZApAiNOZ"
     },
     {
         "ranking": "16",
@@ -387,7 +393,7 @@
         "prev": "30",
         "streak": "8",
         "streams": "462,387",
-        "youtubeID": "NSZ2vPduT1Q"
+        "youtubeID": "8SS9frVFPlY"
     },
     {
         "ranking": "40",
@@ -447,7 +453,8 @@
         "prev": "54",
         "streak": "4",
         "streams": "414,023",
-        "youtubeID": "3IfIz758MTg"
+        "youtubeID": "3IfIz758MTg",
+        "appleID": "%D8%B3%D8%AA%D8%A7%D9%85%D9%88%D9%86%D9%8A/1675547662"
     },
     {
         "ranking": "46",
@@ -517,7 +524,8 @@
         "prev": "39",
         "streak": "8",
         "streams": "380,424",
-        "youtubeID": "e-JDTVHPxSE"
+        "youtubeID": "e-JDTVHPxSE",
+        "spotifyID": "5ETFNSZAqO6A66VrgXkd6v"
     },
     {
         "ranking": "53",
@@ -567,7 +575,8 @@
         "prev": "-",
         "streak": "54",
         "streams": "349,260",
-        "youtubeID": "_RHIECWv728"
+        "youtubeID": "_RHIECWv728",
+        "spotifyID": "5kdlxZ5skOYY3VK8RlfEIZ"
     },
     {
         "ranking": "58",
@@ -817,7 +826,8 @@
         "prev": "62",
         "streak": "17",
         "streams": "258,040",
-        "youtubeID": "JPt1eaIPb3s"
+        "youtubeID": "JPt1eaIPb3s",
+        "appleID": "ana-meen/1769898453"
     },
     {
         "ranking": "83",
@@ -837,7 +847,8 @@
         "prev": "63",
         "streak": "14",
         "streams": "254,562",
-        "youtubeID": "RVKbjHpcDQg"
+        "youtubeID": "RVKbjHpcDQg",
+        "spotifyID": "1kYgUIoRdPI36J74bzGs7y"
     },
     {
         "ranking": "85",
@@ -867,7 +878,8 @@
         "prev": "-",
         "streak": "31",
         "streams": "247,103",
-        "youtubeID": "KZYqugtbcG0"
+        "youtubeID": "KZYqugtbcG0",
+        "appleID": "el-watar-el-hassas/1440053120"
     },
     {
         "ranking": "88",
@@ -877,7 +889,9 @@
         "prev": "67",
         "streak": "9",
         "streams": "245,886",
-        "youtubeID": "kPa7bsKwL-c"
+        "youtubeID": "kPa7bsKwL-c",
+        "appleID": "die-with-a-smile/1762656732",
+        "spotifyID": "2plbrEY59IikOBgBGLjaoe"
     },
     {
         "ranking": "89",
@@ -997,6 +1011,6 @@
         "prev": "77",
         "streak": "13",
         "streams": "220,181",
-        "youtubeID": "9rj9i1NPXhU"
+        "youtubeID": "tdWPmnuRoqs"
     }
 ]
