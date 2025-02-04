@@ -32,7 +32,9 @@
         "title": "That’s So True",
         "artist": "Gracie Abrams",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/26/78/81/26788143-5e5f-0813-2480-ecf4280ef221/24UM1IM07082.rgb.jpg/80x80bb.webp",
-        "appleID": "thats-so-true/1773474483"
+        "appleID": "thats-so-true/1773474483",
+        "youtubeID": "BDHM8cyJQa8",
+        "spotifyID": "7ne4VBA60CxGM75vw0EYad"
     },
     {
         "ranking": "6",
@@ -60,7 +62,8 @@
         "title": "Water",
         "artist": "Tyla",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/1e/c9/5b/1ec95bbc-a56f-cbef-070c-ddec9f4fdd3c/196871296205.jpg/80x80bb.webp",
-        "appleID": "water/1699082734"
+        "appleID": "water/1699082734",
+        "spotifyID": "5aIVCx5tnk0ntmdiinnYvw"
     },
     {
         "ranking": "10",
@@ -676,7 +679,8 @@
         "title": "Every Night Every Morning",
         "artist": "Maoli",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/db/73/4f/db734ffc-785c-9999-be7c-f0c54458690a/0.jpg/80x80bb.webp",
-        "appleID": "every-night-every-morning/1761629618"
+        "appleID": "every-night-every-morning/1761629618",
+        "youtubeID": "20k90wvdLco"
     },
     {
         "ranking": "98",
