@@ -74,7 +74,9 @@
         "title": "HAY LUPITA",
         "artist": "Lomiiel",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/dc/05/b8/dc05b8b0-6e7a-ae70-523b-1b3c3fe297f7/198470540758_cover.jpg/80x80bb.webp",
-        "appleID": "hay-lupita/1743438404"
+        "appleID": "hay-lupita/1743438404",
+        "youtubeID": "-82WWzgQgaw",
+        "spotifyID": "5jFA0f4ZDGLbQP4nxzL8D4"
     },
     {
         "ranking": "12",
@@ -95,7 +97,9 @@
         "title": "4 Kampé",
         "artist": "Joé Dwèt Filé",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/05/32/0a/05320ae3-1eef-3cd6-8f19-9ad9f078fa25/cover.jpg/80x80bb.webp",
-        "appleID": "4-kamp%C3%A9/1773819412"
+        "appleID": "4-kamp%C3%A9/1773819412",
+        "youtubeID": "Srvt_6up-0o",
+        "spotifyID": "7dzuYJwwtNnfcptmbD58aJ"
     },
     {
         "ranking": "15",
@@ -662,7 +666,8 @@
         "title": "MH",
         "artist": "Fally Ipupa",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/ce/1b/91/ce1b917e-ca4a-b8bc-d56d-9bdcb4db0d21/5054197450891.jpg/80x80bb.webp",
-        "appleID": "mh/1657242236"
+        "appleID": "mh/1657242236",
+        "youtubeID": "kj0jgspgopQ"
     },
     {
         "ranking": "96",
