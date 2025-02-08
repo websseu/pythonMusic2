@@ -53,7 +53,8 @@
         "title": "明明就",
         "artist": "Jay Chou",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/48/95/d0/4895d0c4-c8e3-277b-9616-f878bae55c96/23UM1IM59189.rgb.jpg/80x80bb.webp",
-        "appleID": "%E6%98%8E%E6%98%8E%E5%B0%B1/1721467034"
+        "appleID": "%E6%98%8E%E6%98%8E%E5%B0%B1/1721467034",
+        "spotifyID": "2zB7NKVnzRh7xSUSPLErFr"
     },
     {
         "ranking": "9",
@@ -74,7 +75,9 @@
         "title": "APT.",
         "artist": "ROSÉ",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2d/1a/7d/2d1a7d91-587e-0ceb-d434-327bd66d9e86/075679628312.jpg/80x80bb.webp",
-        "appleID": "apt/1773452221"
+        "appleID": "apt/1773452221",
+        "youtubeID": "ekr2nIex040",
+        "spotifyID": "4wJ5Qq0jBN4ajy7ouZIV1c"
     },
     {
         "ranking": "12",
@@ -102,7 +105,8 @@
         "title": "Whiplash",
         "artist": "aespa",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d5/c1/f5/d5c1f505-f588-775f-df05-c672a8ec22e9/888735949562_Cover.jpg/80x80bb.webp",
-        "appleID": "whiplash/1772214981"
+        "appleID": "whiplash/1772214981",
+        "youtubeID": "jWQx2f-CErU"
     },
     {
         "ranking": "16",
@@ -130,7 +134,8 @@
         "title": "半島鐵盒",
         "artist": "Jay Chou",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/96/c8/a1/96c8a1d8-8077-b8a7-8600-80b2abf1fe20/JAY.jpg/80x80bb.webp",
-        "appleID": "https://music.apple.com/us/artist/jay-chou/300117743"
+        "appleID": "https://music.apple.com/us/artist/jay-chou/300117743",
+        "spotifyID": "24F4oxC8oUBbRvpEOGjwPj"
     },
     {
         "ranking": "20",
@@ -207,7 +212,7 @@
         "title": "If Only",
         "artist": "JJ Lin",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/57/5a/1b/575a1bc9-ca86-7549-e873-b55663ba6276/4711508105925.jpg/80x80bb.webp",
-        "appleID": "if-only/1788007696"
+        "appleID": "if-only/945738655"
     },
     {
         "ranking": "31",
@@ -256,7 +261,8 @@
         "title": "BIRDS OF A FEATHER",
         "artist": "Billie Eilish",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
-        "appleID": "birds-of-a-feather/1739659142"
+        "appleID": "birds-of-a-feather/1739659142",
+        "youtubeID": "V9PVRfjEBTI"
     },
     {
         "ranking": "38",
@@ -431,7 +437,9 @@
         "title": "Die With A Smile",
         "artist": "Lady Gaga",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/11/ae/f2/11aef294-f57c-bab9-c9fc-529162984e62/24UMGIM85348.rgb.jpg/80x80bb.webp",
-        "appleID": "die-with-a-smile/1762656732"
+        "appleID": "die-with-a-smile/1762656732",
+        "youtubeID": "kPa7bsKwL-c",
+        "spotifyID": "2plbrEY59IikOBgBGLjaoe"
     },
     {
         "ranking": "63",
@@ -480,7 +488,8 @@
         "title": "Cruel Summer",
         "artist": "Taylor Swift",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/49/3d/ab/493dab54-f920-9043-6181-80993b8116c9/19UMGIM53909.rgb.jpg/80x80bb.webp",
-        "appleID": "cruel-summer/1468058171"
+        "appleID": "cruel-summer/1468058171",
+        "youtubeID": "ic8j13piAhQ"
     },
     {
         "ranking": "70",
@@ -543,14 +552,18 @@
         "title": "Good Luck, Babe!",
         "artist": "Chappell Roan",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/29/a7/c4/29a7c478-351d-25eb-a116-3e68118cdab8/24UMGIM31246.rgb.jpg/80x80bb.webp",
-        "appleID": "good-luck-babe/1737497080"
+        "appleID": "good-luck-babe/1737497080",
+        "youtubeID": "1RKqOmSkGgM",
+        "spotifyID": "0WbMK4wrZ1wFSty9F7FCgu"
     },
     {
         "ranking": "79",
         "title": "toxic till the end",
         "artist": "ROSÉ",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2d/14/66/2d14661b-345b-d0f3-4e86-56ef626e68aa/075679629203.jpg/80x80bb.webp",
-        "appleID": "toxic-till-the-end/1771105929"
+        "appleID": "toxic-till-the-end/1771105929",
+        "youtubeID": "eA0lHNZ1KCA",
+        "spotifyID": "1z5ebC9238uGoBgzYyvGpQ"
     },
     {
         "ranking": "80",
@@ -634,7 +647,8 @@
         "title": "luther",
         "artist": "Kendrick Lamar",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/50/c2/cc/50c2cc95-3658-9417-0d4b-831abde44ba1/24UM1IM28978.rgb.jpg/80x80bb.webp",
-        "appleID": "luther/1781270323"
+        "appleID": "luther/1781270323",
+        "youtubeID": "4_taypLmSMU"
     },
     {
         "ranking": "92",

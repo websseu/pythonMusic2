@@ -46,14 +46,17 @@
         "title": "Not Like Us",
         "artist": "Kendrick Lamar",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d0/ef/b6/d0efb685-73be-fdee-58c9-be655f4cd4fd/24UMGIM51924.rgb.jpg/80x80bb.webp",
-        "appleID": "not-like-us/1744776167"
+        "appleID": "not-like-us/1744776167",
+        "youtubeID": "H58vbez_m4E"
     },
     {
         "ranking": "8",
         "title": "PUSH 2 START",
         "artist": "Tyla",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2a/cc/48/2acc48c7-e092-6b83-ce65-ff80ac6eb51c/196872520118.jpg/80x80bb.webp",
-        "appleID": "push-2-start/1772394889"
+        "appleID": "push-2-start/1772394889",
+        "youtubeID": "uLK2r3sG4lE",
+        "spotifyID": "1Cbl3Yq8rHo7hhDQmLQagU"
     },
     {
         "ranking": "9",
@@ -382,7 +385,9 @@
         "title": "WILDFLOWER",
         "artist": "Billie Eilish",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
-        "appleID": "wildflower/1739659144"
+        "appleID": "wildflower/1739659144",
+        "youtubeID": "IWKyykQBRKo",
+        "spotifyID": "3QaPy1KgI7nu9FJEQUgn6h"
     },
     {
         "ranking": "56",
@@ -669,7 +674,9 @@
         "title": "Amar Pela Metade",
         "artist": "Calema",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ee/a1/49/eea149db-f385-8981-0b82-4a8aece641bc/24UMGIM96558.rgb.jpg/80x80bb.webp",
-        "appleID": "amar-pela-metade/1767438349"
+        "appleID": "amar-pela-metade/1767438349",
+        "youtubeID": "TvIlfpOL6No",
+        "spotifyID": "1UQvRmRhbX3WxSLW3NbUIU"
     },
     {
         "ranking": "97",
@@ -697,6 +704,7 @@
         "title": "Deixa o Clima Rolar",
         "artist": "Badoxa",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2d/e0/e9/2de0e9a2-a547-de54-26e6-620a569e0825/0.jpg/80x80bb.webp",
-        "appleID": "deixa-o-clima-rolar/1766747554"
+        "appleID": "deixa-o-clima-rolar/1766747554",
+        "youtubeID": "7EGzMoUEskw"
     }
 ]
