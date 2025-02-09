@@ -4,14 +4,17 @@
         "title": "Die With A Smile",
         "artist": "Lady Gaga",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/11/ae/f2/11aef294-f57c-bab9-c9fc-529162984e62/24UMGIM85348.rgb.jpg/80x80bb.webp",
-        "appleID": "die-with-a-smile/1762656732"
+        "appleID": "die-with-a-smile/1762656732",
+        "youtubeID": "kPa7bsKwL-c",
+        "spotifyID": "2plbrEY59IikOBgBGLjaoe"
     },
     {
         "ranking": "2",
         "title": "Winter Ahead",
         "artist": "V",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9b/7a/b8/9b7ab83b-c635-42fa-a3d3-f8ede6e5920e/198704250583_Cover.jpg/80x80bb.webp",
-        "appleID": "winter-ahead/1780285815"
+        "appleID": "winter-ahead/1780285815",
+        "youtubeID": "HAWYOuMGkK0"
     },
     {
         "ranking": "3",
@@ -25,21 +28,25 @@
         "title": "APT.",
         "artist": "ROSÉ",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2d/1a/7d/2d1a7d91-587e-0ceb-d434-327bd66d9e86/075679628312.jpg/80x80bb.webp",
-        "appleID": "apt/1773452221"
+        "appleID": "apt/1773452221",
+        "youtubeID": "ekr2nIex040",
+        "spotifyID": "4wJ5Qq0jBN4ajy7ouZIV1c"
     },
     {
         "ranking": "5",
         "title": "BIRDS OF A FEATHER",
         "artist": "Billie Eilish",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
-        "appleID": "birds-of-a-feather/1739659142"
+        "appleID": "birds-of-a-feather/1739659142",
+        "youtubeID": "V9PVRfjEBTI"
     },
     {
         "ranking": "6",
         "title": "Not Like Us",
         "artist": "Kendrick Lamar",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/31/3a/3f/313a3fbc-bb8f-80c7-b5a2-e226869a38cd/24UMGIM51924.rgb.jpg/80x80bb.webp",
-        "appleID": "not-like-us/1781353929"
+        "appleID": "not-like-us/1781353929",
+        "youtubeID": "H58vbez_m4E"
     },
     {
         "ranking": "7",
@@ -67,7 +74,8 @@
         "title": "luther",
         "artist": "Kendrick Lamar",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/50/c2/cc/50c2cc95-3658-9417-0d4b-831abde44ba1/24UM1IM28978.rgb.jpg/80x80bb.webp",
-        "appleID": "luther/1781270323"
+        "appleID": "luther/1781270323",
+        "youtubeID": "4_taypLmSMU"
     },
     {
         "ranking": "11",
@@ -88,7 +96,8 @@
         "title": "Running Wild",
         "artist": "Jin",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c5/21/a1/c521a133-2a4d-05da-205f-19093c53cd55/198704169175_Cover.jpg/80x80bb.webp",
-        "appleID": "running-wild/1772351326"
+        "appleID": "running-wild/1772351326",
+        "youtubeID": "uoHol5Dr_go"
     },
     {
         "ranking": "14",
@@ -186,7 +195,9 @@
         "title": "blue",
         "artist": "yung kai",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/33/62/62/33626226-0cf3-ff64-3296-b2355de71fac/0748777703419.jpg/80x80bb.webp",
-        "appleID": "blue/1776246888"
+        "appleID": "blue/1776246888",
+        "youtubeID": "98zHKN-xSHk",
+        "spotifyID": "3be9ACTxtcL6Zm4vJRUiPG"
     },
     {
         "ranking": "28",
@@ -200,7 +211,7 @@
         "title": "White Christmas (Instrumental)",
         "artist": "V",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/fc/68/9a/fc689ad8-7f67-74d1-704d-3001972201c3/00198704228605_Cover.jpg/80x80bb.webp",
-        "appleID": "white-christmas-instrumental/1777448470"
+        "appleID": "white-christmas/1777448469"
     },
     {
         "ranking": "30",
@@ -221,7 +232,9 @@
         "title": "WILDFLOWER",
         "artist": "Billie Eilish",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
-        "appleID": "wildflower/1739659144"
+        "appleID": "wildflower/1739659144",
+        "youtubeID": "IWKyykQBRKo",
+        "spotifyID": "3QaPy1KgI7nu9FJEQUgn6h"
     },
     {
         "ranking": "33",
@@ -235,7 +248,8 @@
         "title": "Pehle Bhi Main",
         "artist": "Vishal Mishra",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/db/ad/5e/dbad5e8b-0bee-d962-92d4-021c90e375ac/8902894362092_cover.jpg/80x80bb.webp",
-        "appleID": "pehle-bhi-main/1718278234"
+        "appleID": "pehle-bhi-main/1718278234",
+        "youtubeID": "lwv_0SEJ4NQ"
     },
     {
         "ranking": "35",
@@ -298,7 +312,8 @@
         "title": "Jhim Jhimaune Aankha",
         "artist": "Ekdev Limbu",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2f/c2/df/2fc2df66-b22c-6d63-05b7-de156265254f/7300342967270.jpg/80x80bb.webp",
-        "appleID": "jhim-jhimaune-aankha/1782789912"
+        "appleID": "jhim-jhimaune-aankha/1782789912",
+        "youtubeID": "DZ4BtMpaJaU"
     },
     {
         "ranking": "44",
@@ -319,7 +334,8 @@
         "title": "Set Fire to the Rain",
         "artist": "Adele",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/d8/e3/f9/d8e3f9ea-d6fe-9a1b-9f13-109983d3062e/191404113868.png/80x80bb.webp",
-        "appleID": "set-fire-to-the-rain/1544491988"
+        "appleID": "set-fire-to-the-rain/1544491988",
+        "spotifyID": "7j4OmvkjRz0PrjFADlHfQx"
     },
     {
         "ranking": "47",
@@ -333,21 +349,25 @@
         "title": "Dancing In The Flames",
         "artist": "The Weeknd",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/34/7e/9f/347e9f54-2d74-820f-a910-68d01f044fcf/24UMGIM95646.rgb.jpg/80x80bb.webp",
-        "appleID": "dancing-in-the-flames/1767511513"
+        "appleID": "dancing-in-the-flames/1767511513",
+        "youtubeID": "gu0_ixJMx5U"
     },
     {
         "ranking": "49",
         "title": "Good Luck, Babe!",
         "artist": "Chappell Roan",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/29/a7/c4/29a7c478-351d-25eb-a116-3e68118cdab8/24UMGIM31246.rgb.jpg/80x80bb.webp",
-        "appleID": "good-luck-babe/1737497080"
+        "appleID": "good-luck-babe/1737497080",
+        "youtubeID": "1RKqOmSkGgM",
+        "spotifyID": "0WbMK4wrZ1wFSty9F7FCgu"
     },
     {
         "ranking": "50",
         "title": "Perfect",
         "artist": "Ed Sheeran",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/15/e6/e8/15e6e8a4-4190-6a8b-86c3-ab4a51b88288/190295851286.jpg/80x80bb.webp",
-        "appleID": "perfect/1193701400"
+        "appleID": "perfect/1193701400",
+        "youtubeID": "2Vv-BfVoq4g"
     },
     {
         "ranking": "51",
@@ -389,7 +409,9 @@
         "title": "That’s So True",
         "artist": "Gracie Abrams",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d2/f8/99/d2f89987-d2a5-45a5-1746-c0841c7e9843/24UM1IM17286.rgb.jpg/80x80bb.webp",
-        "appleID": "thats-so-true/1775581103"
+        "appleID": "thats-so-true/1773474483",
+        "youtubeID": "BDHM8cyJQa8",
+        "spotifyID": "7ne4VBA60CxGM75vw0EYad"
     },
     {
         "ranking": "57",
@@ -403,7 +425,8 @@
         "title": "Apocalypse",
         "artist": "Cigarettes After Sex",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/17/39/2c/17392c47-b74d-4bb7-4817-63ffcf2a07f0/cover.jpg/80x80bb.webp",
-        "appleID": "apocalypse/1215409245"
+        "appleID": "apocalypse/1215409245",
+        "spotifyID": "0yc6Gst2xkRu0eMLeRMGCX"
     },
     {
         "ranking": "59",
@@ -473,7 +496,8 @@
         "title": "Sweater Weather",
         "artist": "The Neighbourhood",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/28/71/00/287100fb-5c31-0195-5343-e6b3625886d0/886443969834.jpg/80x80bb.webp",
-        "appleID": "sweater-weather/635016640"
+        "appleID": "sweater-weather/635016640",
+        "spotifyID": "0cQVqPuHQP4KEwc7ZUQmj6"
     },
     {
         "ranking": "69",
@@ -487,7 +511,8 @@
         "title": "Standing Next to You",
         "artist": "Jung Kook",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/86/78/b4/8678b4b3-2341-7239-b6cb-bcfdaef0e4e0/196922656545_Cover.jpg/80x80bb.webp",
-        "appleID": "standing-next-to-you/1709554997"
+        "appleID": "standing-next-to-you/1709554997",
+        "youtubeID": "UNo0TG9LwwI"
     },
     {
         "ranking": "71",
@@ -522,7 +547,8 @@
         "title": "Come back to me",
         "artist": "RM",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/65/8e/78/658e78ae-253d-2b9c-ed83-3f623e607d36/196922948947_Cover.jpg/80x80bb.webp",
-        "appleID": "come-back-to-me/1742630454"
+        "appleID": "come-back-to-me/1742630454",
+        "youtubeID": "NrfikKxF4Ps"
     },
     {
         "ranking": "76",
@@ -592,7 +618,9 @@
         "title": "Messy",
         "artist": "Lola Young",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5a/c6/b1/5ac6b183-8ff1-55e3-fa59-8cce5db3fc87/24UMGIM52751.rgb.jpg/80x80bb.webp",
-        "appleID": "messy/1746042186"
+        "appleID": "messy/1743250261",
+        "youtubeID": "k-k2_Liofy8",
+        "spotifyID": "35ISBknsCeZQtq66xABI9g"
     },
     {
         "ranking": "86",
@@ -613,14 +641,17 @@
         "title": "Taste",
         "artist": "Sabrina Carpenter",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f6/15/d0/f615d0ab-e0c4-575d-907e-1cc084642357/24UMGIM61704.rgb.jpg/80x80bb.webp",
-        "appleID": "taste/1750307079"
+        "appleID": "taste/1750307079",
+        "youtubeID": "KEG7b851Ric",
+        "spotifyID": "5G2f63n7IPVPPjfNIGih7Q"
     },
     {
         "ranking": "89",
         "title": "Beautiful Things",
         "artist": "Benson Boone",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/54/f4/92/54f49210-e260-b519-ebbd-f4f40ee710cd/054391342751.jpg/80x80bb.webp",
-        "appleID": "beautiful-things/1724488124"
+        "appleID": "beautiful-things/1724488124",
+        "youtubeID": "Oa_RSwwpPaA"
     },
     {
         "ranking": "90",
@@ -669,7 +700,8 @@
         "title": "Saiyyan",
         "artist": "Kailash Kher",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/74/f3/9e/74f39e2d-783a-64d1-05bf-081b97336557/886443082052.jpg/80x80bb.webp",
-        "appleID": "saiyyan/443134288"
+        "appleID": "saiyyan/443134288",
+        "youtubeID": "TuUVVKVdZm4"
     },
     {
         "ranking": "97",

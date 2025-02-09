@@ -74,7 +74,8 @@
         "title": "Talking to the Moon",
         "artist": "Bruno Mars",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/98/ae/c2/98aec2e1-3be4-0311-1b44-69348fc87abb/075679956484.jpg/80x80bb.webp",
-        "appleID": "talking-to-the-moon/576670464"
+        "appleID": "talking-to-the-moon/576670464",
+        "spotifyID": "161DnLWsx1i3u1JT05lzqU"
     },
     {
         "ranking": "12",
@@ -172,21 +173,25 @@
         "title": "People",
         "artist": "Libianca",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/c6/8c/ca/c68ccacb-cdd5-b765-53e1-eeca394770ac/196589735607.jpg/80x80bb.webp",
-        "appleID": "people/1658390607"
+        "appleID": "people/1658390607",
+        "youtubeID": "rJWdfDPZ9Ck"
     },
     {
         "ranking": "26",
         "title": "Lose Control",
         "artist": "Teddy Swims",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/36/19/66/36196640-1561-dc5e-c6bc-1e5f4befa583/093624856771.jpg/80x80bb.webp",
-        "appleID": "lose-control/1691699836"
+        "appleID": "lose-control/1691699836",
+        "youtubeID": "GZ3zL7kT6_c",
+        "spotifyID": "17phhZDn6oGtzMe56NuWvj"
     },
     {
         "ranking": "27",
         "title": "Bye Bye Bye",
         "artist": "*NSYNC",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/36/22/d6/3622d665-873c-57b8-392b-971292e6086f/012414170224.jpg/80x80bb.webp",
-        "appleID": "bye-bye-bye/303171368"
+        "appleID": "bye-bye-bye/303171368",
+        "youtubeID": "Eo-KmOd3i7s"
     },
     {
         "ranking": "28",
@@ -221,7 +226,9 @@
         "title": "PUSH 2 START",
         "artist": "Tyla",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2a/cc/48/2acc48c7-e092-6b83-ce65-ff80ac6eb51c/196872520118.jpg/80x80bb.webp",
-        "appleID": "push-2-start/1772394889"
+        "appleID": "push-2-start/1772394889",
+        "youtubeID": "uLK2r3sG4lE",
+        "spotifyID": "1Cbl3Yq8rHo7hhDQmLQagU"
     },
     {
         "ranking": "33",
@@ -424,7 +431,9 @@
         "title": "Die With A Smile",
         "artist": "Lady Gaga",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/11/ae/f2/11aef294-f57c-bab9-c9fc-529162984e62/24UMGIM85348.rgb.jpg/80x80bb.webp",
-        "appleID": "die-with-a-smile/1762656732"
+        "appleID": "die-with-a-smile/1762656732",
+        "youtubeID": "kPa7bsKwL-c",
+        "spotifyID": "2plbrEY59IikOBgBGLjaoe"
     },
     {
         "ranking": "62",
@@ -445,7 +454,8 @@
         "title": "In the End",
         "artist": "LINKIN PARK",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/53/a7/7f/53a77fab-c54c-a57b-8130-248fc12d0c80/093624948995.jpg/80x80bb.webp",
-        "appleID": "in-the-end/590431785"
+        "appleID": "in-the-end/590431785",
+        "spotifyID": "60a0Rd6pjrkxjPbaKzXjfq"
     },
     {
         "ranking": "65",
@@ -459,7 +469,8 @@
         "title": "Shape of You",
         "artist": "Ed Sheeran",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/15/e6/e8/15e6e8a4-4190-6a8b-86c3-ab4a51b88288/190295851286.jpg/80x80bb.webp",
-        "appleID": "shape-of-you/1193701392"
+        "appleID": "shape-of-you/1193701392",
+        "youtubeID": "JGwWNGJdvx8"
     },
     {
         "ranking": "67",
