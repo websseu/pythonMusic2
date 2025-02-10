@@ -11,7 +11,9 @@
         "title": "Die With A Smile",
         "artist": "Lady Gaga",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/11/ae/f2/11aef294-f57c-bab9-c9fc-529162984e62/24UMGIM85348.rgb.jpg/80x80bb.webp",
-        "appleID": "die-with-a-smile/1762656732"
+        "appleID": "die-with-a-smile/1762656732",
+        "youtubeID": "kPa7bsKwL-c",
+        "spotifyID": "2plbrEY59IikOBgBGLjaoe"
     },
     {
         "ranking": "3",
@@ -25,7 +27,7 @@
         "title": "São Paulo",
         "artist": "The Weeknd",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3d/0d/06/3d0d06e6-cfd4-8f69-4a42-52b7cf33fb24/25UMGIM09490.rgb.jpg/80x80bb.webp",
-        "appleID": "s%C3%A3o-paulo/1793654352"
+        "appleID": "s%C3%A3o-paulo/1776914757"
     },
     {
         "ranking": "5",
@@ -39,7 +41,9 @@
         "title": "APT.",
         "artist": "ROSÉ",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2d/1a/7d/2d1a7d91-587e-0ceb-d434-327bd66d9e86/075679628312.jpg/80x80bb.webp",
-        "appleID": "apt/1773452221"
+        "appleID": "apt/1773452221",
+        "youtubeID": "ekr2nIex040",
+        "spotifyID": "4wJ5Qq0jBN4ajy7ouZIV1c"
     },
     {
         "ranking": "7",
@@ -74,7 +78,9 @@
         "title": "The Door",
         "artist": "Teddy Swims",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/36/19/66/36196640-1561-dc5e-c6bc-1e5f4befa583/093624856771.jpg/80x80bb.webp",
-        "appleID": "the-door/1691699849"
+        "appleID": "the-door/1691699849",
+        "youtubeID": "VSXT4a2kRHA",
+        "spotifyID": "3dj4wgM3cPeuLwMNHDuBon"
     },
     {
         "ranking": "12",
@@ -88,14 +94,17 @@
         "title": "Bad Dreams",
         "artist": "Teddy Swims",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/cd/5d/64/cd5d64c2-338b-00c9-52d6-578a0f19d826/054391245908.jpg/80x80bb.webp",
-        "appleID": "bad-dreams/1765799904"
+        "appleID": "bad-dreams/1765799904",
+        "youtubeID": "Qh8QwVYOSVU",
+        "spotifyID": "3nHuKdFJZm78CoeBnDcFKe"
     },
     {
         "ranking": "14",
         "title": "Timeless",
         "artist": "The Weeknd",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ef/14/11/ef14117b-6681-088b-3c74-e127ca3b46ed/24UM1IM04061.rgb.jpg/80x80bb.webp",
-        "appleID": "timeless/1770380890"
+        "appleID": "timeless/1770380890",
+        "youtubeID": "5EpyN_6dqyk"
     },
     {
         "ranking": "15",
@@ -130,7 +139,8 @@
         "title": "BIRDS OF A FEATHER",
         "artist": "Billie Eilish",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
-        "appleID": "birds-of-a-feather/1739659142"
+        "appleID": "birds-of-a-feather/1739659142",
+        "youtubeID": "V9PVRfjEBTI"
     },
     {
         "ranking": "20",
@@ -151,7 +161,8 @@
         "title": "Beautiful Things",
         "artist": "Benson Boone",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/54/f4/92/54f49210-e260-b519-ebbd-f4f40ee710cd/054391342751.jpg/80x80bb.webp",
-        "appleID": "beautiful-things/1724488124"
+        "appleID": "beautiful-things/1724488124",
+        "youtubeID": "Oa_RSwwpPaA"
     },
     {
         "ranking": "23",
@@ -165,14 +176,17 @@
         "title": "İstədim",
         "artist": "Roza Zərgərli",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4b/54/27/4b542773-0da0-1420-3615-5dd4c6e4ddef/cover.jpg/80x80bb.webp",
-        "appleID": "i-st%C9%99dim/1773788703"
+        "appleID": "i-st%C9%99dim/1773788703",
+        "youtubeID": "SpYWHk5rrIU"
     },
     {
         "ranking": "25",
         "title": "Messy",
         "artist": "Lola Young",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d4/85/6b/d4856be7-64d4-5c70-5d5d-18552f826426/24UMGIM46883.rgb.jpg/80x80bb.webp",
-        "appleID": "messy/1743250261"
+        "appleID": "messy/1743250261",
+        "youtubeID": "k-k2_Liofy8",
+        "spotifyID": "35ISBknsCeZQtq66xABI9g"
     },
     {
         "ranking": "26",
@@ -200,7 +214,9 @@
         "title": "Ama Yine Sen",
         "artist": "Burak Bulut",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/15/e7/51/15e7516e-e6f4-d439-02cd-17d6f9200979/cover.jpg/80x80bb.webp",
-        "appleID": "ama-yine-sen/1776183236"
+        "appleID": "ama-yine-sen/1776183236",
+        "youtubeID": "b0CjyyI-Kqc",
+        "spotifyID": "0Kg4pWKYkIIgjNOSaQdqJQ"
     },
     {
         "ranking": "30",
@@ -298,7 +314,8 @@
         "title": "Another Love",
         "artist": "Tom Odell",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/3d/80/6e/3d806e1d-106c-7483-2024-032042519ab3/886443996779.jpg/80x80bb.webp",
-        "appleID": "another-love/1308605492"
+        "appleID": "another-love/1308605492",
+        "spotifyID": "7jtQIBanIiJOMS6RyCx6jZ"
     },
     {
         "ranking": "44",
@@ -340,7 +357,8 @@
         "title": "Shape of You",
         "artist": "Ed Sheeran",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/15/e6/e8/15e6e8a4-4190-6a8b-86c3-ab4a51b88288/190295851286.jpg/80x80bb.webp",
-        "appleID": "shape-of-you/1193701392"
+        "appleID": "shape-of-you/1193701392",
+        "youtubeID": "JGwWNGJdvx8"
     },
     {
         "ranking": "50",
@@ -494,7 +512,8 @@
         "title": "luther",
         "artist": "Kendrick Lamar",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/50/c2/cc/50c2cc95-3658-9417-0d4b-831abde44ba1/24UM1IM28978.rgb.jpg/80x80bb.webp",
-        "appleID": "luther/1781270323"
+        "appleID": "luther/1781270323",
+        "youtubeID": "4_taypLmSMU"
     },
     {
         "ranking": "72",
@@ -536,7 +555,8 @@
         "title": "Slow It Down",
         "artist": "Benson Boone",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a5/c1/9c/a5c19c62-d641-93b4-2800-e74778569f5f/093624852483.jpg/80x80bb.webp",
-        "appleID": "slow-it-down/1736051616"
+        "appleID": "slow-it-down/1736051616",
+        "spotifyID": "51eSHglvG1RJXtL3qI5trr"
     },
     {
         "ranking": "78",
@@ -557,7 +577,8 @@
         "title": "Yankı",
         "artist": "Simge",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/39/c8/2d/39c82d12-4ac5-169c-2b60-ed85a7ee9268/cover.jpg/80x80bb.webp",
-        "appleID": "yank%C4%B1/1078972975"
+        "appleID": "yank%C4%B1/1078972975",
+        "spotifyID": "4y3QBJf9E8yDJCEFbRK8xk"
     },
     {
         "ranking": "81",
@@ -585,7 +606,8 @@
         "title": "Sweater Weather",
         "artist": "The Neighbourhood",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/28/71/00/287100fb-5c31-0195-5343-e6b3625886d0/886443969834.jpg/80x80bb.webp",
-        "appleID": "sweater-weather/635016640"
+        "appleID": "sweater-weather/635016640",
+        "spotifyID": "0cQVqPuHQP4KEwc7ZUQmj6"
     },
     {
         "ranking": "85",
@@ -648,7 +670,9 @@
         "title": "Please Please Please",
         "artist": "Sabrina Carpenter",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f6/15/d0/f615d0ab-e0c4-575d-907e-1cc084642357/24UMGIM61704.rgb.jpg/80x80bb.webp",
-        "appleID": "please-please-please/1750307080"
+        "appleID": "please-please-please/1750307080",
+        "youtubeID": "cF1Na4AIecM",
+        "spotifyID": "2tHwzyyOLoWSFqYNjeVMzj"
     },
     {
         "ranking": "94",
@@ -690,7 +714,9 @@
         "title": "Follow You",
         "artist": "Noizy",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/28/45/f8/2845f8f1-d754-a8d8-69b1-7aecf8c11d01/24UM1IM17511.rgb.jpg/80x80bb.webp",
-        "appleID": "follow-you/1776618465"
+        "appleID": "follow-you/1776618465",
+        "youtubeID": "PP2fELH8uTQ",
+        "spotifyID": "7cMhicmOIwfJlWURl90AOc"
     },
     {
         "ranking": "100",

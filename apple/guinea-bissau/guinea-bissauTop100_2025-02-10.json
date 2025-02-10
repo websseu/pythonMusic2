@@ -102,7 +102,8 @@
         "title": "Not Like Us",
         "artist": "Kendrick Lamar",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d0/ef/b6/d0efb685-73be-fdee-58c9-be655f4cd4fd/24UMGIM51924.rgb.jpg/80x80bb.webp",
-        "appleID": "not-like-us/1744776167"
+        "appleID": "not-like-us/1744776167",
+        "youtubeID": "H58vbez_m4E"
     },
     {
         "ranking": "16",
@@ -137,7 +138,9 @@
         "title": "Amar Pela Metade (Aimer À Moitié)",
         "artist": "Calema",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ee/a1/49/eea149db-f385-8981-0b82-4a8aece641bc/24UMGIM96558.rgb.jpg/80x80bb.webp",
-        "appleID": "amar-pela-metade-aimer-%C3%A0-moiti%C3%A9/1767438350"
+        "appleID": "amar-pela-metade/1767438349",
+        "youtubeID": "TvIlfpOL6No",
+        "spotifyID": "1UQvRmRhbX3WxSLW3NbUIU"
     },
     {
         "ranking": "21",
@@ -235,7 +238,8 @@
         "title": "In the End",
         "artist": "LINKIN PARK",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/53/a7/7f/53a77fab-c54c-a57b-8130-248fc12d0c80/093624948995.jpg/80x80bb.webp",
-        "appleID": "in-the-end/590431785"
+        "appleID": "in-the-end/590431785",
+        "spotifyID": "60a0Rd6pjrkxjPbaKzXjfq"
     },
     {
         "ranking": "35",
@@ -256,7 +260,8 @@
         "title": "AWAY",
         "artist": "Davido",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/40/12/87/4012878d-d267-09b8-7fe0-8c3fd8fdf169/886449553617.jpg/80x80bb.webp",
-        "appleID": "away/1675379763"
+        "appleID": "away/1675379763",
+        "youtubeID": "SbgKpHi-Cao"
     },
     {
         "ranking": "38",
@@ -445,7 +450,8 @@
         "title": "When It Rains It Pours",
         "artist": "Luke Combs",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/3c/83/bf/3c83bf3e-bf4a-7e69-5668-d55f5a8e38e0/886446460840.jpg/80x80bb.webp",
-        "appleID": "when-it-rains-it-pours/1228888143"
+        "appleID": "when-it-rains-it-pours/1228888143",
+        "spotifyID": "1mMLMZYXkMueg65jRRWG1l"
     },
     {
         "ranking": "65",
@@ -501,7 +507,8 @@
         "title": "MH",
         "artist": "Fally Ipupa",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/ce/1b/91/ce1b917e-ca4a-b8bc-d56d-9bdcb4db0d21/5054197450891.jpg/80x80bb.webp",
-        "appleID": "mh/1657242236"
+        "appleID": "mh/1657242236",
+        "youtubeID": "kj0jgspgopQ"
     },
     {
         "ranking": "73",
@@ -585,7 +592,8 @@
         "title": "Set Fire to the Rain",
         "artist": "Adele",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/d8/e3/f9/d8e3f9ea-d6fe-9a1b-9f13-109983d3062e/191404113868.png/80x80bb.webp",
-        "appleID": "set-fire-to-the-rain/1544491988"
+        "appleID": "set-fire-to-the-rain/1544491988",
+        "spotifyID": "7j4OmvkjRz0PrjFADlHfQx"
     },
     {
         "ranking": "85",
