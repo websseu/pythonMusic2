@@ -11,14 +11,17 @@
         "title": "Mất Kết Nối",
         "artist": "Dương Domic",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1c/2f/ff/1c2fff66-b5e4-3c7c-1117-fef2c52e8c0f/e4739d61-26c6-452e-b219-ad9997566246.jpg/80x80bb.webp",
-        "appleID": "m%E1%BA%A5t-k%E1%BA%BFt-n%E1%BB%91i/1780857750"
+        "appleID": "m%E1%BA%A5t-k%E1%BA%BFt-n%E1%BB%91i/1780857750",
+        "spotifyID": "3CmacJj7VC4W6daC8BWd0h"
     },
     {
         "ranking": "3",
         "title": "Die With A Smile",
         "artist": "Lady Gaga",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/11/ae/f2/11aef294-f57c-bab9-c9fc-529162984e62/24UMGIM85348.rgb.jpg/80x80bb.webp",
-        "appleID": "die-with-a-smile/1762656732"
+        "appleID": "die-with-a-smile/1762656732",
+        "youtubeID": "kPa7bsKwL-c",
+        "spotifyID": "2plbrEY59IikOBgBGLjaoe"
     },
     {
         "ranking": "4",
@@ -32,7 +35,8 @@
         "title": "luther",
         "artist": "Kendrick Lamar",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/50/c2/cc/50c2cc95-3658-9417-0d4b-831abde44ba1/24UM1IM28978.rgb.jpg/80x80bb.webp",
-        "appleID": "luther/1781270323"
+        "appleID": "luther/1781270323",
+        "youtubeID": "4_taypLmSMU"
     },
     {
         "ranking": "6",
@@ -46,7 +50,9 @@
         "title": "APT.",
         "artist": "ROSÉ",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2d/1a/7d/2d1a7d91-587e-0ceb-d434-327bd66d9e86/075679628312.jpg/80x80bb.webp",
-        "appleID": "apt/1773452221"
+        "appleID": "apt/1773452221",
+        "youtubeID": "ekr2nIex040",
+        "spotifyID": "4wJ5Qq0jBN4ajy7ouZIV1c"
     },
     {
         "ranking": "8",
@@ -60,7 +66,8 @@
         "title": "BIRDS OF A FEATHER",
         "artist": "Billie Eilish",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
-        "appleID": "birds-of-a-feather/1739659142"
+        "appleID": "birds-of-a-feather/1739659142",
+        "youtubeID": "V9PVRfjEBTI"
     },
     {
         "ranking": "10",
@@ -81,14 +88,17 @@
         "title": "Không Thể Say",
         "artist": "HIEUTHUHAI",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/28/fa/35/28fa35d2-5d80-cbd8-690e-a1313a4c3c34/602455711786_Cover.jpg/80x80bb.webp",
-        "appleID": "kh%C3%B4ng-th%E1%BB%83-say/1729379244"
+        "appleID": "kh%C3%B4ng-th%E1%BB%83-say/1729379244",
+        "spotifyID": "1K0HQ30Wc11okzlcnFA7Ub"
     },
     {
         "ranking": "13",
         "title": "toxic till the end",
         "artist": "ROSÉ",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2d/14/66/2d14661b-345b-d0f3-4e86-56ef626e68aa/075679629203.jpg/80x80bb.webp",
-        "appleID": "toxic-till-the-end/1771105929"
+        "appleID": "toxic-till-the-end/1771105929",
+        "youtubeID": "eA0lHNZ1KCA",
+        "spotifyID": "1z5ebC9238uGoBgzYyvGpQ"
     },
     {
         "ranking": "14",
@@ -102,7 +112,8 @@
         "title": "Đừng Làm Trái Tim Anh Đau",
         "artist": "Sơn Tùng M-TP",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e3/0b/38/e30b383e-5818-321a-7626-557b7b0f8ba3/24UMGIM61359.rgb.jpg/80x80bb.webp",
-        "appleID": "%C4%91%E1%BB%ABng-l%C3%A0m-tr%C3%A1i-tim-anh-%C4%91au/1749963740"
+        "appleID": "%C4%91%E1%BB%ABng-l%C3%A0m-tr%C3%A1i-tim-anh-%C4%91au/1749963740",
+        "spotifyID": "31VNCmwspR7nVJ6kruUuJt"
     },
     {
         "ranking": "16",
@@ -172,28 +183,32 @@
         "title": "Timeless",
         "artist": "The Weeknd",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ef/14/11/ef14117b-6681-088b-3c74-e127ca3b46ed/24UM1IM04061.rgb.jpg/80x80bb.webp",
-        "appleID": "timeless/1770380890"
+        "appleID": "timeless/1770380890",
+        "youtubeID": "5EpyN_6dqyk"
     },
     {
         "ranking": "26",
         "title": "Chăm Hoa",
         "artist": "MONO",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/db/92/be/db92be06-0d95-ecff-858f-385c247ba063/198704207853_Cover.jpg/80x80bb.webp",
-        "appleID": "ch%C4%83m-hoa/1774716346"
+        "appleID": "ch%C4%83m-hoa/1774716346",
+        "spotifyID": "40pWxpbXoBYGPCiofujjZ6"
     },
     {
         "ranking": "27",
         "title": "TRÀN BỘ NHỚ",
         "artist": "Dương Domic",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f9/c5/48/f9c54843-7027-ab73-e563-99375fbb264b/5034644095868.jpg/80x80bb.webp",
-        "appleID": "tr%C3%A0n-b%E1%BB%99-nh%E1%BB%9B/1768339879"
+        "appleID": "tr%C3%A0n-b%E1%BB%99-nh%E1%BB%9B/1768339879",
+        "spotifyID": "0669gFIK8dYK9GGQ0K0QNF"
     },
     {
         "ranking": "28",
         "title": "Not Like Us",
         "artist": "Kendrick Lamar",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d0/ef/b6/d0efb685-73be-fdee-58c9-be655f4cd4fd/24UMGIM51924.rgb.jpg/80x80bb.webp",
-        "appleID": "not-like-us/1744776167"
+        "appleID": "not-like-us/1744776167",
+        "youtubeID": "H58vbez_m4E"
     },
     {
         "ranking": "29",
@@ -221,14 +236,17 @@
         "title": "NOLOVENOLIFE",
         "artist": "HIEUTHUHAI",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/9a/80/e5/9a80e53a-197d-6d4d-2799-ac0a68427d12/602458735987_Cover.jpg/80x80bb.webp",
-        "appleID": "nolovenolife/1728886804"
+        "appleID": "nolovenolife/1728886804",
+        "spotifyID": "6D94p9ASguBcYlDC0o56vx"
     },
     {
         "ranking": "33",
         "title": "That’s So True",
         "artist": "Gracie Abrams",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/26/78/81/26788143-5e5f-0813-2480-ecf4280ef221/24UM1IM07082.rgb.jpg/80x80bb.webp",
-        "appleID": "thats-so-true/1773474483"
+        "appleID": "thats-so-true/1773474483",
+        "youtubeID": "BDHM8cyJQa8",
+        "spotifyID": "7ne4VBA60CxGM75vw0EYad"
     },
     {
         "ranking": "34",
@@ -242,7 +260,7 @@
         "title": "São Paulo",
         "artist": "The Weeknd",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3d/0d/06/3d0d06e6-cfd4-8f69-4a42-52b7cf33fb24/25UMGIM09490.rgb.jpg/80x80bb.webp",
-        "appleID": "s%C3%A3o-paulo/1793654352"
+        "appleID": "s%C3%A3o-paulo/1776914757"
     },
     {
         "ranking": "36",
@@ -270,7 +288,9 @@
         "title": "number one girl",
         "artist": "ROSÉ",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2d/14/66/2d14661b-345b-d0f3-4e86-56ef626e68aa/075679629203.jpg/80x80bb.webp",
-        "appleID": "number-one-girl/1771105923"
+        "appleID": "number-one-girl/1771105923",
+        "youtubeID": "pZ1NdE69VTs",
+        "spotifyID": "1lcBt7LoEikqYmhUoa2cez"
     },
     {
         "ranking": "40",
@@ -347,14 +367,17 @@
         "title": "Espresso",
         "artist": "Sabrina Carpenter",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cb/64/8c/cb648cf7-e7bb-bd00-efe0-d744312c29a8/24UMGIM32304.rgb.jpg/80x80bb.webp",
-        "appleID": "espresso/1740212434"
+        "appleID": "espresso/1740212434",
+        "youtubeID": "eVli-tstM5E"
     },
     {
         "ranking": "51",
         "title": "WILDFLOWER",
         "artist": "Billie Eilish",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
-        "appleID": "wildflower/1739659144"
+        "appleID": "wildflower/1739659144",
+        "youtubeID": "IWKyykQBRKo",
+        "spotifyID": "3QaPy1KgI7nu9FJEQUgn6h"
     },
     {
         "ranking": "52",
@@ -375,14 +398,17 @@
         "title": "Good Luck, Babe!",
         "artist": "Chappell Roan",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/29/a7/c4/29a7c478-351d-25eb-a116-3e68118cdab8/24UMGIM31246.rgb.jpg/80x80bb.webp",
-        "appleID": "good-luck-babe/1737497080"
+        "appleID": "good-luck-babe/1737497080",
+        "youtubeID": "1RKqOmSkGgM",
+        "spotifyID": "0WbMK4wrZ1wFSty9F7FCgu"
     },
     {
         "ranking": "55",
         "title": "Từng Là",
         "artist": "Vũ Cát Tường",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/e5/04/b8/e504b8de-8b2b-d9bf-ff1a-38318ac7abc3/24UMGIM20213.rgb.jpg/80x80bb.webp",
-        "appleID": "t%E1%BB%ABng-l%C3%A0/1733180140"
+        "appleID": "t%E1%BB%ABng-l%C3%A0/1733180140",
+        "spotifyID": "2xOhv7XudrBDtkID1jwsFE"
     },
     {
         "ranking": "56",
@@ -417,7 +443,9 @@
         "title": "Messy",
         "artist": "Lola Young",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d4/85/6b/d4856be7-64d4-5c70-5d5d-18552f826426/24UMGIM46883.rgb.jpg/80x80bb.webp",
-        "appleID": "messy/1743250261"
+        "appleID": "messy/1743250261",
+        "youtubeID": "k-k2_Liofy8",
+        "spotifyID": "35ISBknsCeZQtq66xABI9g"
     },
     {
         "ranking": "61",
@@ -494,7 +522,8 @@
         "title": "Chúng Ta Của Tương Lai",
         "artist": "Sơn Tùng M-TP",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3e/a9/15/3ea9154d-71ff-fe3f-e291-70ed965f0845/24UMGIM48787.rgb.jpg/80x80bb.webp",
-        "appleID": "ch%C3%BAng-ta-c%E1%BB%A7a-t%C6%B0%C6%A1ng-lai/1744991040"
+        "appleID": "ch%C3%BAng-ta-c%E1%BB%A7a-t%C6%B0%C6%A1ng-lai/1744991040",
+        "spotifyID": "3OVMe3H6iAxbLF8iD2UYrw"
     },
     {
         "ranking": "72",
@@ -529,7 +558,9 @@
         "title": "squabble up",
         "artist": "Kendrick Lamar",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/50/c2/cc/50c2cc95-3658-9417-0d4b-831abde44ba1/24UM1IM28978.rgb.jpg/80x80bb.webp",
-        "appleID": "squabble-up/1781270321"
+        "appleID": "squabble-up/1781270321",
+        "youtubeID": "fuV4yQWdn_4",
+        "spotifyID": "0nj9Bq5sHDiTxSHunhgkFb"
     },
     {
         "ranking": "77",
@@ -578,7 +609,7 @@
         "title": "Hẹn Gặp Em Dưới Ánh Trăng",
         "artist": "MANBO",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/34/11/29/3411298f-e84c-2a76-1a4c-947b50bf0a2f/cover.jpg/80x80bb.webp",
-        "appleID": "h%E1%BA%B9n-g%E1%BA%B7p-em-d%C6%B0%E1%BB%9Bi-%C3%A1nh-tr%C4%83ng/1786347496"
+        "appleID": "h%E1%BA%B9n-g%E1%BA%B7p-em-d%C6%B0%E1%BB%9Bi-%C3%A1nh-tr%C4%83ng/1524872934"
     },
     {
         "ranking": "84",
@@ -613,7 +644,8 @@
         "title": "Love is",
         "artist": "Dangrangto",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/06/1b/f5/061bf59c-532c-3855-86b0-3d0d8e7e9456/a65c9f7b-a1e9-424c-9e51-3901d3c8452d.jpg/80x80bb.webp",
-        "appleID": "love-is/1695037835"
+        "appleID": "love-is/1695037835",
+        "spotifyID": "226ljdOTLM2clGpm4mZvAm"
     },
     {
         "ranking": "89",
@@ -655,7 +687,7 @@
         "title": "Thủy Triều",
         "artist": "Quang Hùng MasterD",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/68/4d/b1/684db1d0-ab21-4c0a-b061-8861a6586cd2/32cec5bb-f956-4989-b9ba-8991cadd57e2.jpg/80x80bb.webp",
-        "appleID": "th%E1%BB%A7y-tri%E1%BB%81u/1728814370"
+        "appleID": "th%E1%BB%A7y-tri%E1%BB%81u/1729241245"
     },
     {
         "ranking": "95",
