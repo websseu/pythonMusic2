@@ -18,14 +18,16 @@
         "title": "luther",
         "artist": "Kendrick Lamar",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/50/c2/cc/50c2cc95-3658-9417-0d4b-831abde44ba1/24UM1IM28978.rgb.jpg/80x80bb.webp",
-        "appleID": "luther/1781270323"
+        "appleID": "luther/1781270323",
+        "youtubeID": "4_taypLmSMU"
     },
     {
         "ranking": "4",
         "title": "Not Like Us",
         "artist": "Kendrick Lamar",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d0/ef/b6/d0efb685-73be-fdee-58c9-be655f4cd4fd/24UMGIM51924.rgb.jpg/80x80bb.webp",
-        "appleID": "not-like-us/1744776167"
+        "appleID": "not-like-us/1744776167",
+        "youtubeID": "H58vbez_m4E"
     },
     {
         "ranking": "5",
@@ -88,7 +90,8 @@
         "title": "Girlfriend",
         "artist": "Ruger",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/78/68/ce/7868ce23-2ce0-0cfd-7ce3-3eb1196f1d96/196589221094_Cover.jpg/80x80bb.webp",
-        "appleID": "girlfriend/1709394555"
+        "appleID": "girlfriend/1709394555",
+        "youtubeID": "7M2Gps9xR8g"
     },
     {
         "ranking": "14",
@@ -137,7 +140,9 @@
         "title": "Soltera",
         "artist": "Shakira",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cb/e4/a5/cbe4a5ca-085e-e3ef-eda5-d521ee55bb4b/196872485844.jpg/80x80bb.webp",
-        "appleID": "soltera/1769406416"
+        "appleID": "soltera/1769406416",
+        "youtubeID": "oBofuVYDoG4",
+        "spotifyID": "3OJDtCdYs8QJnui708tEU3"
     },
     {
         "ranking": "21",
@@ -683,7 +688,8 @@
         "title": "Runaway (feat. Pusha T)",
         "artist": "Kanye West",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/0a/0b/31/0a0b31cc-077c-31bf-e7fe-612191774948/10UMGIM30072.rgb.jpg/80x80bb.webp",
-        "appleID": "runaway-feat-pusha-t/1440742918"
+        "appleID": "runaway-feat-pusha-t/1440742918",
+        "youtubeID": "Bm5iA4Zupek"
     },
     {
         "ranking": "99",
