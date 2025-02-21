@@ -46,14 +46,16 @@
         "title": "El Neyya",
         "artist": "Lege-Cy",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a2/8e/15/a28e1520-2496-127d-93d0-ca3ac9b250bd/6221216597250_Artwork.png/80x80bb.webp",
-        "appleID": "el-neyya/1755915026"
+        "appleID": "el-neyya/1755915026",
+        "spotifyID": "2lygVhKHBUzEGMJXljHOV2"
     },
     {
         "ranking": "8",
         "title": "Not Like Us",
         "artist": "Kendrick Lamar",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d0/ef/b6/d0efb685-73be-fdee-58c9-be655f4cd4fd/24UMGIM51924.rgb.jpg/80x80bb.webp",
-        "appleID": "not-like-us/1744776167"
+        "appleID": "not-like-us/1744776167",
+        "youtubeID": "H58vbez_m4E"
     },
     {
         "ranking": "9",
@@ -67,7 +69,9 @@
         "title": "WILDFLOWER",
         "artist": "Billie Eilish",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
-        "appleID": "wildflower/1739659144"
+        "appleID": "wildflower/1739659144",
+        "youtubeID": "IWKyykQBRKo",
+        "spotifyID": "3QaPy1KgI7nu9FJEQUgn6h"
     },
     {
         "ranking": "11",
@@ -88,7 +92,8 @@
         "title": "Timeless",
         "artist": "The Weeknd",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ef/14/11/ef14117b-6681-088b-3c74-e127ca3b46ed/24UM1IM04061.rgb.jpg/80x80bb.webp",
-        "appleID": "timeless/1770380890"
+        "appleID": "timeless/1770380890",
+        "youtubeID": "5EpyN_6dqyk"
     },
     {
         "ranking": "14",
@@ -116,14 +121,18 @@
         "title": "Die With A Smile",
         "artist": "Lady Gaga",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/11/ae/f2/11aef294-f57c-bab9-c9fc-529162984e62/24UMGIM85348.rgb.jpg/80x80bb.webp",
-        "appleID": "die-with-a-smile/1762656732"
+        "appleID": "die-with-a-smile/1762656732",
+        "youtubeID": "kPa7bsKwL-c",
+        "spotifyID": "2plbrEY59IikOBgBGLjaoe"
     },
     {
         "ranking": "18",
         "title": "انا من غيرك",
         "artist": "Bahaa Sultan",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9c/c5/99/9cc599fe-f483-92dc-e1c6-22079b87a0b5/196872563030.jpg/80x80bb.webp",
-        "appleID": "%D8%A7%D9%86%D8%A7-%D9%85%D9%86-%D8%BA%D9%8A%D8%B1%D9%83/1775716935"
+        "appleID": "%D8%A7%D9%86%D8%A7-%D9%85%D9%86-%D8%BA%D9%8A%D8%B1%D9%83/1775716935",
+        "youtubeID": "H9MUAiBeb3w",
+        "spotifyID": "2nQeY3iJpE57Rnc7r8z2Qx"
     },
     {
         "ranking": "19",
@@ -137,14 +146,16 @@
         "title": "luther",
         "artist": "Kendrick Lamar",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/50/c2/cc/50c2cc95-3658-9417-0d4b-831abde44ba1/24UM1IM28978.rgb.jpg/80x80bb.webp",
-        "appleID": "luther/1781270323"
+        "appleID": "luther/1781270323",
+        "youtubeID": "4_taypLmSMU"
     },
     {
         "ranking": "21",
         "title": "مرزمن",
         "artist": "Shehab",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/bd/08/ed/bd08ed61-4ffa-cea9-29dd-d0aaf4fd4d63/cover.jpg/80x80bb.webp",
-        "appleID": "%D9%85%D8%B1%D8%B2%D9%85%D9%86/1697154762"
+        "appleID": "%D9%85%D8%B1%D8%B2%D9%85%D9%86/1697154762",
+        "spotifyID": "3cAy5RMw6iT1Nxit3Z3Q9b"
     },
     {
         "ranking": "22",
@@ -193,14 +204,16 @@
         "title": "El Mabda2",
         "artist": "Marwan Pablo",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/ea/d7/bc/ead7bc49-c2bb-e21a-23df-a2ff41034953/197190080810.jpg/80x80bb.webp",
-        "appleID": "el-mabda2/1710353099"
+        "appleID": "el-mabda2/1710353099",
+        "spotifyID": "6m8vcn1JPflk8xBoFsaPDP"
     },
     {
         "ranking": "29",
         "title": "Basrah w Atooh",
         "artist": "Cairokee",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/46/81/82/468182bd-6914-bf7d-2f4a-4cb4bd5175cd/196925215671.jpg/80x80bb.webp",
-        "appleID": "basrah-w-atooh/1645863673"
+        "appleID": "basrah-w-atooh/1645863673",
+        "spotifyID": "4vIbws1xp082bv0zl8vLaJ"
     },
     {
         "ranking": "30",
@@ -214,7 +227,8 @@
         "title": "عالعموم",
         "artist": "Shehab",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/f8/b1/f3/f8b1f3b0-c3d3-5d29-12e2-8c6f96f98b6a/cover.jpg/80x80bb.webp",
-        "appleID": "%D8%B9%D8%A7%D9%84%D8%B9%D9%85%D9%88%D9%85/1733015430"
+        "appleID": "%D8%B9%D8%A7%D9%84%D8%B9%D9%85%D9%88%D9%85/1733015430",
+        "spotifyID": "3tfiVsnpCzewE8rPpsRIL6"
     },
     {
         "ranking": "32",
@@ -235,7 +249,8 @@
         "title": "tv off (feat. Lefty Gunplay)",
         "artist": "Kendrick Lamar",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/50/c2/cc/50c2cc95-3658-9417-0d4b-831abde44ba1/24UM1IM28978.rgb.jpg/80x80bb.webp",
-        "appleID": "tv-off-feat-lefty-gunplay/1781270540"
+        "appleID": "tv-off-feat-lefty-gunplay/1781270540",
+        "youtubeID": "U8F5G5wR1mk"
     },
     {
         "ranking": "35",
@@ -256,14 +271,16 @@
         "title": "BIRDS OF A FEATHER",
         "artist": "Billie Eilish",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
-        "appleID": "birds-of-a-feather/1739659142"
+        "appleID": "birds-of-a-feather/1739659142",
+        "youtubeID": "V9PVRfjEBTI"
     },
     {
         "ranking": "38",
         "title": "Matafetch",
         "artist": "Marwan Pablo",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/ea/d7/bc/ead7bc49-c2bb-e21a-23df-a2ff41034953/197190080810.jpg/80x80bb.webp",
-        "appleID": "matafetch/1710352908"
+        "appleID": "matafetch/1710352908",
+        "spotifyID": "0ZGmHDAUSgGV5mCUbtYFe7"
     },
     {
         "ranking": "39",
@@ -298,7 +315,9 @@
         "title": "هيجيلي موجوع",
         "artist": "Tamer Ashour",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/32/4c/87/324c87db-42b2-01e5-46ec-0b92291ec342/cover.jpg/80x80bb.webp",
-        "appleID": "%D9%87%D9%8A%D8%AC%D9%8A%D9%84%D9%8A-%D9%85%D9%88%D8%AC%D9%88%D8%B9/1724979987"
+        "appleID": "%D9%87%D9%8A%D8%AC%D9%8A%D9%84%D9%8A-%D9%85%D9%88%D8%AC%D9%88%D8%B9/1724979987",
+        "youtubeID": "0a3oQGKhp24",
+        "spotifyID": "2Heqj9jtxarmecKxycGSWn"
     },
     {
         "ranking": "44",
@@ -312,14 +331,16 @@
         "title": "Betadeen",
         "artist": "Lege-Cy",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/a9/89/90/a9899068-f1ca-7c25-df29-41923733a7ed/6221216496768.png/80x80bb.webp",
-        "appleID": "betadeen/1702427691"
+        "appleID": "betadeen/1702427691",
+        "spotifyID": "693Zm4S9surNZUPZp0RCXi"
     },
     {
         "ranking": "46",
         "title": "حبيبي ليه",
         "artist": "TUL8TE",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/3a/d5/01/3ad50105-be3e-ffb2-8f92-54f3ecf52432/cover.jpg/80x80bb.webp",
-        "appleID": "%D8%AD%D8%A8%D9%8A%D8%A8%D9%8A-%D9%84%D9%8A%D9%87/1759421981"
+        "appleID": "%D8%AD%D8%A8%D9%8A%D8%A8%D9%8A-%D9%84%D9%8A%D9%87/1759421981",
+        "spotifyID": "2OSxxCfS81wcds5RbQ0Ztq"
     },
     {
         "ranking": "47",
@@ -340,21 +361,26 @@
         "title": "Ragea",
         "artist": "Amr Diab",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a8/81/9f/a8819f9f-99f8-eb28-6a73-fcae47843bc8/3616842352848.jpg/80x80bb.webp",
-        "appleID": "ragea/1775914889"
+        "appleID": "ragea/1775914889",
+        "youtubeID": "OU1CJ3-TIGc"
     },
     {
         "ranking": "50",
         "title": "CHIHIRO",
         "artist": "Billie Eilish",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
-        "appleID": "chihiro/1739659141"
+        "appleID": "chihiro/1739659141",
+        "youtubeID": "BY_XwvKogC8",
+        "spotifyID": "7BRD7x5pt8Lqa1eGYC4dzj"
     },
     {
         "ranking": "51",
         "title": "ماتيجي اعدي عليكي",
         "artist": "TUL8TE",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/3a/d5/01/3ad50105-be3e-ffb2-8f92-54f3ecf52432/cover.jpg/80x80bb.webp",
-        "appleID": "%D9%85%D8%A7%D8%AA%D9%8A%D8%AC%D9%8A-%D8%A7%D8%B9%D8%AF%D9%8A-%D8%B9%D9%84%D9%8A%D9%83%D9%8A/1759421966"
+        "appleID": "%D9%85%D8%A7%D8%AA%D9%8A%D8%AC%D9%8A-%D8%A7%D8%B9%D8%AF%D9%8A-%D8%B9%D9%84%D9%8A%D9%83%D9%8A/1759421966",
+        "youtubeID": "pw5y_oYdfrM",
+        "spotifyID": "5ks7fVLJY4QRlAALIqJfMR"
     },
     {
         "ranking": "52",
@@ -389,7 +415,8 @@
         "title": "Ana Meen",
         "artist": "زاد",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ef/93/1d/ef931db4-9458-f713-f1a1-b44148155cbd/797885154002.jpg/80x80bb.webp",
-        "appleID": "ana-meen/1769898453"
+        "appleID": "ana-meen/1769898453",
+        "youtubeID": "JPt1eaIPb3s"
     },
     {
         "ranking": "57",
@@ -424,7 +451,9 @@
         "title": "اتنسينا",
         "artist": "Youssif Elashry",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/bd/1d/57/bd1d5774-cac5-e741-b36e-811a6151f479/cover.jpg/80x80bb.webp",
-        "appleID": "%D8%A7%D8%AA%D9%86%D8%B3%D9%8A%D9%86%D8%A7/1775761913"
+        "appleID": "%D8%A7%D8%AA%D9%86%D8%B3%D9%8A%D9%86%D8%A7/1775761913",
+        "youtubeID": "KLZ4lEwEgWY",
+        "spotifyID": "0kZtRxxBDbMO4vZApAiNOZ"
     },
     {
         "ranking": "62",
@@ -438,7 +467,8 @@
         "title": "Layalina",
         "artist": "TUL8TE",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/ae/e4/60/aee46046-9889-a35d-4162-c7fb92bb3579/198342149027_cover.jpg/80x80bb.webp",
-        "appleID": "layalina/1732354042"
+        "appleID": "layalina/1732354042",
+        "spotifyID": "1yiJHrunZu2fov7OhC7vM9"
     },
     {
         "ranking": "64",
@@ -459,7 +489,8 @@
         "title": "Yazmeely",
         "artist": "Ilmond",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/17/00/2f/17002ff9-4ee7-4a1a-107d-e666ffe847ea/0.jpg/80x80bb.webp",
-        "appleID": "yazmeely/1752308321"
+        "appleID": "yazmeely/1752308321",
+        "spotifyID": "0rDNeS6IwKi1oMrtkEc5S0"
     },
     {
         "ranking": "67",
@@ -487,7 +518,8 @@
         "title": "ليه بنخبي و مش بنقول",
         "artist": "TUL8TE",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/3a/d5/01/3ad50105-be3e-ffb2-8f92-54f3ecf52432/cover.jpg/80x80bb.webp",
-        "appleID": "%D9%84%D9%8A%D9%87-%D8%A8%D9%86%D8%AE%D8%A8%D9%8A-%D9%88-%D9%85%D8%B4-%D8%A8%D9%86%D9%82%D9%88%D9%84/1759421976"
+        "appleID": "%D9%84%D9%8A%D9%87-%D8%A8%D9%86%D8%AE%D8%A8%D9%8A-%D9%88-%D9%85%D8%B4-%D8%A8%D9%86%D9%82%D9%88%D9%84/1759421976",
+        "spotifyID": "7ADt67nRewsfODDmCuhtQl"
     },
     {
         "ranking": "71",
@@ -585,7 +617,9 @@
         "title": "APT.",
         "artist": "ROSÉ",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2d/1a/7d/2d1a7d91-587e-0ceb-d434-327bd66d9e86/075679628312.jpg/80x80bb.webp",
-        "appleID": "apt/1773452221"
+        "appleID": "apt/1773452221",
+        "youtubeID": "ekr2nIex040",
+        "spotifyID": "4wJ5Qq0jBN4ajy7ouZIV1c"
     },
     {
         "ranking": "85",
@@ -613,7 +647,8 @@
         "title": "Inta El Haz",
         "artist": "Amr Diab",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ea/c0/4d/eac04d0a-9e41-fa44-255f-b255f611f035/196872488401.jpg/80x80bb.webp",
-        "appleID": "inta-el-haz/1776026474"
+        "appleID": "inta-el-haz/1776026474",
+        "youtubeID": "T-LAJ0Y7lsw"
     },
     {
         "ranking": "89",
@@ -669,7 +704,8 @@
         "title": "يمكن خير",
         "artist": "Ramy Sabry",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/3a/6e/92/3a6e927d-f1c7-0178-626d-1504bdc159a5/cover.jpg/80x80bb.webp",
-        "appleID": "%D9%8A%D9%85%D9%83%D9%86-%D8%AE%D9%8A%D8%B1/1664133496"
+        "appleID": "%D9%8A%D9%85%D9%83%D9%86-%D8%AE%D9%8A%D8%B1/1664133496",
+        "spotifyID": "4Guq7XrO1FjduwFBsVbr0E"
     },
     {
         "ranking": "97",
@@ -697,6 +733,7 @@
         "title": "مالناش كبير كبيرنا فوق",
         "artist": "Eslam Kabonga",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/af/00/32/af0032fe-2144-8eda-7a10-172d66ca0ce3/cover.jpg/80x80bb.webp",
-        "appleID": "%D9%85%D8%A7%D9%84%D9%86%D8%A7%D8%B4-%D9%83%D8%A8%D9%8A%D8%B1-%D9%83%D8%A8%D9%8A%D8%B1%D9%86%D8%A7-%D9%81%D9%88%D9%82/1773800829"
+        "appleID": "%D9%85%D8%A7%D9%84%D9%86%D8%A7%D8%B4-%D9%83%D8%A8%D9%8A%D8%B1-%D9%83%D8%A8%D9%8A%D8%B1%D9%86%D8%A7-%D9%81%D9%88%D9%82/1773800829",
+        "spotifyID": "0qX9ZQfcUBFyhOcKGFYEpR"
     }
 ]
