@@ -18,7 +18,8 @@
         "title": "Bye Bye Bye",
         "artist": "*NSYNC",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/36/22/d6/3622d665-873c-57b8-392b-971292e6086f/012414170224.jpg/80x80bb.webp",
-        "appleID": "bye-bye-bye/303171368"
+        "appleID": "bye-bye-bye/303171368",
+        "youtubeID": "Eo-KmOd3i7s"
     },
     {
         "ranking": "4",
@@ -39,7 +40,9 @@
         "title": "Die With A Smile",
         "artist": "Lady Gaga",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/11/ae/f2/11aef294-f57c-bab9-c9fc-529162984e62/24UMGIM85348.rgb.jpg/80x80bb.webp",
-        "appleID": "die-with-a-smile/1762656732"
+        "appleID": "die-with-a-smile/1762656732",
+        "youtubeID": "kPa7bsKwL-c",
+        "spotifyID": "2plbrEY59IikOBgBGLjaoe"
     },
     {
         "ranking": "7",
@@ -67,7 +70,8 @@
         "title": "BIRDS OF A FEATHER (Artist of the Year 2024 Live)",
         "artist": "Billie Eilish",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/25/1e/45/251e454e-dab5-1e0a-f216-52e77d5032c0/24UM1IM41181.rgb.jpg/80x80bb.webp",
-        "appleID": "birds-of-a-feather-artist-of-the-year-2024-live/1785757058"
+        "appleID": "birds-of-a-feather-artist-of-the-year-2024-live/1785757058",
+        "youtubeID": "V9PVRfjEBTI"
     },
     {
         "ranking": "11",
@@ -123,7 +127,9 @@
         "title": "Lose Control",
         "artist": "Teddy Swims",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/36/19/66/36196640-1561-dc5e-c6bc-1e5f4befa583/093624856771.jpg/80x80bb.webp",
-        "appleID": "lose-control/1691699836"
+        "appleID": "lose-control/1691699836",
+        "youtubeID": "GZ3zL7kT6_c",
+        "spotifyID": "17phhZDn6oGtzMe56NuWvj"
     },
     {
         "ranking": "19",
@@ -298,7 +304,8 @@
         "title": "Someone Like You",
         "artist": "Adele",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/d8/e3/f9/d8e3f9ea-d6fe-9a1b-9f13-109983d3062e/191404113868.png/80x80bb.webp",
-        "appleID": "someone-like-you/1544491998"
+        "appleID": "someone-like-you/1544491998",
+        "spotifyID": "5lkpeJwmQKgY3bX2zChjxX"
     },
     {
         "ranking": "44",
@@ -445,7 +452,8 @@
         "title": "Bitter Sweet Symphony (Live From The Haigh Hall Concert Hall)",
         "artist": "The Verve",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/21/b9/42/21b94272-2845-a676-1110-a413ed130ffa/17UMGIM89556.rgb.jpg/80x80bb.webp",
-        "appleID": "bitter-sweet-symphony-live-from-the-haigh-hall-concert-hall/1440885504"
+        "appleID": "bitter-sweet-symphony-live-from-the-haigh-hall-concert-hall/1440885504",
+        "youtubeID": "1lyu1KKwC74"
     },
     {
         "ranking": "65",
@@ -529,7 +537,8 @@
         "title": "Not Like Us",
         "artist": "Kendrick Lamar",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d0/ef/b6/d0efb685-73be-fdee-58c9-be655f4cd4fd/24UMGIM51924.rgb.jpg/80x80bb.webp",
-        "appleID": "not-like-us/1744776167"
+        "appleID": "not-like-us/1744776167",
+        "youtubeID": "H58vbez_m4E"
     },
     {
         "ranking": "77",
