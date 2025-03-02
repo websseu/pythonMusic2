@@ -25,7 +25,8 @@
         "title": "Not Like Us",
         "artist": "Kendrick Lamar",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d0/ef/b6/d0efb685-73be-fdee-58c9-be655f4cd4fd/24UMGIM51924.rgb.jpg/80x80bb.webp",
-        "appleID": "not-like-us/1744776167"
+        "appleID": "not-like-us/1744776167",
+        "youtubeID": "H58vbez_m4E"
     },
     {
         "ranking": "5",
@@ -39,7 +40,8 @@
         "title": "Timeless",
         "artist": "The Weeknd",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ef/14/11/ef14117b-6681-088b-3c74-e127ca3b46ed/24UM1IM04061.rgb.jpg/80x80bb.webp",
-        "appleID": "timeless/1770380890"
+        "appleID": "timeless/1770380890",
+        "youtubeID": "5EpyN_6dqyk"
     },
     {
         "ranking": "7",
@@ -53,7 +55,9 @@
         "title": "Die With A Smile",
         "artist": "Lady Gaga",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/11/ae/f2/11aef294-f57c-bab9-c9fc-529162984e62/24UMGIM85348.rgb.jpg/80x80bb.webp",
-        "appleID": "die-with-a-smile/1762656732"
+        "appleID": "die-with-a-smile/1762656732",
+        "youtubeID": "kPa7bsKwL-c",
+        "spotifyID": "2plbrEY59IikOBgBGLjaoe"
     },
     {
         "ranking": "9",
@@ -81,7 +85,9 @@
         "title": "APT.",
         "artist": "ROSÉ",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2d/1a/7d/2d1a7d91-587e-0ceb-d434-327bd66d9e86/075679628312.jpg/80x80bb.webp",
-        "appleID": "apt/1773452221"
+        "appleID": "apt/1773452221",
+        "youtubeID": "ekr2nIex040",
+        "spotifyID": "4wJ5Qq0jBN4ajy7ouZIV1c"
     },
     {
         "ranking": "13",
@@ -130,7 +136,8 @@
         "title": "luther",
         "artist": "Kendrick Lamar",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/50/c2/cc/50c2cc95-3658-9417-0d4b-831abde44ba1/24UM1IM28978.rgb.jpg/80x80bb.webp",
-        "appleID": "luther/1781270323"
+        "appleID": "luther/1781270323",
+        "youtubeID": "4_taypLmSMU"
     },
     {
         "ranking": "20",
@@ -158,7 +165,9 @@
         "title": "Hai sa ne iubim ca nemtii",
         "artist": "Dani Mocanu",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ac/82/4e/ac824e75-bdb0-dede-3969-d8fa03f382e4/cover.jpg/80x80bb.webp",
-        "appleID": "hai-sa-ne-iubim-ca-nemtii/1756129546"
+        "appleID": "hai-sa-ne-iubim-ca-nemtii/1756129546",
+        "youtubeID": "NYuBwlEWWm0",
+        "spotifyID": "2yUZv6utvoeV0B79YSn7pq"
     },
     {
         "ranking": "24",
@@ -207,7 +216,8 @@
         "title": "tv off (feat. Lefty Gunplay)",
         "artist": "Kendrick Lamar",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/50/c2/cc/50c2cc95-3658-9417-0d4b-831abde44ba1/24UM1IM28978.rgb.jpg/80x80bb.webp",
-        "appleID": "tv-off-feat-lefty-gunplay/1781270540"
+        "appleID": "tv-off-feat-lefty-gunplay/1781270540",
+        "youtubeID": "U8F5G5wR1mk"
     },
     {
         "ranking": "31",
@@ -256,7 +266,8 @@
         "title": "BIRDS OF A FEATHER",
         "artist": "Billie Eilish",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
-        "appleID": "birds-of-a-feather/1739659142"
+        "appleID": "birds-of-a-feather/1739659142",
+        "youtubeID": "V9PVRfjEBTI"
     },
     {
         "ranking": "38",
@@ -305,7 +316,9 @@
         "title": "Messy",
         "artist": "Lola Young",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d4/85/6b/d4856be7-64d4-5c70-5d5d-18552f826426/24UMGIM46883.rgb.jpg/80x80bb.webp",
-        "appleID": "messy/1743250261"
+        "appleID": "messy/1743250261",
+        "youtubeID": "k-k2_Liofy8",
+        "spotifyID": "35ISBknsCeZQtq66xABI9g"
     },
     {
         "ranking": "45",
@@ -347,14 +360,17 @@
         "title": "HIGHEST IN THE ROOM",
         "artist": "Travis Scott",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/30/5f/c4/305fc4b4-155d-8e67-7c7a-8eb35032fbcb/886448042792.jpg/80x80bb.webp",
-        "appleID": "highest-in-the-room/1481874619"
+        "appleID": "highest-in-the-room/1481874619",
+        "spotifyID": "3eekarcy7kvN4yt5ZFzltW"
     },
     {
         "ranking": "51",
         "title": "WILDFLOWER",
         "artist": "Billie Eilish",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
-        "appleID": "wildflower/1739659144"
+        "appleID": "wildflower/1739659144",
+        "youtubeID": "IWKyykQBRKo",
+        "spotifyID": "3QaPy1KgI7nu9FJEQUgn6h"
     },
     {
         "ranking": "52",
@@ -368,7 +384,8 @@
         "title": "Type Shit",
         "artist": "Future",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4e/9f/7b/4e9f7b71-28ad-a8dc-9b34-da532feb82f6/196871937382.jpg/80x80bb.webp",
-        "appleID": "type-shit/1737150156"
+        "appleID": "type-shit/1737150156",
+        "youtubeID": "I0fgkcTbBoI"
     },
     {
         "ranking": "54",
@@ -382,7 +399,9 @@
         "title": "goosebumps",
         "artist": "Travis Scott",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/50/f7/a3/50f7a39d-3bd5-28e9-0264-532f08b5b810/886446074726.jpg/80x80bb.webp",
-        "appleID": "goosebumps/1150135924"
+        "appleID": "goosebumps/1150135924",
+        "youtubeID": "Dst9gZkq1a8",
+        "spotifyID": "6gBFPUFcJLzWGx4lenP6h2"
     },
     {
         "ranking": "56",
@@ -410,7 +429,8 @@
         "title": "El chapo",
         "artist": "Dani Mocanu",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/20/3d/73/203d7350-05ce-3678-2b26-d5af01735556/cover.jpg/80x80bb.webp",
-        "appleID": "el-chapo/1720228536"
+        "appleID": "el-chapo/1720228536",
+        "spotifyID": "08J3tcESmdRb8IjT12FG50"
     },
     {
         "ranking": "60",
@@ -424,7 +444,9 @@
         "title": "Bad Dreams",
         "artist": "Teddy Swims",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/cd/5d/64/cd5d64c2-338b-00c9-52d6-578a0f19d826/054391245908.jpg/80x80bb.webp",
-        "appleID": "bad-dreams/1765799904"
+        "appleID": "bad-dreams/1765799904",
+        "youtubeID": "Qh8QwVYOSVU",
+        "spotifyID": "3nHuKdFJZm78CoeBnDcFKe"
     },
     {
         "ranking": "62",
@@ -452,7 +474,8 @@
         "title": "Ia-ma Du-ma",
         "artist": "Babasha",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/ad/a4/aa/ada4aa6e-d170-6810-a695-3a24bc2f871b/cover.jpg/80x80bb.webp",
-        "appleID": "ia-ma-du-ma/1701178945"
+        "appleID": "ia-ma-du-ma/1701178945",
+        "spotifyID": "7dpjndI7KXtTVAERTplKMw"
     },
     {
         "ranking": "66",
@@ -466,7 +489,8 @@
         "title": "Like That",
         "artist": "Future",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4e/9f/7b/4e9f7b71-28ad-a8dc-9b34-da532feb82f6/196871937382.jpg/80x80bb.webp",
-        "appleID": "like-that/1737150439"
+        "appleID": "like-that/1737150439",
+        "youtubeID": "N9bKBAA22Go"
     },
     {
         "ranking": "68",
@@ -487,14 +511,16 @@
         "title": "Winter Ahead",
         "artist": "V",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9b/7a/b8/9b7ab83b-c635-42fa-a3d3-f8ede6e5920e/198704250583_Cover.jpg/80x80bb.webp",
-        "appleID": "winter-ahead/1780285815"
+        "appleID": "winter-ahead/1780285815",
+        "youtubeID": "HAWYOuMGkK0"
     },
     {
         "ranking": "71",
         "title": "Dancing In The Flames",
         "artist": "The Weeknd",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/34/7e/9f/347e9f54-2d74-820f-a910-68d01f044fcf/24UMGIM95646.rgb.jpg/80x80bb.webp",
-        "appleID": "dancing-in-the-flames/1767511513"
+        "appleID": "dancing-in-the-flames/1767511513",
+        "youtubeID": "gu0_ixJMx5U"
     },
     {
         "ranking": "72",
@@ -550,7 +576,7 @@
         "title": "Trance",
         "artist": "Metro Boomin",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/09/72/3b/09723b88-9b18-e466-7ae0-05a17688bb52/22UM1IM35114.rgb.jpg/80x80bb.webp",
-        "appleID": "trance/1657271969"
+        "appleID": "trance/1671276658"
     },
     {
         "ranking": "80",
@@ -564,7 +590,8 @@
         "title": "A venit poliția (From \"Candidatul perfect\" The Movie)",
         "artist": "Theo Rose",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ce/c6/6c/cec66c83-db8e-3f7e-4830-d8dff710bb92/cover.jpg/80x80bb.webp",
-        "appleID": "a-venit-poli%C8%9Bia-from-candidatul-perfect-the-movie/1772034093"
+        "appleID": "a-venit-poli%C8%9Bia-from-candidatul-perfect-the-movie/1772034093",
+        "youtubeID": "BnG6AXPNbco"
     },
     {
         "ranking": "82",
@@ -592,7 +619,8 @@
         "title": "FE!N (feat. Playboi Carti)",
         "artist": "Travis Scott",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/09/7d/b0/097db06f-8403-3cf7-7510-139e570ca66b/196871341882.jpg/80x80bb.webp",
-        "appleID": "fe-n-feat-playboi-carti/1699712651"
+        "appleID": "fe-n-feat-playboi-carti/1699712651",
+        "youtubeID": "B9synWjqBn8"
     },
     {
         "ranking": "86",
@@ -641,7 +669,9 @@
         "title": "Vreau",
         "artist": "Sami G",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/11/97/27/119727b4-33f6-e8e0-6616-5bbbc57e2a9d/cover.jpg/80x80bb.webp",
-        "appleID": "vreau/1774463706"
+        "appleID": "vreau/1774463706",
+        "youtubeID": "bU4-CGxCXNM",
+        "spotifyID": "6fi9kxR0M6S2chzb2O4YIy"
     },
     {
         "ranking": "93",
