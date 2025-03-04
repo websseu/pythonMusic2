@@ -53,7 +53,8 @@
         "title": "Horror",
         "artist": "Chillmaster Music",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/61/0d/05/610d0590-fffb-c27c-ed0e-ca32386d32e8/artwork.jpg/80x80bb.webp",
-        "appleID": "horror/1780980429"
+        "appleID": "horror/1780980429",
+        "youtubeID": "RRYMMtdlNpE"
     },
     {
         "ranking": "9",
@@ -88,7 +89,8 @@
         "title": "luther",
         "artist": "Kendrick Lamar",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/50/c2/cc/50c2cc95-3658-9417-0d4b-831abde44ba1/24UM1IM28978.rgb.jpg/80x80bb.webp",
-        "appleID": "luther/1781270323"
+        "appleID": "luther/1781270323",
+        "youtubeID": "4_taypLmSMU"
     },
     {
         "ranking": "14",
@@ -109,21 +111,24 @@
         "title": "Sunday",
         "artist": "Mugaratia",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/6f/ad/0f/6fad0f58-9f0c-68a4-df9b-e363eaff9a87/198999165685.jpg/80x80bb.webp",
-        "appleID": "sunday/1778775329"
+        "appleID": "sunday/1778775329",
+        "youtubeID": "1nXZJ7Lw6XM"
     },
     {
         "ranking": "17",
         "title": "Mvura",
         "artist": "Bagga",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b1/ba/15/b1ba156d-1a56-1590-b808-b2cd08b5ed27/198704229268_Cover.jpg/80x80bb.webp",
-        "appleID": "mvura/1777433645"
+        "appleID": "mvura/1777433645",
+        "youtubeID": "kQMm8HWe6PU"
     },
     {
         "ranking": "18",
         "title": "Not Like Us",
         "artist": "Kendrick Lamar",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d0/ef/b6/d0efb685-73be-fdee-58c9-be655f4cd4fd/24UMGIM51924.rgb.jpg/80x80bb.webp",
-        "appleID": "not-like-us/1744776167"
+        "appleID": "not-like-us/1744776167",
+        "youtubeID": "H58vbez_m4E"
     },
     {
         "ranking": "19",
@@ -144,7 +149,8 @@
         "title": "Kudiwa Chaizvo",
         "artist": "Chillmaster Music",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/be/be/3e/bebe3ed5-6b17-1ef0-c633-e186fbb4b1d7/artwork.jpg/80x80bb.webp",
-        "appleID": "kudiwa-chaizvo/1773298919"
+        "appleID": "kudiwa-chaizvo/1773298919",
+        "youtubeID": "ca6vCId0SDs"
     },
     {
         "ranking": "22",
@@ -200,7 +206,8 @@
         "title": "tv off (feat. Lefty Gunplay)",
         "artist": "Kendrick Lamar",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/50/c2/cc/50c2cc95-3658-9417-0d4b-831abde44ba1/24UM1IM28978.rgb.jpg/80x80bb.webp",
-        "appleID": "tv-off-feat-lefty-gunplay/1781270540"
+        "appleID": "tv-off-feat-lefty-gunplay/1781270540",
+        "youtubeID": "U8F5G5wR1mk"
     },
     {
         "ranking": "30",
@@ -270,7 +277,8 @@
         "title": "Muchandizwawo",
         "artist": "Freeman HKD",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/76/c7/ca/76c7ca2d-3665-afb4-e4c9-f6346d19a321/cover.jpg/80x80bb.webp",
-        "appleID": "muchandizwawo/1775275313"
+        "appleID": "muchandizwawo/1775275313",
+        "youtubeID": "fF3yHsxBBHk"
     },
     {
         "ranking": "40",
@@ -319,7 +327,8 @@
         "title": "KANTE (feat. Fave)",
         "artist": "Davido",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/40/12/87/4012878d-d267-09b8-7fe0-8c3fd8fdf169/886449553617.jpg/80x80bb.webp",
-        "appleID": "kante-feat-fave/1675379770"
+        "appleID": "kante-feat-fave/1675379770",
+        "youtubeID": "3bFPDfWReN0"
     },
     {
         "ranking": "47",
@@ -368,7 +377,8 @@
         "title": "Makanaka",
         "artist": "Chillmaster Music",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/16/84/14/16841466-4083-dea6-ecf7-dca66bdfc68a/artwork.jpg/80x80bb.webp",
-        "appleID": "makanaka/1761768969"
+        "appleID": "makanaka/1761768969",
+        "youtubeID": "dPp-UBEFfoo"
     },
     {
         "ranking": "54",
@@ -501,7 +511,9 @@
         "title": "Die With A Smile",
         "artist": "Lady Gaga",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/11/ae/f2/11aef294-f57c-bab9-c9fc-529162984e62/24UMGIM85348.rgb.jpg/80x80bb.webp",
-        "appleID": "die-with-a-smile/1762656732"
+        "appleID": "die-with-a-smile/1762656732",
+        "youtubeID": "kPa7bsKwL-c",
+        "spotifyID": "2plbrEY59IikOBgBGLjaoe"
     },
     {
         "ranking": "73",
@@ -515,7 +527,8 @@
         "title": "Fona",
         "artist": "Delroy Shewe",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c3/a8/c8/c3a8c899-7f8a-5817-4f78-0aeaae87728d/artwork.jpg/80x80bb.webp",
-        "appleID": "fona/1760880835"
+        "appleID": "fona/1760880835",
+        "youtubeID": "pH2P03qa5mE"
     },
     {
         "ranking": "75",
@@ -529,7 +542,8 @@
         "title": "Butter Margarine",
         "artist": "Master H",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cf/ab/54/cfab5464-c341-4308-4a2c-3c5734dbcc67/artwork.jpg/80x80bb.webp",
-        "appleID": "butter-margarine/1760325307"
+        "appleID": "butter-margarine/1760325307",
+        "youtubeID": "NZ8idmCE17M"
     },
     {
         "ranking": "77",
@@ -578,7 +592,8 @@
         "title": "Mweya Mutsvene",
         "artist": "The Unveiled",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/da/f4/cc/daf4ccd8-f920-72d5-0e6e-219f3f6733de/artwork.jpg/80x80bb.webp",
-        "appleID": "mweya-mutsvene/1761445298"
+        "appleID": "mweya-mutsvene/1761445298",
+        "youtubeID": "Wg3fipHRjx0"
     },
     {
         "ranking": "84",
@@ -592,7 +607,8 @@
         "title": "Baddest In The Room",
         "artist": "Fridayy",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/02/46/d4/0246d497-10cb-e048-2eb7-27207844905e/24UMGIM61141.rgb.jpg/80x80bb.webp",
-        "appleID": "baddest-in-the-room/1750796336"
+        "appleID": "baddest-in-the-room/1750796336",
+        "youtubeID": "uijhGM3pVCY"
     },
     {
         "ranking": "86",
@@ -620,7 +636,8 @@
         "title": "Kana Ndanyura",
         "artist": "Killer T",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/42/66/63/426663ca-2809-240f-8ecc-6291ccb547c0/cover.jpg/80x80bb.webp",
-        "appleID": "kana-ndanyura/1744213877"
+        "appleID": "kana-ndanyura/1744213877",
+        "youtubeID": "9ZjfDoP3Vec"
     },
     {
         "ranking": "90",
