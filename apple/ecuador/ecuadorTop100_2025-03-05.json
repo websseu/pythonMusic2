@@ -102,21 +102,27 @@
         "title": "Qué Pasaría...",
         "artist": "Rauw Alejandro",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ab/e8/09/abe8092d-ef44-61b9-6b50-ab7efb78ca51/196872401516.jpg/80x80bb.webp",
-        "appleID": "qu%C3%A9-pasar%C3%ADa/1775462855"
+        "appleID": "qu%C3%A9-pasar%C3%ADa/1775462855",
+        "youtubeID": "g08y_x83d5E",
+        "spotifyID": "0l0vcZMU7AOeQmUIREoI2U"
     },
     {
         "ranking": "16",
         "title": "EL CLúB",
         "artist": "Bad Bunny",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/90/5e/7e/905e7ed5-a8fa-a8f3-cd06-0028fdf3afaa/199066342442.jpg/80x80bb.webp",
-        "appleID": "el-cl%C3%BAb/1787023008"
+        "appleID": "el-cl%C3%BAb/1783419694",
+        "youtubeID": "7f6SxWMOpdU",
+        "spotifyID": "3zOgFY5kpQ6p2cwPIquZks"
     },
     {
         "ranking": "17",
         "title": "Moscow Mule",
         "artist": "Bad Bunny",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/3e/04/eb/3e04ebf6-370f-f59d-ec84-2c2643db92f1/196626945068.jpg/80x80bb.webp",
-        "appleID": "moscow-mule/1622045625"
+        "appleID": "moscow-mule/1622045625",
+        "youtubeID": "p38WgakuYDo",
+        "spotifyID": "6Xom58OOXk2SoU711L2IXO"
     },
     {
         "ranking": "18",
@@ -130,14 +136,18 @@
         "title": "Khé?",
         "artist": "Rauw Alejandro",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ab/e8/09/abe8092d-ef44-61b9-6b50-ab7efb78ca51/196872401516.jpg/80x80bb.webp",
-        "appleID": "kh%C3%A9/1775463293"
+        "appleID": "kh%C3%A9/1775463293",
+        "youtubeID": "7SNycTMOF74",
+        "spotifyID": "1YYfyJ2yCvGFCxwjsIqEK9"
     },
     {
         "ranking": "20",
         "title": "Si Antes Te Hubiera Conocido",
         "artist": "KAROL G",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a0/60/94/a060947c-54d8-0fad-c558-eed12600224c/24UMGIM62705.rgb.jpg/80x80bb.webp",
-        "appleID": "si-antes-te-hubiera-conocido/1752031539"
+        "appleID": "si-antes-te-hubiera-conocido/1752031539",
+        "youtubeID": "QCZZwZQ4qNs",
+        "spotifyID": "6WatFBLVB0x077xWeoVc2k"
     },
     {
         "ranking": "21",
@@ -179,7 +189,9 @@
         "title": "SORRY 4 THAT MUCH",
         "artist": "Feid",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9c/20/ab/9c20ab01-62e6-239c-fcce-79dc1d711ac1/24UMGIM61720.rgb.jpg/80x80bb.webp",
-        "appleID": "sorry-4-that-much/1750132050"
+        "appleID": "sorry-4-that-much/1750132050",
+        "youtubeID": "Q2ftMmazZCU",
+        "spotifyID": "63pLfjK6FvcYJYMGwtHjd6"
     },
     {
         "ranking": "27",
@@ -249,7 +261,9 @@
         "title": "Die With A Smile",
         "artist": "Lady Gaga",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/11/ae/f2/11aef294-f57c-bab9-c9fc-529162984e62/24UMGIM85348.rgb.jpg/80x80bb.webp",
-        "appleID": "die-with-a-smile/1762656732"
+        "appleID": "die-with-a-smile/1762656732",
+        "youtubeID": "kPa7bsKwL-c",
+        "spotifyID": "2plbrEY59IikOBgBGLjaoe"
     },
     {
         "ranking": "37",
@@ -277,7 +291,8 @@
         "title": "Not Like Us",
         "artist": "Kendrick Lamar",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d0/ef/b6/d0efb685-73be-fdee-58c9-be655f4cd4fd/24UMGIM51924.rgb.jpg/80x80bb.webp",
-        "appleID": "not-like-us/1744776167"
+        "appleID": "not-like-us/1744776167",
+        "youtubeID": "H58vbez_m4E"
     },
     {
         "ranking": "41",
@@ -298,7 +313,8 @@
         "title": "DILUVIO",
         "artist": "Rauw Alejandro",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/d2/1a/63/d21a6376-80b9-ce89-e4f3-af3f0b70acf9/196871287098.jpg/80x80bb.webp",
-        "appleID": "diluvio/1695651429"
+        "appleID": "diluvio/1695651429",
+        "spotifyID": "2kz1YOhJiNubjigR1gB1VX"
     },
     {
         "ranking": "44",
@@ -361,7 +377,9 @@
         "title": "Cosas Pendientes",
         "artist": "Maluma",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0e/51/1e/0e511e91-3327-6fe2-c0cf-b0ef3a34d941/196872618396.jpg/80x80bb.webp",
-        "appleID": "cosas-pendientes/1777477770"
+        "appleID": "cosas-pendientes/1777477770",
+        "youtubeID": "6vPhcRew8hA",
+        "spotifyID": "0iVEujJcafOBnxa654fJYu"
     },
     {
         "ranking": "53",
@@ -375,7 +393,8 @@
         "title": "AMARGURA",
         "artist": "KAROL G",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/9b/01/44/9b0144e6-21ae-b53f-2b25-ef6c594b18a3/22UM1IM38716.rgb.jpg/80x80bb.webp",
-        "appleID": "amargura/1670246089"
+        "appleID": "amargura/1670246089",
+        "spotifyID": "505v13epFXodT9fVAJ6h8k"
     },
     {
         "ranking": "55",
@@ -389,7 +408,9 @@
         "title": "Tu Boda",
         "artist": "Óscar Maydon",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e0/f4/2b/e0f42b78-81c3-81a3-aefb-bad4927c21c7/196872471342.jpg/80x80bb.webp",
-        "appleID": "tu-boda/1769510706"
+        "appleID": "tu-boda/1769510706",
+        "youtubeID": "_ymicn0_GYc",
+        "spotifyID": "1cOboCuWYI2osTOfolMRS6"
     },
     {
         "ranking": "57",
@@ -410,21 +431,25 @@
         "title": "Feliz Cumpleaños Ferxxo",
         "artist": "Feid",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/54/90/df/5490dfaf-d6a4-579c-f6e4-81fd59f6ae3f/22UM1IM04831.rgb.jpg/80x80bb.webp",
-        "appleID": "feliz-cumplea%C3%B1os-ferxxo/1645032135"
+        "appleID": "feliz-cumplea%C3%B1os-ferxxo/1645032135",
+        "spotifyID": "2CeKVsFFXG4QzA415QygGb"
     },
     {
         "ranking": "60",
         "title": "Pa' Que La Pases Bien",
         "artist": "Arcángel",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/22/4e/72/224e725e-aa32-9332-626c-98ea931d984e/898717002017_art.jpg/80x80bb.webp",
-        "appleID": "pa-que-la-pases-bien/1247228818"
+        "appleID": "pa-que-la-pases-bien/1247228818",
+        "spotifyID": "1pLCpA1RN8avJxSD3ZCwhj"
     },
     {
         "ranking": "61",
         "title": "APT.",
         "artist": "ROSÉ",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2d/1a/7d/2d1a7d91-587e-0ceb-d434-327bd66d9e86/075679628312.jpg/80x80bb.webp",
-        "appleID": "apt/1773452221"
+        "appleID": "apt/1773452221",
+        "youtubeID": "ekr2nIex040",
+        "spotifyID": "4wJ5Qq0jBN4ajy7ouZIV1c"
     },
     {
         "ranking": "62",
@@ -466,7 +491,8 @@
         "title": "LA FALDA",
         "artist": "Myke Towers",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/fd/f9/40/fdf9402c-95ae-8152-17b0-984649c6172a/5054197903205.jpg/80x80bb.webp",
-        "appleID": "la-falda/1717187395"
+        "appleID": "la-falda/1717187395",
+        "spotifyID": "7iUtQNMRB8ZkKC4AmEuCJC"
     },
     {
         "ranking": "68",
@@ -487,7 +513,8 @@
         "title": "La Bachata",
         "artist": "Manuel Turizo",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/df/70/11/df701101-9f0f-3c43-ff6d-2186235d7e9c/196589129123.jpg/80x80bb.webp",
-        "appleID": "la-bachata/1624563284"
+        "appleID": "la-bachata/1624563284",
+        "spotifyID": "3tt9i3Hhzq84dPS8H7iSiJ"
     },
     {
         "ranking": "71",
@@ -522,7 +549,9 @@
         "title": "Déjame Entrar",
         "artist": "Rauw Alejandro",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ab/e8/09/abe8092d-ef44-61b9-6b50-ab7efb78ca51/196872401516.jpg/80x80bb.webp",
-        "appleID": "d%C3%A9jame-entrar/1775462852"
+        "appleID": "d%C3%A9jame-entrar/1775462852",
+        "youtubeID": "UUzmHevEneY",
+        "spotifyID": "5tZgkV8FTe3rtl8OcSeQAb"
     },
     {
         "ranking": "76",
@@ -571,7 +600,9 @@
         "title": "Me Rehúso",
         "artist": "Danny Ocean",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/38/8c/26/388c26af-a2d3-bb9c-391d-bf02e3b2319c/190296949630.jpg/80x80bb.webp",
-        "appleID": "me-reh%C3%BAso/1248528301"
+        "appleID": "me-reh%C3%BAso/1248528301",
+        "youtubeID": "LbKcHy9cav0",
+        "spotifyID": "6ifUES3keWjwXgae8pXI3o"
     },
     {
         "ranking": "83",
@@ -620,7 +651,9 @@
         "title": "Morena",
         "artist": "Beéle",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/06/2c/f8/062cf8f3-7c49-3b18-381d-bced7074d124/196871583756.jpg/80x80bb.webp",
-        "appleID": "morena/1715068097"
+        "appleID": "morena/1715068097",
+        "youtubeID": "4dyjL34qDis",
+        "spotifyID": "4RPeZbmVON5ZKT5HC9wALt"
     },
     {
         "ranking": "90",
@@ -662,14 +695,16 @@
         "title": "luther",
         "artist": "Kendrick Lamar",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/50/c2/cc/50c2cc95-3658-9417-0d4b-831abde44ba1/24UM1IM28978.rgb.jpg/80x80bb.webp",
-        "appleID": "luther/1781270323"
+        "appleID": "luther/1781270323",
+        "youtubeID": "4_taypLmSMU"
     },
     {
         "ranking": "96",
         "title": "Dile",
         "artist": "Don Omar",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/71/44/ab/7144ab43-17de-e8a2-fa09-21f333ec3485/06UMGIM15438.rgb.jpg/80x80bb.webp",
-        "appleID": "dile/1467968652"
+        "appleID": "dile/1467968652",
+        "spotifyID": "69Ej1xrGjOcHvIMtMKxK0G"
     },
     {
         "ranking": "97",
