@@ -88,7 +88,8 @@
         "title": "Cocoa Tea",
         "artist": "Kes",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f6/57/69/f65769d6-86f9-dde2-56c1-2580a73805d8/198937079722_cover.jpg/80x80bb.webp",
-        "appleID": "cocoa-tea/1778350176"
+        "appleID": "cocoa-tea/1778350176",
+        "youtubeID": "GiKDPyAADeM"
     },
     {
         "ranking": "14",
@@ -130,7 +131,8 @@
         "title": "luther",
         "artist": "Kendrick Lamar",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/50/c2/cc/50c2cc95-3658-9417-0d4b-831abde44ba1/24UM1IM28978.rgb.jpg/80x80bb.webp",
-        "appleID": "luther/1781270323"
+        "appleID": "luther/1781270323",
+        "youtubeID": "4_taypLmSMU"
     },
     {
         "ranking": "20",
@@ -144,7 +146,8 @@
         "title": "7:00 (Raw)",
         "artist": "Malie Donn",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a4/8c/7c/a48c7c31-b161-eb07-a068-46d746a47c60/199066249772.jpg/80x80bb.webp",
-        "appleID": "7-00-raw/1784818257"
+        "appleID": "7-00-raw/1784818257",
+        "youtubeID": "PdoPIpKdsPI"
     },
     {
         "ranking": "22",
@@ -207,7 +210,8 @@
         "title": "I Love Freaks (feat. Tafari)",
         "artist": "Mafi",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/04/15/54/04155481-0a27-a1a7-8d5f-6709d8f0c435/0.jpg/80x80bb.webp",
-        "appleID": "i-love-freaks-feat-tafari/1699261591"
+        "appleID": "i-love-freaks-feat-tafari/1699261591",
+        "youtubeID": "4kfjaTlRpMU"
     },
     {
         "ranking": "31",
@@ -270,14 +274,16 @@
         "title": "Tack Back",
         "artist": "Kes",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/42/69/91/42699164-471e-3f97-11bb-44bdc47b2092/197999406248_cover.jpg/80x80bb.webp",
-        "appleID": "tack-back/1714834281"
+        "appleID": "tack-back/1714834281",
+        "youtubeID": "PYz2vfTPJK8"
     },
     {
         "ranking": "40",
         "title": "Cups Up",
         "artist": "Malie Donn",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/23/49/26/2349266a-4fd1-4c96-8ddd-8a21cfe23227/197189042348.jpg/80x80bb.webp",
-        "appleID": "cups-up/1691201515"
+        "appleID": "cups-up/1691201515",
+        "youtubeID": "_7OrZfivZqE"
     },
     {
         "ranking": "41",
@@ -326,7 +332,8 @@
         "title": "Timeless",
         "artist": "The Weeknd",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/40/77/cb/4077cbd1-b6a0-d8df-b9d3-e9a339dbc0ea/24UM1IM04061.rgb.jpg/80x80bb.webp",
-        "appleID": "timeless/1770380890"
+        "appleID": "timeless/1770380890",
+        "youtubeID": "5EpyN_6dqyk"
     },
     {
         "ranking": "48",
@@ -347,7 +354,8 @@
         "title": "Not Like Us",
         "artist": "Kendrick Lamar",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d0/ef/b6/d0efb685-73be-fdee-58c9-be655f4cd4fd/24UMGIM51924.rgb.jpg/80x80bb.webp",
-        "appleID": "not-like-us/1744776167"
+        "appleID": "not-like-us/1744776167",
+        "youtubeID": "H58vbez_m4E"
     },
     {
         "ranking": "51",
@@ -396,7 +404,8 @@
         "title": "Big Breeze",
         "artist": "SQUASH",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/6a/f9/fa/6af9fa33-cf44-388d-0e4d-8d2b2c48eafb/198391892738.jpg/80x80bb.webp",
-        "appleID": "big-breeze/1742858758"
+        "appleID": "big-breeze/1742858758",
+        "youtubeID": "Yo3QyiD28Dc"
     },
     {
         "ranking": "58",
@@ -410,21 +419,24 @@
         "title": "Believe",
         "artist": "Prince Swanny",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a0/df/92/a0df9286-9199-5198-1ad7-0cfbd6bd38c2/0.jpg/80x80bb.webp",
-        "appleID": "believe/1776653328"
+        "appleID": "believe/1776653328",
+        "youtubeID": "VrJPHxcDLnk"
     },
     {
         "ranking": "60",
         "title": "IKATION",
         "artist": "Kraff Gad",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/60/20/f4/6020f4c1-f374-3745-6720-c3e9e2ac51c9/artwork.jpg/80x80bb.webp",
-        "appleID": "ikation/1768079373"
+        "appleID": "ikation/1768079373",
+        "youtubeID": "W7Ymf9DiBJA"
     },
     {
         "ranking": "61",
         "title": "Whites",
         "artist": "Masicka",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/26/01/27/260127e0-4a19-a2ce-f778-6263789a148d/0.jpg/80x80bb.webp",
-        "appleID": "whites/1777116735"
+        "appleID": "whites/1777116735",
+        "youtubeID": "2C0mGEfQnt4"
     },
     {
         "ranking": "62",
@@ -459,7 +471,8 @@
         "title": "tv off (feat. Lefty Gunplay)",
         "artist": "Kendrick Lamar",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/50/c2/cc/50c2cc95-3658-9417-0d4b-831abde44ba1/24UM1IM28978.rgb.jpg/80x80bb.webp",
-        "appleID": "tv-off-feat-lefty-gunplay/1781270540"
+        "appleID": "tv-off-feat-lefty-gunplay/1781270540",
+        "youtubeID": "U8F5G5wR1mk"
     },
     {
         "ranking": "67",
@@ -536,7 +549,8 @@
         "title": "BIRDS OF A FEATHER",
         "artist": "Billie Eilish",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
-        "appleID": "birds-of-a-feather/1739659142"
+        "appleID": "birds-of-a-feather/1739659142",
+        "youtubeID": "V9PVRfjEBTI"
     },
     {
         "ranking": "78",
@@ -571,7 +585,9 @@
         "title": "Snooze",
         "artist": "SZA",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/bd/3b/a9/bd3ba9fb-9609-144f-bcfe-ead67b5f6ab3/196589564931.jpg/80x80bb.webp",
-        "appleID": "snooze/1657869492"
+        "appleID": "snooze/1657869492",
+        "youtubeID": "LDY_XyxBu8A",
+        "spotifyID": "4iZ4pt7kvcaH6Yo8UoZ4s2"
     },
     {
         "ranking": "83",
@@ -592,7 +608,8 @@
         "title": "Obsessed",
         "artist": "Kman 6ixx",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d3/60/4d/d3604dc5-0150-aaba-35eb-b320ee619c15/872132904644_bigleaguecover.jpg/80x80bb.webp",
-        "appleID": "obsessed/1758810621"
+        "appleID": "obsessed/1758810621",
+        "youtubeID": "alAoJuqFsMI"
     },
     {
         "ranking": "86",
@@ -606,7 +623,9 @@
         "title": "Die With A Smile",
         "artist": "Lady Gaga",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/11/ae/f2/11aef294-f57c-bab9-c9fc-529162984e62/24UMGIM85348.rgb.jpg/80x80bb.webp",
-        "appleID": "die-with-a-smile/1762656732"
+        "appleID": "die-with-a-smile/1762656732",
+        "youtubeID": "kPa7bsKwL-c",
+        "spotifyID": "2plbrEY59IikOBgBGLjaoe"
     },
     {
         "ranking": "88",
@@ -669,7 +688,8 @@
         "title": "Dungeon",
         "artist": "Malie Donn",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/e0/98/07/e09807c9-4e01-c8b0-c950-bf603332eb00/197189683930.jpg/80x80bb.webp",
-        "appleID": "dungeon/1703655702"
+        "appleID": "dungeon/1703655702",
+        "youtubeID": "Q4LoZSRlnfg"
     },
     {
         "ranking": "97",
@@ -683,14 +703,17 @@
         "title": "WILDFLOWER",
         "artist": "Billie Eilish",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
-        "appleID": "wildflower/1739659144"
+        "appleID": "wildflower/1739659144",
+        "youtubeID": "IWKyykQBRKo",
+        "spotifyID": "3QaPy1KgI7nu9FJEQUgn6h"
     },
     {
         "ranking": "99",
         "title": "Shubout",
         "artist": "SQUASH",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/34/87/4d/34874d3d-0881-d5f9-818b-75ae7b31a420/198588751008.jpg/80x80bb.webp",
-        "appleID": "shubout/1757871236"
+        "appleID": "shubout/1757871236",
+        "youtubeID": "jltjjqz0-Rg"
     },
     {
         "ranking": "100",

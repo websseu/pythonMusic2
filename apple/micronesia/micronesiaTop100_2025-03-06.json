@@ -4,14 +4,16 @@
         "title": "luther",
         "artist": "Kendrick Lamar",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/50/c2/cc/50c2cc95-3658-9417-0d4b-831abde44ba1/24UM1IM28978.rgb.jpg/80x80bb.webp",
-        "appleID": "luther/1781270323"
+        "appleID": "luther/1781270323",
+        "youtubeID": "4_taypLmSMU"
     },
     {
         "ranking": "2",
         "title": "tv off (feat. Lefty Gunplay)",
         "artist": "Kendrick Lamar",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/50/c2/cc/50c2cc95-3658-9417-0d4b-831abde44ba1/24UM1IM28978.rgb.jpg/80x80bb.webp",
-        "appleID": "tv-off-feat-lefty-gunplay/1781270540"
+        "appleID": "tv-off-feat-lefty-gunplay/1781270540",
+        "youtubeID": "U8F5G5wR1mk"
     },
     {
         "ranking": "3",
@@ -165,7 +167,8 @@
         "title": "Not Like Us",
         "artist": "Kendrick Lamar",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d0/ef/b6/d0efb685-73be-fdee-58c9-be655f4cd4fd/24UMGIM51924.rgb.jpg/80x80bb.webp",
-        "appleID": "not-like-us/1744776167"
+        "appleID": "not-like-us/1744776167",
+        "youtubeID": "H58vbez_m4E"
     },
     {
         "ranking": "25",
@@ -277,7 +280,7 @@
         "title": "POOKIE'S REQUIEM",
         "artist": "SAILORR",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f4/d3/5c/f4d35ce0-41f1-835a-a212-9279aa795efc/797885496850.jpg/80x80bb.webp",
-        "appleID": "pookies-requiem/1783225440"
+        "appleID": "pookies-requiem/1776916375"
     },
     {
         "ranking": "41",
@@ -298,7 +301,8 @@
         "title": "Fast Car",
         "artist": "Luke Combs",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/7d/24/14/7d241439-671a-d957-9613-2f738f43a064/196589485991.jpg/80x80bb.webp",
-        "appleID": "fast-car/1666738585"
+        "appleID": "fast-car/1666738585",
+        "spotifyID": "1Lo0QY9cvc8sUB2vnIOxDT"
     },
     {
         "ranking": "44",
@@ -382,7 +386,8 @@
         "title": "I Love You So",
         "artist": "The Walters",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/95/a5/14/95a514ab-1f06-81dd-8a60-f7ca13a172ce/054391911063.jpg/80x80bb.webp",
-        "appleID": "i-love-you-so/1591338975"
+        "appleID": "i-love-you-so/1591338975",
+        "spotifyID": "4SqWKzw0CbA05TGszDgMlc"
     },
     {
         "ranking": "56",
@@ -508,7 +513,8 @@
         "title": "Save Your Tears",
         "artist": "The Weeknd",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/6f/bc/e6/6fbce6c4-c38c-72d8-4fd0-66cfff32f679/20UMGIM12176.rgb.jpg/80x80bb.webp",
-        "appleID": "save-your-tears/1499378613"
+        "appleID": "save-your-tears/1499378613",
+        "youtubeID": "XXYlFuWEuKI"
     },
     {
         "ranking": "74",
@@ -613,7 +619,9 @@
         "title": "Last Night",
         "artist": "Morgan Wallen",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/86/cc/00/86cc001c-2efc-9ebb-8290-17f4f3ba3e4a/23UMGIM08087.rgb.jpg/80x80bb.webp",
-        "appleID": "last-night/1667990774"
+        "appleID": "last-night/1667990774",
+        "youtubeID": "bUjPPBxbQrQ",
+        "spotifyID": "7K3BhSpAxZBznislvUMVtn"
     },
     {
         "ranking": "89",
