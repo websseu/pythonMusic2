@@ -4,28 +4,33 @@
         "title": "Who",
         "artist": "Jimin",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/94/b5/84/94b58450-a0cd-ab97-2f30-0ed3608b5e24/196922987588_Cover.jpg/80x80bb.webp",
-        "appleID": "who/1751773093"
+        "appleID": "who/1751773093",
+        "youtubeID": "Av9DvtlJ9_M"
     },
     {
         "ranking": "2",
         "title": "Be Mine",
         "artist": "Jimin",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/94/b5/84/94b58450-a0cd-ab97-2f30-0ed3608b5e24/196922987588_Cover.jpg/80x80bb.webp",
-        "appleID": "be-mine/1751773088"
+        "appleID": "be-mine/1751773088",
+        "youtubeID": "MYrZ5T3jFmA",
+        "spotifyID": "3LWVXp636uLT356Rj08Jaz"
     },
     {
         "ranking": "3",
         "title": "Winter Ahead",
         "artist": "V",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9b/7a/b8/9b7ab83b-c635-42fa-a3d3-f8ede6e5920e/198704250583_Cover.jpg/80x80bb.webp",
-        "appleID": "winter-ahead/1780285815"
+        "appleID": "winter-ahead/1780285815",
+        "youtubeID": "HAWYOuMGkK0"
     },
     {
         "ranking": "4",
         "title": "Who (Rock Remix)",
         "artist": "Jimin",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/25/03/6b/25036b82-3a20-1b25-4a76-10d60dd994ed/198704057328_Cover.jpg/80x80bb.webp",
-        "appleID": "who-rock-remix/1757558460"
+        "appleID": "who-rock-remix/1757558460",
+        "youtubeID": "Av9DvtlJ9_M"
     },
     {
         "ranking": "5",
@@ -39,14 +44,16 @@
         "title": "Who (Acoustic Remix)",
         "artist": "Jimin",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/25/03/6b/25036b82-3a20-1b25-4a76-10d60dd994ed/198704057328_Cover.jpg/80x80bb.webp",
-        "appleID": "who-acoustic-remix/1757558459"
+        "appleID": "who-acoustic-remix/1757558459",
+        "youtubeID": "Av9DvtlJ9_M"
     },
     {
         "ranking": "7",
         "title": "Who (Instrumental)",
         "artist": "Jimin",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/25/03/6b/25036b82-3a20-1b25-4a76-10d60dd994ed/198704057328_Cover.jpg/80x80bb.webp",
-        "appleID": "who-instrumental/1757558458"
+        "appleID": "who-instrumental/1757558458",
+        "youtubeID": "Av9DvtlJ9_M"
     },
     {
         "ranking": "8",
@@ -74,7 +81,9 @@
         "title": "Like Crazy",
         "artist": "Jimin",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/41/a1/a5/41a1a5cb-22ac-0cef-a48c-5d00b1727320/196922330674_Cover.jpg/80x80bb.webp",
-        "appleID": "like-crazy/1676947244"
+        "appleID": "like-crazy/1676947244",
+        "youtubeID": "nOI67IDlNMQ",
+        "spotifyID": "3Ua0m0YmEjrMi9XErKcNiR"
     },
     {
         "ranking": "12",
@@ -88,7 +97,8 @@
         "title": "Interlude : Showtime",
         "artist": "Jimin",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/94/b5/84/94b58450-a0cd-ab97-2f30-0ed3608b5e24/196922987588_Cover.jpg/80x80bb.webp",
-        "appleID": "interlude-showtime/1751773082"
+        "appleID": "interlude-showtime/1751773082",
+        "spotifyID": "45zLrK0668WQ5JFMyiYmCS"
     },
     {
         "ranking": "14",
@@ -102,28 +112,31 @@
         "title": "Smeraldo Garden Marching Band",
         "artist": "Jimin",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e1/16/4b/e1164b5b-d6bf-b22d-d5b2-746f85771f93/198704027765_Cover.jpg/80x80bb.webp",
-        "appleID": "smeraldo-garden-marching-band/1752552299"
+        "appleID": "smeraldo-garden-marching-band/1757558449"
     },
     {
         "ranking": "16",
         "title": "Who (Shibuyakei Remix)",
         "artist": "Jimin",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/21/30/c9/2130c9ee-eea1-8502-b912-185368a987f3/198704057335_Cover.jpg/80x80bb.webp",
-        "appleID": "who-shibuyakei-remix/1757553588"
+        "appleID": "who-shibuyakei-remix/1757553588",
+        "youtubeID": "Av9DvtlJ9_M"
     },
     {
         "ranking": "17",
         "title": "Closer Than This",
         "artist": "Jimin",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/8b/db/48/8bdb480c-86f8-7aeb-5897-41fd76bac031/196922764974_Cover.jpg/80x80bb.webp",
-        "appleID": "closer-than-this/1721409260"
+        "appleID": "closer-than-this/1721409260",
+        "spotifyID": "6qafqn8bBMy7t5c5WqpyRk"
     },
     {
         "ranking": "18",
         "title": "Winter Ahead (YUNSEOKCHEOL TRIO Ver.)",
         "artist": "V",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/97/86/5c/97865ccb-8b63-5192-74c4-e462deb01564/198704274565_Cover.jpg/80x80bb.webp",
-        "appleID": "winter-ahead-yunseokcheol-trio-ver/1785149567"
+        "appleID": "winter-ahead-yunseokcheol-trio-ver/1785149567",
+        "youtubeID": "HAWYOuMGkK0"
     },
     {
         "ranking": "19",
@@ -137,7 +150,8 @@
         "title": "Пожары",
         "artist": "XOLIDAYBOY",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/b5/ca/b3/b5cab33e-b047-f423-dadc-badfc0bb7f57/cover.jpg/80x80bb.webp",
-        "appleID": "%D0%BF%D0%BE%D0%B6%D0%B0%D1%80%D1%8B/1731327366"
+        "appleID": "%D0%BF%D0%BE%D0%B6%D0%B0%D1%80%D1%8B/1731327366",
+        "spotifyID": "5pZaiIokYGUANMAJiZg8tt"
     },
     {
         "ranking": "21",
@@ -165,7 +179,8 @@
         "title": "Running Wild",
         "artist": "Jin",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c5/21/a1/c521a133-2a4d-05da-205f-19093c53cd55/198704169175_Cover.jpg/80x80bb.webp",
-        "appleID": "running-wild/1772351326"
+        "appleID": "running-wild/1772351326",
+        "youtubeID": "uoHol5Dr_go"
     },
     {
         "ranking": "25",
@@ -193,7 +208,8 @@
         "title": "Never Let Go",
         "artist": "Jung Kook",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e5/f3/c9/e5f3c985-f8d6-a279-bf20-ce14ec423af5/196922987656_Cover.jpg/80x80bb.webp",
-        "appleID": "never-let-go/1748194068"
+        "appleID": "never-let-go/1748194068",
+        "youtubeID": "J_n4Ysi5iUM"
     },
     {
         "ranking": "29",
@@ -214,14 +230,16 @@
         "title": "Seven",
         "artist": "Jung Kook",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/a5/a6/56/a5a6561a-f570-2fb1-5a3a-95b150c18f18/196922550928_Cover.jpg/80x80bb.webp",
-        "appleID": "seven/1697147752"
+        "appleID": "seven/1697147752",
+        "youtubeID": "QU9c0053UAU"
     },
     {
         "ranking": "32",
         "title": "Falling",
         "artist": "Jin",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6d/f5/39/6df53982-7294-1111-f384-efaa009bf4df/198704257827_Cover.jpg/80x80bb.webp",
-        "appleID": "falling/1781211223"
+        "appleID": "falling/1772351433",
+        "spotifyID": "5jxuw4S5IDEY6CjjAHvRAt"
     },
     {
         "ranking": "33",
@@ -249,21 +267,25 @@
         "title": "Beautiful Things",
         "artist": "Benson Boone",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f2/ee/92/f2ee9219-370a-9b2a-5061-93dd1f8a530b/5059460307407.jpg/80x80bb.webp",
-        "appleID": "beautiful-things/1751265643"
+        "appleID": "beautiful-things/1751265643",
+        "youtubeID": "Oa_RSwwpPaA"
     },
     {
         "ranking": "37",
         "title": "Come back to me",
         "artist": "RM",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/65/8e/78/658e78ae-253d-2b9c-ed83-3f623e607d36/196922948947_Cover.jpg/80x80bb.webp",
-        "appleID": "come-back-to-me/1742630454"
+        "appleID": "come-back-to-me/1742630454",
+        "youtubeID": "NrfikKxF4Ps"
     },
     {
         "ranking": "38",
         "title": "Be Mine (English Version)",
         "artist": "Jimin",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e4/2f/ab/e42fab67-51c7-6f8f-4482-846e1a949d3a/198704079474_Cover.jpg/80x80bb.webp",
-        "appleID": "be-mine-english-version/1759236956"
+        "appleID": "be-mine/1751773088",
+        "youtubeID": "MYrZ5T3jFmA",
+        "spotifyID": "3LWVXp636uLT356Rj08Jaz"
     },
     {
         "ranking": "39",
@@ -333,14 +355,16 @@
         "title": "Haegeum",
         "artist": "Agust D",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/6d/46/83/6d4683b6-ab6f-db69-aa58-4a5a69c93fd6/196922439957_Cover.jpg/80x80bb.webp",
-        "appleID": "haegeum/1681823696"
+        "appleID": "haegeum/1681823696",
+        "spotifyID": "4bjN59DRXFRxBE1g5ne6B1"
     },
     {
         "ranking": "49",
         "title": "Standing Next to You",
         "artist": "Jung Kook",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/86/78/b4/8678b4b3-2341-7239-b6cb-bcfdaef0e4e0/196922656545_Cover.jpg/80x80bb.webp",
-        "appleID": "standing-next-to-you/1709554997"
+        "appleID": "standing-next-to-you/1709554997",
+        "youtubeID": "UNo0TG9LwwI"
     },
     {
         "ranking": "50",
@@ -410,7 +434,9 @@
         "title": "Like Crazy (English Version)",
         "artist": "Jimin",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/41/a1/a5/41a1a5cb-22ac-0cef-a48c-5d00b1727320/196922330674_Cover.jpg/80x80bb.webp",
-        "appleID": "like-crazy-english-version/1676947499"
+        "appleID": "like-crazy/1676947244",
+        "youtubeID": "nOI67IDlNMQ",
+        "spotifyID": "3Ua0m0YmEjrMi9XErKcNiR"
     },
     {
         "ranking": "60",
@@ -515,7 +541,8 @@
         "title": "Love Me Again",
         "artist": "V",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/93/51/e0/9351e0b4-a565-4232-d797-f60ca3aba82f/196922580031_Cover.jpg/80x80bb.webp",
-        "appleID": "love-me-again/1700687141"
+        "appleID": "love-me-again/1700687141",
+        "spotifyID": "2N0SPREDYqILVEFSsWF5N5"
     },
     {
         "ranking": "75",
@@ -585,14 +612,15 @@
         "title": "FRI(END)S",
         "artist": "V",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7d/dc/72/7ddc72a0-14e3-b92a-8b69-ec3ade3d9ed4/196922882227_Cover.jpg/80x80bb.webp",
-        "appleID": "fri-end-s/1734862500"
+        "appleID": "fri-end-s/1734862500",
+        "youtubeID": "62peQdQv4uo"
     },
     {
         "ranking": "85",
         "title": "Somebody",
         "artist": "Jung Kook",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/86/78/b4/8678b4b3-2341-7239-b6cb-bcfdaef0e4e0/196922656545_Cover.jpg/80x80bb.webp",
-        "appleID": "somebody/1709555091"
+        "appleID": "somebody/1715412526"
     },
     {
         "ranking": "86",
@@ -627,7 +655,8 @@
         "title": "Dynamite",
         "artist": "BTS",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/f7/68/9c/f7689ce3-6d41-60cd-62d2-57a91ddf5b9d/196922067341_Cover.jpg/80x80bb.webp",
-        "appleID": "dynamite/1627575419"
+        "appleID": "dynamite/1627575419",
+        "youtubeID": "gdZLi9oWNZg"
     },
     {
         "ranking": "91",
@@ -662,7 +691,8 @@
         "title": "In the End",
         "artist": "LINKIN PARK",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/53/a7/7f/53a77fab-c54c-a57b-8130-248fc12d0c80/093624948995.jpg/80x80bb.webp",
-        "appleID": "in-the-end/590431785"
+        "appleID": "in-the-end/590431785",
+        "spotifyID": "60a0Rd6pjrkxjPbaKzXjfq"
     },
     {
         "ranking": "96",

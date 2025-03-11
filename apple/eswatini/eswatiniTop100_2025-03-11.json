@@ -81,14 +81,16 @@
         "title": "Esandleni",
         "artist": "Nontokozo Mkhize",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/20/b0/e6/20b0e6c8-6230-d857-4830-a7648f2c006a/197342852265_cover.jpg/80x80bb.webp",
-        "appleID": "esandleni/1782983765"
+        "appleID": "esandleni/1782983765",
+        "spotifyID": "7LTDINonhUaOiWTyN3AxCI"
     },
     {
         "ranking": "13",
         "title": "luther",
         "artist": "Kendrick Lamar",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/50/c2/cc/50c2cc95-3658-9417-0d4b-831abde44ba1/24UM1IM28978.rgb.jpg/80x80bb.webp",
-        "appleID": "luther/1781270323"
+        "appleID": "luther/1781270323",
+        "youtubeID": "4_taypLmSMU"
     },
     {
         "ranking": "14",
@@ -200,7 +202,8 @@
         "title": "Ungukuphila",
         "artist": "Xolly Mncwango",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/62/ef/48/62ef4827-2918-3966-f444-8a5b19ed54cc/20UMGIM85001.rgb.jpg/80x80bb.webp",
-        "appleID": "ungukuphila/1535816932"
+        "appleID": "ungukuphila/1535816932",
+        "spotifyID": "53wwaMp15eGyE12Cm7sxLa"
     },
     {
         "ranking": "30",
@@ -221,7 +224,8 @@
         "title": "Not Like Us",
         "artist": "Kendrick Lamar",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d0/ef/b6/d0efb685-73be-fdee-58c9-be655f4cd4fd/24UMGIM51924.rgb.jpg/80x80bb.webp",
-        "appleID": "not-like-us/1744776167"
+        "appleID": "not-like-us/1744776167",
+        "youtubeID": "H58vbez_m4E"
     },
     {
         "ranking": "33",
@@ -431,7 +435,9 @@
         "title": "Snooze",
         "artist": "SZA",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/bd/3b/a9/bd3ba9fb-9609-144f-bcfe-ead67b5f6ab3/196589564931.jpg/80x80bb.webp",
-        "appleID": "snooze/1657869492"
+        "appleID": "snooze/1657869492",
+        "youtubeID": "LDY_XyxBu8A",
+        "spotifyID": "4iZ4pt7kvcaH6Yo8UoZ4s2"
     },
     {
         "ranking": "63",
@@ -459,7 +465,9 @@
         "title": "WILDFLOWER",
         "artist": "Billie Eilish",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
-        "appleID": "wildflower/1739659144"
+        "appleID": "wildflower/1739659144",
+        "youtubeID": "IWKyykQBRKo",
+        "spotifyID": "3QaPy1KgI7nu9FJEQUgn6h"
     },
     {
         "ranking": "67",
@@ -585,7 +593,8 @@
         "title": "man at the garden",
         "artist": "Kendrick Lamar",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/50/c2/cc/50c2cc95-3658-9417-0d4b-831abde44ba1/24UM1IM28978.rgb.jpg/80x80bb.webp",
-        "appleID": "man-at-the-garden/1781270326"
+        "appleID": "man-at-the-garden/1781270326",
+        "youtubeID": "wiALRpD0Ztg"
     },
     {
         "ranking": "85",
@@ -627,7 +636,9 @@
         "title": "Die With A Smile",
         "artist": "Lady Gaga",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/11/ae/f2/11aef294-f57c-bab9-c9fc-529162984e62/24UMGIM85348.rgb.jpg/80x80bb.webp",
-        "appleID": "die-with-a-smile/1762656732"
+        "appleID": "die-with-a-smile/1762656732",
+        "youtubeID": "kPa7bsKwL-c",
+        "spotifyID": "2plbrEY59IikOBgBGLjaoe"
     },
     {
         "ranking": "91",
@@ -662,7 +673,8 @@
         "title": "CPR",
         "artist": "Summer Walker",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/7c/1e/1a/7c1e1a21-013c-f31d-dc2c-c8118439641d/18UMGIM66021.rgb.jpg/80x80bb.webp",
-        "appleID": "cpr/1438765140"
+        "appleID": "cpr/1438765140",
+        "youtubeID": "1eomjy9Xy3M"
     },
     {
         "ranking": "96",
