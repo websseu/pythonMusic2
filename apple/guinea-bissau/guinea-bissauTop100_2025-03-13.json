@@ -375,21 +375,22 @@
         "title": "Pipoca",
         "artist": "Vado Más Ki Ás",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/97/6b/c3/976bc331-c7e1-497a-cae3-c265d05c2fef/0.jpg/80x80bb.webp",
-        "appleID": "pipoca/1800012172"
+        "appleID": "pipoca/1741641134"
     },
     {
         "ranking": "55",
         "title": "Viver",
         "artist": "Vado Más Ki Ás",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/06/ff/2c/06ff2c02-a8de-ae8e-fa6c-63a42f52002a/0.jpg/80x80bb.webp",
-        "appleID": "viver/1800012206"
+        "appleID": "viver/1735756216"
     },
     {
         "ranking": "56",
         "title": "Só Fé",
         "artist": "Grelo",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6a/25/43/6a254386-9530-cbdd-0ad1-6efa4ef4e23e/76f8eca1-ec9e-4f5f-99bb-6878c1968846.jpg/80x80bb.webp",
-        "appleID": "s%C3%B3-f%C3%A9/1758466678"
+        "appleID": "s%C3%B3-f%C3%A9/1758466678",
+        "spotifyID": "0bPP5cDG1ZnbAVCEa3ZbQ1"
     },
     {
         "ranking": "57",
@@ -578,7 +579,8 @@
         "title": "Deixa o Clima Rolar",
         "artist": "Badoxa",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2d/e0/e9/2de0e9a2-a547-de54-26e6-620a569e0825/0.jpg/80x80bb.webp",
-        "appleID": "deixa-o-clima-rolar/1766747554"
+        "appleID": "deixa-o-clima-rolar/1766747554",
+        "youtubeID": "7EGzMoUEskw"
     },
     {
         "ranking": "84",
