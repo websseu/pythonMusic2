@@ -60,7 +60,9 @@
         "title": "4 Kampé",
         "artist": "Joé Dwèt Filé",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/05/32/0a/05320ae3-1eef-3cd6-8f19-9ad9f078fa25/cover.jpg/80x80bb.webp",
-        "appleID": "4-kamp%C3%A9/1773819412"
+        "appleID": "4-kamp%C3%A9/1773819412",
+        "youtubeID": "Srvt_6up-0o",
+        "spotifyID": "7dzuYJwwtNnfcptmbD58aJ"
     },
     {
         "ranking": "10",
@@ -95,7 +97,7 @@
         "title": "Atena (Instrumental)",
         "artist": "DJ Nelasta Nel Flow",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ab/11/f5/ab11f52f-490d-0971-2498-d5751f261554/198500646962.jpg/80x80bb.webp",
-        "appleID": "atena-instrumental/1741258764"
+        "appleID": "atena/1741258762"
     },
     {
         "ranking": "15",
@@ -564,14 +566,16 @@
         "title": "tv off (feat. Lefty Gunplay)",
         "artist": "Kendrick Lamar",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/50/c2/cc/50c2cc95-3658-9417-0d4b-831abde44ba1/24UM1IM28978.rgb.jpg/80x80bb.webp",
-        "appleID": "tv-off-feat-lefty-gunplay/1781270540"
+        "appleID": "tv-off-feat-lefty-gunplay/1781270540",
+        "youtubeID": "U8F5G5wR1mk"
     },
     {
         "ranking": "82",
         "title": "Só Fé",
         "artist": "Grelo",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6a/25/43/6a254386-9530-cbdd-0ad1-6efa4ef4e23e/76f8eca1-ec9e-4f5f-99bb-6878c1968846.jpg/80x80bb.webp",
-        "appleID": "s%C3%B3-f%C3%A9/1758466678"
+        "appleID": "s%C3%B3-f%C3%A9/1758466678",
+        "spotifyID": "0bPP5cDG1ZnbAVCEa3ZbQ1"
     },
     {
         "ranking": "83",
@@ -641,7 +645,8 @@
         "title": "Commas",
         "artist": "Ayra Starr",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/fa/d4/c4/fad4c4ce-2b3f-0304-8965-3c618987824e/24UMGIM51453.rgb.jpg/80x80bb.webp",
-        "appleID": "commas/1745016096"
+        "appleID": "commas/1759261970",
+        "youtubeID": "EhyzYPSHRQU"
     },
     {
         "ranking": "93",
