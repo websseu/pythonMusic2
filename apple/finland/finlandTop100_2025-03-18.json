@@ -60,7 +60,9 @@
         "title": "Taikuri",
         "artist": "Turisti",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/15/af/b9/15afb991-2b1c-c5c0-ad4e-2a95c6b9740d/5021732487315.jpg/80x80bb.webp",
-        "appleID": "taikuri/1768755250"
+        "appleID": "taikuri/1768755250",
+        "youtubeID": "t3EgO8j_wS0",
+        "spotifyID": "7fdNCtxfZArtOZK3hLqqm3"
     },
     {
         "ranking": "10",
@@ -74,7 +76,9 @@
         "title": "Die With A Smile",
         "artist": "Lady Gaga",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/11/ae/f2/11aef294-f57c-bab9-c9fc-529162984e62/24UMGIM85348.rgb.jpg/80x80bb.webp",
-        "appleID": "die-with-a-smile/1762656732"
+        "appleID": "die-with-a-smile/1762656732",
+        "youtubeID": "kPa7bsKwL-c",
+        "spotifyID": "2plbrEY59IikOBgBGLjaoe"
     },
     {
         "ranking": "12",
@@ -95,7 +99,9 @@
         "title": "Diva",
         "artist": "Averagekidluke",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/80/d9/20/80d92029-9721-67be-3fe7-d748f47a07a9/5021732542021.jpg/80x80bb.webp",
-        "appleID": "diva/1777810477"
+        "appleID": "diva/1777810477",
+        "youtubeID": "LJ0GFkS5RZw",
+        "spotifyID": "6zLzNEyVqtyZoohE75maSy"
     },
     {
         "ranking": "15",
@@ -137,7 +143,9 @@
         "title": "Timanttei",
         "artist": "Mirella",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/0d/55/be/0d55bef3-3606-8c34-6615-7587a7e51335/23UM1IM65059.rgb.jpg/80x80bb.webp",
-        "appleID": "timanttei/1721431952"
+        "appleID": "timanttei/1721431952",
+        "youtubeID": "I4hrPA2a9RI",
+        "spotifyID": "36lT6tdND08VVvv3HwbhZD"
     },
     {
         "ranking": "21",
@@ -158,7 +166,8 @@
         "title": "Timeless",
         "artist": "The Weeknd",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/40/77/cb/4077cbd1-b6a0-d8df-b9d3-e9a339dbc0ea/24UM1IM04061.rgb.jpg/80x80bb.webp",
-        "appleID": "timeless/1770380890"
+        "appleID": "timeless/1770380890",
+        "youtubeID": "5EpyN_6dqyk"
     },
     {
         "ranking": "24",
@@ -172,7 +181,9 @@
         "title": "APT.",
         "artist": "ROSÉ",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2d/1a/7d/2d1a7d91-587e-0ceb-d434-327bd66d9e86/075679628312.jpg/80x80bb.webp",
-        "appleID": "apt/1773452221"
+        "appleID": "apt/1773452221",
+        "youtubeID": "ekr2nIex040",
+        "spotifyID": "4wJ5Qq0jBN4ajy7ouZIV1c"
     },
     {
         "ranking": "26",
@@ -214,7 +225,8 @@
         "title": "Not Like Us",
         "artist": "Kendrick Lamar",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d0/ef/b6/d0efb685-73be-fdee-58c9-be655f4cd4fd/24UMGIM51924.rgb.jpg/80x80bb.webp",
-        "appleID": "not-like-us/1744776167"
+        "appleID": "not-like-us/1744776167",
+        "youtubeID": "H58vbez_m4E"
     },
     {
         "ranking": "32",
@@ -228,7 +240,8 @@
         "title": "Disease",
         "artist": "Lady Gaga",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c7/2b/dc/c72bdc7a-7014-e5df-a106-583074c0affa/24UM1IM12462.rgb.jpg/80x80bb.webp",
-        "appleID": "disease/1775468632"
+        "appleID": "disease/1775468632",
+        "youtubeID": "fmC6b6_ovZY"
     },
     {
         "ranking": "34",
@@ -256,7 +269,8 @@
         "title": "On / Off",
         "artist": "Averagekidluke",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cc/5e/a2/cc5ea230-31c8-7b45-4ea0-4e9386068b6a/5021732466440.jpg/80x80bb.webp",
-        "appleID": "on-off/1762680743"
+        "appleID": "on-off/1762680743",
+        "spotifyID": "6jRJ1RAvdNxC1TG03VRFVg"
     },
     {
         "ranking": "38",
@@ -326,14 +340,18 @@
         "title": "WILDFLOWER",
         "artist": "Billie Eilish",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
-        "appleID": "wildflower/1739659144"
+        "appleID": "wildflower/1739659144",
+        "youtubeID": "IWKyykQBRKo",
+        "spotifyID": "3QaPy1KgI7nu9FJEQUgn6h"
     },
     {
         "ranking": "48",
         "title": "Messy",
         "artist": "Lola Young",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d4/85/6b/d4856be7-64d4-5c70-5d5d-18552f826426/24UMGIM46883.rgb.jpg/80x80bb.webp",
-        "appleID": "messy/1743250261"
+        "appleID": "messy/1743250261",
+        "youtubeID": "k-k2_Liofy8",
+        "spotifyID": "35ISBknsCeZQtq66xABI9g"
     },
     {
         "ranking": "49",
@@ -354,14 +372,17 @@
         "title": "That’s So True",
         "artist": "Gracie Abrams",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/26/78/81/26788143-5e5f-0813-2480-ecf4280ef221/24UM1IM07082.rgb.jpg/80x80bb.webp",
-        "appleID": "thats-so-true/1773474483"
+        "appleID": "thats-so-true/1773474483",
+        "youtubeID": "BDHM8cyJQa8",
+        "spotifyID": "7ne4VBA60CxGM75vw0EYad"
     },
     {
         "ranking": "52",
         "title": "BIRDS OF A FEATHER",
         "artist": "Billie Eilish",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
-        "appleID": "birds-of-a-feather/1739659142"
+        "appleID": "birds-of-a-feather/1739659142",
+        "youtubeID": "V9PVRfjEBTI"
     },
     {
         "ranking": "53",
@@ -424,7 +445,8 @@
         "title": "tv off (feat. Lefty Gunplay)",
         "artist": "Kendrick Lamar",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/50/c2/cc/50c2cc95-3658-9417-0d4b-831abde44ba1/24UM1IM28978.rgb.jpg/80x80bb.webp",
-        "appleID": "tv-off-feat-lefty-gunplay/1781270540"
+        "appleID": "tv-off-feat-lefty-gunplay/1781270540",
+        "youtubeID": "U8F5G5wR1mk"
     },
     {
         "ranking": "62",
@@ -459,7 +481,8 @@
         "title": "Espresso",
         "artist": "Sabrina Carpenter",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cb/64/8c/cb648cf7-e7bb-bd00-efe0-d744312c29a8/24UMGIM32304.rgb.jpg/80x80bb.webp",
-        "appleID": "espresso/1740212434"
+        "appleID": "espresso/1740212434",
+        "youtubeID": "eVli-tstM5E"
     },
     {
         "ranking": "67",
@@ -529,7 +552,8 @@
         "title": "luther",
         "artist": "Kendrick Lamar",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/50/c2/cc/50c2cc95-3658-9417-0d4b-831abde44ba1/24UM1IM28978.rgb.jpg/80x80bb.webp",
-        "appleID": "luther/1781270323"
+        "appleID": "luther/1781270323",
+        "youtubeID": "4_taypLmSMU"
     },
     {
         "ranking": "77",
@@ -543,7 +567,9 @@
         "title": "Good Luck, Babe!",
         "artist": "Chappell Roan",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/29/a7/c4/29a7c478-351d-25eb-a116-3e68118cdab8/24UMGIM31246.rgb.jpg/80x80bb.webp",
-        "appleID": "good-luck-babe/1737497080"
+        "appleID": "good-luck-babe/1737497080",
+        "youtubeID": "1RKqOmSkGgM",
+        "spotifyID": "0WbMK4wrZ1wFSty9F7FCgu"
     },
     {
         "ranking": "79",
@@ -557,7 +583,9 @@
         "title": "Täs mä oon",
         "artist": "Mirella",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/17/e9/ef/17e9efec-c20b-daff-14b5-f419d29057bf/24UM1IM14966.rgb.jpg/80x80bb.webp",
-        "appleID": "t%C3%A4s-m%C3%A4-oon/1775187018"
+        "appleID": "t%C3%A4s-m%C3%A4-oon/1775187018",
+        "youtubeID": "nK1_xkrRbxw",
+        "spotifyID": "5tfW3t4zAZoeftsKQI0jD0"
     },
     {
         "ranking": "81",
@@ -578,14 +606,17 @@
         "title": "CHIHIRO",
         "artist": "Billie Eilish",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
-        "appleID": "chihiro/1739659141"
+        "appleID": "chihiro/1739659141",
+        "youtubeID": "BY_XwvKogC8",
+        "spotifyID": "7BRD7x5pt8Lqa1eGYC4dzj"
     },
     {
         "ranking": "84",
         "title": "Trap Queen",
         "artist": "Averagekidluke",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cc/5e/a2/cc5ea230-31c8-7b45-4ea0-4e9386068b6a/5021732466440.jpg/80x80bb.webp",
-        "appleID": "trap-queen/1762680911"
+        "appleID": "trap-queen/1762680911",
+        "spotifyID": "5FDmZWWDKd875GWf7v6sOd"
     },
     {
         "ranking": "85",
@@ -634,7 +665,9 @@
         "title": "Löytää mut",
         "artist": "Mirella",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/3d/bd/79/3dbd7924-d9b3-9e8a-8461-14fa36f78471/24UMGIM88754.rgb.jpg/80x80bb.webp",
-        "appleID": "l%C3%B6yt%C3%A4%C3%A4-mut/1763208967"
+        "appleID": "l%C3%B6yt%C3%A4%C3%A4-mut/1763208967",
+        "youtubeID": "JzzLF2An83s",
+        "spotifyID": "47p94jgL5CekzREJnOp3M0"
     },
     {
         "ranking": "92",
@@ -655,14 +688,18 @@
         "title": "Seireeni",
         "artist": "Mirella",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/17/e9/ef/17e9efec-c20b-daff-14b5-f419d29057bf/24UM1IM14966.rgb.jpg/80x80bb.webp",
-        "appleID": "seireeni/1775187353"
+        "appleID": "seireeni/1775187353",
+        "youtubeID": "vv-jdkj8AKA",
+        "spotifyID": "2Ug8JxGX2SIRfsYogycZJc"
     },
     {
         "ranking": "95",
         "title": "Taste",
         "artist": "Sabrina Carpenter",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f6/15/d0/f615d0ab-e0c4-575d-907e-1cc084642357/24UMGIM61704.rgb.jpg/80x80bb.webp",
-        "appleID": "taste/1750307079"
+        "appleID": "taste/1750307079",
+        "youtubeID": "KEG7b851Ric",
+        "spotifyID": "5G2f63n7IPVPPjfNIGih7Q"
     },
     {
         "ranking": "96",
@@ -690,7 +727,8 @@
         "title": "Pink Pony Club",
         "artist": "Chappell Roan",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/41/bc/fb/41bcfb43-91d5-931d-5747-fb381803143f/23UMGIM21715.rgb.jpg/80x80bb.webp",
-        "appleID": "pink-pony-club/1675173768"
+        "appleID": "pink-pony-club/1675173768",
+        "spotifyID": "1k2pQc5i348DCHwbn5KTdc"
     },
     {
         "ranking": "100",

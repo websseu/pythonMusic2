@@ -25,7 +25,8 @@
         "title": "7:00 (Raw)",
         "artist": "Malie Donn",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a4/8c/7c/a48c7c31-b161-eb07-a068-46d746a47c60/199066249772.jpg/80x80bb.webp",
-        "appleID": "7-00-raw/1784818257"
+        "appleID": "7-00-raw/1784818257",
+        "youtubeID": "PdoPIpKdsPI"
     },
     {
         "ranking": "5",
@@ -74,7 +75,8 @@
         "title": "Cups Up",
         "artist": "Malie Donn",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/23/49/26/2349266a-4fd1-4c96-8ddd-8a21cfe23227/197189042348.jpg/80x80bb.webp",
-        "appleID": "cups-up/1691201515"
+        "appleID": "cups-up/1691201515",
+        "youtubeID": "_7OrZfivZqE"
     },
     {
         "ranking": "12",
@@ -95,7 +97,8 @@
         "title": "luther",
         "artist": "Kendrick Lamar",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/50/c2/cc/50c2cc95-3658-9417-0d4b-831abde44ba1/24UM1IM28978.rgb.jpg/80x80bb.webp",
-        "appleID": "luther/1781270323"
+        "appleID": "luther/1781270323",
+        "youtubeID": "4_taypLmSMU"
     },
     {
         "ranking": "15",
@@ -151,7 +154,9 @@
         "title": "4 Kampé",
         "artist": "Joé Dwèt Filé",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/05/32/0a/05320ae3-1eef-3cd6-8f19-9ad9f078fa25/cover.jpg/80x80bb.webp",
-        "appleID": "4-kamp%C3%A9/1773819412"
+        "appleID": "4-kamp%C3%A9/1773819412",
+        "youtubeID": "Srvt_6up-0o",
+        "spotifyID": "7dzuYJwwtNnfcptmbD58aJ"
     },
     {
         "ranking": "23",
@@ -179,7 +184,8 @@
         "title": "Cocoa Tea",
         "artist": "Kes",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f6/57/69/f65769d6-86f9-dde2-56c1-2580a73805d8/198937079722_cover.jpg/80x80bb.webp",
-        "appleID": "cocoa-tea/1778350176"
+        "appleID": "cocoa-tea/1778350176",
+        "youtubeID": "GiKDPyAADeM"
     },
     {
         "ranking": "27",
@@ -228,7 +234,8 @@
         "title": "Big Breeze",
         "artist": "SQUASH",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/6a/f9/fa/6af9fa33-cf44-388d-0e4d-8d2b2c48eafb/198391892738.jpg/80x80bb.webp",
-        "appleID": "big-breeze/1742858758"
+        "appleID": "big-breeze/1742858758",
+        "youtubeID": "Yo3QyiD28Dc"
     },
     {
         "ranking": "34",
@@ -249,7 +256,8 @@
         "title": "Saved by a Psalm",
         "artist": "Govana",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/27/97/62/279762d9-d9e6-46d3-b91e-286d593d75e1/198342964743_cover.jpg/80x80bb.webp",
-        "appleID": "saved-by-a-psalm/1749553132"
+        "appleID": "saved-by-a-psalm/1749553132",
+        "youtubeID": "QF-w-tdJGeI"
     },
     {
         "ranking": "37",
@@ -263,14 +271,16 @@
         "title": "25",
         "artist": "Rod Wave",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5a/37/da/5a37da14-dea1-6123-6553-4a24010657e8/196872534610.jpg/80x80bb.webp",
-        "appleID": "25/1772368558"
+        "appleID": "25/1772368558",
+        "youtubeID": "-SSgaCAsU6M"
     },
     {
         "ranking": "39",
         "title": "People",
         "artist": "Teejay",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/f8/44/69/f844695e-ed75-c4e7-6c27-e3e8627a6d12/0.jpg/80x80bb.webp",
-        "appleID": "people/1640751097"
+        "appleID": "people/1640751097",
+        "youtubeID": "iPGu2FzezW8"
     },
     {
         "ranking": "40",
@@ -319,7 +329,8 @@
         "title": "Obsessed",
         "artist": "Kman 6ixx",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d3/60/4d/d3604dc5-0150-aaba-35eb-b320ee619c15/872132904644_bigleaguecover.jpg/80x80bb.webp",
-        "appleID": "obsessed/1758810621"
+        "appleID": "obsessed/1758810621",
+        "youtubeID": "alAoJuqFsMI"
     },
     {
         "ranking": "47",
@@ -354,7 +365,8 @@
         "title": "Whites",
         "artist": "Masicka",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/26/01/27/260127e0-4a19-a2ce-f778-6263789a148d/0.jpg/80x80bb.webp",
-        "appleID": "whites/1777116735"
+        "appleID": "whites/1777116735",
+        "youtubeID": "2C0mGEfQnt4"
     },
     {
         "ranking": "52",
@@ -382,7 +394,8 @@
         "title": "Vent",
         "artist": "Byron Messia",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/4f/65/15/4f65159c-285b-5a8d-fbd6-22c6e793a4ff/23UMGIM46699.rgb.jpg/80x80bb.webp",
-        "appleID": "vent/1687535030"
+        "appleID": "vent/1687535030",
+        "youtubeID": "K-TXDSiAZjE"
     },
     {
         "ranking": "56",
@@ -452,7 +465,8 @@
         "title": "Don’t Fall",
         "artist": "Chronic Law",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d6/44/49/d64449b6-5d7f-3782-cb2c-df38546f62c8/0.jpg/80x80bb.webp",
-        "appleID": "dont-fall/1738365979"
+        "appleID": "dont-fall/1738365979",
+        "youtubeID": "CaJBWcTLgbM"
     },
     {
         "ranking": "66",
@@ -480,7 +494,8 @@
         "title": "Choppa",
         "artist": "Byron Messia",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6d/9a/1d/6d9a1d84-5f7d-d7e9-4cbf-80c892821e6f/24UMGIM01167.rgb.jpg/80x80bb.webp",
-        "appleID": "choppa/1732826749"
+        "appleID": "choppa/1732826749",
+        "youtubeID": "TDdt47nmGl8"
     },
     {
         "ranking": "70",
@@ -501,14 +516,16 @@
         "title": "Not Like Us",
         "artist": "Kendrick Lamar",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d0/ef/b6/d0efb685-73be-fdee-58c9-be655f4cd4fd/24UMGIM51924.rgb.jpg/80x80bb.webp",
-        "appleID": "not-like-us/1744776167"
+        "appleID": "not-like-us/1744776167",
+        "youtubeID": "H58vbez_m4E"
     },
     {
         "ranking": "73",
         "title": "Not Bad (feat. Boy Boy)",
         "artist": "Prince Swanny",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5f/66/35/5f66352d-cfd8-0d8d-d356-45a3d9b81e8e/797885418197_cover.jpg/80x80bb.webp",
-        "appleID": "not-bad-feat-boy-boy/1770336578"
+        "appleID": "not-bad-feat-boy-boy/1770336578",
+        "youtubeID": "gAvCeHTq9Yo"
     },
     {
         "ranking": "74",
@@ -550,7 +567,8 @@
         "title": "Moca",
         "artist": "Byron Messia",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/85/53/59/85535916-4cbe-bd4c-c60c-11a4f4dedd5a/0.jpg/80x80bb.webp",
-        "appleID": "moca/1677752731"
+        "appleID": "moca/1677752731",
+        "youtubeID": "vU5aOY0qTgM"
     },
     {
         "ranking": "80",
@@ -578,14 +596,16 @@
         "title": "Corrupt",
         "artist": "Chronic Law",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/af/f8/c6/aff8c634-5968-c3fc-da1b-ffd0633c843e/196925559737.jpg/80x80bb.webp",
-        "appleID": "corrupt/1639060183"
+        "appleID": "corrupt/1639060183",
+        "youtubeID": "BaPGK-HMEZg"
     },
     {
         "ranking": "84",
         "title": "Pestilence (feat. Tman)",
         "artist": "Kman 6ixx",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/35/61/81/35618167-3b14-6b59-122e-08dc688143d6/0.jpg/80x80bb.webp",
-        "appleID": "pestilence-feat-tman/1775470227"
+        "appleID": "pestilence-feat-tman/1775470227",
+        "youtubeID": "s75m2KHs6sw"
     },
     {
         "ranking": "85",
@@ -620,14 +640,16 @@
         "title": "Freestyle",
         "artist": "Lil Baby",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/93/e7/aa/93e7aa59-da8b-15bc-2992-5803f70fe8fa/17UM1IM55478.rgb.jpg/80x80bb.webp",
-        "appleID": "freestyle/1440929293"
+        "appleID": "freestyle/1440929293",
+        "youtubeID": "MHryuYVyHhk"
     },
     {
         "ranking": "90",
         "title": "Show Them (feat. Byron Messia & Tafari)",
         "artist": "Kman 6ixx",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/30/40/11/30401120-e645-671e-9735-d09f30aaea9e/198672189588_KmanPhoenixFront.jpg/80x80bb.webp",
-        "appleID": "show-them-feat-byron-messia-tafari/1758811868"
+        "appleID": "show-them-feat-byron-messia-tafari/1758811868",
+        "youtubeID": "bNJuspOgP1U"
     },
     {
         "ranking": "91",
@@ -662,7 +684,8 @@
         "title": "Bad Everyday (feat. Prince Swanny)",
         "artist": "Skillibeng",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/44/18/59/44185945-6345-bf90-12a6-446ea3164ef1/840200501767.jpg/80x80bb.webp",
-        "appleID": "bad-everyday-feat-prince-swanny/1646638403"
+        "appleID": "bad-everyday-feat-prince-swanny/1646638403",
+        "youtubeID": "e2OuC5dP6PM"
     },
     {
         "ranking": "96",
