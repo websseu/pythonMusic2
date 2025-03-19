@@ -4,7 +4,8 @@
         "title": "Winter Ahead",
         "artist": "V",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9b/7a/b8/9b7ab83b-c635-42fa-a3d3-f8ede6e5920e/198704250583_Cover.jpg/80x80bb.webp",
-        "appleID": "winter-ahead/1780285815"
+        "appleID": "winter-ahead/1780285815",
+        "youtubeID": "HAWYOuMGkK0"
     },
     {
         "ranking": "2",
@@ -25,7 +26,8 @@
         "title": "luther",
         "artist": "Kendrick Lamar",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/50/c2/cc/50c2cc95-3658-9417-0d4b-831abde44ba1/24UM1IM28978.rgb.jpg/80x80bb.webp",
-        "appleID": "luther/1781270323"
+        "appleID": "luther/1781270323",
+        "youtubeID": "4_taypLmSMU"
     },
     {
         "ranking": "5",
@@ -39,7 +41,8 @@
         "title": "BIRDS OF A FEATHER",
         "artist": "Billie Eilish",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
-        "appleID": "birds-of-a-feather/1739659142"
+        "appleID": "birds-of-a-feather/1739659142",
+        "youtubeID": "V9PVRfjEBTI"
     },
     {
         "ranking": "7",
@@ -53,14 +56,17 @@
         "title": "Not Like Us",
         "artist": "Kendrick Lamar",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/31/3a/3f/313a3fbc-bb8f-80c7-b5a2-e226869a38cd/24UMGIM51924.rgb.jpg/80x80bb.webp",
-        "appleID": "not-like-us/1781353929"
+        "appleID": "not-like-us/1781353929",
+        "youtubeID": "H58vbez_m4E"
     },
     {
         "ranking": "9",
         "title": "Die With A Smile",
         "artist": "Lady Gaga",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/11/ae/f2/11aef294-f57c-bab9-c9fc-529162984e62/24UMGIM85348.rgb.jpg/80x80bb.webp",
-        "appleID": "die-with-a-smile/1762656732"
+        "appleID": "die-with-a-smile/1762656732",
+        "youtubeID": "kPa7bsKwL-c",
+        "spotifyID": "2plbrEY59IikOBgBGLjaoe"
     },
     {
         "ranking": "10",
@@ -95,7 +101,9 @@
         "title": "APT.",
         "artist": "ROSÉ",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2d/1a/7d/2d1a7d91-587e-0ceb-d434-327bd66d9e86/075679628312.jpg/80x80bb.webp",
-        "appleID": "apt/1773452221"
+        "appleID": "apt/1773452221",
+        "youtubeID": "ekr2nIex040",
+        "spotifyID": "4wJ5Qq0jBN4ajy7ouZIV1c"
     },
     {
         "ranking": "15",
@@ -144,14 +152,15 @@
         "title": "All The Stars",
         "artist": "Kendrick Lamar",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/4d/16/55/4d165549-3d11-86dc-fcbf-be7fe0bcadfb/18UMGIM00002.rgb.jpg/80x80bb.webp",
-        "appleID": "all-the-stars/1440903307"
+        "appleID": "all-the-stars/1440906939"
     },
     {
         "ranking": "22",
         "title": "Apocalypse",
         "artist": "Cigarettes After Sex",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b3/5e/0f/b35e0fbe-2370-fc48-0f0c-977525e93bf2/720841214601_Cover.jpg/80x80bb.webp",
-        "appleID": "apocalypse/1217977755"
+        "appleID": "apocalypse/1215409245",
+        "spotifyID": "0yc6Gst2xkRu0eMLeRMGCX"
     },
     {
         "ranking": "23",
@@ -186,7 +195,9 @@
         "title": "Too Sweet",
         "artist": "Hozier",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a4/12/e3/a412e390-51aa-6625-9adc-d502bf1c349f/196872373004.jpg/80x80bb.webp",
-        "appleID": "too-sweet/1763072931"
+        "appleID": "too-sweet/1763072931",
+        "youtubeID": "NTpbbQUBbuo",
+        "spotifyID": "19XpFsce28aByvCC4g89tJ"
     },
     {
         "ranking": "28",
@@ -228,14 +239,15 @@
         "title": "Winter Ahead (Instrumental)",
         "artist": "V",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f0/48/bd/f048bda2-8852-f564-aae2-96a347167493/198704267888_Cover.jpg/80x80bb.webp",
-        "appleID": "winter-ahead-instrumental/1782520278"
+        "appleID": "winter-ahead-instrumental/1782520278",
+        "youtubeID": "HAWYOuMGkK0"
     },
     {
         "ranking": "34",
         "title": "White Christmas (Instrumental)",
         "artist": "V",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8e/09/4e/8e094e64-3274-d601-b5df-dbedffc447e9/198704260209_Cover.jpg/80x80bb.webp",
-        "appleID": "white-christmas-instrumental/1781229085"
+        "appleID": "white-christmas/1777448469"
     },
     {
         "ranking": "35",
@@ -249,7 +261,8 @@
         "title": "tv off (feat. Lefty Gunplay)",
         "artist": "Kendrick Lamar",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/54/28/14/54281424-eece-0935-299d-fdd2ab403f92/24UM1IM28978.rgb.jpg/80x80bb.webp",
-        "appleID": "tv-off-feat-lefty-gunplay/1781316952"
+        "appleID": "tv-off-feat-lefty-gunplay/1781270540",
+        "youtubeID": "U8F5G5wR1mk"
     },
     {
         "ranking": "37",
@@ -270,21 +283,25 @@
         "title": "Winter Ahead (YUNSEOKCHEOL TRIO Ver.)",
         "artist": "V",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/97/86/5c/97865ccb-8b63-5192-74c4-e462deb01564/198704274565_Cover.jpg/80x80bb.webp",
-        "appleID": "winter-ahead-yunseokcheol-trio-ver/1785149567"
+        "appleID": "winter-ahead-yunseokcheol-trio-ver/1785149567",
+        "youtubeID": "HAWYOuMGkK0"
     },
     {
         "ranking": "40",
         "title": "Running Wild",
         "artist": "Jin",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c5/21/a1/c521a133-2a4d-05da-205f-19093c53cd55/198704169175_Cover.jpg/80x80bb.webp",
-        "appleID": "running-wild/1772351326"
+        "appleID": "running-wild/1772351326",
+        "youtubeID": "uoHol5Dr_go"
     },
     {
         "ranking": "41",
         "title": "That’s So True",
         "artist": "Gracie Abrams",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d2/f8/99/d2f89987-d2a5-45a5-1746-c0841c7e9843/24UM1IM17286.rgb.jpg/80x80bb.webp",
-        "appleID": "thats-so-true/1775581103"
+        "appleID": "thats-so-true/1773474483",
+        "youtubeID": "BDHM8cyJQa8",
+        "spotifyID": "7ne4VBA60CxGM75vw0EYad"
     },
     {
         "ranking": "42",
@@ -319,7 +336,8 @@
         "title": "Winter Ahead (Silent Carol Ver.)",
         "artist": "V",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f0/48/bd/f048bda2-8852-f564-aae2-96a347167493/198704267888_Cover.jpg/80x80bb.webp",
-        "appleID": "winter-ahead-silent-carol-ver/1782520406"
+        "appleID": "winter-ahead-silent-carol-ver/1782520406",
+        "youtubeID": "HAWYOuMGkK0"
     },
     {
         "ranking": "47",
@@ -431,7 +449,8 @@
         "title": "Husn",
         "artist": "Anuv Jain",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/b6/3d/12/b63d1218-7bc1-f4f2-5fdd-5d1909abda1c/23UM1IM56437.rgb.jpg/80x80bb.webp",
-        "appleID": "husn/1717140552"
+        "appleID": "husn/1717140552",
+        "spotifyID": "0TL0LFcwIBF5eX7arDIKxY"
     },
     {
         "ranking": "63",
@@ -494,7 +513,9 @@
         "title": "blue",
         "artist": "yung kai",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/33/62/62/33626226-0cf3-ff64-3296-b2355de71fac/0748777703419.jpg/80x80bb.webp",
-        "appleID": "blue/1776246888"
+        "appleID": "blue/1776246888",
+        "youtubeID": "98zHKN-xSHk",
+        "spotifyID": "3be9ACTxtcL6Zm4vJRUiPG"
     },
     {
         "ranking": "72",
@@ -543,14 +564,16 @@
         "title": "Perfect",
         "artist": "Ed Sheeran",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/15/e6/e8/15e6e8a4-4190-6a8b-86c3-ab4a51b88288/190295851286.jpg/80x80bb.webp",
-        "appleID": "perfect/1193701400"
+        "appleID": "perfect/1193701400",
+        "youtubeID": "2Vv-BfVoq4g"
     },
     {
         "ranking": "79",
         "title": "Nothing Else Matters",
         "artist": "Metallica",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/9e/80/1b/9e801b06-67fa-0990-2d15-85480ad3cd46/850007452025.png/80x80bb.webp",
-        "appleID": "nothing-else-matters/1572046444"
+        "appleID": "nothing-else-matters/1572046444",
+        "youtubeID": "tAGnKpE4NCI"
     },
     {
         "ranking": "80",
@@ -641,7 +664,9 @@
         "title": "Jo Tum Mere Ho",
         "artist": "Anuv Jain",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cd/df/37/cddf37f9-9794-175e-d68f-272c8a3853b2/24UMGIM79558.rgb.jpg/80x80bb.webp",
-        "appleID": "jo-tum-mere-ho/1758669726"
+        "appleID": "jo-tum-mere-ho/1758669726",
+        "youtubeID": "ilNt2bikxDI",
+        "spotifyID": "0eCajpR75pDW0r64U6hP2x"
     },
     {
         "ranking": "93",
@@ -655,7 +680,7 @@
         "title": "Kabira (Encore)",
         "artist": "Pritam",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/62/d6/74/62d67432-0670-631f-db6a-d4bac3adae4b/8902894353328_cover.jpg/80x80bb.webp",
-        "appleID": "kabira-encore/1070912834"
+        "appleID": "kabira/1070912818"
     },
     {
         "ranking": "95",

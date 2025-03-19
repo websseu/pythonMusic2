@@ -172,7 +172,8 @@
         "title": "Carry My Heart",
         "artist": "Myshaan",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/84/56/18/845618ab-f06d-a5d3-ceda-b1080520425e/10288.jpg/80x80bb.webp",
-        "appleID": "carry-my-heart/1779243427"
+        "appleID": "carry-my-heart/1779243427",
+        "youtubeID": "N9Welk1i-XM"
     },
     {
         "ranking": "26",
@@ -256,7 +257,9 @@
         "title": "The Night We Met",
         "artist": "Lord Huron",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/29/eb/4d/29eb4db0-4e4f-06d1-5b37-cf7dcac0998d/886445056839.jpg/80x80bb.webp",
-        "appleID": "the-night-we-met/962688837"
+        "appleID": "the-night-we-met/962688837",
+        "youtubeID": "wGF7PswOENQ",
+        "spotifyID": "3hRV0jL3vUpRrcy398teAU"
     },
     {
         "ranking": "38",
@@ -277,7 +280,8 @@
         "title": "Nobody Gets Me",
         "artist": "SZA",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/bd/3b/a9/bd3ba9fb-9609-144f-bcfe-ead67b5f6ab3/196589564931.jpg/80x80bb.webp",
-        "appleID": "nobody-gets-me/1657869532"
+        "appleID": "nobody-gets-me/1657869532",
+        "spotifyID": "5Y35SjAfXjjG0sFQ3KOxmm"
     },
     {
         "ranking": "41",
@@ -298,14 +302,16 @@
         "title": "Someone You Loved",
         "artist": "Lewis Capaldi",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/05/f7/af/05f7af37-526e-5e6e-e4cd-9e4bc3da0756/18UMGIM52528.rgb.jpg/80x80bb.webp",
-        "appleID": "someone-you-loved/1441539154"
+        "appleID": "someone-you-loved/1441539154",
+        "spotifyID": "7qEHsqek33rTcFNT9PFqLf"
     },
     {
         "ranking": "44",
         "title": "greedy",
         "artist": "Tate McRae",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/23/07/92/23079247-25be-3098-ef53-78e7d0fe7406/196871341653.jpg/80x80bb.webp",
-        "appleID": "greedy/1706381103"
+        "appleID": "greedy/1706381103",
+        "spotifyID": "3rUGC1vUpkDG9CZFHMur1t"
     },
     {
         "ranking": "45",
@@ -396,7 +402,8 @@
         "title": "double take",
         "artist": "Dhruv",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/5f/ea/71/5fea71a9-7dbd-9a0c-fb8a-9f151f506f52/5056271652788.jpg/80x80bb.webp",
-        "appleID": "double-take/1591684356"
+        "appleID": "double-take/1591684356",
+        "spotifyID": "0QzuaeCEEOV40Pn7IvKEny"
     },
     {
         "ranking": "58",
@@ -438,7 +445,8 @@
         "title": "Someone Like You",
         "artist": "Adele",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/d8/e3/f9/d8e3f9ea-d6fe-9a1b-9f13-109983d3062e/191404113868.png/80x80bb.webp",
-        "appleID": "someone-like-you/1544491998"
+        "appleID": "someone-like-you/1544491998",
+        "spotifyID": "5lkpeJwmQKgY3bX2zChjxX"
     },
     {
         "ranking": "64",
@@ -480,7 +488,9 @@
         "title": "End of Beginning",
         "artist": "Djo",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/e5/94/31/e59431de-7591-58e6-c4d4-105b6373ad6a/5056494917336_1.jpg/80x80bb.webp",
-        "appleID": "end-of-beginning/1632448108"
+        "appleID": "end-of-beginning/1632448108",
+        "youtubeID": "oXSw8DGjf5E",
+        "spotifyID": "3qhlB30KknSejmIvZZLjOD"
     },
     {
         "ranking": "70",
@@ -669,7 +679,8 @@
         "title": "Those Eyes",
         "artist": "New West",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/eb/56/0b/eb560b22-e411-02e8-4608-6961e2c0d90f/23UMGIM00586.rgb.jpg/80x80bb.webp",
-        "appleID": "those-eyes/1663074502"
+        "appleID": "those-eyes/1663074502",
+        "youtubeID": "GDND88fqt1o"
     },
     {
         "ranking": "97",
