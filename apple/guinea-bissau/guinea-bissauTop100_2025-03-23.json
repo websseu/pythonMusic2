@@ -53,7 +53,9 @@
         "title": "Let Me Love You",
         "artist": "Mario",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/6b/77/72/6b777276-1f3d-8ecf-d9d2-06733e3d7dd3/828766188523.jpg/80x80bb.webp",
-        "appleID": "let-me-love-you/257524515"
+        "appleID": "let-me-love-you/257524515",
+        "youtubeID": "H64QG4UsrGI",
+        "spotifyID": "7GaFYUqP2WdR4KTPk7cXoP"
     },
     {
         "ranking": "9",
@@ -515,7 +517,8 @@
         "title": "Bring Me to Life",
         "artist": "Evanescence",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/10/4c/21/104c21e6-9ef0-4d3a-d1bd-d47167f121e5/00601501406300.rgb.jpg/80x80bb.webp",
-        "appleID": "bring-me-to-life/1440666111"
+        "appleID": "bring-me-to-life/1440666111",
+        "youtubeID": "3YxaaGgTQYM"
     },
     {
         "ranking": "75",
