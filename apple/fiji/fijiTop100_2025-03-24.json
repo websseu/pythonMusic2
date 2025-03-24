@@ -25,7 +25,8 @@
         "title": "luther",
         "artist": "Kendrick Lamar",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/50/c2/cc/50c2cc95-3658-9417-0d4b-831abde44ba1/24UM1IM28978.rgb.jpg/80x80bb.webp",
-        "appleID": "luther/1781270323"
+        "appleID": "luther/1781270323",
+        "youtubeID": "4_taypLmSMU"
     },
     {
         "ranking": "5",
@@ -39,14 +40,17 @@
         "title": "Not Like Us",
         "artist": "Kendrick Lamar",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d0/ef/b6/d0efb685-73be-fdee-58c9-be655f4cd4fd/24UMGIM51924.rgb.jpg/80x80bb.webp",
-        "appleID": "not-like-us/1744776167"
+        "appleID": "not-like-us/1744776167",
+        "youtubeID": "H58vbez_m4E"
     },
     {
         "ranking": "7",
         "title": "Die With A Smile",
         "artist": "Lady Gaga",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/11/ae/f2/11aef294-f57c-bab9-c9fc-529162984e62/24UMGIM85348.rgb.jpg/80x80bb.webp",
-        "appleID": "die-with-a-smile/1762656732"
+        "appleID": "die-with-a-smile/1762656732",
+        "youtubeID": "kPa7bsKwL-c",
+        "spotifyID": "2plbrEY59IikOBgBGLjaoe"
     },
     {
         "ranking": "8",
@@ -74,7 +78,8 @@
         "title": "BIRDS OF A FEATHER",
         "artist": "Billie Eilish",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
-        "appleID": "birds-of-a-feather/1739659142"
+        "appleID": "birds-of-a-feather/1739659142",
+        "youtubeID": "V9PVRfjEBTI"
     },
     {
         "ranking": "12",
@@ -88,7 +93,9 @@
         "title": "That’s So True",
         "artist": "Gracie Abrams",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/26/78/81/26788143-5e5f-0813-2480-ecf4280ef221/24UM1IM07082.rgb.jpg/80x80bb.webp",
-        "appleID": "thats-so-true/1773474483"
+        "appleID": "thats-so-true/1773474483",
+        "youtubeID": "BDHM8cyJQa8",
+        "spotifyID": "7ne4VBA60CxGM75vw0EYad"
     },
     {
         "ranking": "14",
@@ -137,7 +144,8 @@
         "title": "Every Night Every Morning",
         "artist": "Maoli",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/db/73/4f/db734ffc-785c-9999-be7c-f0c54458690a/0.jpg/80x80bb.webp",
-        "appleID": "every-night-every-morning/1761629618"
+        "appleID": "every-night-every-morning/1761629618",
+        "youtubeID": "20k90wvdLco"
     },
     {
         "ranking": "21",
@@ -165,28 +173,33 @@
         "title": "APT.",
         "artist": "ROSÉ",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2d/1a/7d/2d1a7d91-587e-0ceb-d434-327bd66d9e86/075679628312.jpg/80x80bb.webp",
-        "appleID": "apt/1773452221"
+        "appleID": "apt/1773452221",
+        "youtubeID": "ekr2nIex040",
+        "spotifyID": "4wJ5Qq0jBN4ajy7ouZIV1c"
     },
     {
         "ranking": "25",
         "title": "KANTE (feat. Fave)",
         "artist": "Davido",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/40/12/87/4012878d-d267-09b8-7fe0-8c3fd8fdf169/886449553617.jpg/80x80bb.webp",
-        "appleID": "kante-feat-fave/1675379770"
+        "appleID": "kante-feat-fave/1675379770",
+        "youtubeID": "3bFPDfWReN0"
     },
     {
         "ranking": "26",
         "title": "tv off (feat. Lefty Gunplay)",
         "artist": "Kendrick Lamar",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/50/c2/cc/50c2cc95-3658-9417-0d4b-831abde44ba1/24UM1IM28978.rgb.jpg/80x80bb.webp",
-        "appleID": "tv-off-feat-lefty-gunplay/1781270540"
+        "appleID": "tv-off-feat-lefty-gunplay/1781270540",
+        "youtubeID": "U8F5G5wR1mk"
     },
     {
         "ranking": "27",
         "title": "Rush",
         "artist": "Ayra Starr",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/b5/4a/3d/b54a3d1a-f493-7a9b-1807-a73f01709053/5059449090122.png/80x80bb.webp",
-        "appleID": "rush/1642898573"
+        "appleID": "rush/1642898573",
+        "youtubeID": "crtQSTYWtqE"
     },
     {
         "ranking": "28",
@@ -228,7 +241,9 @@
         "title": "WILDFLOWER",
         "artist": "Billie Eilish",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
-        "appleID": "wildflower/1739659144"
+        "appleID": "wildflower/1739659144",
+        "youtubeID": "IWKyykQBRKo",
+        "spotifyID": "3QaPy1KgI7nu9FJEQUgn6h"
     },
     {
         "ranking": "34",
@@ -256,7 +271,8 @@
         "title": "Timeless",
         "artist": "The Weeknd",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/40/77/cb/4077cbd1-b6a0-d8df-b9d3-e9a339dbc0ea/24UM1IM04061.rgb.jpg/80x80bb.webp",
-        "appleID": "timeless/1770380890"
+        "appleID": "timeless/1770380890",
+        "youtubeID": "5EpyN_6dqyk"
     },
     {
         "ranking": "38",
@@ -291,7 +307,9 @@
         "title": "Jo Tum Mere Ho",
         "artist": "Anuv Jain",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cd/df/37/cddf37f9-9794-175e-d68f-272c8a3853b2/24UMGIM79558.rgb.jpg/80x80bb.webp",
-        "appleID": "jo-tum-mere-ho/1758669726"
+        "appleID": "jo-tum-mere-ho/1758669726",
+        "youtubeID": "ilNt2bikxDI",
+        "spotifyID": "0eCajpR75pDW0r64U6hP2x"
     },
     {
         "ranking": "43",
@@ -333,14 +351,17 @@
         "title": "Beautiful Things",
         "artist": "Benson Boone",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/54/f4/92/54f49210-e260-b519-ebbd-f4f40ee710cd/054391342751.jpg/80x80bb.webp",
-        "appleID": "beautiful-things/1724488124"
+        "appleID": "beautiful-things/1724488124",
+        "youtubeID": "Oa_RSwwpPaA"
     },
     {
         "ranking": "49",
         "title": "Snooze",
         "artist": "SZA",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/bd/3b/a9/bd3ba9fb-9609-144f-bcfe-ead67b5f6ab3/196589564931.jpg/80x80bb.webp",
-        "appleID": "snooze/1657869492"
+        "appleID": "snooze/1657869492",
+        "youtubeID": "LDY_XyxBu8A",
+        "spotifyID": "4iZ4pt7kvcaH6Yo8UoZ4s2"
     },
     {
         "ranking": "50",
@@ -396,7 +417,8 @@
         "title": "Espresso",
         "artist": "Sabrina Carpenter",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cb/64/8c/cb648cf7-e7bb-bd00-efe0-d744312c29a8/24UMGIM32304.rgb.jpg/80x80bb.webp",
-        "appleID": "espresso/1740212434"
+        "appleID": "espresso/1740212434",
+        "youtubeID": "eVli-tstM5E"
     },
     {
         "ranking": "58",
@@ -445,7 +467,9 @@
         "title": "Lose Control",
         "artist": "Teddy Swims",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/36/19/66/36196640-1561-dc5e-c6bc-1e5f4befa583/093624856771.jpg/80x80bb.webp",
-        "appleID": "lose-control/1691699836"
+        "appleID": "lose-control/1691699836",
+        "youtubeID": "GZ3zL7kT6_c",
+        "spotifyID": "17phhZDn6oGtzMe56NuWvj"
     },
     {
         "ranking": "65",
@@ -466,14 +490,16 @@
         "title": "Commas",
         "artist": "Ayra Starr",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/fa/d4/c4/fad4c4ce-2b3f-0304-8965-3c618987824e/24UMGIM51453.rgb.jpg/80x80bb.webp",
-        "appleID": "commas/1745016096"
+        "appleID": "commas/1759261970",
+        "youtubeID": "EhyzYPSHRQU"
     },
     {
         "ranking": "68",
         "title": "Pink Pony Club",
         "artist": "Chappell Roan",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/41/bc/fb/41bcfb43-91d5-931d-5747-fb381803143f/23UMGIM21715.rgb.jpg/80x80bb.webp",
-        "appleID": "pink-pony-club/1675173768"
+        "appleID": "pink-pony-club/1675173768",
+        "spotifyID": "1k2pQc5i348DCHwbn5KTdc"
     },
     {
         "ranking": "69",
@@ -515,7 +541,8 @@
         "title": "peekaboo (feat. AzChike)",
         "artist": "Kendrick Lamar",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/50/c2/cc/50c2cc95-3658-9417-0d4b-831abde44ba1/24UM1IM28978.rgb.jpg/80x80bb.webp",
-        "appleID": "peekaboo-feat-azchike/1781270545"
+        "appleID": "peekaboo-feat-azchike/1781270545",
+        "youtubeID": "cbHkzwa0QmM"
     },
     {
         "ranking": "75",
@@ -557,14 +584,17 @@
         "title": "You Can Have It All",
         "artist": "Maoli",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/6e/9e/aa/6e9eaa1e-99db-22aa-5d58-0d28f7ffe61f/0.jpg/80x80bb.webp",
-        "appleID": "you-can-have-it-all/1760221502"
+        "appleID": "you-can-have-it-all/1760221502",
+        "youtubeID": "YEXzSrkRTTI"
     },
     {
         "ranking": "81",
         "title": "Bed Chem",
         "artist": "Sabrina Carpenter",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f6/15/d0/f615d0ab-e0c4-575d-907e-1cc084642357/24UMGIM61704.rgb.jpg/80x80bb.webp",
-        "appleID": "bed-chem/1750307088"
+        "appleID": "bed-chem/1750307088",
+        "youtubeID": "x8VkB8ap_FQ",
+        "spotifyID": "1UHS8Rf6h5Ar3CDWRd3wjF"
     },
     {
         "ranking": "82",
@@ -585,7 +615,8 @@
         "title": "Carry My Heart",
         "artist": "Myshaan",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/84/56/18/845618ab-f06d-a5d3-ceda-b1080520425e/10288.jpg/80x80bb.webp",
-        "appleID": "carry-my-heart/1779243427"
+        "appleID": "carry-my-heart/1779243427",
+        "youtubeID": "N9Welk1i-XM"
     },
     {
         "ranking": "85",
@@ -599,7 +630,8 @@
         "title": "Dancing In The Flames",
         "artist": "The Weeknd",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/34/7e/9f/347e9f54-2d74-820f-a910-68d01f044fcf/24UMGIM95646.rgb.jpg/80x80bb.webp",
-        "appleID": "dancing-in-the-flames/1767511513"
+        "appleID": "dancing-in-the-flames/1767511513",
+        "youtubeID": "gu0_ixJMx5U"
     },
     {
         "ranking": "87",
@@ -613,7 +645,8 @@
         "title": "FE!N (feat. Playboi Carti)",
         "artist": "Travis Scott",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/09/7d/b0/097db06f-8403-3cf7-7510-139e570ca66b/196871341882.jpg/80x80bb.webp",
-        "appleID": "fe-n-feat-playboi-carti/1699712651"
+        "appleID": "fe-n-feat-playboi-carti/1699712651",
+        "youtubeID": "B9synWjqBn8"
     },
     {
         "ranking": "89",

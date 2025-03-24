@@ -221,7 +221,8 @@
         "title": "AWAY",
         "artist": "Davido",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/40/12/87/4012878d-d267-09b8-7fe0-8c3fd8fdf169/886449553617.jpg/80x80bb.webp",
-        "appleID": "away/1675379763"
+        "appleID": "away/1675379763",
+        "youtubeID": "SbgKpHi-Cao"
     },
     {
         "ranking": "33",
@@ -305,7 +306,9 @@
         "title": "Let Me Love You",
         "artist": "Mario",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/6b/77/72/6b777276-1f3d-8ecf-d9d2-06733e3d7dd3/828766188523.jpg/80x80bb.webp",
-        "appleID": "let-me-love-you/257524515"
+        "appleID": "let-me-love-you/257524515",
+        "youtubeID": "H64QG4UsrGI",
+        "spotifyID": "7GaFYUqP2WdR4KTPk7cXoP"
     },
     {
         "ranking": "45",
@@ -557,7 +560,8 @@
         "title": "Commas",
         "artist": "Ayra Starr",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/fa/d4/c4/fad4c4ce-2b3f-0304-8965-3c618987824e/24UMGIM51453.rgb.jpg/80x80bb.webp",
-        "appleID": "commas/1745016096"
+        "appleID": "commas/1759261970",
+        "youtubeID": "EhyzYPSHRQU"
     },
     {
         "ranking": "81",
