@@ -165,7 +165,7 @@
         "title": "Late Night",
         "artist": "Victor J Sefo",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/67/7f/9c/677f9c0f-9971-d3df-43e8-ff1a1a779238/7490.jpg/80x80bb.webp",
-        "appleID": "late-night/1730643139"
+        "appleID": "late-night/1740651621"
     },
     {
         "ranking": "25",
@@ -291,7 +291,9 @@
         "title": "Soltera",
         "artist": "Shakira",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cb/e4/a5/cbe4a5ca-085e-e3ef-eda5-d521ee55bb4b/196872485844.jpg/80x80bb.webp",
-        "appleID": "soltera/1769406416"
+        "appleID": "soltera/1769406416",
+        "youtubeID": "oBofuVYDoG4",
+        "spotifyID": "3OJDtCdYs8QJnui708tEU3"
     },
     {
         "ranking": "43",
@@ -361,7 +363,8 @@
         "title": "Like I Do",
         "artist": "J.Tajor",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/e8/7c/57/e87c57a4-3520-8513-61ff-a152a948078a/176591.jpg/80x80bb.webp",
-        "appleID": "like-i-do/1724134791"
+        "appleID": "like-i-do/1724134791",
+        "youtubeID": "MW79zgnSF40"
     },
     {
         "ranking": "53",
