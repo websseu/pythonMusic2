@@ -88,7 +88,7 @@
         "title": "Viver",
         "artist": "Vado Más Ki Ás",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/06/ff/2c/06ff2c02-a8de-ae8e-fa6c-63a42f52002a/0.jpg/80x80bb.webp",
-        "appleID": "viver/1800012206"
+        "appleID": "viver/1735756216"
     },
     {
         "ranking": "14",
@@ -466,7 +466,8 @@
         "title": "Apocalypse",
         "artist": "Cigarettes After Sex",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b3/5e/0f/b35e0fbe-2370-fc48-0f0c-977525e93bf2/720841214601_Cover.jpg/80x80bb.webp",
-        "appleID": "apocalypse/1217977755"
+        "appleID": "apocalypse/1215409245",
+        "spotifyID": "0yc6Gst2xkRu0eMLeRMGCX"
     },
     {
         "ranking": "68",
@@ -571,7 +572,8 @@
         "title": "MH",
         "artist": "Fally Ipupa",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/ce/1b/91/ce1b917e-ca4a-b8bc-d56d-9bdcb4db0d21/5054197450891.jpg/80x80bb.webp",
-        "appleID": "mh/1657242236"
+        "appleID": "mh/1657242236",
+        "youtubeID": "kj0jgspgopQ"
     },
     {
         "ranking": "83",
@@ -585,7 +587,9 @@
         "title": "Let Me Love You",
         "artist": "Mario",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/6b/77/72/6b777276-1f3d-8ecf-d9d2-06733e3d7dd3/828766188523.jpg/80x80bb.webp",
-        "appleID": "let-me-love-you/257524515"
+        "appleID": "let-me-love-you/257524515",
+        "youtubeID": "H64QG4UsrGI",
+        "spotifyID": "7GaFYUqP2WdR4KTPk7cXoP"
     },
     {
         "ranking": "85",

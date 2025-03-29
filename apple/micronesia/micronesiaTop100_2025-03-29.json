@@ -81,7 +81,8 @@
         "title": "luther",
         "artist": "Kendrick Lamar",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/50/c2/cc/50c2cc95-3658-9417-0d4b-831abde44ba1/24UM1IM28978.rgb.jpg/80x80bb.webp",
-        "appleID": "luther/1781270323"
+        "appleID": "luther/1781270323",
+        "youtubeID": "4_taypLmSMU"
     },
     {
         "ranking": "13",
@@ -109,14 +110,16 @@
         "title": "Not Like Us",
         "artist": "Kendrick Lamar",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d0/ef/b6/d0efb685-73be-fdee-58c9-be655f4cd4fd/24UMGIM51924.rgb.jpg/80x80bb.webp",
-        "appleID": "not-like-us/1744776167"
+        "appleID": "not-like-us/1744776167",
+        "youtubeID": "H58vbez_m4E"
     },
     {
         "ranking": "17",
         "title": "Nobody Gets Me",
         "artist": "SZA",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/bd/3b/a9/bd3ba9fb-9609-144f-bcfe-ead67b5f6ab3/196589564931.jpg/80x80bb.webp",
-        "appleID": "nobody-gets-me/1657869532"
+        "appleID": "nobody-gets-me/1657869532",
+        "spotifyID": "5Y35SjAfXjjG0sFQ3KOxmm"
     },
     {
         "ranking": "18",
@@ -235,7 +238,7 @@
         "title": "Late Night",
         "artist": "Victor J Sefo",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/67/7f/9c/677f9c0f-9971-d3df-43e8-ff1a1a779238/7490.jpg/80x80bb.webp",
-        "appleID": "late-night/1730643139"
+        "appleID": "late-night/1740651621"
     },
     {
         "ranking": "35",
@@ -319,7 +322,8 @@
         "title": "Like I Do",
         "artist": "J.Tajor",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/e8/7c/57/e87c57a4-3520-8513-61ff-a152a948078a/176591.jpg/80x80bb.webp",
-        "appleID": "like-i-do/1724134791"
+        "appleID": "like-i-do/1724134791",
+        "youtubeID": "MW79zgnSF40"
     },
     {
         "ranking": "47",
@@ -501,7 +505,8 @@
         "title": "tv off (feat. Lefty Gunplay)",
         "artist": "Kendrick Lamar",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/50/c2/cc/50c2cc95-3658-9417-0d4b-831abde44ba1/24UM1IM28978.rgb.jpg/80x80bb.webp",
-        "appleID": "tv-off-feat-lefty-gunplay/1781270540"
+        "appleID": "tv-off-feat-lefty-gunplay/1781270540",
+        "youtubeID": "U8F5G5wR1mk"
     },
     {
         "ranking": "73",
@@ -522,7 +527,7 @@
         "title": "Good Life",
         "artist": "G-Eazy",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/ba/77/22/ba772286-cdd8-8925-aa93-784db1836d7b/075679900111.jpg/80x80bb.webp",
-        "appleID": "good-life/1210538351"
+        "appleID": "good-life/1210532123"
     },
     {
         "ranking": "76",
@@ -564,7 +569,8 @@
         "title": "Carry My Heart",
         "artist": "Myshaan",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/84/56/18/845618ab-f06d-a5d3-ceda-b1080520425e/10288.jpg/80x80bb.webp",
-        "appleID": "carry-my-heart/1779243427"
+        "appleID": "carry-my-heart/1779243427",
+        "youtubeID": "N9Welk1i-XM"
     },
     {
         "ranking": "82",
@@ -620,7 +626,8 @@
         "title": "Every Night Every Morning",
         "artist": "Maoli",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/db/73/4f/db734ffc-785c-9999-be7c-f0c54458690a/0.jpg/80x80bb.webp",
-        "appleID": "every-night-every-morning/1761629618"
+        "appleID": "every-night-every-morning/1761629618",
+        "youtubeID": "20k90wvdLco"
     },
     {
         "ranking": "90",
@@ -648,7 +655,8 @@
         "title": "I Had Some Help (feat. Morgan Wallen)",
         "artist": "Post Malone",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e1/b7/09/e1b7098f-d6e1-2b18-fd6f-8390110908eb/24UMGIM50612.rgb.jpg/80x80bb.webp",
-        "appleID": "i-had-some-help-feat-morgan-wallen/1744439049"
+        "appleID": "i-had-some-help-feat-morgan-wallen/1744439049",
+        "youtubeID": "4QIZE708gJ4"
     },
     {
         "ranking": "94",
@@ -669,7 +677,8 @@
         "title": "M a k e  I t  T o  T h e  M o r n i n g",
         "artist": "PARTYNEXTDOOR",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0d/de/c5/0ddec5e3-42f6-c550-6227-55dcd7d6b89a/39029.jpg/80x80bb.webp",
-        "appleID": "m-a-k-e-i-t-t-o-t-h-e-m-o-r-n-i-n-g/1738702855"
+        "appleID": "m-a-k-e-i-t-t-o-t-h-e-m-o-r-n-i-n-g/1738702855",
+        "spotifyID": "12VH4g5pTMZmrUVzfJq7F7"
     },
     {
         "ranking": "97",
@@ -683,7 +692,8 @@
         "title": "That's What I Like",
         "artist": "Bruno Mars",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/e3/47/a0/e347a0cc-87ce-5d05-d560-176c7d48f66e/075679904119.jpg/80x80bb.webp",
-        "appleID": "thats-what-i-like/1161504043"
+        "appleID": "thats-what-i-like/1161504043",
+        "spotifyID": "0KKkJNfGyhkQ5aFogxQAPU"
     },
     {
         "ranking": "99",
@@ -697,6 +707,6 @@
         "title": "Hit & Run (Solo Version)",
         "artist": "Shenseea",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d1/e7/09/d1e70996-be1f-a96a-3015-2d8f55a60040/24UMGIM33356.rgb.jpg/80x80bb.webp",
-        "appleID": "hit-run-solo-version/1737870691"
+        "appleID": "hit-run/1727264203"
     }
 ]
