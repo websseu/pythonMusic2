@@ -18,7 +18,9 @@
         "title": "CIEL",
         "artist": "GIMS",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7e/4a/df/7e4adfc1-7cf7-7a96-a4cb-2fc338a5b03e/cover.jpg/80x80bb.webp",
-        "appleID": "ciel/1773791057"
+        "appleID": "ciel/1773791057",
+        "youtubeID": "QS0A-CjRdAE",
+        "spotifyID": "1RiCNSkK4AfT1j8ZM4JnVs"
     },
     {
         "ranking": "4",
@@ -32,14 +34,18 @@
         "title": "CARTIER SANTOS",
         "artist": "SDM",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/64/46/95/64469515-0230-b26c-69cf-5db61f5ea879/24UMGIM72197.rgb.jpg/80x80bb.webp",
-        "appleID": "cartier-santos/1757803302"
+        "appleID": "cartier-santos/1757803302",
+        "youtubeID": "3nGdVePdlT4",
+        "spotifyID": "1Mzg6bu3hkCwJKEf7v49MN"
     },
     {
         "ranking": "6",
         "title": "4 Kampé",
         "artist": "Joé Dwèt Filé",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/05/32/0a/05320ae3-1eef-3cd6-8f19-9ad9f078fa25/cover.jpg/80x80bb.webp",
-        "appleID": "4-kamp%C3%A9/1773819412"
+        "appleID": "4-kamp%C3%A9/1773819412",
+        "youtubeID": "Srvt_6up-0o",
+        "spotifyID": "7dzuYJwwtNnfcptmbD58aJ"
     },
     {
         "ranking": "7",
@@ -74,7 +80,9 @@
         "title": "APT.",
         "artist": "ROSÉ",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2d/1a/7d/2d1a7d91-587e-0ceb-d434-327bd66d9e86/075679628312.jpg/80x80bb.webp",
-        "appleID": "apt/1773452221"
+        "appleID": "apt/1773452221",
+        "youtubeID": "ekr2nIex040",
+        "spotifyID": "4wJ5Qq0jBN4ajy7ouZIV1c"
     },
     {
         "ranking": "12",
@@ -116,7 +124,9 @@
         "title": "SOIS PAS TIMIDE",
         "artist": "GIMS",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/71/45/19/714519f5-40a6-b81a-d099-56512c4e4914/cover.jpg/80x80bb.webp",
-        "appleID": "sois-pas-timide/1757643303"
+        "appleID": "sois-pas-timide/1757643303",
+        "youtubeID": "Sq5EDI7JktA",
+        "spotifyID": "0yyFAbTlOk7DFhh6RSug9S"
     },
     {
         "ranking": "18",
@@ -144,21 +154,26 @@
         "title": "Sous la lune",
         "artist": "Jul",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/7f/06/c5/7f06c536-a0e2-b9b9-ac42-201a0c7b8291/cover.jpg/80x80bb.webp",
-        "appleID": "sous-la-lune/1665673612"
+        "appleID": "sous-la-lune/1665673612",
+        "spotifyID": "6hKkzk8UlVUj9ioPCyeH1O"
     },
     {
         "ranking": "22",
         "title": "POUR ELLE",
         "artist": "SDM",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/64/46/95/64469515-0230-b26c-69cf-5db61f5ea879/24UMGIM72197.rgb.jpg/80x80bb.webp",
-        "appleID": "pour-elle/1757803290"
+        "appleID": "pour-elle/1757803290",
+        "youtubeID": "eYG5Qg6RCyE",
+        "spotifyID": "5jX61gvbNenSDMldQrbtsU"
     },
     {
         "ranking": "23",
         "title": "Die With A Smile",
         "artist": "Lady Gaga",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/11/ae/f2/11aef294-f57c-bab9-c9fc-529162984e62/24UMGIM85348.rgb.jpg/80x80bb.webp",
-        "appleID": "die-with-a-smile/1762656732"
+        "appleID": "die-with-a-smile/1762656732",
+        "youtubeID": "kPa7bsKwL-c",
+        "spotifyID": "2plbrEY59IikOBgBGLjaoe"
     },
     {
         "ranking": "24",
@@ -172,7 +187,9 @@
         "title": "NANANI NANANA",
         "artist": "Gazo",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/01/5e/2a/015e2a71-e1bf-bd50-02ae-06e03bea3ff9/196872618525.jpg/80x80bb.webp",
-        "appleID": "nanani-nanana/1780778119"
+        "appleID": "nanani-nanana/1780778119",
+        "youtubeID": "8Bkgi6yB6P8",
+        "spotifyID": "0qlYaRFGvgR6afy1f4BBwD"
     },
     {
         "ranking": "26",
@@ -186,21 +203,27 @@
         "title": "Ça parle mal",
         "artist": "Bouss",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9e/c9/be/9ec9be96-5b08-980d-5918-7834bc558323/cover.jpg/80x80bb.webp",
-        "appleID": "%C3%A7a-parle-mal/1751725260"
+        "appleID": "%C3%A7a-parle-mal/1751725260",
+        "youtubeID": "UWbh7n6akIU",
+        "spotifyID": "7ifFhxRIvYbe4IuzIkY2Qi"
     },
     {
         "ranking": "28",
         "title": "Messy",
         "artist": "Lola Young",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d4/85/6b/d4856be7-64d4-5c70-5d5d-18552f826426/24UMGIM46883.rgb.jpg/80x80bb.webp",
-        "appleID": "messy/1743250261"
+        "appleID": "messy/1743250261",
+        "youtubeID": "k-k2_Liofy8",
+        "spotifyID": "35ISBknsCeZQtq66xABI9g"
     },
     {
         "ranking": "29",
         "title": "Minimum ça",
         "artist": "Dr. Yaro",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a7/ba/f8/a7baf8ed-265f-a88c-5fa5-74f13861b5e8/859792094922.jpg/80x80bb.webp",
-        "appleID": "minimum-%C3%A7a/1773286871"
+        "appleID": "minimum-%C3%A7a/1773286871",
+        "youtubeID": "Xjws8nS606Q",
+        "spotifyID": "4mNttG8qiVh4BKrMUrUhCI"
     },
     {
         "ranking": "30",
@@ -235,7 +258,9 @@
         "title": "Si Antes Te Hubiera Conocido",
         "artist": "KAROL G",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a0/60/94/a060947c-54d8-0fad-c558-eed12600224c/24UMGIM62705.rgb.jpg/80x80bb.webp",
-        "appleID": "si-antes-te-hubiera-conocido/1752031539"
+        "appleID": "si-antes-te-hubiera-conocido/1752031539",
+        "youtubeID": "QCZZwZQ4qNs",
+        "spotifyID": "6WatFBLVB0x077xWeoVc2k"
     },
     {
         "ranking": "35",
@@ -298,7 +323,9 @@
         "title": "Mauvais garçon",
         "artist": "Helena",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c9/55/db/c955db44-9775-785a-87b2-165c784741a2/196872648607.jpg/80x80bb.webp",
-        "appleID": "mauvais-gar%C3%A7on/1778697561"
+        "appleID": "mauvais-gar%C3%A7on/1778697561",
+        "youtubeID": "7QU6L2UfCHc",
+        "spotifyID": "32cwemsMJdzzsOYjVzfYMS"
     },
     {
         "ranking": "44",
@@ -333,7 +360,9 @@
         "title": "That’s So True",
         "artist": "Gracie Abrams",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/26/78/81/26788143-5e5f-0813-2480-ecf4280ef221/24UM1IM07082.rgb.jpg/80x80bb.webp",
-        "appleID": "thats-so-true/1773474483"
+        "appleID": "thats-so-true/1773474483",
+        "youtubeID": "BDHM8cyJQa8",
+        "spotifyID": "7ne4VBA60CxGM75vw0EYad"
     },
     {
         "ranking": "49",
@@ -368,7 +397,9 @@
         "title": "Un jour, je l'aurai",
         "artist": "Jul",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9c/66/ec/9c66ecd7-f04c-6dea-82c5-fdc216b7dcef/cover.jpg/80x80bb.webp",
-        "appleID": "un-jour-je-laurai/1779497880"
+        "appleID": "un-jour-je-laurai/1779497880",
+        "youtubeID": "bdxaG9KMnc4",
+        "spotifyID": "6uqUEyqPScFznadOkI7Nvm"
     },
     {
         "ranking": "54",
@@ -382,7 +413,9 @@
         "title": "Angela",
         "artist": "Bouss",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/88/ef/a3/88efa3f0-d8f7-1a92-6dcc-9f018f126e0c/cover.jpg/80x80bb.webp",
-        "appleID": "angela/1789519006"
+        "appleID": "angela/1779576117",
+        "youtubeID": "kMnTqDhfgSg",
+        "spotifyID": "5tl5NRfjvOEZaVuWBQHOf9"
     },
     {
         "ranking": "56",
@@ -424,7 +457,9 @@
         "title": "Monaco",
         "artist": "Guy2Bezbar",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8b/3d/d9/8b3dd98a-d961-72a2-161f-cc099c4b5689/196872257809.jpg/80x80bb.webp",
-        "appleID": "monaco/1755200186"
+        "appleID": "monaco/1755200186",
+        "youtubeID": "m3IqAolevVc",
+        "spotifyID": "2iEXkEB32esmNExcEyKjKc"
     },
     {
         "ranking": "62",
@@ -480,14 +515,17 @@
         "title": "Not Like Us",
         "artist": "Kendrick Lamar",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d0/ef/b6/d0efb685-73be-fdee-58c9-be655f4cd4fd/24UMGIM51924.rgb.jpg/80x80bb.webp",
-        "appleID": "not-like-us/1744776167"
+        "appleID": "not-like-us/1744776167",
+        "youtubeID": "H58vbez_m4E"
     },
     {
         "ranking": "70",
         "title": "Pétunias",
         "artist": "Werenoi",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c8/9b/05/c89b0549-bea5-4c63-6faa-57a6e3fc1f7a/cover.jpg/80x80bb.webp",
-        "appleID": "p%C3%A9tunias/1771385253"
+        "appleID": "p%C3%A9tunias/1771385253",
+        "youtubeID": "n2THLWjJ3Wo",
+        "spotifyID": "3Byu179ofnuChb4zF1fMhu"
     },
     {
         "ranking": "71",
@@ -501,7 +539,9 @@
         "title": "Hakayet",
         "artist": "VEN1",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/01/d2/db/01d2dba7-e4d6-83f3-0332-ea4511dab88c/859780494628.jpg/80x80bb.webp",
-        "appleID": "hakayet/1752006057"
+        "appleID": "hakayet/1752006057",
+        "youtubeID": "wszBopxvprg",
+        "spotifyID": "3PyRt7gpih7EPvV0fMWEom"
     },
     {
         "ranking": "73",
@@ -543,7 +583,8 @@
         "title": "J'me tire",
         "artist": "GIMS",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/0d/d7/a8/0dd7a80c-a96b-0b9b-97e4-5a8ee603032d/dj.cnmkrwhy.jpg/80x80bb.webp",
-        "appleID": "jme-tire/749310621"
+        "appleID": "jme-tire/749310621",
+        "youtubeID": "F_rEHfLgdcY"
     },
     {
         "ranking": "79",
@@ -557,14 +598,17 @@
         "title": "Tu connais",
         "artist": "Werenoi",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/0e/08/86/0e0886d9-8d0b-1f89-43c6-3a00f6572d25/dj.qqadwfea.jpg/80x80bb.webp",
-        "appleID": "tu-connais/1707807608"
+        "appleID": "tu-connais/1707807608",
+        "spotifyID": "3rIX5DA9rUk89KUOZdGFaN"
     },
     {
         "ranking": "81",
         "title": "Bad Dreams",
         "artist": "Teddy Swims",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/cd/5d/64/cd5d64c2-338b-00c9-52d6-578a0f19d826/054391245908.jpg/80x80bb.webp",
-        "appleID": "bad-dreams/1765799904"
+        "appleID": "bad-dreams/1765799904",
+        "youtubeID": "Qh8QwVYOSVU",
+        "spotifyID": "3nHuKdFJZm78CoeBnDcFKe"
     },
     {
         "ranking": "82",
@@ -578,7 +622,9 @@
         "title": "La vie qu'on mène",
         "artist": "Ninho",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/ab/c5/ea/abc5eab6-1a33-3910-6f96-3954d76c5815/190295460259.jpg/80x80bb.webp",
-        "appleID": "la-vie-quon-m%C3%A8ne/1453399179"
+        "appleID": "la-vie-quon-m%C3%A8ne/1453399179",
+        "youtubeID": "BJwovrr6XzI",
+        "spotifyID": "0Jh6iWjna1wk5le0Ahn7No"
     },
     {
         "ranking": "84",
@@ -592,7 +638,8 @@
         "title": "BIRDS OF A FEATHER",
         "artist": "Billie Eilish",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
-        "appleID": "birds-of-a-feather/1739659142"
+        "appleID": "birds-of-a-feather/1739659142",
+        "youtubeID": "V9PVRfjEBTI"
     },
     {
         "ranking": "86",
@@ -641,14 +688,16 @@
         "title": "Beautiful Things",
         "artist": "Benson Boone",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/54/f4/92/54f49210-e260-b519-ebbd-f4f40ee710cd/054391342751.jpg/80x80bb.webp",
-        "appleID": "beautiful-things/1724488124"
+        "appleID": "beautiful-things/1724488124",
+        "youtubeID": "Oa_RSwwpPaA"
     },
     {
         "ranking": "93",
         "title": "Laboratoire",
         "artist": "Werenoi",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9f/a9/84/9fa984bb-ad87-63b3-e34d-b6febc47e920/cover.jpg/80x80bb.webp",
-        "appleID": "laboratoire/1768971934"
+        "appleID": "laboratoire/1768971934",
+        "spotifyID": "7wOgZ1otoKYDvKyQKP1sNZ"
     },
     {
         "ranking": "94",
@@ -662,7 +711,8 @@
         "title": "No lo sé",
         "artist": "Lacrim",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/21/c6/41/21c641e9-eb24-7d75-1d02-ac3a67d70502/196872595604.jpg/80x80bb.webp",
-        "appleID": "no-lo-s%C3%A9/1775935674"
+        "appleID": "no-lo-s%C3%A9/1775935674",
+        "spotifyID": "7CVQNimiTPLHTu4ZM7pv7s"
     },
     {
         "ranking": "96",
