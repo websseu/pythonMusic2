@@ -39,7 +39,8 @@
         "title": "heart pt. 6",
         "artist": "Kendrick Lamar",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/50/c2/cc/50c2cc95-3658-9417-0d4b-831abde44ba1/24UM1IM28978.rgb.jpg/80x80bb.webp",
-        "appleID": "heart-pt-6/1781270549"
+        "appleID": "heart-pt-6/1781270549",
+        "youtubeID": "m-PO1_fzxVM"
     },
     {
         "ranking": "7",
@@ -74,7 +75,9 @@
         "title": "4 Kampé",
         "artist": "Joé Dwèt Filé",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/05/32/0a/05320ae3-1eef-3cd6-8f19-9ad9f078fa25/cover.jpg/80x80bb.webp",
-        "appleID": "4-kamp%C3%A9/1773819412"
+        "appleID": "4-kamp%C3%A9/1773819412",
+        "youtubeID": "Srvt_6up-0o",
+        "spotifyID": "7dzuYJwwtNnfcptmbD58aJ"
     },
     {
         "ranking": "12",
@@ -270,7 +273,8 @@
         "title": "A Sky Full of Stars",
         "artist": "Coldplay",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/60/90/ad/6090adc3-8863-861d-afcc-23c55c6fe5da/dj.vmtulfyu.jpg/80x80bb.webp",
-        "appleID": "a-sky-full-of-stars/829910927"
+        "appleID": "a-sky-full-of-stars/829910927",
+        "youtubeID": "VPRjCeoBqrI"
     },
     {
         "ranking": "40",
@@ -375,7 +379,8 @@
         "title": "Beautiful Things",
         "artist": "Benson Boone",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/54/f4/92/54f49210-e260-b519-ebbd-f4f40ee710cd/054391342751.jpg/80x80bb.webp",
-        "appleID": "beautiful-things/1724488124"
+        "appleID": "beautiful-things/1724488124",
+        "youtubeID": "Oa_RSwwpPaA"
     },
     {
         "ranking": "55",
@@ -424,14 +429,17 @@
         "title": "Set Fire to the Rain",
         "artist": "Adele",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/d8/e3/f9/d8e3f9ea-d6fe-9a1b-9f13-109983d3062e/191404113868.png/80x80bb.webp",
-        "appleID": "set-fire-to-the-rain/1544491988"
+        "appleID": "set-fire-to-the-rain/1544491988",
+        "spotifyID": "7j4OmvkjRz0PrjFADlHfQx"
     },
     {
         "ranking": "62",
         "title": "Die With A Smile",
         "artist": "Lady Gaga",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/11/ae/f2/11aef294-f57c-bab9-c9fc-529162984e62/24UMGIM85348.rgb.jpg/80x80bb.webp",
-        "appleID": "die-with-a-smile/1762656732"
+        "appleID": "die-with-a-smile/1762656732",
+        "youtubeID": "kPa7bsKwL-c",
+        "spotifyID": "2plbrEY59IikOBgBGLjaoe"
     },
     {
         "ranking": "63",
@@ -515,7 +523,8 @@
         "title": "Montanha",
         "artist": "Plutónio",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/73/10/b8/7310b8d3-3521-ceb7-e4b4-def50bd2565b/196872597929.jpg/80x80bb.webp",
-        "appleID": "https://music.apple.com/us/artist/plut%C3%B3nio/402172353"
+        "appleID": "https://music.apple.com/us/artist/plut%C3%B3nio/402172353",
+        "youtubeID": "KK9ie8zOM0w"
     },
     {
         "ranking": "75",
@@ -662,7 +671,8 @@
         "title": "Commas",
         "artist": "Ayra Starr",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/fa/d4/c4/fad4c4ce-2b3f-0304-8965-3c618987824e/24UMGIM51453.rgb.jpg/80x80bb.webp",
-        "appleID": "commas/1745016096"
+        "appleID": "commas/1759261970",
+        "youtubeID": "EhyzYPSHRQU"
     },
     {
         "ranking": "96",
@@ -690,7 +700,9 @@
         "title": "Without Me",
         "artist": "Eminem",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/b4/13/e9/b413e91d-40aa-a1a8-b8e3-2bacc3b3e222/00606949329020.rgb.jpg/80x80bb.webp",
-        "appleID": "without-me/1440903693"
+        "appleID": "without-me/1440903693",
+        "youtubeID": "YVkUvmDQ3HY",
+        "spotifyID": "7lQ8MOhq6IN2w8EYcFNSUk"
     },
     {
         "ranking": "100",
