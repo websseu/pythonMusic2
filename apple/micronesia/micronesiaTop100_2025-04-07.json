@@ -18,28 +18,33 @@
         "title": "tv off (feat. Lefty Gunplay)",
         "artist": "Kendrick Lamar",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/50/c2/cc/50c2cc95-3658-9417-0d4b-831abde44ba1/24UM1IM28978.rgb.jpg/80x80bb.webp",
-        "appleID": "tv-off-feat-lefty-gunplay/1781270540"
+        "appleID": "tv-off-feat-lefty-gunplay/1781270540",
+        "youtubeID": "U8F5G5wR1mk"
     },
     {
         "ranking": "4",
         "title": "peekaboo (feat. AzChike)",
         "artist": "Kendrick Lamar",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/50/c2/cc/50c2cc95-3658-9417-0d4b-831abde44ba1/24UM1IM28978.rgb.jpg/80x80bb.webp",
-        "appleID": "peekaboo-feat-azchike/1781270545"
+        "appleID": "peekaboo-feat-azchike/1781270545",
+        "youtubeID": "cbHkzwa0QmM"
     },
     {
         "ranking": "5",
         "title": "Not Like Us",
         "artist": "Kendrick Lamar",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d0/ef/b6/d0efb685-73be-fdee-58c9-be655f4cd4fd/24UMGIM51924.rgb.jpg/80x80bb.webp",
-        "appleID": "not-like-us/1744776167"
+        "appleID": "not-like-us/1744776167",
+        "youtubeID": "H58vbez_m4E"
     },
     {
         "ranking": "6",
         "title": "squabble up",
         "artist": "Kendrick Lamar",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/50/c2/cc/50c2cc95-3658-9417-0d4b-831abde44ba1/24UM1IM28978.rgb.jpg/80x80bb.webp",
-        "appleID": "squabble-up/1781270321"
+        "appleID": "squabble-up/1781270321",
+        "youtubeID": "fuV4yQWdn_4",
+        "spotifyID": "0nj9Bq5sHDiTxSHunhgkFb"
     },
     {
         "ranking": "7",
@@ -88,7 +93,9 @@
         "title": "Die With A Smile",
         "artist": "Lady Gaga",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/11/ae/f2/11aef294-f57c-bab9-c9fc-529162984e62/24UMGIM85348.rgb.jpg/80x80bb.webp",
-        "appleID": "die-with-a-smile/1762656732"
+        "appleID": "die-with-a-smile/1762656732",
+        "youtubeID": "kPa7bsKwL-c",
+        "spotifyID": "2plbrEY59IikOBgBGLjaoe"
     },
     {
         "ranking": "14",
@@ -109,14 +116,17 @@
         "title": "Good Days",
         "artist": "SZA",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/ef/09/cf/ef09cf1f-a057-6039-00d3-7b5d14c7eba1/886449006717.jpg/80x80bb.webp",
-        "appleID": "good-days/1546390051"
+        "appleID": "good-days/1546390051",
+        "youtubeID": "0BdlKkvjEgA"
     },
     {
         "ranking": "17",
         "title": "Embrace It",
         "artist": "Ndotz",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ff/86/94/ff869430-207b-7d50-2ddf-49532eb1d57b/89.jpg/80x80bb.webp",
-        "appleID": "embrace-it/1769693705"
+        "appleID": "embrace-it/1769693705",
+        "youtubeID": "48lhqX3jpKY",
+        "spotifyID": "0io16MKpbeDIdYzmGpQaES"
     },
     {
         "ranking": "18",
@@ -508,7 +518,8 @@
         "title": "Every Night Every Morning",
         "artist": "Maoli",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/db/73/4f/db734ffc-785c-9999-be7c-f0c54458690a/0.jpg/80x80bb.webp",
-        "appleID": "every-night-every-morning/1761629618"
+        "appleID": "every-night-every-morning/1761629618",
+        "youtubeID": "20k90wvdLco"
     },
     {
         "ranking": "74",
@@ -683,7 +694,8 @@
         "title": "Uptown Funk (feat. Bruno Mars)",
         "artist": "Mark Ronson",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/7e/30/c5/7e30c572-aa47-5f7b-c6fd-42d50cd2c56d/886444959797.jpg/80x80bb.webp",
-        "appleID": "uptown-funk-feat-bruno-mars/943946671"
+        "appleID": "uptown-funk-feat-bruno-mars/943946671",
+        "youtubeID": "OPf0YbXqDm0"
     },
     {
         "ranking": "99",

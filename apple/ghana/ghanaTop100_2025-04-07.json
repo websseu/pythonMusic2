@@ -319,7 +319,8 @@
         "title": "luther",
         "artist": "Kendrick Lamar",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/50/c2/cc/50c2cc95-3658-9417-0d4b-831abde44ba1/24UM1IM28978.rgb.jpg/80x80bb.webp",
-        "appleID": "luther/1781270323"
+        "appleID": "luther/1781270323",
+        "youtubeID": "4_taypLmSMU"
     },
     {
         "ranking": "47",
@@ -375,7 +376,8 @@
         "title": "Not Like Us",
         "artist": "Kendrick Lamar",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d0/ef/b6/d0efb685-73be-fdee-58c9-be655f4cd4fd/24UMGIM51924.rgb.jpg/80x80bb.webp",
-        "appleID": "not-like-us/1744776167"
+        "appleID": "not-like-us/1744776167",
+        "youtubeID": "H58vbez_m4E"
     },
     {
         "ranking": "55",
@@ -550,14 +552,17 @@
         "title": "Die With A Smile",
         "artist": "Lady Gaga",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/11/ae/f2/11aef294-f57c-bab9-c9fc-529162984e62/24UMGIM85348.rgb.jpg/80x80bb.webp",
-        "appleID": "die-with-a-smile/1762656732"
+        "appleID": "die-with-a-smile/1762656732",
+        "youtubeID": "kPa7bsKwL-c",
+        "spotifyID": "2plbrEY59IikOBgBGLjaoe"
     },
     {
         "ranking": "80",
         "title": "iseoluwa",
         "artist": "Fireboy DML",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5e/36/52/5e365214-2057-31df-2d2e-d39022d6cd9f/197342696906_cover.jpg/80x80bb.webp",
-        "appleID": "iseoluwa/1763688390"
+        "appleID": "iseoluwa/1763688390",
+        "youtubeID": "-NlcsfIUumg"
     },
     {
         "ranking": "81",
@@ -620,7 +625,8 @@
         "title": "25",
         "artist": "Rod Wave",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5a/37/da/5a37da14-dea1-6123-6553-4a24010657e8/196872534610.jpg/80x80bb.webp",
-        "appleID": "25/1772368558"
+        "appleID": "25/1772368558",
+        "youtubeID": "-SSgaCAsU6M"
     },
     {
         "ranking": "90",
