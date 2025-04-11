@@ -186,7 +186,8 @@
         "title": "People",
         "artist": "Libianca",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/c6/8c/ca/c68ccacb-cdd5-b765-53e1-eeca394770ac/196589735607.jpg/80x80bb.webp",
-        "appleID": "people/1658390607"
+        "appleID": "people/1658390607",
+        "youtubeID": "rJWdfDPZ9Ck"
     },
     {
         "ranking": "28",
@@ -333,7 +334,9 @@
         "title": "Let Me Love You",
         "artist": "Mario",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/6b/77/72/6b777276-1f3d-8ecf-d9d2-06733e3d7dd3/828766188523.jpg/80x80bb.webp",
-        "appleID": "let-me-love-you/257524515"
+        "appleID": "let-me-love-you/257524515",
+        "youtubeID": "H64QG4UsrGI",
+        "spotifyID": "7GaFYUqP2WdR4KTPk7cXoP"
     },
     {
         "ranking": "49",
@@ -354,7 +357,8 @@
         "title": "BABETE",
         "artist": "Landrick",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/33/3a/42/333a42fe-7e1c-1e37-3fd9-4bae94e65168/24UMGIM18604.rgb.jpg/80x80bb.webp",
-        "appleID": "babete/1733080344"
+        "appleID": "babete/1733080344",
+        "youtubeID": "H9etTzcocfU"
     },
     {
         "ranking": "52",
@@ -396,7 +400,8 @@
         "title": "Beautiful Things",
         "artist": "Benson Boone",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/54/f4/92/54f49210-e260-b519-ebbd-f4f40ee710cd/054391342751.jpg/80x80bb.webp",
-        "appleID": "beautiful-things/1724488124"
+        "appleID": "beautiful-things/1724488124",
+        "youtubeID": "Oa_RSwwpPaA"
     },
     {
         "ranking": "58",
