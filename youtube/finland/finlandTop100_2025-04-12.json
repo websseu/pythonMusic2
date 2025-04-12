@@ -27,7 +27,9 @@
         "prev": "3",
         "streak": "65",
         "streams": "88,066",
-        "youtubeID": "I4hrPA2a9RI"
+        "youtubeID": "I4hrPA2a9RI",
+        "appleID": "timanttei/1721431952",
+        "spotifyID": "36lT6tdND08VVvv3HwbhZD"
     },
     {
         "ranking": "4",
@@ -97,7 +99,9 @@
         "prev": "10",
         "streak": "33",
         "streams": "56,127",
-        "youtubeID": "kPa7bsKwL-c"
+        "youtubeID": "kPa7bsKwL-c",
+        "appleID": "die-with-a-smile/1762656732",
+        "spotifyID": "2plbrEY59IikOBgBGLjaoe"
     },
     {
         "ranking": "11",
@@ -137,7 +141,8 @@
         "prev": "14",
         "streak": "44",
         "streams": "48,452",
-        "youtubeID": "EKoQsZZrqXo"
+        "youtubeID": "EKoQsZZrqXo",
+        "spotifyID": "3gEmQZnsmDrttYiBM2WYdD"
     },
     {
         "ranking": "15",
@@ -157,7 +162,9 @@
         "prev": "15",
         "streak": "28",
         "streams": "43,893",
-        "youtubeID": "t3EgO8j_wS0"
+        "youtubeID": "t3EgO8j_wS0",
+        "appleID": "taikuri/1768755250",
+        "spotifyID": "7fdNCtxfZArtOZK3hLqqm3"
     },
     {
         "ranking": "17",
@@ -167,7 +174,8 @@
         "prev": "18",
         "streak": "49",
         "streams": "42,389",
-        "youtubeID": "x_wzcXPPkxY"
+        "youtubeID": "x_wzcXPPkxY",
+        "spotifyID": "1tE3e0tfkZ4q8wC9fMcAoP"
     },
     {
         "ranking": "18",
@@ -277,7 +285,9 @@
         "prev": "32",
         "streak": "30",
         "streams": "30,463",
-        "youtubeID": "SRXH9AbT280"
+        "youtubeID": "SRXH9AbT280",
+        "appleID": "the-emptiness-machine/1766137051",
+        "spotifyID": "1EDPVGbyPKJPeGqATwXZvN"
     },
     {
         "ranking": "29",
@@ -337,7 +347,8 @@
         "prev": "44",
         "streak": "19",
         "streams": "26,065",
-        "youtubeID": "6ytmu8BN8iI"
+        "youtubeID": "6ytmu8BN8iI",
+        "spotifyID": "23UBSdCPcsloNVmQZ508Zv"
     },
     {
         "ranking": "35",
@@ -347,7 +358,9 @@
         "prev": "36",
         "streak": "39",
         "streams": "25,926",
-        "youtubeID": "P4apOhqMcsI"
+        "youtubeID": "P4apOhqMcsI",
+        "appleID": "sirkus/1751661675",
+        "spotifyID": "0Ekrxw3lGOi3upnMTH90VY"
     },
     {
         "ranking": "36",
@@ -467,7 +480,9 @@
         "prev": "28",
         "streak": "10",
         "streams": "23,402",
-        "youtubeID": "o6aJJ6Q5zhg"
+        "youtubeID": "o6aJJ6Q5zhg",
+        "appleID": "espresso-macchiato/1783135861",
+        "spotifyID": "3gWBWLw3J3XTy3QTo36GqJ"
     },
     {
         "ranking": "48",
@@ -507,7 +522,8 @@
         "prev": "-",
         "streak": "55",
         "streams": "21,516",
-        "youtubeID": "eVTXPUF4Oz4"
+        "youtubeID": "eVTXPUF4Oz4",
+        "spotifyID": "60a0Rd6pjrkxjPbaKzXjfq"
     },
     {
         "ranking": "52",
@@ -567,7 +583,8 @@
         "prev": "51",
         "streak": "23",
         "streams": "20,242",
-        "youtubeID": "oEO7iW4CTCM"
+        "youtubeID": "oEO7iW4CTCM",
+        "spotifyID": "3cTTpe7rLFrgdLPY9DQB0s"
     },
     {
         "ranking": "58",
@@ -687,7 +704,9 @@
         "prev": "57",
         "streak": "19",
         "streams": "17,659",
-        "youtubeID": "RcqM5rkUytc"
+        "youtubeID": "RcqM5rkUytc",
+        "appleID": "kaikki-p%C3%A4%C3%A4ttyy-kyyneliin/1778262204",
+        "spotifyID": "2Mmbr6ghVhs16JmvzP6TDa"
     },
     {
         "ranking": "70",
@@ -897,7 +916,8 @@
         "prev": "-",
         "streak": "54",
         "streams": "14,812",
-        "youtubeID": "S9bCLPwzSC0"
+        "youtubeID": "S9bCLPwzSC0",
+        "appleID": "mockingbird/1452852850"
     },
     {
         "ranking": "91",
@@ -997,6 +1017,8 @@
         "prev": "87",
         "streak": "20",
         "streams": "13,368",
-        "youtubeID": "LJ0GFkS5RZw"
+        "youtubeID": "LJ0GFkS5RZw",
+        "appleID": "diva/1777810477",
+        "spotifyID": "6zLzNEyVqtyZoohE75maSy"
     }
 ]
