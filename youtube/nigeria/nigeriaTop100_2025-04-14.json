@@ -1,0 +1,1002 @@
+[
+    {
+        "ranking": "1",
+        "title": "Laho",
+        "artist": "Shallipopi",
+        "image": "https://i.ytimg.com/vi/OFtYscjjdCk/default.jpg",
+        "prev": "2",
+        "streak": "8",
+        "streams": "224,118",
+        "youtubeID": "OFtYscjjdCk"
+    },
+    {
+        "ranking": "2",
+        "title": "My Darling",
+        "artist": "Chella",
+        "image": "https://lh3.googleusercontent.com/LjAqoB4c02u1URLAtH6RatpsbrDemSXMbU_7256VYWVoiJsGaRx87gsZSOgjlUYg9QiExHlMD_xwL0GO=w180-h180-l90-rj",
+        "prev": "5",
+        "streak": "3",
+        "streams": "152,372",
+        "youtubeID": "WQFDWM-6ytA"
+    },
+    {
+        "ranking": "3",
+        "title": "Arike",
+        "artist": "Kunmie",
+        "image": "https://lh3.googleusercontent.com/xfnWsqisA2EQPS6KldafYAwymhe4qJGyPTMjGMp3jo6VYOMXUGN1g9Hc56IJUAOflKM8DSSfLbmvt8GI=w180-h180-l90-rj",
+        "prev": "1",
+        "streak": "9",
+        "streams": "143,844",
+        "youtubeID": "xgsa2p0lIPY"
+    },
+    {
+        "ranking": "4",
+        "title": "Joy Is Coming",
+        "artist": "Fido",
+        "image": "https://lh3.googleusercontent.com/95ITyypy58UD6OWshMNR5Bvyu-WnWnKK4yXwfLQWMnyUELgY-YPgH9o11PszKTojIqLYPTcu7AnAEjk=w180-h180-l90-rj",
+        "prev": "3",
+        "streak": "17",
+        "streams": "109,153",
+        "youtubeID": "9jO84E3QQM4"
+    },
+    {
+        "ranking": "5",
+        "title": "Bout U",
+        "artist": "Rema",
+        "image": "https://lh3.googleusercontent.com/KDNLUjnbQ8OW39RYqeemM_QkCGPOTnh_g6H3XsNxSoHFMu18-Lbzgg-NUOG_hRxu6DgPDKvievFoxh2OaA=w180-h180-l90-rj",
+        "prev": "-",
+        "streak": "1",
+        "streams": "108,989",
+        "youtubeID": "sqeGiNrLtlI"
+    },
+    {
+        "ranking": "6",
+        "title": "luther",
+        "artist": "Kendrick Lamar & SZA",
+        "image": "https://lh3.googleusercontent.com/oeqS763H5PDQ7RL3gUnJlvDgZx6MYr5VE7bV7MBanuv7hgB-98wF1JYy-KI-Zxurxc5trLpksuPNUcY=w180-h180-l90-rj",
+        "prev": "40",
+        "streak": "20",
+        "streams": "98,717",
+        "youtubeID": "sNY_2TEmzho"
+    },
+    {
+        "ranking": "7",
+        "title": "Na Scra",
+        "artist": "Famous Pluto",
+        "image": "https://i.ytimg.com/vi/ShHNrMK2AUc/default.jpg",
+        "prev": "6",
+        "streak": "6",
+        "streams": "84,892",
+        "youtubeID": "ShHNrMK2AUc"
+    },
+    {
+        "ranking": "8",
+        "title": "Baby (Is it a Crime)",
+        "artist": "Rema",
+        "image": "https://lh3.googleusercontent.com/9oSXpeppCfJb6NsfOtnvRy8qKDx_tgWT4t4nGX5x9YLXCJS3iDJkX_hCvVayP8x7jlBOWvEPM84s--LsBA=w180-h180-l90-rj",
+        "prev": "10",
+        "streak": "10",
+        "streams": "74,201",
+        "youtubeID": "MsZhYgo9MoA"
+    },
+    {
+        "ranking": "9",
+        "title": "Get Better",
+        "artist": "Zlatan & Fola",
+        "image": "https://lh3.googleusercontent.com/imJwulypO2z8GwY6I3nHgaumBiXN2FLFLQqZxj8yadITltmfHCSZ_g_ffT5BdnbUtoQFOwHzq_qpxbqdHQ=w180-h180-l90-rj",
+        "prev": "7",
+        "streak": "4",
+        "streams": "71,202",
+        "youtubeID": "T6sLqMwcYFE"
+    },
+    {
+        "ranking": "10",
+        "title": "Funds (feat. ODUMODUBLVCK & Chike)",
+        "artist": "Davido",
+        "image": "https://lh3.googleusercontent.com/jv3FY4drQATQPggO5Nh1ddAB_8SR880m1p-8qmuN5wNORs8t73zZlIViuIuz8oArwrs3UD9-ShDc3C8=w180-h180-l90-rj",
+        "prev": "9",
+        "streak": "19",
+        "streams": "71,000",
+        "youtubeID": "7adDm9YACpE"
+    },
+    {
+        "ranking": "11",
+        "title": "Venus",
+        "artist": "Faceless & Serøtonin",
+        "image": "https://lh3.googleusercontent.com/NiA13c8kcs9SvsUTQSQu6xD_3J96MvcTFPuJepTd5-n8CdVJnxbCKV0nnHk7DsLgJVlfWhh3vp0W-dxX=w180-h180-l90-rj",
+        "prev": "8",
+        "streak": "17",
+        "streams": "64,808",
+        "youtubeID": "UuTPl15kR1Q"
+    },
+    {
+        "ranking": "12",
+        "title": "Die With A Smile",
+        "artist": "Lady Gaga & Bruno Mars",
+        "image": "https://lh3.googleusercontent.com/RFK4wHeGqwI3DndbARbRJB21IC0TcmqnrlyjxYK7T-nC8wlIVbfxNaCIFKNvSpchDKmYyVLe1RN36w=w180-h180-l90-rj",
+        "prev": "11",
+        "streak": "35",
+        "streams": "64,123",
+        "youtubeID": "kPa7bsKwL-c"
+    },
+    {
+        "ranking": "13",
+        "title": "Pxy Drip",
+        "artist": "Naira Marley",
+        "image": "https://lh3.googleusercontent.com/jDdGJ8mILHe8qY4ZjLB3TdMMsywRMecO5CXvkA3yo_C1FF3cYqy3j2_1L6V2lKk_zpefqvq_MWzfvZ8r=w180-h180-l90-rj",
+        "prev": "12",
+        "streak": "18",
+        "streams": "62,001",
+        "youtubeID": "2bnIOkj9AMw"
+    },
+    {
+        "ranking": "14",
+        "title": "APT.",
+        "artist": "ROSÉ & Bruno Mars",
+        "image": "https://lh3.googleusercontent.com/-MtYkhdYuOvj8YWHA4afh-OUYMYHNpBpkk047QgGAxLJMLE570Pj0-LQjA2PW1ltedqTusKOjzXvuS8=w180-h180-l90-rj",
+        "prev": "16",
+        "streak": "26",
+        "streams": "57,332",
+        "youtubeID": "ekr2nIex040"
+    },
+    {
+        "ranking": "15",
+        "title": "SHAOLIN",
+        "artist": "Seyi Vibez",
+        "image": "https://lh3.googleusercontent.com/mj3QRF8iX8LyzVBBj-jhqXkDhPgAGJy6-EE__-mr-VlJxgw0l0k_f1e7jje3sUKK9iWRRZF1oguf4Wwn=w180-h180-l90-rj",
+        "prev": "13",
+        "streak": "8",
+        "streams": "55,354",
+        "youtubeID": "zzhKmRovdMY"
+    },
+    {
+        "ranking": "16",
+        "title": "like JENNIE",
+        "artist": "JENNIE",
+        "image": "https://lh3.googleusercontent.com/Z3gufPaLCcWuJNE4NH6KhlbUSrnx3hvUQgnhwQBrUDNzEgAp1aNMuCr0nv0gJxU8XcS2Rp9I-BHPZt_i=w180-h180-l90-rj",
+        "prev": "15",
+        "streak": "6",
+        "streams": "55,342",
+        "youtubeID": "JSFG-IE8n_c"
+    },
+    {
+        "ranking": "17",
+        "title": "PITY THIS BOY",
+        "artist": "ODUMODUBLVCK & Victony",
+        "image": "https://i.ytimg.com/vi/Um-MNAqxKyc/default.jpg",
+        "prev": "14",
+        "streak": "10",
+        "streams": "54,594",
+        "youtubeID": "Um-MNAqxKyc"
+    },
+    {
+        "ranking": "18",
+        "title": "More Money",
+        "artist": "Chief Priest & BoyPee & Brown Joel & Hyce",
+        "image": "https://lh3.googleusercontent.com/G9vZW3hUfaZIAUbRfJpU9ZnxyEtf8BkqeP3vhY3vgepWMATki21EJ35BGYNef7UOQvgA41mg1rtCKC8e=w180-h180-l90-rj",
+        "prev": "4",
+        "streak": "3",
+        "streams": "54,015",
+        "youtubeID": "5KKWei2rWtA"
+    },
+    {
+        "ranking": "19",
+        "title": "WHY LOVE",
+        "artist": "Asake",
+        "image": "https://lh3.googleusercontent.com/S2XXr7BEPXzrZKMjAYBLqDRi31O9RyqLbebpK4B8m0-sqF9R_SWqVJ6dmPrbi8qGvM646L1TiGqb5LCFtw=w180-h180-l90-rj",
+        "prev": "17",
+        "streak": "10",
+        "streams": "50,509",
+        "youtubeID": "MCMyKcUNR8w"
+    },
+    {
+        "ranking": "20",
+        "title": "We will be many (feat. Lawrence Oyor & Moses Akoh)",
+        "artist": "Sound Of Salem",
+        "image": "https://lh3.googleusercontent.com/fqkXZ1Ez3Vbepbr81vSPEIgDujVHQdqrB7dGpQxE1zLCKGkze31HdREMRFQTfjjJwYwUAXsvAS-u-bDg2g=w180-h180-l90-rj",
+        "prev": "19",
+        "streak": "10",
+        "streams": "49,415",
+        "youtubeID": "POHXsztJpMM"
+    },
+    {
+        "ranking": "21",
+        "title": "Kese (Dance)",
+        "artist": "Wizkid",
+        "image": "https://lh3.googleusercontent.com/u11GnMxEcMnUVAEf_ZJABpFIeapx-daiu0lmWhzkxuiQgKHhrS4zNCGz-b3KYvJprpHFiVy4G4g19DT4=w180-h180-l90-rj",
+        "prev": "18",
+        "streak": "22",
+        "streams": "49,227",
+        "youtubeID": "HLnf2Hz7uNQ"
+    },
+    {
+        "ranking": "22",
+        "title": "Police",
+        "artist": "Kizz Daniel & Johnny Drille & Angélique Kidjo",
+        "image": "https://lh3.googleusercontent.com/nCTxfXYy3mHMNepQgZ5725ar25lzqbc_55jCE99-4V1QgTSFiTN8Y8vf0oamoFmMd8L4nuXr6qVMS6HJ=w180-h180-l90-rj",
+        "prev": "-",
+        "streak": "1",
+        "streams": "45,863",
+        "youtubeID": "J7hrUxh_X7k"
+    },
+    {
+        "ranking": "23",
+        "title": "Zam",
+        "artist": "Adazion Ij",
+        "image": "https://i.ytimg.com/vi/XDu8eDGx26c/default.jpg",
+        "prev": "21",
+        "streak": "7",
+        "streams": "44,457",
+        "youtubeID": "XDu8eDGx26c"
+    },
+    {
+        "ranking": "24",
+        "title": "MARIO KART",
+        "artist": "Seyi Vibez",
+        "image": "https://lh3.googleusercontent.com/mj3QRF8iX8LyzVBBj-jhqXkDhPgAGJy6-EE__-mr-VlJxgw0l0k_f1e7jje3sUKK9iWRRZF1oguf4Wwn=w180-h180-l90-rj",
+        "prev": "27",
+        "streak": "8",
+        "streams": "41,274",
+        "youtubeID": "0RTKqRRThlw"
+    },
+    {
+        "ranking": "25",
+        "title": "Shake It To The Max (FLY)",
+        "artist": "Moliy & Silent Addy",
+        "image": "https://lh3.googleusercontent.com/ugn2GWBXgu6WlxEl9iNC1XkXwqXS5XNl2wEmQsVFaix1iUTGanpAVI3vyZk1x4RqPMSGR61CGgX476Hyhg=w180-h180-l90-rj",
+        "prev": "33",
+        "streak": "5",
+        "streams": "41,116",
+        "youtubeID": "jvHsYS0AooU"
+    },
+    {
+        "ranking": "26",
+        "title": "Favour",
+        "artist": "Lawrence Oyor",
+        "image": "https://lh3.googleusercontent.com/nZcLcCB4dLKgjyYG6J_NXwsT28Gae-NBbitbR_WICgMuLL7ddLsXtLAAvkFu6fiCNW_4KP3_7Xizgo8w=w180-h180-l90-rj",
+        "prev": "22",
+        "streak": "14",
+        "streams": "40,290",
+        "youtubeID": "hNEghsp78Nc"
+    },
+    {
+        "ranking": "27",
+        "title": "Tshwala Bam (Remix) (feat. S.N.E)",
+        "artist": "TitoM &  Yuppe & Burna Boy",
+        "image": "https://lh3.googleusercontent.com/WmOw6NLYqKysZYzxJ8eU0XwRTRAO93NhxWLFHAQcB_76lwsQBrZiKb8hxaFHklNzrE8QFz9jroyqU0uq=w180-h180-l90-rj",
+        "prev": "28",
+        "streak": "5",
+        "streams": "39,553",
+        "youtubeID": "Hg3aMnVU1xU"
+    },
+    {
+        "ranking": "28",
+        "title": "Trenches Luv",
+        "artist": "T.I BLAZE",
+        "image": "https://lh3.googleusercontent.com/tBiFUs49RugcRCkd-gornzxb5qpxWqkNnRx4JSoAufisd0_WoY7u-BfuDHh_GkjO4z4C17ZbXYMUkL2o8g=w180-h180-l90-rj",
+        "prev": "24",
+        "streak": "7",
+        "streams": "39,547",
+        "youtubeID": "roNcGeQ0s_s"
+    },
+    {
+        "ranking": "29",
+        "title": "who does that? (feat. Bella Shmurda)",
+        "artist": "FOLA",
+        "image": "https://lh3.googleusercontent.com/2q4FBuhF-l1VOc9MI3DEkpnnHwPsjOpW-luE-CYSlokRPOAbsOgkZoFMk0cPMRN5fCADpQKM5cDfv9rR=w180-h180-l90-rj",
+        "prev": "23",
+        "streak": "19",
+        "streams": "37,940",
+        "youtubeID": "KJXn2aoRJd8"
+    },
+    {
+        "ranking": "30",
+        "title": "LEGOLAS",
+        "artist": "ODUMODUBLVCK",
+        "image": "https://lh3.googleusercontent.com/BMhxdQSz-PR7Qv_h8b0AMRx9PA8_oTH8baWgU1s7-mS_RCBpGxS9bYwLSEMi6bVgZaM-R_sdPZzdBTA=w180-h180-l90-rj",
+        "prev": "26",
+        "streak": "3",
+        "streams": "36,532",
+        "youtubeID": "xFgTgjsICoU"
+    },
+    {
+        "ranking": "31",
+        "title": "Relationship",
+        "artist": "Berri-Tiga & Peruzzi",
+        "image": "https://lh3.googleusercontent.com/PrNReajbXboLWSSSvKFpQzTLbrnFkPrS4-ZDuOCnWH_SlYlIobC-WaE61coPuav2YpBs6F_8dBukPIZ7LQ=w180-h180-l90-rj",
+        "prev": "25",
+        "streak": "20",
+        "streams": "36,347",
+        "youtubeID": "zOWdcggbvss"
+    },
+    {
+        "ranking": "32",
+        "title": "Not Like Us",
+        "artist": "Kendrick Lamar",
+        "image": "https://lh3.googleusercontent.com/8qk3C_zpd2FXHVN8BpMBFL6h9J5BlKlbcKOlvDMvIgBWBsAblDoTjU98RGbFH9DxtnN1X5zRzc9sSvWr=w180-h180-l90-rj",
+        "prev": "29",
+        "streak": "33",
+        "streams": "35,775",
+        "youtubeID": "H58vbez_m4E"
+    },
+    {
+        "ranking": "33",
+        "title": "Alone (feat. Bhadboi Oml)",
+        "artist": "FOLA",
+        "image": "https://lh3.googleusercontent.com/DcCu5L98bmmgBm2uFBIj8nqr3CbKOZJJMxlMkFOdk6dau1Lfac9a9zC2J-q9ni8e48m6dbG-vXcAPY4=w180-h180-l90-rj",
+        "prev": "30",
+        "streak": "37",
+        "streams": "34,575",
+        "youtubeID": "MNf2swk4o8c"
+    },
+    {
+        "ranking": "34",
+        "title": "Dealer",
+        "artist": "Ayo Maff & Fireboy DML",
+        "image": "https://lh3.googleusercontent.com/yUxPoYyQR1yYWHJQj6zadhigeL3k8Ttgq3-TLTTkaVcp65iwHKSz1m1ETQd6waq-dPqNNQECnjZ8_Ifd=w180-h180-l90-rj",
+        "prev": "31",
+        "streak": "52",
+        "streams": "34,034",
+        "youtubeID": "JUWxpWD71VA"
+    },
+    {
+        "ranking": "35",
+        "title": "Ordinary",
+        "artist": "Alex Warren",
+        "image": "https://lh3.googleusercontent.com/IpMxcpbAoa3Dh09aQj6lvQtXpVd7B7C7dEF6SrGY9t_Hxs5xo7lFFJGXNyi1Ts3iNwnlxhGBmWjVn0QF=w180-h180-l90-rj",
+        "prev": "43",
+        "streak": "3",
+        "streams": "33,501",
+        "youtubeID": "u2ah9tWTkmk"
+    },
+    {
+        "ranking": "36",
+        "title": "Favourite Girl",
+        "artist": "Darkoo & Dess Dior",
+        "image": "https://lh3.googleusercontent.com/TzX_XIi3uW880CGtTSFwkx8d637FYtvnSKrruPT502w2NRj1DknfWXPBgUV9GwWrc7sVbN3jC5GyOus=w180-h180-l90-rj",
+        "prev": "32",
+        "streak": "36",
+        "streams": "32,994",
+        "youtubeID": "xSaBe60hBLU"
+    },
+    {
+        "ranking": "37",
+        "title": "Bahamas",
+        "artist": "Young Jonn",
+        "image": "https://lh3.googleusercontent.com/dsTH0TXcGU1mTtM0ahuwz5HKDWg8SRaAxMxY6Tk1WCrJkOId_YSvUcBaJZzwNp4e3IjY58KEQP8EDTC7zA=w180-h180-l90-rj",
+        "prev": "34",
+        "streak": "31",
+        "streams": "31,915",
+        "youtubeID": "E39FUHWpYAM"
+    },
+    {
+        "ranking": "38",
+        "title": "Drowning (Live)",
+        "artist": "WOODZ",
+        "image": "https://i.ytimg.com/vi/NbKH4iZqq1Y/default.jpg",
+        "prev": "46",
+        "streak": "26",
+        "streams": "31,186",
+        "youtubeID": "NbKH4iZqq1Y"
+    },
+    {
+        "ranking": "39",
+        "title": "BENIN BOYS",
+        "artist": "Rema & Shallipopi",
+        "image": "https://lh3.googleusercontent.com/fWMiydpz6HFGrI05_ErlXRKlsrBawUdG9X39fzQ7_E-rG7N3LoXL3nz7EAkPaXyBwqWwvA3odi534oaa=w180-h180-l90-rj",
+        "prev": "-",
+        "streak": "35",
+        "streams": "29,816",
+        "youtubeID": "eYsldLTYyrM"
+    },
+    {
+        "ranking": "40",
+        "title": "Darling - Focus",
+        "artist": "Boi Chase",
+        "image": "https://i.ytimg.com/vi/iMv6hSKvKEc/default.jpg",
+        "prev": "36",
+        "streak": "8",
+        "streams": "29,596",
+        "youtubeID": "iMv6hSKvKEc"
+    },
+    {
+        "ranking": "41",
+        "title": "Ogechi (Remix) (feat. Davido)",
+        "artist": "BoyPee & Hyce  & Brown Joel",
+        "image": "https://lh3.googleusercontent.com/uhE3Y3BHRSaT1lhWbPOdHrIBAAwqfVZPiSUj-P6InPmid8P4Gm89gL_kgAncrfIdTbM1Jz4krPEHStI=w180-h180-l90-rj",
+        "prev": "35",
+        "streak": "47",
+        "streams": "29,254",
+        "youtubeID": "ukSewaXAC5M"
+    },
+    {
+        "ranking": "42",
+        "title": "Angelina",
+        "artist": "Johnny Drille & Fireboy DML",
+        "image": "https://lh3.googleusercontent.com/i8o3AFdb6MAp9Izjep4abMmiVZAFYAEGFrOJT7L_AB-4kPvzxQuVOaK2El8dBDBUlrgBbGvIPt7mhqSJPg=w180-h180-l90-rj",
+        "prev": "-",
+        "streak": "1",
+        "streams": "29,188",
+        "youtubeID": "USTgvJTKbeI"
+    },
+    {
+        "ranking": "43",
+        "title": "Hey Jago",
+        "artist": "Poco lee & Shoday & Rahman Jago",
+        "image": "https://i.ytimg.com/vi/xh0uBU_nZEE/default.jpg",
+        "prev": "41",
+        "streak": "4",
+        "streams": "28,988",
+        "youtubeID": "xh0uBU_nZEE"
+    },
+    {
+        "ranking": "44",
+        "title": "OZEBA",
+        "artist": "Rema",
+        "image": "https://lh3.googleusercontent.com/fWMiydpz6HFGrI05_ErlXRKlsrBawUdG9X39fzQ7_E-rG7N3LoXL3nz7EAkPaXyBwqWwvA3odi534oaa=w180-h180-l90-rj",
+        "prev": "49",
+        "streak": "37",
+        "streams": "28,249",
+        "youtubeID": "CAyD5xr1yGY"
+    },
+    {
+        "ranking": "45",
+        "title": "E Ti Tobi to (Live)",
+        "artist": "EmmaOMG",
+        "image": "https://lh3.googleusercontent.com/f8trTfrRHGQwMPNjg4uRW6S9-VBbOXC2VdvvU-Dqf8_MqEsCFoDFuhB9L5FkcAdn-SHVfau5sq93YI6n=w180-h180-l90-rj",
+        "prev": "42",
+        "streak": "10",
+        "streams": "28,179",
+        "youtubeID": "ccg6uBQfViI"
+    },
+    {
+        "ranking": "46",
+        "title": "กุหลาบ (feat. ก้านตอง ทุ่งเงิน & SARAN)",
+        "artist": "F.HERO",
+        "image": "https://lh3.googleusercontent.com/2ANN4duoF2N0g70REBw0QcnR9OdF3HsdcQq-GBNXFxohS0ibtvoDyHLf0giEZC6CRBLVQrdjbQItE94wxA=w180-h180-l90-rj",
+        "prev": "84",
+        "streak": "8",
+        "streams": "28,055",
+        "youtubeID": "ebxzxo_q89Y"
+    },
+    {
+        "ranking": "47",
+        "title": "Double",
+        "artist": "Kizz Daniel",
+        "image": "https://lh3.googleusercontent.com/bEuj8EAp-gtJaXMET8ocMmqTuzdDhMoyUlB8uIRqmHGMM3ILkIn3QLUPqEvdYdujWj-Z9kwSZ0pYhIUj=w180-h180-l90-rj",
+        "prev": "-",
+        "streak": "34",
+        "streams": "27,756",
+        "youtubeID": "VwcY7PwFvMc"
+    },
+    {
+        "ranking": "48",
+        "title": "ดวงใจ",
+        "artist": "ปราง ปรางทิพย์",
+        "image": "https://lh3.googleusercontent.com/JoACRSQrB0DMTjLwjrEncCecJgWAMhqiCn0sx7iATGM4rDscjVRiRuOphPLLuBgIVLCfPkIhrFSNH6PzQA=w180-h180-l90-rj",
+        "prev": "-",
+        "streak": "1",
+        "streams": "26,826",
+        "youtubeID": "ZHHl28Lxqww"
+    },
+    {
+        "ranking": "49",
+        "title": "BIRDS OF A FEATHER",
+        "artist": "Billie Eilish",
+        "image": "https://lh3.googleusercontent.com/mXJjWX4E6Gpr03CUYl18PdVXlczmoL2Tm-LEBGafIr_8smlHnl8AHniJu0_7Y80e-aeloJxcryQQx0ZJ=w180-h180-l90-rj",
+        "prev": "50",
+        "streak": "28",
+        "streams": "26,479",
+        "youtubeID": "V9PVRfjEBTI"
+    },
+    {
+        "ranking": "50",
+        "title": "Back to Back",
+        "artist": "Zerrydl",
+        "image": "https://lh3.googleusercontent.com/IpODEo0aGJkngprvTSEGCLPXtI_03t2--WF2sYU7wFxahpOmX74My9jcUhwglzzFlvPUrHgG-jeXts4-=w180-h180-l90-rj",
+        "prev": "-",
+        "streak": "21",
+        "streams": "26,262",
+        "youtubeID": "GAt2A-6WCKc"
+    },
+    {
+        "ranking": "51",
+        "title": "Update",
+        "artist": "Burna Boy",
+        "image": "https://lh3.googleusercontent.com/u1tdRNLtjF_QjtBsfQxr3X7Sbn0Y_oA1QhAjkiOXkK9vnMos2jlnYNSZxVdKO4uXceAE_zcvAo3tOSKJ4w=w180-h180-l90-rj",
+        "prev": "45",
+        "streak": "9",
+        "streams": "25,991",
+        "youtubeID": "qR8-uQ5LixE"
+    },
+    {
+        "ranking": "52",
+        "title": "All The Love",
+        "artist": "Ayra Starr",
+        "image": "https://lh3.googleusercontent.com/xDjKombxXyO2E91z2PUY4dAePxZ1BamGPL79q-YbF1D0vDAxh6_xY2qlZtAErEfCsDCW4CrxdLoDpng=w180-h180-l90-rj",
+        "prev": "53",
+        "streak": "10",
+        "streams": "25,800",
+        "youtubeID": "NoZi3O6-7Ig"
+    },
+    {
+        "ranking": "53",
+        "title": "Promise Keeper",
+        "artist": "Sound Of Salem & Pst. Oche Ogebe",
+        "image": "https://i.ytimg.com/vi/6cT9U1RAVQs/default.jpg",
+        "prev": "67",
+        "streak": "4",
+        "streams": "25,622",
+        "youtubeID": "6cT9U1RAVQs"
+    },
+    {
+        "ranking": "54",
+        "title": "Imagine",
+        "artist": "Niphkeys & Ayo Maff",
+        "image": "https://lh3.googleusercontent.com/5xWU4IIwRhwPO5y5jumM3DIFkmDU8VHMJJ7AscCerzcvn1FQF7L2XgzBwp43RyyqnbjQNo9KJDrJSkLf=w180-h180-l90-rj",
+        "prev": "-",
+        "streak": "1",
+        "streams": "25,401",
+        "youtubeID": "zqYox1CUdG0"
+    },
+    {
+        "ranking": "55",
+        "title": "Yahweh Sabaoth",
+        "artist": "Nathaniel Bassey",
+        "image": "https://lh3.googleusercontent.com/VP6Ny4ar7_qSuwWVEwLO7ua8zW720LpIPLncQexRUcUqYU9pk4_ZPEVZ_wXI85dd24YC49rhqLJTBvw=w180-h180-l90-rj",
+        "prev": "61",
+        "streak": "10",
+        "streams": "25,400",
+        "youtubeID": "5taka1Ftu-E"
+    },
+    {
+        "ranking": "56",
+        "title": "Tare (Live)",
+        "artist": "kaestrings",
+        "image": "https://lh3.googleusercontent.com/GB6t5drppos5BmITS8AxdV1D6iwnOZNgl5_NG1JP363F2jsKdITZyxU22cDqtNJ7bwp_Ax_rrosF8n2p=w180-h180-l90-rj",
+        "prev": "37",
+        "streak": "4",
+        "streams": "25,342",
+        "youtubeID": "OxkQbbnCNrU"
+    },
+    {
+        "ranking": "57",
+        "title": "No Disorder",
+        "artist": "Lil Kesh",
+        "image": "https://lh3.googleusercontent.com/vK4CKpFHGka3WIXXz2kqOGjrmn5GXc4Xy6AlA8lTY-YgZW2JFbHyHahUMLLCtAmzYcohN8XnHINuH80=w180-h180-l90-rj",
+        "prev": "59",
+        "streak": "2",
+        "streams": "25,206",
+        "youtubeID": "M-IzfT98638"
+    },
+    {
+        "ranking": "58",
+        "title": "So it Goes",
+        "artist": "Black Sherif & Fireboy DML",
+        "image": "https://lh3.googleusercontent.com/iU3XYG6YrftNluPL8U70YVV3ubVq4mNNG_aducUb4QPhcWNB1qKYZ4Ka2BwhwR18FuXiMcdnLkltdVk=w180-h180-l90-rj",
+        "prev": "39",
+        "streak": "11",
+        "streams": "24,826",
+        "youtubeID": "L1bg_h9DI5g"
+    },
+    {
+        "ranking": "59",
+        "title": "4 Kampé",
+        "artist": "Joé Dwèt Filé",
+        "image": "https://lh3.googleusercontent.com/f7GPI6RxxAyicyhrtfoJUxqJwticVennyDsgVXU3wf4_AAeA0wKxbbmAr59dzYHJRJRKZsuk4GIoP_A=w180-h180-l90-rj",
+        "prev": "48",
+        "streak": "3",
+        "streams": "23,870",
+        "youtubeID": "Srvt_6up-0o"
+    },
+    {
+        "ranking": "60",
+        "title": "모르시나요",
+        "artist": "ZO ZAZZ",
+        "image": "https://lh3.googleusercontent.com/ZAsgezCHWQnW9K2KQh1b5l_0CRCIWGBy_1RYUbU5nyxPlaa8BYW6BaRPJT7-ovTOfLBGE8MeC9u6qB7w=w180-h180-l90-rj",
+        "prev": "64",
+        "streak": "8",
+        "streams": "23,416",
+        "youtubeID": "tfmwbxBKPh0"
+    },
+    {
+        "ranking": "61",
+        "title": "HAPPY SONG",
+        "artist": "Seyi Vibez",
+        "image": "https://lh3.googleusercontent.com/mj3QRF8iX8LyzVBBj-jhqXkDhPgAGJy6-EE__-mr-VlJxgw0l0k_f1e7jje3sUKK9iWRRZF1oguf4Wwn=w180-h180-l90-rj",
+        "prev": "52",
+        "streak": "8",
+        "streams": "22,959",
+        "youtubeID": "l0yxcgNZ0Eg"
+    },
+    {
+        "ranking": "62",
+        "title": "Back Outside",
+        "artist": "Phyno & Cheque",
+        "image": "https://lh3.googleusercontent.com/aq7H_RpMs1QA3L2QVTb06LPouFsxgDgLPg_KYB22BCilP6MIYfgTImZnhxdX-Cl-3KmhRzuh-wsK8Dkybg=w180-h180-l90-rj",
+        "prev": "65",
+        "streak": "20",
+        "streams": "22,837",
+        "youtubeID": "0sUqUvcNZTA"
+    },
+    {
+        "ranking": "63",
+        "title": "Anxiety",
+        "artist": "Doechii",
+        "image": "https://lh3.googleusercontent.com/DXVulIdXjro06rV0Z8OHGnhdC27UAVclK7Lh_xvpFg5ZakjuQtnr4tigbFHuRitGl3oTK0HphRjzJO8=w180-h180-l90-rj",
+        "prev": "57",
+        "streak": "6",
+        "streams": "22,206",
+        "youtubeID": "egemoVK0IKY"
+    },
+    {
+        "ranking": "64",
+        "title": "NOKIA",
+        "artist": "Drake",
+        "image": "https://lh3.googleusercontent.com/iECZjf8oIemUFNSo_NI1YSBKmwrDzxS2Ze4KumNHUtjwgn1oFSw4kQIV2KzpC5Aoa3LNqL1iVvxMbjYr=w180-h180-l90-rj",
+        "prev": "56",
+        "streak": "3",
+        "streams": "22,203",
+        "youtubeID": "8ekJMC8OtGU"
+    },
+    {
+        "ranking": "65",
+        "title": "Money",
+        "artist": "Teni",
+        "image": "https://lh3.googleusercontent.com/HGaUDru2s_fBiE5CFZgnAZr7chpYarHbCUcyAT2Yf3VzAETY8a7AEqqaaXtrGz4Vp3Eq6dM-weio2I8=w180-h180-l90-rj",
+        "prev": "60",
+        "streak": "12",
+        "streams": "22,047",
+        "youtubeID": "ge6f1f94FLI"
+    },
+    {
+        "ranking": "66",
+        "title": "HOT",
+        "artist": "LE SSERAFIM",
+        "image": "https://lh3.googleusercontent.com/WrXLpkELS58lUTsV-xw1swz3NIEDoxxHcO6LhR4ILyNFyy58SKdqoNd3k4ffzz5pRlo8jkT2WuKYJaYpEQ=w180-h180-l90-rj",
+        "prev": "70",
+        "streak": "5",
+        "streams": "21,599",
+        "youtubeID": "r9AEGPB6qIU"
+    },
+    {
+        "ranking": "67",
+        "title": "PASSO BEM SOLTO (Slowed)",
+        "artist": "ATLXS",
+        "image": "https://i.ytimg.com/vi/NT4eF9YsYnM/default.jpg",
+        "prev": "82",
+        "streak": "2",
+        "streams": "21,573",
+        "youtubeID": "NT4eF9YsYnM"
+    },
+    {
+        "ranking": "68",
+        "title": "TOO BAD",
+        "artist": "G-DRAGON & Anderson .Paak",
+        "image": "https://lh3.googleusercontent.com/HkF-QBVqeqTVSxMuw9sJDfB-oEDmLY88KTM64LbssbycFguorXn7rPJNh4t2GnZ_o2JbLMOM12GyUle-=w180-h180-l90-rj",
+        "prev": "69",
+        "streak": "8",
+        "streams": "21,356",
+        "youtubeID": "o9DhvbqYzns"
+    },
+    {
+        "ranking": "69",
+        "title": "Jay Jay",
+        "artist": "Ruger",
+        "image": "https://lh3.googleusercontent.com/jUV2rSB21AXGdV1m_UkcCJnPRdHjKSx2vj2uwJ0DtR0qk5-pQwR5RjYOgc1ZbPR_GZfXDWpuDkqQ3eiA=w180-h180-l90-rj",
+        "prev": "73",
+        "streak": "9",
+        "streams": "20,921",
+        "youtubeID": "G7wWmv24W50"
+    },
+    {
+        "ranking": "70",
+        "title": "Beamer",
+        "artist": "T.I BLAZE",
+        "image": "https://lh3.googleusercontent.com/4PYv0EMR96DGOkcPRK7ZTU6IoAYMwYM7M_aPDieJNlZ0HFY-lUKMHwB-DbOUfwBo7EHJuBXFpsTbioA=w180-h180-l90-rj",
+        "prev": "66",
+        "streak": "13",
+        "streams": "20,764",
+        "youtubeID": "IyJqrVfPbz8"
+    },
+    {
+        "ranking": "71",
+        "title": "Dangbana Riddim",
+        "artist": "Bella Shmurda & Fola",
+        "image": "https://i.ytimg.com/vi/BLg8GZ3yBxQ/default.jpg",
+        "prev": "-",
+        "streak": "1",
+        "streams": "20,578",
+        "youtubeID": "BLg8GZ3yBxQ"
+    },
+    {
+        "ranking": "72",
+        "title": "Only Fans",
+        "artist": "Young Jonn",
+        "image": "https://lh3.googleusercontent.com/5fhy0lMNWOXjIvEn-1h2lnaP4b2jc6IObg6umNJ_GEMc7tnOtYUwEwbrW2LBk-iQhwqTYQpYld9YYwLm=w180-h180-l90-rj",
+        "prev": "58",
+        "streak": "7",
+        "streams": "20,283",
+        "youtubeID": "Uyh0GTT16Qk"
+    },
+    {
+        "ranking": "73",
+        "title": "Hope",
+        "artist": "T.I BLAZE & Tml Vibez",
+        "image": "https://lh3.googleusercontent.com/Umk7LmUvc_PbsYXmQJN-KMsYn4sm9zGILWporzmK9r4VQyOgWwe3oVCoGX2cKCowTWj7AHbFUkU5eCBh=w180-h180-l90-rj",
+        "prev": "-",
+        "streak": "1",
+        "streams": "19,709",
+        "youtubeID": "iu55UbGL26Q"
+    },
+    {
+        "ranking": "74",
+        "title": "작은 봄",
+        "artist": "고추잠자리",
+        "image": "https://lh3.googleusercontent.com/4bHFcdM0eSho4XEZGMhR7iBTiRLy78Y_QfpVURbM_flWbE2jsKObIlNTesSjBHyeYjdTd3DWEJRUxAxqFw=w180-h180-l90-rj",
+        "prev": "-",
+        "streak": "1",
+        "streams": "19,487",
+        "youtubeID": "HIeZ8W0zLMA"
+    },
+    {
+        "ranking": "75",
+        "title": "On God",
+        "artist": "Shatta Wale",
+        "image": "https://lh3.googleusercontent.com/ZBFOqM0TkGK_z2zs8ukEpDyYMT-P9-kf82PjUqt0S68zd6pYM6MJF0LewzySGlKH_sB5aLcdjKIyRPgE=w180-h180-l90-rj",
+        "prev": "-",
+        "streak": "3",
+        "streams": "19,246",
+        "youtubeID": "WMRfgQf6q7s"
+    },
+    {
+        "ranking": "76",
+        "title": "Jumping Machine (跳楼机)",
+        "artist": "LBI",
+        "image": "https://i.ytimg.com/vi/TOC78RUj8pg/default.jpg",
+        "prev": "90",
+        "streak": "8",
+        "streams": "19,224",
+        "youtubeID": "TOC78RUj8pg"
+    },
+    {
+        "ranking": "77",
+        "title": "Lose Control (Live)",
+        "artist": "Teddy Swims",
+        "image": "https://lh3.googleusercontent.com/mQKcmGnXO4pebJBfgVC1UWFXN0g1zbvRDZd3brh0FN6iV_Kd2RIC6PZeder5fKiFwMXI5H7luk6oEgI=w180-h180-l90-rj",
+        "prev": "75",
+        "streak": "16",
+        "streams": "19,045",
+        "youtubeID": "GZ3zL7kT6_c"
+    },
+    {
+        "ranking": "78",
+        "title": "HBP Remix",
+        "artist": "Llona & Bella Shmurda",
+        "image": "https://lh3.googleusercontent.com/Jic99hPiYQZrfaNmNG56hBhuOpiHjv5VPe0q-hXvVJ-qh1ESQCjRnI74MGYZiAkpx18UuohdalfGvSDu=w180-h180-l90-rj",
+        "prev": "87",
+        "streak": "15",
+        "streams": "19,002",
+        "youtubeID": "HcIa_c3nJzg"
+    },
+    {
+        "ranking": "79",
+        "title": "My Lover (Live)",
+        "artist": "Mercy Chinwo",
+        "image": "https://lh3.googleusercontent.com/NQI3R78vJjdm7uHmxyXMnmrPq1OIKypPmagG6A9XDe_cCTiKfJNN_F7-yieWwwCgbFesgAAdSBaxmP8=w180-h180-l90-rj",
+        "prev": "95",
+        "streak": "3",
+        "streams": "18,856",
+        "youtubeID": "hdinszeCwrU"
+    },
+    {
+        "ranking": "80",
+        "title": "Levitating (feat. DaBaby)",
+        "artist": "Dua Lipa",
+        "image": "https://lh3.googleusercontent.com/FL6KpTJ1UpVl6RVm6iLkp4Z_5RKj2GNaZiRDyQrnskekZ_V0uETwRHFXqtYMtNSh7uG6YeKV7Pnoiuhp=w180-h180-l90-rj",
+        "prev": "88",
+        "streak": "17",
+        "streams": "18,540",
+        "youtubeID": "TUVcZfQe-Kw"
+    },
+    {
+        "ranking": "81",
+        "title": "PUSH 2 START",
+        "artist": "Tyla",
+        "image": "https://lh3.googleusercontent.com/oWWJaHfHCxLK8tyVbiBoBzxR-jbzQAh6HrTAua4AmQJaX_RwQkKKqq6dlxSpOSwgMOpBQLMdmq7yvcvnQA=w180-h180-l90-rj",
+        "prev": "92",
+        "streak": "18",
+        "streams": "18,463",
+        "youtubeID": "uLK2r3sG4lE"
+    },
+    {
+        "ranking": "82",
+        "title": "Vex For U (feat. Fireboy DML & Ayo Maff)",
+        "artist": "Lil Kesh",
+        "image": "https://lh3.googleusercontent.com/ftvqjo-5kco1GjwbX0lGI1Iy_8GUD7WFBvTWD_U5ndN1WtWfKMFYBW36jBQv9h5W1jl8yLfM6BEGFaDw=w180-h180-l90-rj",
+        "prev": "-",
+        "streak": "15",
+        "streams": "18,383",
+        "youtubeID": "mba6D1d3paQ"
+    },
+    {
+        "ranking": "83",
+        "title": "Chandelier",
+        "artist": "Monaky",
+        "image": "https://i.ytimg.com/vi/j6t2Bo4skpE/default.jpg",
+        "prev": "94",
+        "streak": "15",
+        "streams": "18,127",
+        "youtubeID": "j6t2Bo4skpE"
+    },
+    {
+        "ranking": "84",
+        "title": "Residuals",
+        "artist": "Chris Brown",
+        "image": "https://lh3.googleusercontent.com/2rMWK530KwR-E1iGIzMZ564jFOrY3POSHOeJtoxire7nFfWrbj4O2LGQFd-7nISLl0zCCFMVuhKFHP7c=w180-h180-l90-rj",
+        "prev": "89",
+        "streak": "12",
+        "streams": "18,023",
+        "youtubeID": "N6i1SeRmKL0"
+    },
+    {
+        "ranking": "85",
+        "title": "toxic till the end",
+        "artist": "ROSÉ",
+        "image": "https://lh3.googleusercontent.com/-MtYkhdYuOvj8YWHA4afh-OUYMYHNpBpkk047QgGAxLJMLE570Pj0-LQjA2PW1ltedqTusKOjzXvuS8=w180-h180-l90-rj",
+        "prev": "99",
+        "streak": "18",
+        "streams": "17,960",
+        "youtubeID": "eA0lHNZ1KCA"
+    },
+    {
+        "ranking": "86",
+        "title": "Most Wanted",
+        "artist": "Zinoleesky",
+        "image": "https://i.ytimg.com/vi/sThN-QYGv-E/default.jpg",
+        "prev": "44",
+        "streak": "2",
+        "streams": "17,573",
+        "youtubeID": "sThN-QYGv-E"
+    },
+    {
+        "ranking": "87",
+        "title": "Bundle By Bundle",
+        "artist": "Burna Boy",
+        "image": "https://lh3.googleusercontent.com/csx4pfNyJvXemuSgfsAGD3KNQHEYGRss7Q7AfA4_oF1GigSTWC3tIiNMtf1fVRGBHNM35wDwb9yzFZYSzQ=w180-h180-l90-rj",
+        "prev": "86",
+        "streak": "18",
+        "streams": "17,483",
+        "youtubeID": "MLLm8Okhllg"
+    },
+    {
+        "ranking": "88",
+        "title": "Giveaway",
+        "artist": "Ruger & Zlatan",
+        "image": "https://lh3.googleusercontent.com/jT7V6vK9th3fRyBvqhm5JsUr0mxWu1DpsYtIMoPt1qBlOqX38HBuy-4BZNuw-L0L5Cpt5xqbTtIpYtI=w180-h180-l90-rj",
+        "prev": "91",
+        "streak": "3",
+        "streams": "17,428",
+        "youtubeID": "HHg-e_I8lhE"
+    },
+    {
+        "ranking": "89",
+        "title": "Aure Remix (feat. Boyskido)",
+        "artist": "Emteey Shmurda",
+        "image": "https://lh3.googleusercontent.com/3O5gpG6pAORZ7ni5130GsrpXcgtewzqjejBToQGZLhI7TVhzNYXkKRh2BpbJuPItGDeBE4hL3azSedaspQ=w180-h180-l90-rj",
+        "prev": "63",
+        "streak": "2",
+        "streams": "17,351",
+        "youtubeID": "6adovPSPtW8"
+    },
+    {
+        "ranking": "90",
+        "title": "Screaming Beauty",
+        "artist": "Shoday & Olivetheboy",
+        "image": "https://lh3.googleusercontent.com/uqXbCHzsn1qiPq9ZH0LH9fnw4Udtt2n6AJRsc782a-gYTzE0XGwSKq6Bl2wABHfBzATkvPFQq51PjeGY=w180-h180-l90-rj",
+        "prev": "-",
+        "streak": "4",
+        "streams": "17,347",
+        "youtubeID": "_SJ5GUvkMK4"
+    },
+    {
+        "ranking": "91",
+        "title": "Be There Still",
+        "artist": "Davido",
+        "image": "https://lh3.googleusercontent.com/KDJcpA_vl1FXCEHBB_ynBQkvXhis7R468qXiC9aztTt8uCDmJxQO0DCOV-hk1bQUaYW_yamDcn-DDQt1=w180-h180-l90-rj",
+        "prev": "83",
+        "streak": "5",
+        "streams": "17,306",
+        "youtubeID": "OZrJMvYrzIc"
+    },
+    {
+        "ranking": "92",
+        "title": "Flower",
+        "artist": "OVAN",
+        "image": "https://lh3.googleusercontent.com/ReAzHaOZO-oJy5zy7YWE7_kmbEhk_i1FVJ4U0Dj-fMMWqmwEY8q3sJogljonz-Lmiqn5MWKy5xlkiCxcaQ=w180-h180-l90-rj",
+        "prev": "-",
+        "streak": "3",
+        "streams": "17,106",
+        "youtubeID": "zLBR-idGbDU"
+    },
+    {
+        "ranking": "93",
+        "title": "Awuke",
+        "artist": "Davido & YG Marley",
+        "image": "https://lh3.googleusercontent.com/IwiX2XPVEaH5QIb20GLmNZjf3Saq1NCSKOQefU23aA_GUxjnNbQ3pP1iw24urbXhFZWpQakzwwqCr_vD=w180-h180-l90-rj",
+        "prev": "-",
+        "streak": "20",
+        "streams": "17,022",
+        "youtubeID": "ZzzvXGhq1JU"
+    },
+    {
+        "ranking": "94",
+        "title": "Holy Forever",
+        "artist": "CeCe Winans",
+        "image": "https://lh3.googleusercontent.com/OF1mMxZLHSNVJSSgw7ZmhUkrjLI8WHrm4SqV_ccDuO0nGMuBj8JJ_FrLTH8qJeLyUbgsnHCpzaibr5IoMQ=w180-h180-l90-rj",
+        "prev": "-",
+        "streak": "1",
+        "streams": "16,892",
+        "youtubeID": "2xcFM9CBiOE"
+    },
+    {
+        "ranking": "95",
+        "title": "รักใครไม่ไหว",
+        "artist": "Three Man Down",
+        "image": "https://lh3.googleusercontent.com/ptqAF47X0gvWBvjGVS9pysb6hftgBbI2VAjPyAEsEpcR3CncLCWb2Njru54qd-f27WVIe5hN9SilCBo=w180-h180-l90-rj",
+        "prev": "-",
+        "streak": "1",
+        "streams": "16,866",
+        "youtubeID": "F_v_Qj6watw"
+    },
+    {
+        "ranking": "96",
+        "title": "Uhh Yeahh",
+        "artist": "Asake",
+        "image": "https://lh3.googleusercontent.com/IbvxUoPPRqsmKiXH4hR0H-mA7Gf7UfLYRgzvT_m3GbC3QXes9vu49SxveYQfVB_jVYLmCUqUQDObVfZc=w180-h180-l90-rj",
+        "prev": "-",
+        "streak": "19",
+        "streams": "16,822",
+        "youtubeID": "KvByp6WpF2E"
+    },
+    {
+        "ranking": "97",
+        "title": "Management",
+        "artist": "Smur Lee & BIGKHALID",
+        "image": "https://i.ytimg.com/vi/94RM5h7QK8c/default.jpg",
+        "prev": "-",
+        "streak": "4",
+        "streams": "16,768",
+        "youtubeID": "94RM5h7QK8c"
+    },
+    {
+        "ranking": "98",
+        "title": "Banger",
+        "artist": "bigtimzzz",
+        "image": "https://i.ytimg.com/vi/wKfNaV-su-M/default.jpg",
+        "prev": "-",
+        "streak": "1",
+        "streams": "16,724",
+        "youtubeID": "wKfNaV-su-M"
+    },
+    {
+        "ranking": "99",
+        "title": "Legends",
+        "artist": "Quavo & Lil Baby",
+        "image": "https://lh3.googleusercontent.com/TQnwVGzResxdrD9zjob4XI7qwA9_Ud0VKxQKdTX0yQ7jDVvgLPGVTpwz5G1ZhVGo-PcvbfBZJIA5TXI=w180-h180-l90-rj",
+        "prev": "-",
+        "streak": "1",
+        "streams": "16,660",
+        "youtubeID": "4cCzuTQ49V8"
+    },
+    {
+        "ranking": "100",
+        "title": "DUPE",
+        "artist": "Broda Shaggi",
+        "image": "https://lh3.googleusercontent.com/HRA565GtlE9gsgvUtC0m5SueCmFiv5o5hFALuCFcBoI5aIpOKg2xfzeFNYua-uyJaZwD8Jq6E7xsOCHO=w180-h180-l90-rj",
+        "prev": "-",
+        "streak": "1",
+        "streams": "16,531",
+        "youtubeID": "KxnGht79xaw"
+    }
+]

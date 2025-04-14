@@ -1,0 +1,1002 @@
+[
+    {
+        "ranking": "1",
+        "title": "Stecu Stecu",
+        "artist": "Faris Adam",
+        "image": "https://lh3.googleusercontent.com/Z3eB-T7EFPwxJuVn3Wb4L2n_itdJp5ElJ9Q9ToPeYS-CjvjcyCf1UEsRzhu_LSm_wk5y-gxV6q-Hnv9q=w180-h180-l90-rj",
+        "prev": "1",
+        "streak": "5",
+        "streams": "5,235,597",
+        "youtubeID": "2e0BMACvymo"
+    },
+    {
+        "ranking": "2",
+        "title": "PICA PICA",
+        "artist": "Juan Reza",
+        "image": "https://lh3.googleusercontent.com/W5gLlUE9h53ythMpscmtekdTtNwh51Mkjk3-UP8CpLacGKHg37wLs7pUTzCAFiCkutpDaJov5M-t_wk=w180-h180-l90-rj",
+        "prev": "4",
+        "streak": "27",
+        "streams": "2,306,515",
+        "youtubeID": "gaphnn3cryo"
+    },
+    {
+        "ranking": "3",
+        "title": "Sinarengan (feat. Bella Bonita)",
+        "artist": "Denny Caknan",
+        "image": "https://lh3.googleusercontent.com/MJMUj8sofqGrzgr0O-siAIpHjQl3DueprY4nCP5hu1mM7S7A7YpAOfp2pKwlBYAyt0WXCz5OAxJfcmY=w180-h180-l90-rj",
+        "prev": "3",
+        "streak": "6",
+        "streams": "2,187,109",
+        "youtubeID": "lHFOzj1_suE"
+    },
+    {
+        "ranking": "4",
+        "title": "Aku Dah Lupa",
+        "artist": "MikkyZia",
+        "image": "https://lh3.googleusercontent.com/g3IRAYla0tcBYIMvAyiBxCwvMEReQVqufdPqDJus_kfENLpG5-O-E3AzOIVv9yatEY82t7UYEp0128c=w180-h180-l90-rj",
+        "prev": "2",
+        "streak": "7",
+        "streams": "1,806,639",
+        "youtubeID": "-ktlIHSOOmk"
+    },
+    {
+        "ranking": "5",
+        "title": "Komang",
+        "artist": "Raim Laode",
+        "image": "https://i.ytimg.com/vi/fKRtnMYMW08/default.jpg",
+        "prev": "9",
+        "streak": "60",
+        "streams": "1,763,246",
+        "youtubeID": "fKRtnMYMW08"
+    },
+    {
+        "ranking": "6",
+        "title": "Garam & Madu (Sakit Dadaku)",
+        "artist": "Tenxi & Jemsii & Naykilla",
+        "image": "https://lh3.googleusercontent.com/VN118cT1j1rNe2nCkmkpjAfkvcRmlc9f65EYWF5uQDWdPEOyE7d_REheHw6_snqjSykVSVtk3El1tbk=w180-h180-l90-rj",
+        "prev": "5",
+        "streak": "17",
+        "streams": "1,627,447",
+        "youtubeID": "k0ubS6BhHu4"
+    },
+    {
+        "ranking": "7",
+        "title": "Anugerah Terindah",
+        "artist": "Andmesh",
+        "image": "https://lh3.googleusercontent.com/1x7w0VmjNdPQy44Zh-gip7Q9wLFgS2nVMsG1fNT8RkSsWhLKFhVISwJ2K00GY4Bne4HpifNcpCJcOtpJ=w180-h180-l90-rj",
+        "prev": "6",
+        "streak": "21",
+        "streams": "1,527,347",
+        "youtubeID": "o25_Tn8BnFM"
+    },
+    {
+        "ranking": "8",
+        "title": "Lesung Pipi",
+        "artist": "Raim Laode",
+        "image": "https://i.ytimg.com/vi/mJE0ROBWPvY/default.jpg",
+        "prev": "37",
+        "streak": "2",
+        "streams": "1,371,144",
+        "youtubeID": "mJE0ROBWPvY"
+    },
+    {
+        "ranking": "9",
+        "title": "blue",
+        "artist": "yung kai",
+        "image": "https://lh3.googleusercontent.com/jTa7GXscGZnmzWZDYYpmvYRy_gYGZQSP_COxCY-7wDt_7HTs37Bi-O313LdKc5qs2tuIVZNv0SGf-Jue=w180-h180-l90-rj",
+        "prev": "7",
+        "streak": "21",
+        "streams": "1,094,843",
+        "youtubeID": "IpFX2vq8HKw"
+    },
+    {
+        "ranking": "10",
+        "title": "Nina",
+        "artist": ".Feast",
+        "image": "https://lh3.googleusercontent.com/EVhlZ1_QvtFXZeDM5o8oaHak_yJn-qVB7aEK1AkmOQED-Eyq7QFaUokrjIV_7o7R8ypomDt5c5YsH6db=w180-h180-l90-rj",
+        "prev": "8",
+        "streak": "31",
+        "streams": "1,089,175",
+        "youtubeID": "iQo-8wx0l0Y"
+    },
+    {
+        "ranking": "11",
+        "title": "Mangu (feat. Charita Utami)",
+        "artist": "Fourtwnty",
+        "image": "https://lh3.googleusercontent.com/_XE16s8ys5Y77bASSjLGEH1r9PBUgLsQXkTSTBMhwcqojvS3_uKmhUa45zr7mgT4V_Rf2ssei_xTJpOaYQ=w180-h180-l90-rj",
+        "prev": "14",
+        "streak": "9",
+        "streams": "1,049,581",
+        "youtubeID": "JENpTmMQBQY"
+    },
+    {
+        "ranking": "12",
+        "title": "Die With A Smile",
+        "artist": "Lady Gaga & Bruno Mars",
+        "image": "https://lh3.googleusercontent.com/RFK4wHeGqwI3DndbARbRJB21IC0TcmqnrlyjxYK7T-nC8wlIVbfxNaCIFKNvSpchDKmYyVLe1RN36w=w180-h180-l90-rj",
+        "prev": "10",
+        "streak": "34",
+        "streams": "977,139",
+        "youtubeID": "kPa7bsKwL-c"
+    },
+    {
+        "ranking": "13",
+        "title": "Ubur Ubur Ikan Lele (feat. Jacson Zeran & CHESYLINO)",
+        "artist": "Juan Reza",
+        "image": "https://lh3.googleusercontent.com/sVZAk7U82ukAshPcL0atZLhphT3EFF47O6BrJtILa9O3y0J0_OPWjwc91H-coqKM1HQUOZpDgBqZ393M=w180-h180-l90-rj",
+        "prev": "15",
+        "streak": "5",
+        "streams": "900,469",
+        "youtubeID": "k9MWCWvN4Nc"
+    },
+    {
+        "ranking": "14",
+        "title": "Bunga Maaf",
+        "artist": "The Lantis",
+        "image": "https://lh3.googleusercontent.com/f2SZP64o4ATS_OhnUF9gFhrgjg1dfshG9_hrLVMqJEl8pL7phfLq9zjbV-5KieqJXHKGWb5gRvvG05k=w180-h180-l90-rj",
+        "prev": "12",
+        "streak": "19",
+        "streams": "875,763",
+        "youtubeID": "1v3DqMSm-uY"
+    },
+    {
+        "ranking": "15",
+        "title": "قلبي في المدينة",
+        "artist": "Maher Zain & Harris J",
+        "image": "https://lh3.googleusercontent.com/gRU5BXaM35vQ8MKWec3RCgXYfjjOiHBeALat3Cyodou1dQqZVQO1vYSdDF2Ord0To5Ygo3cg4K_NyDo=w180-h180-l90-rj",
+        "prev": "11",
+        "streak": "5",
+        "streams": "870,291",
+        "youtubeID": "2VLqZtded_0"
+    },
+    {
+        "ranking": "16",
+        "title": "Serat Penjajah",
+        "artist": "Cantika Nuswantoro Adella",
+        "image": "https://lh3.googleusercontent.com/yi8MKVyYv5-L0oSpqHFEZnqYS8E6BuYSeGt055SfjJ_HDoZPwtLXINpgBtNu4eietpzU3xhT8r54cl4=w180-h180-l90-rj",
+        "prev": "16",
+        "streak": "6",
+        "streams": "839,354",
+        "youtubeID": "0isk98R1c8o"
+    },
+    {
+        "ranking": "17",
+        "title": "AYANG AYANG (feat. Evita Wharma)",
+        "artist": "Risang Gotho",
+        "image": "https://lh3.googleusercontent.com/gThxVJ-qrraythFz2-jv4rDYlIwU5aNMK1xpYPFrM8ePSX6hxo45Gdvewl4Ac1P1SYtzErRfJbHKKC_h=w180-h180-l90-rj",
+        "prev": "31",
+        "streak": "2",
+        "streams": "821,695",
+        "youtubeID": "WhXuW-jxIfw"
+    },
+    {
+        "ranking": "18",
+        "title": "Masing Masing",
+        "artist": "Ernie Zakri & Ade Govinda",
+        "image": "https://lh3.googleusercontent.com/W-xcP4Ej41ID-iBfTXH14Wp1wW_TF5Jpkw7fdw3EriIH75k5UkJYvNtZppVqqgFP0dYmHKZuuZGsqbY=w180-h180-l90-rj",
+        "prev": "13",
+        "streak": "31",
+        "streams": "818,928",
+        "youtubeID": "FtHaMWRn8Mc"
+    },
+    {
+        "ranking": "19",
+        "title": "Nyong Timur",
+        "artist": "GIHON MAREL & Jacson Zeran",
+        "image": "https://lh3.googleusercontent.com/27CHnQRwIUUKkpf6WoTpbrG4KLFwji4OD-FNiB-icd6qEBhVzItiNqxFCkV1aKW4li52kPxD_SuNGvqk=w180-h180-l90-rj",
+        "prev": "18",
+        "streak": "38",
+        "streams": "698,416",
+        "youtubeID": "yq6uddzroUs"
+    },
+    {
+        "ranking": "20",
+        "title": "like JENNIE",
+        "artist": "JENNIE",
+        "image": "https://lh3.googleusercontent.com/Z3gufPaLCcWuJNE4NH6KhlbUSrnx3hvUQgnhwQBrUDNzEgAp1aNMuCr0nv0gJxU8XcS2Rp9I-BHPZt_i=w180-h180-l90-rj",
+        "prev": "17",
+        "streak": "6",
+        "streams": "689,111",
+        "youtubeID": "JSFG-IE8n_c"
+    },
+    {
+        "ranking": "21",
+        "title": "Tombo Kangen (Live)",
+        "artist": "Dike Sabrina",
+        "image": "https://lh3.googleusercontent.com/xgyCEqleKG_3xUFpoV7ez7YofIet8txecpMl4WiqLBjHO3FFxX4CPSUcMoHMjjk174nId3o8Fq4EWv9u=w180-h180-l90-rj",
+        "prev": "20",
+        "streak": "6",
+        "streams": "655,231",
+        "youtubeID": "Fy4g_-CCN1Q"
+    },
+    {
+        "ranking": "22",
+        "title": "APT.",
+        "artist": "ROSÉ & Bruno Mars",
+        "image": "https://lh3.googleusercontent.com/-MtYkhdYuOvj8YWHA4afh-OUYMYHNpBpkk047QgGAxLJMLE570Pj0-LQjA2PW1ltedqTusKOjzXvuS8=w180-h180-l90-rj",
+        "prev": "19",
+        "streak": "26",
+        "streams": "642,047",
+        "youtubeID": "ekr2nIex040"
+    },
+    {
+        "ranking": "23",
+        "title": "Tresno Tekan Mati (New Version)",
+        "artist": "NDX A.K.A.",
+        "image": "https://lh3.googleusercontent.com/rrhoDJTw9PUDPG_M9OTrhuyUbsCCPe1eXDhPMKvR89nUazA3RkEQeYxvq2Gq1iydh_4pqxU3O4ihelWO=w180-h180-l90-rj",
+        "prev": "23",
+        "streak": "15",
+        "streams": "610,483",
+        "youtubeID": "JNatjo6ueOs"
+    },
+    {
+        "ranking": "24",
+        "title": "BIRDS OF A FEATHER",
+        "artist": "Billie Eilish",
+        "image": "https://lh3.googleusercontent.com/mXJjWX4E6Gpr03CUYl18PdVXlczmoL2Tm-LEBGafIr_8smlHnl8AHniJu0_7Y80e-aeloJxcryQQx0ZJ=w180-h180-l90-rj",
+        "prev": "21",
+        "streak": "43",
+        "streams": "600,485",
+        "youtubeID": "V9PVRfjEBTI"
+    },
+    {
+        "ranking": "25",
+        "title": "Lesung Pipi (Acoustic Version)",
+        "artist": "Raim Laode",
+        "image": "https://lh3.googleusercontent.com/cba1SESP8Mv8BGQmdqbXpMsc77FtTJVLwVPLbtV6oTHGBgL860I248YMNWBvO86QD90OigdW7DrTML0=w180-h180-l90-rj",
+        "prev": "-",
+        "streak": "1",
+        "streams": "521,612",
+        "youtubeID": "gBg0qyuK1EQ"
+    },
+    {
+        "ranking": "26",
+        "title": "Hilang",
+        "artist": "Justy Aldrin & Wizz Baker & Toton Caribo",
+        "image": "https://lh3.googleusercontent.com/J5oWqkb1udwj-8KWyl6NBowWF457Oyt9U2P0ifBw3IImkhiZSyDhXC4oNFzjVnuP3i0iqJLZ9qYeNROe=w180-h180-l90-rj",
+        "prev": "24",
+        "streak": "26",
+        "streams": "516,235",
+        "youtubeID": "WT-5dK6v7Fk"
+    },
+    {
+        "ranking": "27",
+        "title": "Ciinan Bana",
+        "artist": "Fauzana",
+        "image": "https://lh3.googleusercontent.com/0nd-MU67vdk20Iewp02Z6rO8_vk64bp-lXom57I0S5CWk6WnCFAPEXf4Pnreon80THJxNEs0808eHoo2=w180-h180-l90-rj",
+        "prev": "25",
+        "streak": "37",
+        "streams": "508,537",
+        "youtubeID": "Pj4zgZLzRlM"
+    },
+    {
+        "ranking": "28",
+        "title": "WILDFLOWER",
+        "artist": "Billie Eilish",
+        "image": "https://lh3.googleusercontent.com/mXJjWX4E6Gpr03CUYl18PdVXlczmoL2Tm-LEBGafIr_8smlHnl8AHniJu0_7Y80e-aeloJxcryQQx0ZJ=w180-h180-l90-rj",
+        "prev": "27",
+        "streak": "23",
+        "streams": "458,944",
+        "youtubeID": "IWKyykQBRKo"
+    },
+    {
+        "ranking": "29",
+        "title": "The Lazy Song",
+        "artist": "Bruno Mars",
+        "image": "https://lh3.googleusercontent.com/-MBagZMcp-AsKziX22bIEvPjNlxPPyU8hgXC07dXlt9GmlBTA1hZI9yyAuCP0mswnSBNRMOvoI1y9_Y=w180-h180-s-l90-rj",
+        "prev": "26",
+        "streak": "18",
+        "streams": "446,609",
+        "youtubeID": "fLexgOxsZu0"
+    },
+    {
+        "ranking": "30",
+        "title": "Dulu Memang Cinta",
+        "artist": "Putri Tanjung & Mario G Klau",
+        "image": "https://lh3.googleusercontent.com/K3bXWshon9VmQQqZj9udnUSHXaxatd0_0EBeWFQplnRta0Yzqa2LiHB6W4NWq3QWgWjrqw3-wcFziGUCQQ=w180-h180-l90-rj",
+        "prev": "30",
+        "streak": "4",
+        "streams": "439,287",
+        "youtubeID": "Q7PTefuEk-s"
+    },
+    {
+        "ranking": "31",
+        "title": "Sampai Akhir (feat. Duma)",
+        "artist": "JUDIKA",
+        "image": "https://lh3.googleusercontent.com/klyH8M2p-sRyuoH_rI8OCELK4DucqRD28l-ccYPr0cxTDdp5ELqS0KDaauNvbQA1FQ31xcTX-JpSpH9r=w180-h180-s-l90-rj",
+        "prev": "32",
+        "streak": "15",
+        "streams": "431,233",
+        "youtubeID": "DGOoAimin0s"
+    },
+    {
+        "ranking": "32",
+        "title": "The Chase",
+        "artist": "Hearts2Hearts",
+        "image": "https://lh3.googleusercontent.com/SuHe-Vp5prErGEPDJw4hT8Bwq433DyMPdtBxlKWbUuZyT_GY9sApT52TfCcKchqBLYZYewIYICMQlLQhnA=w180-h180-l90-rj",
+        "prev": "29",
+        "streak": "8",
+        "streams": "430,165",
+        "youtubeID": "kxUA2wwYiME"
+    },
+    {
+        "ranking": "33",
+        "title": "Sailor Song",
+        "artist": "Gigi Perez",
+        "image": "https://lh3.googleusercontent.com/Jv6BDpb1ehosmFBTKeEmviWVMVN8gbkAAF3QXyjrp4DkO3gL2hoxZYo76Pb8BYOE8a1lntCxMeIgn3wB=w180-h180-l90-rj",
+        "prev": "39",
+        "streak": "7",
+        "streams": "419,928",
+        "youtubeID": "1lrFsXkT_rM"
+    },
+    {
+        "ranking": "34",
+        "title": "Gerigis (Live)",
+        "artist": "Dini Kurnia",
+        "image": "https://lh3.googleusercontent.com/KmgnlwdWsmELB84sg_V0RAGDmly2gxju69MrQwSC45s4YCI0j9OhJevQRhOL2h7r0U6ANGXN69a8MyU=w180-h180-l90-rj",
+        "prev": "47",
+        "streak": "3",
+        "streams": "412,327",
+        "youtubeID": "rmWoscfvc6M"
+    },
+    {
+        "ranking": "35",
+        "title": "Cukup",
+        "artist": "Ziva Magnolya",
+        "image": "https://lh3.googleusercontent.com/WNg1Xd6c6BQkPlGXdBZMoErDijvMbtqYqck1Lwc1tLoJq7ZCNrLYlJuh0N130XHBaFoV53F1llPStcxoMA=w180-h180-l90-rj",
+        "prev": "43",
+        "streak": "34",
+        "streams": "411,792",
+        "youtubeID": "aFPJJ5WehRw"
+    },
+    {
+        "ranking": "36",
+        "title": "Andai Tak Berpisah (feat. Fendik Adella)",
+        "artist": "Difarina Indra",
+        "image": "https://lh3.googleusercontent.com/bjvwSilvRXrEWa6RlMGvwueZQpqAmS-f61fEs51T1UJCb0xkwqgwcP9vqt1Ikq8whdH2P96QGPOnsb8=w180-h180-l90-rj",
+        "prev": "-",
+        "streak": "1",
+        "streams": "410,918",
+        "youtubeID": "9BAGJjndLgc"
+    },
+    {
+        "ranking": "37",
+        "title": "Untungnya, Hidup Harus Tetap Berjalan",
+        "artist": "Bernadya",
+        "image": "https://lh3.googleusercontent.com/wWzwvnTgKUOp6XzlvnJSt8lR3wLSVOtA3_OCFHky1B4nw2VaZxDcvmRVHBz4xQCFDzVTIjjcKnJYfEdj0w=w180-h180-l90-rj",
+        "prev": "35",
+        "streak": "37",
+        "streams": "409,471",
+        "youtubeID": "HB8vftGxsIc"
+    },
+    {
+        "ranking": "38",
+        "title": "Selalu Ada di Nadimu (Original Soundtrack From “JUMBO\")",
+        "artist": "Prince Poetiray",
+        "image": "https://lh3.googleusercontent.com/H1RNF-G8SF20lCUHbSaaIO2vMrrF1LMNwSyZHiH1FVIseoytr_Fi1Zn4Y3qgjt5st8P85XGHdCYN86nC=w180-h180-l90-rj",
+        "prev": "-",
+        "streak": "1",
+        "streams": "405,034",
+        "youtubeID": "bB-dovQnBk4"
+    },
+    {
+        "ranking": "39",
+        "title": "Salahmu Sendiri (Live) (feat. Fendik Adella)",
+        "artist": "Difarina Indra",
+        "image": "https://lh3.googleusercontent.com/E2dnvIfV4jFoRDM5-HE9NNVn7xA_qsroljEuQy6GBqFL1KYedmYzPWly2L9iIO6s944JU27iILEvNiDb=w180-h180-l90-rj",
+        "prev": "41",
+        "streak": "30",
+        "streams": "401,538",
+        "youtubeID": "2udLd3_0nGk"
+    },
+    {
+        "ranking": "40",
+        "title": "Teruntuk Mia",
+        "artist": "Nuh...",
+        "image": "https://lh3.googleusercontent.com/OuTb4s8_veEkJOjfvwzWHXl-ks01kaImY_NeyuBGW1FPBgZKYU8IiiWB7cYlM0j8dryQk_wQ400grW_Jdg=w180-h180-l90-rj",
+        "prev": "36",
+        "streak": "10",
+        "streams": "393,342",
+        "youtubeID": "0LczKXrVZjU"
+    },
+    {
+        "ranking": "41",
+        "title": "Tunggu Apa Lagi",
+        "artist": "Nyoman Paul",
+        "image": "https://lh3.googleusercontent.com/3NAfpOM6QulsHIRM0iEPx_mojRiGLOQ-pG0wCD5b-IcgUF_U_N9Fov9axMcyF7bPkzgi_6mV_1BTuTfS=w180-h180-l90-rj",
+        "prev": "38",
+        "streak": "28",
+        "streams": "383,016",
+        "youtubeID": "qUl5fArIdXg"
+    },
+    {
+        "ranking": "42",
+        "title": "Kaka Main Salah (feat. Kapthenpurek)",
+        "artist": "Putri Pasanea",
+        "image": "https://lh3.googleusercontent.com/lxu_F6HgZ5gKCnICqhLtV4q-XY9gTjNDzi6oP_CJoKIxolcd0j6U1LwbjBexgq9Lqagl0VDk5t5pJLV5=w180-h180-l90-rj",
+        "prev": "58",
+        "streak": "3",
+        "streams": "382,864",
+        "youtubeID": "GwWQinDZ0iM"
+    },
+    {
+        "ranking": "43",
+        "title": "Bila Memang Kamu",
+        "artist": "Betrand Peto Putra Onsu",
+        "image": "https://lh3.googleusercontent.com/j_Wq0OBKZi8vP_jDSZ_RMytsoRJ7LKRTIxLQJ6PYR-AS9HC4fgLsvjkZobVwzgt_Ayc2AVK2HCeULZs=w180-h180-l90-rj",
+        "prev": "42",
+        "streak": "14",
+        "streams": "382,255",
+        "youtubeID": "f2AhzOJtAbQ"
+    },
+    {
+        "ranking": "44",
+        "title": "Sadrah",
+        "artist": "For Revenge",
+        "image": "https://lh3.googleusercontent.com/9vx6j7YSeFg8IDlgwPyI3HWXa73B9Y9NUX1FCmRKelS2y4DOtUdpVieFAq8fJT0Ah2ZAVTxDW8QBKMMi=w180-h180-l90-rj",
+        "prev": "51",
+        "streak": "20",
+        "streams": "377,682",
+        "youtubeID": "3vC3n7Wvnwc"
+    },
+    {
+        "ranking": "45",
+        "title": "Keras Kepala",
+        "artist": "Meiska",
+        "image": "https://lh3.googleusercontent.com/hX4UnKjIDJrwX42xig7tdtmSP7XE842N2RgM07YFeL-U38abvmPZvDtNKE1R_nFSBINl34l92ljdz-_w=w180-h180-l90-rj",
+        "prev": "-",
+        "streak": "38",
+        "streams": "365,612",
+        "youtubeID": "2Uub5zVL38w"
+    },
+    {
+        "ranking": "46",
+        "title": "SO TANTA",
+        "artist": "Dandy Barakati",
+        "image": "https://lh3.googleusercontent.com/33Bfb5BNRLNiRX4cKcbGJKUiumwW2ip4qfQVoOuop9eTTCi9bOw_itzLFLWbmfd2WHGojGbVW2Q_HJKu=w180-h180-l90-rj",
+        "prev": "49",
+        "streak": "3",
+        "streams": "365,326",
+        "youtubeID": "6D5LohdNcvs"
+    },
+    {
+        "ranking": "47",
+        "title": "That’s So True",
+        "artist": "Gracie Abrams",
+        "image": "https://lh3.googleusercontent.com/-8gK7GVBtjUP88UJO7xqeHZlOyr06lubtB_KOlOqqsqu4sLxEAIb9RIan-HnGdBrStLeLGIZaz-Dmsl4=w180-h180-l90-rj",
+        "prev": "48",
+        "streak": "17",
+        "streams": "364,363",
+        "youtubeID": "BDHM8cyJQa8"
+    },
+    {
+        "ranking": "48",
+        "title": "Akhirnya Ku Menemukanmu",
+        "artist": "Naff",
+        "image": "https://lh3.googleusercontent.com/cTCyZX4zeS-PQfBEMWmRr4c06Z3PTUDscIvCqhdA6tA25tB7xVOK_BiGnME-rgAZ1qghOk1mmYL_jZ19=w180-h180-l90-rj",
+        "prev": "50",
+        "streak": "36",
+        "streams": "363,016",
+        "youtubeID": "2d2TW4fKFG4"
+    },
+    {
+        "ranking": "49",
+        "title": "Rebutan Kamar Mandi",
+        "artist": "Arinaga Family",
+        "image": "https://lh3.googleusercontent.com/ZSHnFbRmXFYtv47Dc-CTmh7QKwRKhpOf26-JkHCvaXMxg6gYgk_qQ68cX6gJBeOdfdI56z_pO7tBrKK5=w180-h180-l90-rj",
+        "prev": "33",
+        "streak": "9",
+        "streams": "362,680",
+        "youtubeID": "Pe4tcZvMquo"
+    },
+    {
+        "ranking": "50",
+        "title": "Bunga Abadi",
+        "artist": "Rio Clappy",
+        "image": "https://lh3.googleusercontent.com/q2ir_ZjGnb8nqIGhJLqVm89Y1LQLwcCJD4HaQleTDa7QTgAAq40ps3raYCYMdExU9cLQklLaucpMRxI=w180-h180-l90-rj",
+        "prev": "44",
+        "streak": "40",
+        "streams": "362,646",
+        "youtubeID": "fPMB2H450iI"
+    },
+    {
+        "ranking": "51",
+        "title": "ayang ayang",
+        "artist": "Aini Zamma",
+        "image": "https://lh3.googleusercontent.com/wp6J095vFPNRsEsoOZeMId8m8f6bgVF59ZKRuyYbuLUC35CdFMJbRiXAWwx_kPVw6A-kZwRVXOiMDo9O=w180-h180-l90-rj",
+        "prev": "55",
+        "streak": "3",
+        "streams": "345,059",
+        "youtubeID": "ZthJudtN36M"
+    },
+    {
+        "ranking": "52",
+        "title": "Kau Masih Kekasihku",
+        "artist": "Naff",
+        "image": "https://lh3.googleusercontent.com/cTCyZX4zeS-PQfBEMWmRr4c06Z3PTUDscIvCqhdA6tA25tB7xVOK_BiGnME-rgAZ1qghOk1mmYL_jZ19=w180-h180-l90-rj",
+        "prev": "56",
+        "streak": "10",
+        "streams": "336,546",
+        "youtubeID": "L29MaxP9PfM"
+    },
+    {
+        "ranking": "53",
+        "title": "Backburner",
+        "artist": "NIKI",
+        "image": "https://lh3.googleusercontent.com/6m7rfY_DWoyxyP28SmsechahG2K2u0-qI9VsC5BJLjiWgkTbSC3GLC3k-G4WlQ1P9AOlxAsinytOrIaMDA=w180-h180-l90-rj",
+        "prev": "59",
+        "streak": "6",
+        "streams": "326,790",
+        "youtubeID": "BBpIV9A1PXc"
+    },
+    {
+        "ranking": "54",
+        "title": "Soulmate",
+        "artist": "Kahitna",
+        "image": "https://lh3.googleusercontent.com/Bfsv_7ATOC4DLE2vNTXipgGOGW6XK-_eiR5A6PDx7Ug6jb5HRqZ7o-eL7qOpFb5BF0v3wPFWInZi2j2k=w180-h180-l90-rj",
+        "prev": "52",
+        "streak": "14",
+        "streams": "326,003",
+        "youtubeID": "QIOXSjl2vsw"
+    },
+    {
+        "ranking": "55",
+        "title": "Tresno Tekan Mati (feat. Fendik Adella)",
+        "artist": "Difarina Indra",
+        "image": "https://lh3.googleusercontent.com/mRZ-cv4gceRqxVCHksNBwb6v1DEtl25ZsGwOT79-9vUNgZgi_Xw-xGCBvuaJrsbISaJ_xQgxrrt-eCzINg=w180-h180-l90-rj",
+        "prev": "53",
+        "streak": "12",
+        "streams": "318,793",
+        "youtubeID": "29B_QXttX0k"
+    },
+    {
+        "ranking": "56",
+        "title": "Antara Kau, Dia, Dan Aku (feat. Shepin Misa)",
+        "artist": "Om Lorenza",
+        "image": "https://lh3.googleusercontent.com/1YtEUNeSO9s0fIy8MsmUyIdkaoAau637pYfESJhUHbAJuV8histlg0ogZWFrMGAxhJ7O_EkrpcBjgooR=w180-h180-l90-rj",
+        "prev": "61",
+        "streak": "7",
+        "streams": "311,831",
+        "youtubeID": "y5V2-TXH8rs"
+    },
+    {
+        "ranking": "57",
+        "title": "Mencintaimu",
+        "artist": "Mahalini",
+        "image": "https://lh3.googleusercontent.com/LW1Ug4Uw0NocDLEnKTrMQgK47YyRKeEg_C_5QlPd3pf-G0n5FkzA72rxfQcs_t-mjBbSNwGH2xiZtEU4=w180-h180-l90-rj",
+        "prev": "64",
+        "streak": "16",
+        "streams": "308,315",
+        "youtubeID": "WOal7KSVbTI"
+    },
+    {
+        "ranking": "58",
+        "title": "Bahtera Mahligai Cinta (feat. MAHESA Music)",
+        "artist": "Ajeng Febria & Gerry Mahesa",
+        "image": "https://lh3.googleusercontent.com/LPi6s0OD76m4To4dtb9V_JB5PfiHjyycr5qWq9cGtt-2dNLLq2pcLVjtY5ymTw_MfQIrDaCO1R7Y4kmK=w180-h180-l90-rj",
+        "prev": "74",
+        "streak": "14",
+        "streams": "287,808",
+        "youtubeID": "bk0tr_NQiFU"
+    },
+    {
+        "ranking": "59",
+        "title": "Terlalu Lama",
+        "artist": "Vierratale",
+        "image": "https://lh3.googleusercontent.com/hlKdYVR0KvZ7x6kWtV-OOasWuQbdPfY01h6w7WtQo1NQCyBX9HdI7Zj-hwockfif3Fv7_rvHdll_NTFx=w180-h180-l90-rj",
+        "prev": "71",
+        "streak": "7",
+        "streams": "276,673",
+        "youtubeID": "NgQVLbD-lQ0"
+    },
+    {
+        "ranking": "60",
+        "title": "PASSO BEM SOLTO (Slowed)",
+        "artist": "ATLXS",
+        "image": "https://i.ytimg.com/vi/NT4eF9YsYnM/default.jpg",
+        "prev": "-",
+        "streak": "1",
+        "streams": "274,337",
+        "youtubeID": "NT4eF9YsYnM"
+    },
+    {
+        "ranking": "61",
+        "title": "Lesung Pipi",
+        "artist": "Raim Laode",
+        "image": "https://i.ytimg.com/vi/Wx5mMxUPEd8/default.jpg",
+        "prev": "-",
+        "streak": "1",
+        "streams": "271,131",
+        "youtubeID": "Wx5mMxUPEd8"
+    },
+    {
+        "ranking": "62",
+        "title": "KARADANG",
+        "artist": "Yan Srikandi",
+        "image": "https://lh3.googleusercontent.com/WftHel-S7x1W0Ea50EIetjeSxpdY4RlC7Ot7JvukLMuY5x1ymitjZ_g69tu__kbeti6I8kJNW5lZFyE=w180-h180-l90-rj",
+        "prev": "63",
+        "streak": "6",
+        "streams": "270,465",
+        "youtubeID": "RPzuJWh9OYY"
+    },
+    {
+        "ranking": "63",
+        "title": "DJ Garam dan Madu",
+        "artist": "PWMUSIC PROJECT",
+        "image": "https://i.ytimg.com/vi/StWj9crTCV0/default.jpg",
+        "prev": "57",
+        "streak": "9",
+        "streams": "267,734",
+        "youtubeID": "StWj9crTCV0"
+    },
+    {
+        "ranking": "64",
+        "title": "Putar Putar (feat. Juan Reza)",
+        "artist": "Jacson Zeran",
+        "image": "https://lh3.googleusercontent.com/Bb9otsuP7qWsgiFvduWmjcaUPKIW8necCXF0XIJuKYw6peaCU3FVqSMJxKM5sYFVleEZecks1OL-63925A=w180-h180-l90-rj",
+        "prev": "-",
+        "streak": "1",
+        "streams": "263,382",
+        "youtubeID": "R1iry0WBYLM"
+    },
+    {
+        "ranking": "65",
+        "title": "Putri Iklan",
+        "artist": "ST 12",
+        "image": "https://i.ytimg.com/vi/WdjGp5vATgI/default.jpg",
+        "prev": "70",
+        "streak": "3",
+        "streams": "263,265",
+        "youtubeID": "WdjGp5vATgI"
+    },
+    {
+        "ranking": "66",
+        "title": "Luka Disini",
+        "artist": "UNGU",
+        "image": "https://i.ytimg.com/vi/2LfXLkWDDBk/default.jpg",
+        "prev": "65",
+        "streak": "4",
+        "streams": "263,088",
+        "youtubeID": "2LfXLkWDDBk"
+    },
+    {
+        "ranking": "67",
+        "title": "Sigar (Live) (feat. Niken Salindry)",
+        "artist": "Denny Caknan",
+        "image": "https://lh3.googleusercontent.com/fyOTPq8xAcXWbshxf9bacKEorltqOEWkuMm1jR5FhVUUZ7Irek75LilJINKUxWa8r0RVsMhRF76GnBhGug=w180-h180-l90-rj",
+        "prev": "68",
+        "streak": "14",
+        "streams": "261,122",
+        "youtubeID": "jTYo9X6X0HM"
+    },
+    {
+        "ranking": "68",
+        "title": "Aku Milikmu",
+        "artist": "Dewa 19",
+        "image": "https://lh3.googleusercontent.com/e7Q5TF9qRIN8rME4t7aU_gkAcKyCgoD1ywCSfWk5-Xd3RjXFAE5vIRWexZyBR2arDpHaYUru3GSREjhO=w180-h180-l90-rj",
+        "prev": "80",
+        "streak": "18",
+        "streams": "259,274",
+        "youtubeID": "lHC_pKJKKg8"
+    },
+    {
+        "ranking": "69",
+        "title": "OIIA OIIA (Spinning Cat)",
+        "artist": "W&W",
+        "image": "https://lh3.googleusercontent.com/wRXnopAgsh85kfPdMylCi6GpkBkN_K3S-tNykHNzuymh2uQ6FpiwRhocprvUazZRzaGSPbZbmsTNccBj=w180-h180-l90-rj",
+        "prev": "60",
+        "streak": "10",
+        "streams": "257,825",
+        "youtubeID": "IxX_QHay02M"
+    },
+    {
+        "ranking": "70",
+        "title": "Jika Cinta Dia",
+        "artist": "GEISHA",
+        "image": "https://lh3.googleusercontent.com/T3JHNhXphylNjV5YCokpK024U-Wl_Cr3BAPk7kx-ubOA3ZsN95riDtV8MAu33au6FURyv5qW4eWiK6fhNw=w180-h180-l90-rj",
+        "prev": "66",
+        "streak": "18",
+        "streams": "255,692",
+        "youtubeID": "zDFQ22eom5s"
+    },
+    {
+        "ranking": "71",
+        "title": "Bertahta Diatas Tanah Mereka Akustik",
+        "artist": "LUKANEGARA",
+        "image": "https://lh3.googleusercontent.com/DZifHdapWssowqL3JdOS-HrcLIr8NeBoCRMvsYxjzGpJ4cQDBiPsn3GfdTpnQAon4_mKeS4p1rAJwh-U=w180-h180-l90-rj",
+        "prev": "54",
+        "streak": "7",
+        "streams": "254,397",
+        "youtubeID": "hCQewkxU47o"
+    },
+    {
+        "ranking": "72",
+        "title": "bergema sampai selamanya",
+        "artist": "Nadhif Basalamah",
+        "image": "https://lh3.googleusercontent.com/Ke4pe3OjhvlLupuQMwc7-AS9kgplSndICqF0_NyD4fQqQC6iw-tcFZ8u6hhc0XTtJo3cTgjdaBKMGOzx=w180-h180-l90-rj",
+        "prev": "-",
+        "streak": "1",
+        "streams": "252,084",
+        "youtubeID": "g0c7FeMn5lE"
+    },
+    {
+        "ranking": "73",
+        "title": "luther",
+        "artist": "Kendrick Lamar & SZA",
+        "image": "https://lh3.googleusercontent.com/oeqS763H5PDQ7RL3gUnJlvDgZx6MYr5VE7bV7MBanuv7hgB-98wF1JYy-KI-Zxurxc5trLpksuPNUcY=w180-h180-l90-rj",
+        "prev": "-",
+        "streak": "1",
+        "streams": "251,996",
+        "youtubeID": "sNY_2TEmzho"
+    },
+    {
+        "ranking": "74",
+        "title": "Jablai",
+        "artist": "Anya Geraldine",
+        "image": "https://i.ytimg.com/vi/h5WBJmZB03g/default.jpg",
+        "prev": "-",
+        "streak": "1",
+        "streams": "251,272",
+        "youtubeID": "h5WBJmZB03g"
+    },
+    {
+        "ranking": "75",
+        "title": "Sorai",
+        "artist": "Nadin Amizah",
+        "image": "https://lh3.googleusercontent.com/kWvUv5-G8JjmVb2GedOOKftMdwlKCaLZc2zQ9i5AWerET5_RkvNl0X_o-5klUCT1QV9yud7F0tQUHLY=w180-h180-l90-rj",
+        "prev": "78",
+        "streak": "3",
+        "streams": "247,298",
+        "youtubeID": "PF_VokiUndk"
+    },
+    {
+        "ranking": "76",
+        "title": "bloodline",
+        "artist": "Ariana Grande",
+        "image": "https://lh3.googleusercontent.com/3LV6GoLom0Vb_oNFTXI_e2NIua0D-WocCifEFnSQattWpLfswpayWPzZ2BeClAB5QxR2EnGZkgh7QI7j=w180-h180-l90-rj",
+        "prev": "69",
+        "streak": "4",
+        "streams": "245,842",
+        "youtubeID": "uKqRAC-JNOM"
+    },
+    {
+        "ranking": "77",
+        "title": "YELLOW",
+        "artist": "TREASURE",
+        "image": "https://lh3.googleusercontent.com/si1-ssUqP2NPxq4rmacvUCHsscYdnR-tR1JIqNC39l4u8qmNmZegeP1aTjx4J_R4KuqHbd0mm9k1epzJHA=w180-h180-l90-rj",
+        "prev": "73",
+        "streak": "6",
+        "streams": "239,079",
+        "youtubeID": "R55VGD7aYUI"
+    },
+    {
+        "ranking": "78",
+        "title": "Dermaga Biru (feat. Elsa Pitaloka)",
+        "artist": "Thomas Arya",
+        "image": "https://lh3.googleusercontent.com/AD-FC583fFXQ2hbkIsHPP2ceqYW2E3UzTeZY641_LMUhkwWdTF-jQXp8NYbgKjCN11ymIrpRvwelUig=w180-h180-l90-rj",
+        "prev": "89",
+        "streak": "5",
+        "streams": "231,748",
+        "youtubeID": "GtO9P6PB2Jk"
+    },
+    {
+        "ranking": "79",
+        "title": "Tresno liyane (feat. Agiff)",
+        "artist": "Northsle",
+        "image": "https://lh3.googleusercontent.com/AKWXdChtd-1snidrO-wWNV05G0-kg_vIvWUUSwHcizT6uqeGFCTm1vexasSon1XdvA0f7G-D57vzkwkuqQ=w180-h180-l90-rj",
+        "prev": "-",
+        "streak": "16",
+        "streams": "230,942",
+        "youtubeID": "18MJXN5n9WY"
+    },
+    {
+        "ranking": "80",
+        "title": "Care Kena Bebai",
+        "artist": "YS (Yan Salim)",
+        "image": "https://lh3.googleusercontent.com/P9bi6ZSOHlw9Ua_ALKq3G9bMGbqS7BBvW7gGO7gPk4c7m1TTllTcI97SHudKkgqduRtTVgzUGJXIqXXi=w180-h180-l90-rj",
+        "prev": "83",
+        "streak": "2",
+        "streams": "228,183",
+        "youtubeID": "itTdS_SSCD8"
+    },
+    {
+        "ranking": "81",
+        "title": "Separuh Aku",
+        "artist": "NOAH",
+        "image": "https://lh3.googleusercontent.com/S5zHo36-Cq7XBZvW9LNEVjQ0C-2niKUkEMjfl097vE4fLpKgunjjePEj0cNnn4JtCLNiwutLy48e_tpXHQ=w180-h180-l90-rj",
+        "prev": "75",
+        "streak": "17",
+        "streams": "225,418",
+        "youtubeID": "b0ZBBjViV8Y"
+    },
+    {
+        "ranking": "82",
+        "title": "Delima (feat. Nophie Adella)",
+        "artist": "Tasya Rosmala",
+        "image": "https://lh3.googleusercontent.com/m0Gf_xHDtGtvC9XYnLUsAacQbruwK2ZMC0A6Bb0GXXKLZMZRzcqwiB-46bHAmexv2iSyZRhT11XyO_ke=w180-h180-l90-rj",
+        "prev": "77",
+        "streak": "19",
+        "streams": "224,629",
+        "youtubeID": "kPT0iIhqw_4"
+    },
+    {
+        "ranking": "83",
+        "title": "Don't You Remember",
+        "artist": "Adele",
+        "image": "https://lh3.googleusercontent.com/9D7CyGJkVg5OCMOvR-wTcU6cmvoppurPB8mfqE_9xz1iL223t0sgXWp5vWE4dmFK8LhsBwzGu7xu4Eo=w180-h180-l90-rj",
+        "prev": "79",
+        "streak": "20",
+        "streams": "223,927",
+        "youtubeID": "tQw1_sX9ipc"
+    },
+    {
+        "ranking": "84",
+        "title": "JAGUNG BAKAR (Janda Tanggung Baru Mekar)",
+        "artist": "Yan Srikandi",
+        "image": "https://lh3.googleusercontent.com/SBKb1fIaW3p1-ffZANrXbntjfjtdgE_qlFAZAluY-78RJmcLpIdRbJsrtlQrspi5FnXx_xaL9nH-ZlA=w180-h180-l90-rj",
+        "prev": "76",
+        "streak": "8",
+        "streams": "223,688",
+        "youtubeID": "QxdIeK9zG3U"
+    },
+    {
+        "ranking": "85",
+        "title": "Bawalah Cintamu",
+        "artist": "Ziel Ferdian",
+        "image": "https://lh3.googleusercontent.com/AaS-y-kgKprp0p8x5vRv-aEJoYsH_4insqDhUO51mlR24hyqfocFdhBTfj9cFEP4Ceh8v9XaDxaGwuz0vw=w180-h180-l90-rj",
+        "prev": "99",
+        "streak": "2",
+        "streams": "221,328",
+        "youtubeID": "hvqdRX5DEis"
+    },
+    {
+        "ranking": "86",
+        "title": "Pergi Pagi Pulang Pagi",
+        "artist": "Armada",
+        "image": "https://lh3.googleusercontent.com/o2qDyJec1y7JLpyktEPcB9JjOOdA66HWBpcFjPzKDNesJLgwcePBv9XH5FhIfcZtK9bwJV4rTTmEGAbwEw=w180-h180-l90-rj",
+        "prev": "92",
+        "streak": "18",
+        "streams": "218,809",
+        "youtubeID": "ur8K6XPwscY"
+    },
+    {
+        "ranking": "87",
+        "title": "Ayang Ayang",
+        "artist": "Silvy Kumalasari",
+        "image": "https://lh3.googleusercontent.com/aciPGNn3IwbMg6SFyyCHNw_xHn43pNJsq5t-pZs9pzOTcPXBo--bPsZyPDtDbh8I6UaNIvA6A_vthA3A=w180-h180-l90-rj",
+        "prev": "-",
+        "streak": "1",
+        "streams": "218,116",
+        "youtubeID": "btUKk7tXjw0"
+    },
+    {
+        "ranking": "88",
+        "title": "Janji Suci",
+        "artist": "Yovie & Nuno",
+        "image": "https://lh3.googleusercontent.com/DPrm-YEXZr6aT_ik7bsU1ePaeC3sUbO9tPeDYpc6NWL3txyks91cR-Da2RDZjQpqq0DttWq76MCA4vg1=w180-h180-l90-rj",
+        "prev": "91",
+        "streak": "10",
+        "streams": "217,741",
+        "youtubeID": "hQ-wYw4hP84"
+    },
+    {
+        "ranking": "89",
+        "title": "Sampai Jadi Debu (Menampilkan Gardika Gigih)",
+        "artist": "Banda Neira",
+        "image": "https://i.ytimg.com/vi/6PMHUmM_hP0/default.jpg",
+        "prev": "-",
+        "streak": "3",
+        "streams": "215,811",
+        "youtubeID": "6PMHUmM_hP0"
+    },
+    {
+        "ranking": "90",
+        "title": "Bila Kau Tak Disampingku",
+        "artist": "Sheila on 7",
+        "image": "https://lh3.googleusercontent.com/uRNMjIdr9gJMlYK3iB0ELqVQZf7zOy7CopKWBYp3oYOqH0WEI099MlplqwwPArkYa50PWRGJaxNWVgFz=w180-h180-l90-rj",
+        "prev": "-",
+        "streak": "1",
+        "streams": "214,307",
+        "youtubeID": "vPIQdOZ5guI"
+    },
+    {
+        "ranking": "91",
+        "title": "The Scientist",
+        "artist": "Coldplay",
+        "image": "https://lh3.googleusercontent.com/-5tnsyG-BDCZj2gipRW710kLtHWPDVmlvt2BMwJ4StWqrfMxRUYvLsirYPClRDg1qnDU3avAgVn66eS20A=w180-h180-l90-rj",
+        "prev": "-",
+        "streak": "7",
+        "streams": "212,917",
+        "youtubeID": "RB-RcX5DS5A"
+    },
+    {
+        "ranking": "92",
+        "title": "MATUSHKA ULTRAFUNK",
+        "artist": "satirin & FUNK DEMON & EVO",
+        "image": "https://lh3.googleusercontent.com/a7-QDAb4c6BoAkxJmcOLYE4TvsQjrf-w-KwWIomzSd3a8F8Z3dMNhYg5ACMN5Ml5ZGg9VuvuTvYn33e4=w180-h180-l90-rj",
+        "prev": "-",
+        "streak": "1",
+        "streams": "212,743",
+        "youtubeID": "7sGWS8IjpEY"
+    },
+    {
+        "ranking": "93",
+        "title": "semua lagu cinta terdengar sama",
+        "artist": "Hindia",
+        "image": "https://lh3.googleusercontent.com/pP42VdTGrlRG0oCRZdgwhZ57R6CpfWDtewbZ9Mlg6gNoKWAjY4R59sGt_Le_zdWHh6hpNeRobL8aBVxwVQ=w180-h180-l90-rj",
+        "prev": "97",
+        "streak": "3",
+        "streams": "212,180",
+        "youtubeID": "Jr0393tzwN8"
+    },
+    {
+        "ranking": "94",
+        "title": "Malapeh Hao",
+        "artist": "Rayola",
+        "image": "https://lh3.googleusercontent.com/aXDM4wYU3uEme6YoXuO9dwWxMhVDV3ayAmCNM9vHKetzo1h_JZiLU8le-Yk7HVykWh61n3e5d0b-uOQL=w180-h180-l90-rj",
+        "prev": "87",
+        "streak": "8",
+        "streams": "210,233",
+        "youtubeID": "D3vcBVg5ei8"
+    },
+    {
+        "ranking": "95",
+        "title": "Ingin Memeluk Dirimu",
+        "artist": "Dorman Manik",
+        "image": "https://lh3.googleusercontent.com/I3YKsVzX2Pv_PqX9Ms1eKomymrYd0J8129zORggtxGcmda2ETAn9ew5eRurSMiuRnNLHGA0aBoegibHXmQ=w180-h180-l90-rj",
+        "prev": "-",
+        "streak": "11",
+        "streams": "210,142",
+        "youtubeID": "Ag0AuI1Gcuc"
+    },
+    {
+        "ranking": "96",
+        "title": "Kita usahakan rumah itu",
+        "artist": "Sal Priadi",
+        "image": "https://lh3.googleusercontent.com/uQly4bcy-9Uc8PsL8a9VmAzreiVro83qZXNfUGheOCiMcj0kCKGgLNdUNr1HABjTOnZCuhBZ2h4MAXpFmA=w180-h180-l90-rj",
+        "prev": "-",
+        "streak": "3",
+        "streams": "209,880",
+        "youtubeID": "7SqNVv98e8Q"
+    },
+    {
+        "ranking": "97",
+        "title": "Iris",
+        "artist": "The Goo Goo Dolls",
+        "image": "https://lh3.googleusercontent.com/uTzba0Dgl5G4ZjeNx8aYEFDii37F5Gs2yKWdLi89RJm3ngG1nRg-VyYu0P0OTM5HN94DEbuHDJMqHDkvaA=w180-h180-l90-rj",
+        "prev": "93",
+        "streak": "9",
+        "streams": "209,522",
+        "youtubeID": "NdYWuo9OFAw"
+    },
+    {
+        "ranking": "98",
+        "title": "Aishiteru 3",
+        "artist": "Zivilia",
+        "image": "https://lh3.googleusercontent.com/eRWFfcjpaFxgl4Ggw_Ka4tZ3r1ujEYssuwYZW_HRT1uBwff02fAiJKo_DXQRkHucZjVXVzhI2RW8146BtQ=w180-h180-l90-rj",
+        "prev": "96",
+        "streak": "7",
+        "streams": "209,156",
+        "youtubeID": "8J3F2TAyeOw"
+    },
+    {
+        "ranking": "99",
+        "title": "Nyong Dari timur (feat. Juan Reza)",
+        "artist": "Wita Sofi",
+        "image": "https://lh3.googleusercontent.com/3_V67fedv5OG7oJd5gGYkxcAvoO7kBFM6I1gu3jVLGm5Tb1dJqN5tD-y7GBmn43iXxwbOpjJ0QxLego=w180-h180-l90-rj",
+        "prev": "-",
+        "streak": "1",
+        "streams": "208,643",
+        "youtubeID": "1KQpndqX68s"
+    },
+    {
+        "ranking": "100",
+        "title": "DJ BUMBLEBEE MENGKANE (JEDAG JEDUG)",
+        "artist": "DJ DORUS",
+        "image": "https://i.ytimg.com/vi/LY34HVH7rSs/default.jpg",
+        "prev": "-",
+        "streak": "1",
+        "streams": "208,059",
+        "youtubeID": "LY34HVH7rSs"
+    }
+]
