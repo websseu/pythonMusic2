@@ -25,7 +25,8 @@
         "title": "Not Like Us",
         "artist": "Kendrick Lamar",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d0/ef/b6/d0efb685-73be-fdee-58c9-be655f4cd4fd/24UMGIM51924.rgb.jpg/80x80bb.webp",
-        "appleID": "not-like-us/1744776167"
+        "appleID": "not-like-us/1744776167",
+        "youtubeID": "H58vbez_m4E"
     },
     {
         "ranking": "5",
@@ -39,7 +40,9 @@
         "title": "Let Me Down Slowly",
         "artist": "Alec Benjamin",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/18/12/90/181290f5-737e-ac92-201f-d2f65c973f60/075679859518.jpg/80x80bb.webp",
-        "appleID": "let-me-down-slowly/1441728727"
+        "appleID": "let-me-down-slowly/1441728727",
+        "youtubeID": "50VNCymT-Cs",
+        "spotifyID": "2qxmye6gAegTMjLKEBoR3d"
     },
     {
         "ranking": "7",
@@ -186,7 +189,8 @@
         "title": "Timeless",
         "artist": "The Weeknd",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/40/77/cb/4077cbd1-b6a0-d8df-b9d3-e9a339dbc0ea/24UM1IM04061.rgb.jpg/80x80bb.webp",
-        "appleID": "timeless/1770380890"
+        "appleID": "timeless/1770380890",
+        "youtubeID": "5EpyN_6dqyk"
     },
     {
         "ranking": "28",
@@ -389,7 +393,9 @@
         "title": "Canın Beni Çekti",
         "artist": "Melike Şahin",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1e/b3/9b/1eb39b88-a44c-7ca7-0f4b-1909fdfcbbbc/8683242226951_Cover.jpg/80x80bb.webp",
-        "appleID": "can%C4%B1n-beni-%C3%A7ekti/1765086989"
+        "appleID": "can%C4%B1n-beni-%C3%A7ekti/1765086989",
+        "youtubeID": "1ZCbjmLOEO0",
+        "spotifyID": "1UIznGFIwNUKUza5kJ9f2G"
     },
     {
         "ranking": "57",
@@ -424,7 +430,9 @@
         "title": "Let Me Down Slowly (feat. Alessia Cara)",
         "artist": "Alec Benjamin",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/dc/3d/c0/dc3dc0f8-86ce-b034-f822-d71602acaedb/075679855619.jpg/80x80bb.webp",
-        "appleID": "let-me-down-slowly-feat-alessia-cara/1447328136"
+        "appleID": "let-me-down-slowly-feat-alessia-cara/1447328136",
+        "youtubeID": "50VNCymT-Cs",
+        "spotifyID": "2qxmye6gAegTMjLKEBoR3d"
     },
     {
         "ranking": "62",
@@ -571,7 +579,9 @@
         "title": "That’s So True",
         "artist": "Gracie Abrams",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/26/78/81/26788143-5e5f-0813-2480-ecf4280ef221/24UM1IM07082.rgb.jpg/80x80bb.webp",
-        "appleID": "thats-so-true/1773474483"
+        "appleID": "thats-so-true/1773474483",
+        "youtubeID": "BDHM8cyJQa8",
+        "spotifyID": "7ne4VBA60CxGM75vw0EYad"
     },
     {
         "ranking": "83",
