@@ -459,14 +459,16 @@
         "title": "Nobody Gets Me",
         "artist": "SZA",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/bd/3b/a9/bd3ba9fb-9609-144f-bcfe-ead67b5f6ab3/196589564931.jpg/80x80bb.webp",
-        "appleID": "nobody-gets-me/1657869532"
+        "appleID": "nobody-gets-me/1657869532",
+        "spotifyID": "5Y35SjAfXjjG0sFQ3KOxmm"
     },
     {
         "ranking": "67",
         "title": "Someone You Loved",
         "artist": "Lewis Capaldi",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/05/f7/af/05f7af37-526e-5e6e-e4cd-9e4bc3da0756/18UMGIM52528.rgb.jpg/80x80bb.webp",
-        "appleID": "someone-you-loved/1441539154"
+        "appleID": "someone-you-loved/1441539154",
+        "spotifyID": "7qEHsqek33rTcFNT9PFqLf"
     },
     {
         "ranking": "68",
@@ -669,7 +671,9 @@
         "title": "Lucid Dreams",
         "artist": "Juice WRLD",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/e4/ca/3a/e4ca3a6c-b144-15db-5fdc-62ec22c9b813/18UMGIM30624.rgb.jpg/80x80bb.webp",
-        "appleID": "lucid-dreams/1407165118"
+        "appleID": "lucid-dreams/1407165118",
+        "youtubeID": "mzB1VGEGcSU",
+        "spotifyID": "285pBltuF7vW8TeWk8hdRR"
     },
     {
         "ranking": "97",
