@@ -4,14 +4,16 @@
         "title": "Winter Ahead",
         "artist": "V",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9b/7a/b8/9b7ab83b-c635-42fa-a3d3-f8ede6e5920e/198704250583_Cover.jpg/80x80bb.webp",
-        "appleID": "winter-ahead/1780285815"
+        "appleID": "winter-ahead/1780285815",
+        "youtubeID": "HAWYOuMGkK0"
     },
     {
         "ranking": "2",
         "title": "luther",
         "artist": "Kendrick Lamar",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/50/c2/cc/50c2cc95-3658-9417-0d4b-831abde44ba1/24UM1IM28978.rgb.jpg/80x80bb.webp",
-        "appleID": "luther/1781270323"
+        "appleID": "luther/1781270323",
+        "youtubeID": "4_taypLmSMU"
     },
     {
         "ranking": "3",
@@ -32,14 +34,17 @@
         "title": "Die With A Smile",
         "artist": "Lady Gaga",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/11/ae/f2/11aef294-f57c-bab9-c9fc-529162984e62/24UMGIM85348.rgb.jpg/80x80bb.webp",
-        "appleID": "die-with-a-smile/1762656732"
+        "appleID": "die-with-a-smile/1762656732",
+        "youtubeID": "kPa7bsKwL-c",
+        "spotifyID": "2plbrEY59IikOBgBGLjaoe"
     },
     {
         "ranking": "6",
         "title": "BIRDS OF A FEATHER",
         "artist": "Billie Eilish",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
-        "appleID": "birds-of-a-feather/1739659142"
+        "appleID": "birds-of-a-feather/1739659142",
+        "youtubeID": "V9PVRfjEBTI"
     },
     {
         "ranking": "7",
@@ -53,7 +58,8 @@
         "title": "Not Like Us",
         "artist": "Kendrick Lamar",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/31/3a/3f/313a3fbc-bb8f-80c7-b5a2-e226869a38cd/24UMGIM51924.rgb.jpg/80x80bb.webp",
-        "appleID": "not-like-us/1781353929"
+        "appleID": "not-like-us/1781353929",
+        "youtubeID": "H58vbez_m4E"
     },
     {
         "ranking": "9",
@@ -88,7 +94,8 @@
         "title": "Apocalypse",
         "artist": "Cigarettes After Sex",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b3/5e/0f/b35e0fbe-2370-fc48-0f0c-977525e93bf2/720841214601_Cover.jpg/80x80bb.webp",
-        "appleID": "apocalypse/1217977755"
+        "appleID": "apocalypse/1215409245",
+        "spotifyID": "0yc6Gst2xkRu0eMLeRMGCX"
     },
     {
         "ranking": "14",
@@ -102,7 +109,8 @@
         "title": "Winter Ahead (Silent Carol Ver.)",
         "artist": "V",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f0/48/bd/f048bda2-8852-f564-aae2-96a347167493/198704267888_Cover.jpg/80x80bb.webp",
-        "appleID": "winter-ahead-silent-carol-ver/1782520406"
+        "appleID": "winter-ahead-silent-carol-ver/1782520406",
+        "youtubeID": "HAWYOuMGkK0"
     },
     {
         "ranking": "16",
@@ -116,14 +124,16 @@
         "title": "Pehle Bhi Main",
         "artist": "Vishal Mishra",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/db/ad/5e/dbad5e8b-0bee-d962-92d4-021c90e375ac/8902894362092_cover.jpg/80x80bb.webp",
-        "appleID": "pehle-bhi-main/1718278234"
+        "appleID": "pehle-bhi-main/1718278234",
+        "youtubeID": "lwv_0SEJ4NQ"
     },
     {
         "ranking": "18",
         "title": "Timeless",
         "artist": "The Weeknd",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/af/04/83/af048357-131d-1ca3-fe8a-d7ef3dda68ec/24UM1IM04062.rgb.jpg/80x80bb.webp",
-        "appleID": "timeless/1770393194"
+        "appleID": "timeless/1770380890",
+        "youtubeID": "5EpyN_6dqyk"
     },
     {
         "ranking": "19",
@@ -165,7 +175,8 @@
         "title": "Winter Ahead (Instrumental)",
         "artist": "V",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f0/48/bd/f048bda2-8852-f564-aae2-96a347167493/198704267888_Cover.jpg/80x80bb.webp",
-        "appleID": "winter-ahead-instrumental/1782520278"
+        "appleID": "winter-ahead-instrumental/1782520278",
+        "youtubeID": "HAWYOuMGkK0"
     },
     {
         "ranking": "25",
@@ -200,7 +211,7 @@
         "title": "White Christmas",
         "artist": "V",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/99/a7/e5/99a7e5da-ce5c-8f45-d688-982735754912/198704453977_Cover.jpg/80x80bb.webp",
-        "appleID": "white-christmas/1807079542"
+        "appleID": "white-christmas/1777448469"
     },
     {
         "ranking": "30",
@@ -221,7 +232,8 @@
         "title": "I Had Some Help (feat. Morgan Wallen)",
         "artist": "Post Malone",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/84/df/b9/84dfb96b-27c8-4d40-4780-b65ff22790e4/24UMGIM50612.rgb.jpg/80x80bb.webp",
-        "appleID": "i-had-some-help-feat-morgan-wallen/1744452425"
+        "appleID": "i-had-some-help-feat-morgan-wallen/1744452425",
+        "youtubeID": "4QIZE708gJ4"
     },
     {
         "ranking": "33",
@@ -326,7 +338,9 @@
         "title": "Too Sweet",
         "artist": "Hozier",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a4/12/e3/a412e390-51aa-6625-9adc-d502bf1c349f/196872373004.jpg/80x80bb.webp",
-        "appleID": "too-sweet/1763072931"
+        "appleID": "too-sweet/1763072931",
+        "youtubeID": "NTpbbQUBbuo",
+        "spotifyID": "19XpFsce28aByvCC4g89tJ"
     },
     {
         "ranking": "48",
@@ -354,7 +368,8 @@
         "title": "Love Me Again",
         "artist": "V",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/93/51/e0/9351e0b4-a565-4232-d797-f60ca3aba82f/196922580031_Cover.jpg/80x80bb.webp",
-        "appleID": "love-me-again/1700687141"
+        "appleID": "love-me-again/1700687141",
+        "spotifyID": "2N0SPREDYqILVEFSsWF5N5"
     },
     {
         "ranking": "52",
@@ -368,7 +383,9 @@
         "title": "APT.",
         "artist": "ROSÉ",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2d/1a/7d/2d1a7d91-587e-0ceb-d434-327bd66d9e86/075679628312.jpg/80x80bb.webp",
-        "appleID": "apt/1773452221"
+        "appleID": "apt/1773452221",
+        "youtubeID": "ekr2nIex040",
+        "spotifyID": "4wJ5Qq0jBN4ajy7ouZIV1c"
     },
     {
         "ranking": "54",
@@ -424,7 +441,8 @@
         "title": "Winter Ahead (YUNSEOKCHEOL TRIO Ver.)",
         "artist": "V",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/97/86/5c/97865ccb-8b63-5192-74c4-e462deb01564/198704274565_Cover.jpg/80x80bb.webp",
-        "appleID": "winter-ahead-yunseokcheol-trio-ver/1785149567"
+        "appleID": "winter-ahead-yunseokcheol-trio-ver/1785149567",
+        "youtubeID": "HAWYOuMGkK0"
     },
     {
         "ranking": "62",
@@ -459,14 +477,15 @@
         "title": "White Christmas (Instrumental)",
         "artist": "V",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/99/a7/e5/99a7e5da-ce5c-8f45-d688-982735754912/198704453977_Cover.jpg/80x80bb.webp",
-        "appleID": "white-christmas-instrumental/1807079547"
+        "appleID": "white-christmas/1777448469"
     },
     {
         "ranking": "67",
         "title": "Blinding Lights",
         "artist": "The Weeknd",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/a6/6e/bf/a66ebf79-5008-8948-b352-a790fc87446b/19UM1IM04638.rgb.jpg/80x80bb.webp",
-        "appleID": "blinding-lights/1488408568"
+        "appleID": "blinding-lights/1488408568",
+        "spotifyID": "0VjIjW4GlUZAMYd2vXMi3b"
     },
     {
         "ranking": "68",
@@ -501,14 +520,17 @@
         "title": "tv off (feat. Lefty Gunplay)",
         "artist": "Kendrick Lamar",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/54/28/14/54281424-eece-0935-299d-fdd2ab403f92/24UM1IM28978.rgb.jpg/80x80bb.webp",
-        "appleID": "tv-off-feat-lefty-gunplay/1781316952"
+        "appleID": "tv-off-feat-lefty-gunplay/1781270540",
+        "youtubeID": "U8F5G5wR1mk"
     },
     {
         "ranking": "73",
         "title": "blue",
         "artist": "yung kai",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/33/62/62/33626226-0cf3-ff64-3296-b2355de71fac/0748777703419.jpg/80x80bb.webp",
-        "appleID": "blue/1776246888"
+        "appleID": "blue/1776246888",
+        "youtubeID": "98zHKN-xSHk",
+        "spotifyID": "3be9ACTxtcL6Zm4vJRUiPG"
     },
     {
         "ranking": "74",
@@ -585,7 +607,9 @@
         "title": "Iris",
         "artist": "The Goo Goo Dolls",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music/b4/0c/98/mzi.vhowcacb.jpg/80x80bb.webp",
-        "appleID": "iris/267537169"
+        "appleID": "iris/267537169",
+        "youtubeID": "NdYWuo9OFAw",
+        "spotifyID": "6Qyc6fS4DsZjB2mRW9DsQs"
     },
     {
         "ranking": "85",
@@ -620,7 +644,9 @@
         "title": "That’s So True",
         "artist": "Gracie Abrams",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d2/f8/99/d2f89987-d2a5-45a5-1746-c0841c7e9843/24UM1IM17286.rgb.jpg/80x80bb.webp",
-        "appleID": "thats-so-true/1775581103"
+        "appleID": "thats-so-true/1773474483",
+        "youtubeID": "BDHM8cyJQa8",
+        "spotifyID": "7ne4VBA60CxGM75vw0EYad"
     },
     {
         "ranking": "90",
@@ -641,7 +667,8 @@
         "title": "Born to Shine",
         "artist": "Diljit Dosanjh",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/d2/89/ac/d289ac98-749e-3822-6b6e-b06aa4815715/859740651597_cover.jpg/80x80bb.webp",
-        "appleID": "born-to-shine/1523521607"
+        "appleID": "born-to-shine/1523521607",
+        "spotifyID": "4XxfOvudrnBRdlgzEaq1sd"
     },
     {
         "ranking": "93",
@@ -669,7 +696,7 @@
         "title": "Mockingbird",
         "artist": "Eminem",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/49/2c/16/492c1618-544d-2587-094c-009b059ba96f/00602567850359.rgb.jpg/80x80bb.webp",
-        "appleID": "mockingbird/1425131554"
+        "appleID": "mockingbird/1452852850"
     },
     {
         "ranking": "97",

@@ -18,7 +18,8 @@
         "title": "Diet Pepsi",
         "artist": "Addison Rae",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/01/ef/7a/01ef7a06-1b48-0460-efbf-983d6a0a37fa/196872309959.jpg/80x80bb.webp",
-        "appleID": "diet-pepsi/1760428041"
+        "appleID": "diet-pepsi/1760428041",
+        "spotifyID": "6MzofobZt2dm0Kf1hTThFz"
     },
     {
         "ranking": "4",
@@ -193,7 +194,8 @@
         "title": "Carry My Heart",
         "artist": "Myshaan",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/84/56/18/845618ab-f06d-a5d3-ceda-b1080520425e/10288.jpg/80x80bb.webp",
-        "appleID": "carry-my-heart/1779243427"
+        "appleID": "carry-my-heart/1779243427",
+        "youtubeID": "N9Welk1i-XM"
     },
     {
         "ranking": "29",
@@ -340,7 +342,8 @@
         "title": "Locked Out of Heaven",
         "artist": "Bruno Mars",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/e0/a4/7c/e0a47c6f-005a-9f9f-ce29-8e858e2bcfcb/075679957283.jpg/80x80bb.webp",
-        "appleID": "locked-out-of-heaven/573962551"
+        "appleID": "locked-out-of-heaven/573962551",
+        "spotifyID": "5g7sDjBhZ4I3gcFIpkrLuI"
     },
     {
         "ranking": "50",
@@ -466,7 +469,8 @@
         "title": "Water",
         "artist": "Tyla",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/1e/c9/5b/1ec95bbc-a56f-cbef-070c-ddec9f4fdd3c/196871296205.jpg/80x80bb.webp",
-        "appleID": "water/1699082734"
+        "appleID": "water/1699082734",
+        "spotifyID": "5aIVCx5tnk0ntmdiinnYvw"
     },
     {
         "ranking": "68",
@@ -634,7 +638,8 @@
         "title": "Love Story",
         "artist": "Indila",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/49/58/30/49583018-308b-431d-c691-4a28e78be8cd/14UMGIM01109.rgb.jpg/80x80bb.webp",
-        "appleID": "love-story/1440830558"
+        "appleID": "love-story/1440830558",
+        "youtubeID": "DF3XjEhJ40Y"
     },
     {
         "ranking": "92",
@@ -683,7 +688,9 @@
         "title": "Too Sweet",
         "artist": "Hozier",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a4/12/e3/a412e390-51aa-6625-9adc-d502bf1c349f/196872373004.jpg/80x80bb.webp",
-        "appleID": "too-sweet/1763072931"
+        "appleID": "too-sweet/1763072931",
+        "youtubeID": "NTpbbQUBbuo",
+        "spotifyID": "19XpFsce28aByvCC4g89tJ"
     },
     {
         "ranking": "99",
