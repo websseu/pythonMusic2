@@ -214,7 +214,9 @@
         "title": "The Door",
         "artist": "Teddy Swims",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/36/19/66/36196640-1561-dc5e-c6bc-1e5f4befa583/093624856771.jpg/80x80bb.webp",
-        "appleID": "the-door/1691699849"
+        "appleID": "the-door/1691699849",
+        "youtubeID": "VSXT4a2kRHA",
+        "spotifyID": "3dj4wgM3cPeuLwMNHDuBon"
     },
     {
         "ranking": "32",
@@ -312,7 +314,7 @@
         "title": "Life in Your Hands",
         "artist": "JKING",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/13/42/d3/1342d330-9057-2734-86b0-2a6ce264e5a2/0.jpg/80x80bb.webp",
-        "appleID": "life-in-your-hands/1804342122"
+        "appleID": "life-in-your-hands/1715938831"
     },
     {
         "ranking": "46",
@@ -354,7 +356,7 @@
         "title": "Veretaki",
         "artist": "VT1S",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/fc/87/e9/fc87e9a2-4607-aacf-e1e9-7caf587400e3/0.jpg/80x80bb.webp",
-        "appleID": "veretaki/1802879000"
+        "appleID": "veretaki/1678652587"
     },
     {
         "ranking": "52",
@@ -473,7 +475,8 @@
         "title": "Pink Pony Club",
         "artist": "Chappell Roan",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/41/bc/fb/41bcfb43-91d5-931d-5747-fb381803143f/23UMGIM21715.rgb.jpg/80x80bb.webp",
-        "appleID": "pink-pony-club/1675173768"
+        "appleID": "pink-pony-club/1675173768",
+        "spotifyID": "1k2pQc5i348DCHwbn5KTdc"
     },
     {
         "ranking": "69",
@@ -662,7 +665,8 @@
         "title": "Isa lang",
         "artist": "Arthur Nery",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/bf/63/0c/bf630c2e-4a33-629f-7bb8-ca43737bc08c/cover.jpg/80x80bb.webp",
-        "appleID": "isa-lang/1600414620"
+        "appleID": "isa-lang/1600414620",
+        "spotifyID": "0HAG6nIiEKd75yGpovuSJQ"
     },
     {
         "ranking": "96",
