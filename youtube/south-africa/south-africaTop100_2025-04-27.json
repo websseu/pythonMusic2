@@ -147,7 +147,8 @@
         "prev": "10",
         "streak": "38",
         "streams": "489,554",
-        "youtubeID": "N6i1SeRmKL0"
+        "youtubeID": "N6i1SeRmKL0",
+        "appleID": "residuals/1740206493"
     },
     {
         "ranking": "16",
@@ -187,7 +188,9 @@
         "prev": "21",
         "streak": "36",
         "streams": "447,994",
-        "youtubeID": "kPa7bsKwL-c"
+        "youtubeID": "kPa7bsKwL-c",
+        "appleID": "die-with-a-smile/1762656732",
+        "spotifyID": "2plbrEY59IikOBgBGLjaoe"
     },
     {
         "ranking": "20",
@@ -217,7 +220,9 @@
         "prev": "23",
         "streak": "20",
         "streams": "435,203",
-        "youtubeID": "7dyC2QlpHsI"
+        "youtubeID": "7dyC2QlpHsI",
+        "appleID": "esandleni/1782983765",
+        "spotifyID": "7LTDINonhUaOiWTyN3AxCI"
     },
     {
         "ranking": "23",
@@ -397,7 +402,8 @@
         "prev": "42",
         "streak": "32",
         "streams": "314,846",
-        "youtubeID": "eoY3QyZWSeA"
+        "youtubeID": "eoY3QyZWSeA",
+        "spotifyID": "6COIIA7XjaExDj4fkCqaB9"
     },
     {
         "ranking": "41",
@@ -437,7 +443,8 @@
         "prev": "9",
         "streak": "20",
         "streams": "291,384",
-        "youtubeID": "sNY_2TEmzho"
+        "youtubeID": "4_taypLmSMU",
+        "appleID": "luther/1781270323"
     },
     {
         "ranking": "45",
@@ -477,7 +484,8 @@
         "prev": "45",
         "streak": "34",
         "streams": "284,372",
-        "youtubeID": "U_Dr-ycefEo"
+        "youtubeID": "U_Dr-ycefEo",
+        "spotifyID": "6eyJuobFFGXLAOOkxrIdSV"
     },
     {
         "ranking": "49",
@@ -997,6 +1005,7 @@
         "prev": "-",
         "streak": "20",
         "streams": "144,671",
-        "youtubeID": "zzXdj1dzwBg"
+        "youtubeID": "zzXdj1dzwBg",
+        "spotifyID": "1AXW0WnNUceegJHGl3HWlJ"
     }
 ]
