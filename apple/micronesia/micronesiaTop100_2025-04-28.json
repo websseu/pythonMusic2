@@ -144,7 +144,8 @@
         "title": "Beautiful Things",
         "artist": "Benson Boone",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/54/f4/92/54f49210-e260-b519-ebbd-f4f40ee710cd/054391342751.jpg/80x80bb.webp",
-        "appleID": "beautiful-things/1724488124"
+        "appleID": "beautiful-things/1724488124",
+        "youtubeID": "Oa_RSwwpPaA"
     },
     {
         "ranking": "22",
@@ -228,7 +229,8 @@
         "title": "Locked Out of Heaven",
         "artist": "Bruno Mars",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/e0/a4/7c/e0a47c6f-005a-9f9f-ce29-8e858e2bcfcb/075679957283.jpg/80x80bb.webp",
-        "appleID": "locked-out-of-heaven/573962551"
+        "appleID": "locked-out-of-heaven/573962551",
+        "spotifyID": "5g7sDjBhZ4I3gcFIpkrLuI"
     },
     {
         "ranking": "34",
@@ -298,7 +300,8 @@
         "title": "Houdini",
         "artist": "Eminem",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c0/c0/a2/c0c0a21c-421d-63b5-7b9b-d630bd602341/24UMGIM59994.rgb.jpg/80x80bb.webp",
-        "appleID": "houdini/1748971748"
+        "appleID": "houdini/1748971748",
+        "youtubeID": "22tVWwmTie8"
     },
     {
         "ranking": "44",
@@ -319,7 +322,7 @@
         "title": "Veretaki",
         "artist": "VT1S",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/fc/87/e9/fc87e9a2-4607-aacf-e1e9-7caf587400e3/0.jpg/80x80bb.webp",
-        "appleID": "veretaki/1802879000"
+        "appleID": "veretaki/1678652587"
     },
     {
         "ranking": "47",
@@ -354,21 +357,24 @@
         "title": "Not Like Us",
         "artist": "Kendrick Lamar",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d0/ef/b6/d0efb685-73be-fdee-58c9-be655f4cd4fd/24UMGIM51924.rgb.jpg/80x80bb.webp",
-        "appleID": "not-like-us/1744776167"
+        "appleID": "not-like-us/1744776167",
+        "youtubeID": "H58vbez_m4E"
     },
     {
         "ranking": "52",
         "title": "tv off (feat. Lefty Gunplay)",
         "artist": "Kendrick Lamar",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/50/c2/cc/50c2cc95-3658-9417-0d4b-831abde44ba1/24UM1IM28978.rgb.jpg/80x80bb.webp",
-        "appleID": "tv-off-feat-lefty-gunplay/1781270540"
+        "appleID": "tv-off-feat-lefty-gunplay/1781270540",
+        "youtubeID": "U8F5G5wR1mk"
     },
     {
         "ranking": "53",
         "title": "luther",
         "artist": "Kendrick Lamar",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/50/c2/cc/50c2cc95-3658-9417-0d4b-831abde44ba1/24UM1IM28978.rgb.jpg/80x80bb.webp",
-        "appleID": "luther/1781270323"
+        "appleID": "luther/1781270323",
+        "youtubeID": "4_taypLmSMU"
     },
     {
         "ranking": "54",
