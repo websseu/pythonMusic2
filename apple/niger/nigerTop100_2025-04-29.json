@@ -88,7 +88,9 @@
         "title": "SOIS PAS TIMIDE",
         "artist": "GIMS",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/71/45/19/714519f5-40a6-b81a-d099-56512c4e4914/cover.jpg/80x80bb.webp",
-        "appleID": "sois-pas-timide/1757643303"
+        "appleID": "sois-pas-timide/1757643303",
+        "youtubeID": "Sq5EDI7JktA",
+        "spotifyID": "0yyFAbTlOk7DFhh6RSug9S"
     },
     {
         "ranking": "14",
@@ -116,7 +118,8 @@
         "title": "Rush",
         "artist": "Ayra Starr",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/b5/4a/3d/b54a3d1a-f493-7a9b-1807-a73f01709053/5059449090122.png/80x80bb.webp",
-        "appleID": "rush/1642898573"
+        "appleID": "rush/1642898573",
+        "youtubeID": "crtQSTYWtqE"
     },
     {
         "ranking": "18",
@@ -151,7 +154,9 @@
         "title": "4 Kampé",
         "artist": "Joé Dwèt Filé",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/05/32/0a/05320ae3-1eef-3cd6-8f19-9ad9f078fa25/cover.jpg/80x80bb.webp",
-        "appleID": "4-kamp%C3%A9/1773819412"
+        "appleID": "4-kamp%C3%A9/1773819412",
+        "youtubeID": "Srvt_6up-0o",
+        "spotifyID": "7dzuYJwwtNnfcptmbD58aJ"
     },
     {
         "ranking": "23",
@@ -298,7 +303,7 @@
         "title": "Last Last",
         "artist": "Burna Boy",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/fd/08/8c/fd088c72-75fc-0306-3c69-1ef4448ff3cf/075679688477.jpg/80x80bb.webp",
-        "appleID": "last-last/1749166881"
+        "appleID": "last-last/1623677811"
     },
     {
         "ranking": "44",
@@ -536,7 +541,8 @@
         "title": "Girlfriend",
         "artist": "Ruger",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/78/68/ce/7868ce23-2ce0-0cfd-7ce3-3eb1196f1d96/196589221094_Cover.jpg/80x80bb.webp",
-        "appleID": "girlfriend/1709394555"
+        "appleID": "girlfriend/1709394555",
+        "youtubeID": "7M2Gps9xR8g"
     },
     {
         "ranking": "78",
@@ -550,14 +556,17 @@
         "title": "Awolowo",
         "artist": "Fido",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/62/47/35/62473588-693f-71ba-87cb-29f90cfb637d/386564.jpg/80x80bb.webp",
-        "appleID": "awolowo/1765564585"
+        "appleID": "awolowo/1765564585",
+        "youtubeID": "XEL4ksfKIPk"
     },
     {
         "ranking": "80",
         "title": "Monaco",
         "artist": "Guy2Bezbar",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8b/3d/d9/8b3dd98a-d961-72a2-161f-cc099c4b5689/196872257809.jpg/80x80bb.webp",
-        "appleID": "monaco/1755200186"
+        "appleID": "monaco/1755200186",
+        "youtubeID": "m3IqAolevVc",
+        "spotifyID": "2iEXkEB32esmNExcEyKjKc"
     },
     {
         "ranking": "81",
@@ -648,7 +657,9 @@
         "title": "CARTIER SANTOS",
         "artist": "SDM",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/64/46/95/64469515-0230-b26c-69cf-5db61f5ea879/24UMGIM72197.rgb.jpg/80x80bb.webp",
-        "appleID": "cartier-santos/1757803302"
+        "appleID": "cartier-santos/1757803302",
+        "youtubeID": "3nGdVePdlT4",
+        "spotifyID": "1Mzg6bu3hkCwJKEf7v49MN"
     },
     {
         "ranking": "94",
@@ -676,7 +687,9 @@
         "title": "POUR ELLE",
         "artist": "SDM",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/64/46/95/64469515-0230-b26c-69cf-5db61f5ea879/24UMGIM72197.rgb.jpg/80x80bb.webp",
-        "appleID": "pour-elle/1757803290"
+        "appleID": "pour-elle/1757803290",
+        "youtubeID": "eYG5Qg6RCyE",
+        "spotifyID": "5jX61gvbNenSDMldQrbtsU"
     },
     {
         "ranking": "98",
@@ -690,7 +703,8 @@
         "title": "Timeless",
         "artist": "The Weeknd",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/40/77/cb/4077cbd1-b6a0-d8df-b9d3-e9a339dbc0ea/24UM1IM04061.rgb.jpg/80x80bb.webp",
-        "appleID": "timeless/1770380890"
+        "appleID": "timeless/1770380890",
+        "youtubeID": "5EpyN_6dqyk"
     },
     {
         "ranking": "100",

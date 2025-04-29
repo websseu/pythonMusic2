@@ -354,7 +354,8 @@
         "title": "Impossible",
         "artist": "James Arthur",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/8d/8d/c5/8d8dc562-7f43-40d8-e37d-7ea6bc49d5ca/886443782167.jpg/80x80bb.webp",
-        "appleID": "impossible/589034898"
+        "appleID": "impossible/589034898",
+        "spotifyID": "6skGMlljk0s5yeBKZ7sN5n"
     },
     {
         "ranking": "52",
@@ -410,7 +411,7 @@
         "title": "Last Last",
         "artist": "Burna Boy",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/fd/08/8c/fd088c72-75fc-0306-3c69-1ef4448ff3cf/075679688477.jpg/80x80bb.webp",
-        "appleID": "last-last/1749166881"
+        "appleID": "last-last/1623677811"
     },
     {
         "ranking": "60",
@@ -515,7 +516,8 @@
         "title": "Apocalypse",
         "artist": "Cigarettes After Sex",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b3/5e/0f/b35e0fbe-2370-fc48-0f0c-977525e93bf2/720841214601_Cover.jpg/80x80bb.webp",
-        "appleID": "apocalypse/1217977755"
+        "appleID": "apocalypse/1215409245",
+        "spotifyID": "0yc6Gst2xkRu0eMLeRMGCX"
     },
     {
         "ranking": "75",
@@ -697,6 +699,7 @@
         "title": "Creep",
         "artist": "Radiohead",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/0a/30/e8/0a30e802-d9a3-ba01-243c-774f7cd966fd/634904077969.png/80x80bb.webp",
-        "appleID": "creep/1097862231"
+        "appleID": "creep/1097862231",
+        "youtubeID": "XFkzRNyygfk"
     }
 ]

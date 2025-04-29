@@ -200,21 +200,24 @@
         "title": "Not Like Us",
         "artist": "Kendrick Lamar",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d0/ef/b6/d0efb685-73be-fdee-58c9-be655f4cd4fd/24UMGIM51924.rgb.jpg/80x80bb.webp",
-        "appleID": "not-like-us/1744776167"
+        "appleID": "not-like-us/1744776167",
+        "youtubeID": "H58vbez_m4E"
     },
     {
         "ranking": "30",
         "title": "tv off (feat. Lefty Gunplay)",
         "artist": "Kendrick Lamar",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/50/c2/cc/50c2cc95-3658-9417-0d4b-831abde44ba1/24UM1IM28978.rgb.jpg/80x80bb.webp",
-        "appleID": "tv-off-feat-lefty-gunplay/1781270540"
+        "appleID": "tv-off-feat-lefty-gunplay/1781270540",
+        "youtubeID": "U8F5G5wR1mk"
     },
     {
         "ranking": "31",
         "title": "luther",
         "artist": "Kendrick Lamar",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/50/c2/cc/50c2cc95-3658-9417-0d4b-831abde44ba1/24UM1IM28978.rgb.jpg/80x80bb.webp",
-        "appleID": "luther/1781270323"
+        "appleID": "luther/1781270323",
+        "youtubeID": "4_taypLmSMU"
     },
     {
         "ranking": "32",
@@ -270,7 +273,8 @@
         "title": "When It Rains It Pours",
         "artist": "Luke Combs",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/3c/83/bf/3c83bf3e-bf4a-7e69-5668-d55f5a8e38e0/886446460840.jpg/80x80bb.webp",
-        "appleID": "when-it-rains-it-pours/1228888143"
+        "appleID": "when-it-rains-it-pours/1228888143",
+        "spotifyID": "1mMLMZYXkMueg65jRRWG1l"
     },
     {
         "ranking": "40",
@@ -284,7 +288,8 @@
         "title": "Carry My Heart",
         "artist": "Myshaan",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/84/56/18/845618ab-f06d-a5d3-ceda-b1080520425e/10288.jpg/80x80bb.webp",
-        "appleID": "carry-my-heart/1779243427"
+        "appleID": "carry-my-heart/1779243427",
+        "youtubeID": "N9Welk1i-XM"
     },
     {
         "ranking": "42",
@@ -347,7 +352,8 @@
         "title": "I Love You So",
         "artist": "The Walters",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/95/a5/14/95a514ab-1f06-81dd-8a60-f7ca13a172ce/054391911063.jpg/80x80bb.webp",
-        "appleID": "i-love-you-so/1591338975"
+        "appleID": "i-love-you-so/1591338975",
+        "spotifyID": "4SqWKzw0CbA05TGszDgMlc"
     },
     {
         "ranking": "51",
@@ -389,7 +395,9 @@
         "title": "Stargazing",
         "artist": "Myles Smith",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/bf/c3/a5/bfc3a56d-a51b-69cb-cdfc-26ee63631cb8/196872051872.jpg/80x80bb.webp",
-        "appleID": "stargazing/1742275653"
+        "appleID": "stargazing/1742275653",
+        "youtubeID": "9p9EauIOPm8",
+        "spotifyID": "3Vr3zh0r7ALn8VLqCiRR10"
     },
     {
         "ranking": "57",
@@ -480,7 +488,8 @@
         "title": "Beautiful Things",
         "artist": "Benson Boone",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/54/f4/92/54f49210-e260-b519-ebbd-f4f40ee710cd/054391342751.jpg/80x80bb.webp",
-        "appleID": "beautiful-things/1724488124"
+        "appleID": "beautiful-things/1724488124",
+        "youtubeID": "Oa_RSwwpPaA"
     },
     {
         "ranking": "70",
@@ -557,7 +566,8 @@
         "title": "Locked Out of Heaven",
         "artist": "Bruno Mars",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/e0/a4/7c/e0a47c6f-005a-9f9f-ce29-8e858e2bcfcb/075679957283.jpg/80x80bb.webp",
-        "appleID": "locked-out-of-heaven/573962551"
+        "appleID": "locked-out-of-heaven/573962551",
+        "spotifyID": "5g7sDjBhZ4I3gcFIpkrLuI"
     },
     {
         "ranking": "81",
@@ -627,7 +637,8 @@
         "title": "Houdini",
         "artist": "Eminem",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c0/c0/a2/c0c0a21c-421d-63b5-7b9b-d630bd602341/24UMGIM59994.rgb.jpg/80x80bb.webp",
-        "appleID": "houdini/1748971748"
+        "appleID": "houdini/1748971748",
+        "youtubeID": "22tVWwmTie8"
     },
     {
         "ranking": "91",
@@ -655,7 +666,7 @@
         "title": "Veretaki",
         "artist": "VT1S",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/fc/87/e9/fc87e9a2-4607-aacf-e1e9-7caf587400e3/0.jpg/80x80bb.webp",
-        "appleID": "veretaki/1802879000"
+        "appleID": "veretaki/1678652587"
     },
     {
         "ranking": "95",

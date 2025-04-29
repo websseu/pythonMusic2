@@ -18,7 +18,9 @@
         "title": "Bad Dreams",
         "artist": "Teddy Swims",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/cd/5d/64/cd5d64c2-338b-00c9-52d6-578a0f19d826/054391245908.jpg/80x80bb.webp",
-        "appleID": "bad-dreams/1765799904"
+        "appleID": "bad-dreams/1765799904",
+        "youtubeID": "Qh8QwVYOSVU",
+        "spotifyID": "3nHuKdFJZm78CoeBnDcFKe"
     },
     {
         "ranking": "4",
@@ -81,7 +83,8 @@
         "title": "Human",
         "artist": "Rag'n'Bone Man",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/cc/81/83/cc818302-ff27-bbbf-195e-f72bb39d32c2/886446364636.jpg/80x80bb.webp",
-        "appleID": "human/1202354334"
+        "appleID": "human/1202354334",
+        "youtubeID": "L3wKzyIN1yk"
     },
     {
         "ranking": "13",
@@ -102,7 +105,8 @@
         "title": "Si Ai (Marshmello & UKAY Remix)",
         "artist": "Tayna",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e3/99/24/e39924db-8453-92cb-d5c1-2399bc088d2f/1174.jpg/80x80bb.webp",
-        "appleID": "si-ai-marshmello-ukay-remix/1782245477"
+        "appleID": "si-ai/1755088935",
+        "youtubeID": "4bZ-8pg4tbY"
     },
     {
         "ranking": "16",
@@ -151,7 +155,9 @@
         "title": "Die With A Smile",
         "artist": "Lady Gaga",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/11/ae/f2/11aef294-f57c-bab9-c9fc-529162984e62/24UMGIM85348.rgb.jpg/80x80bb.webp",
-        "appleID": "die-with-a-smile/1762656732"
+        "appleID": "die-with-a-smile/1762656732",
+        "youtubeID": "kPa7bsKwL-c",
+        "spotifyID": "2plbrEY59IikOBgBGLjaoe"
     },
     {
         "ranking": "23",
@@ -186,14 +192,17 @@
         "title": "Not Like Us",
         "artist": "Kendrick Lamar",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d0/ef/b6/d0efb685-73be-fdee-58c9-be655f4cd4fd/24UMGIM51924.rgb.jpg/80x80bb.webp",
-        "appleID": "not-like-us/1744776167"
+        "appleID": "not-like-us/1744776167",
+        "youtubeID": "H58vbez_m4E"
     },
     {
         "ranking": "28",
         "title": "APT.",
         "artist": "ROSÉ",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2d/1a/7d/2d1a7d91-587e-0ceb-d434-327bd66d9e86/075679628312.jpg/80x80bb.webp",
-        "appleID": "apt/1773452221"
+        "appleID": "apt/1773452221",
+        "youtubeID": "ekr2nIex040",
+        "spotifyID": "4wJ5Qq0jBN4ajy7ouZIV1c"
     },
     {
         "ranking": "29",
@@ -277,7 +286,8 @@
         "title": "luther",
         "artist": "Kendrick Lamar",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/50/c2/cc/50c2cc95-3658-9417-0d4b-831abde44ba1/24UM1IM28978.rgb.jpg/80x80bb.webp",
-        "appleID": "luther/1781270323"
+        "appleID": "luther/1781270323",
+        "youtubeID": "4_taypLmSMU"
     },
     {
         "ranking": "41",
@@ -340,7 +350,8 @@
         "title": "Beanie",
         "artist": "Chezile",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a3/20/4d/a3204d28-a2a0-e949-5b95-2aec1d5eeee7/810482896134.jpg/80x80bb.webp",
-        "appleID": "beanie/1739267347"
+        "appleID": "beanie/1739267347",
+        "spotifyID": "5e0b9LgOfi3aJSKXFcOWRe"
     },
     {
         "ranking": "50",
@@ -354,7 +365,8 @@
         "title": "İstədim",
         "artist": "Roza Zərgərli",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5c/f2/91/5cf29190-a111-f218-9247-6ee23aebb00a/0.jpg/80x80bb.webp",
-        "appleID": "i-st%C9%99dim/1802504290"
+        "appleID": "i-st%C9%99dim/1773788703",
+        "youtubeID": "SpYWHk5rrIU"
     },
     {
         "ranking": "52",
@@ -417,7 +429,9 @@
         "title": "SEVMEYİ DENEMEDİN",
         "artist": "BLOK3",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c9/16/59/c91659c0-c1c1-9bd3-a6ee-a935ef58b5f7/cover.jpg/80x80bb.webp",
-        "appleID": "sevmeyi-denemedi-n/1767437103"
+        "appleID": "sevmeyi-denemedi-n/1767437103",
+        "youtubeID": "n7iuaTlGbd4",
+        "spotifyID": "3ff93VTp2DBbNnDEsAW8Cm"
     },
     {
         "ranking": "61",
@@ -480,7 +494,8 @@
         "title": "Perfect",
         "artist": "Ed Sheeran",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/15/e6/e8/15e6e8a4-4190-6a8b-86c3-ab4a51b88288/190295851286.jpg/80x80bb.webp",
-        "appleID": "perfect/1193701400"
+        "appleID": "perfect/1193701400",
+        "youtubeID": "2Vv-BfVoq4g"
     },
     {
         "ranking": "70",
@@ -550,7 +565,8 @@
         "title": "FE!N (feat. Playboi Carti)",
         "artist": "Travis Scott",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/09/7d/b0/097db06f-8403-3cf7-7510-139e570ca66b/196871341882.jpg/80x80bb.webp",
-        "appleID": "fe-n-feat-playboi-carti/1699712651"
+        "appleID": "fe-n-feat-playboi-carti/1699712651",
+        "youtubeID": "B9synWjqBn8"
     },
     {
         "ranking": "80",
@@ -578,7 +594,8 @@
         "title": "BIRDS OF A FEATHER",
         "artist": "Billie Eilish",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
-        "appleID": "birds-of-a-feather/1739659142"
+        "appleID": "birds-of-a-feather/1739659142",
+        "youtubeID": "V9PVRfjEBTI"
     },
     {
         "ranking": "84",
@@ -641,7 +658,9 @@
         "title": "Lose Control",
         "artist": "Teddy Swims",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/36/19/66/36196640-1561-dc5e-c6bc-1e5f4befa583/093624856771.jpg/80x80bb.webp",
-        "appleID": "lose-control/1691699836"
+        "appleID": "lose-control/1691699836",
+        "youtubeID": "GZ3zL7kT6_c",
+        "spotifyID": "17phhZDn6oGtzMe56NuWvj"
     },
     {
         "ranking": "93",
