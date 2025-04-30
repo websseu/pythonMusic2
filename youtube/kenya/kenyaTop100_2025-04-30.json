@@ -17,7 +17,7 @@
         "prev": "3",
         "streak": "20",
         "streams": "877,642",
-        "youtubeID": "04GKMWEwe98"
+        "youtubeID": "RIwnA7SBr9c"
     },
     {
         "ranking": "3",
@@ -207,7 +207,9 @@
         "prev": "19",
         "streak": "23",
         "streams": "261,937",
-        "youtubeID": "kPa7bsKwL-c"
+        "youtubeID": "kPa7bsKwL-c",
+        "appleID": "die-with-a-smile/1762656732",
+        "spotifyID": "2plbrEY59IikOBgBGLjaoe"
     },
     {
         "ranking": "22",
@@ -427,7 +429,9 @@
         "prev": "42",
         "streak": "4",
         "streams": "167,667",
-        "youtubeID": "Srvt_6up-0o"
+        "youtubeID": "Srvt_6up-0o",
+        "appleID": "4-kamp%C3%A9/1773819412",
+        "spotifyID": "7dzuYJwwtNnfcptmbD58aJ"
     },
     {
         "ranking": "44",
@@ -467,7 +471,8 @@
         "prev": "49",
         "streak": "28",
         "streams": "162,254",
-        "youtubeID": "jmVGCnxnRug"
+        "youtubeID": "jmVGCnxnRug",
+        "appleID": "beta/1703130196"
     },
     {
         "ranking": "48",
@@ -547,7 +552,8 @@
         "prev": "45",
         "streak": "13",
         "streams": "149,909",
-        "youtubeID": "N6i1SeRmKL0"
+        "youtubeID": "N6i1SeRmKL0",
+        "appleID": "residuals/1740206493"
     },
     {
         "ranking": "56",
@@ -707,7 +713,8 @@
         "prev": "24",
         "streak": "5",
         "streams": "116,007",
-        "youtubeID": "sNY_2TEmzho"
+        "youtubeID": "4_taypLmSMU",
+        "appleID": "luther/1781270323"
     },
     {
         "ranking": "72",
@@ -897,7 +904,8 @@
         "prev": "-",
         "streak": "10",
         "streams": "97,651",
-        "youtubeID": "2bqXbE_-MEM"
+        "youtubeID": "2bqXbE_-MEM",
+        "appleID": "silence/1509840826"
     },
     {
         "ranking": "91",
@@ -997,6 +1005,7 @@
         "prev": "-",
         "streak": "15",
         "streams": "86,577",
-        "youtubeID": "50VNCymT-Cs"
+        "youtubeID": "50VNCymT-Cs",
+        "spotifyID": "2qxmye6gAegTMjLKEBoR3d"
     }
 ]
