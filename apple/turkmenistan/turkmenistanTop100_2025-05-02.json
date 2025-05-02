@@ -18,7 +18,9 @@
         "title": "Die With A Smile",
         "artist": "Lady Gaga",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/11/ae/f2/11aef294-f57c-bab9-c9fc-529162984e62/24UMGIM85348.rgb.jpg/80x80bb.webp",
-        "appleID": "die-with-a-smile/1762656732"
+        "appleID": "die-with-a-smile/1762656732",
+        "youtubeID": "kPa7bsKwL-c",
+        "spotifyID": "2plbrEY59IikOBgBGLjaoe"
     },
     {
         "ranking": "4",
@@ -32,7 +34,9 @@
         "title": "Bad Dreams",
         "artist": "Teddy Swims",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/cd/5d/64/cd5d64c2-338b-00c9-52d6-578a0f19d826/054391245908.jpg/80x80bb.webp",
-        "appleID": "bad-dreams/1765799904"
+        "appleID": "bad-dreams/1765799904",
+        "youtubeID": "Qh8QwVYOSVU",
+        "spotifyID": "3nHuKdFJZm78CoeBnDcFKe"
     },
     {
         "ranking": "6",
@@ -116,14 +120,17 @@
         "title": "APT.",
         "artist": "ROSÉ",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2d/1a/7d/2d1a7d91-587e-0ceb-d434-327bd66d9e86/075679628312.jpg/80x80bb.webp",
-        "appleID": "apt/1773452221"
+        "appleID": "apt/1773452221",
+        "youtubeID": "ekr2nIex040",
+        "spotifyID": "4wJ5Qq0jBN4ajy7ouZIV1c"
     },
     {
         "ranking": "18",
         "title": "Human",
         "artist": "Rag'n'Bone Man",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/cc/81/83/cc818302-ff27-bbbf-195e-f72bb39d32c2/886446364636.jpg/80x80bb.webp",
-        "appleID": "human/1202354334"
+        "appleID": "human/1202354334",
+        "youtubeID": "L3wKzyIN1yk"
     },
     {
         "ranking": "19",
@@ -193,14 +200,17 @@
         "title": "The Door",
         "artist": "Teddy Swims",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/36/19/66/36196640-1561-dc5e-c6bc-1e5f4befa583/093624856771.jpg/80x80bb.webp",
-        "appleID": "the-door/1691699849"
+        "appleID": "the-door/1691699849",
+        "youtubeID": "VSXT4a2kRHA",
+        "spotifyID": "3dj4wgM3cPeuLwMNHDuBon"
     },
     {
         "ranking": "29",
         "title": "Ortak",
         "artist": "Melike Şahin",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/de/72/1c/de721cb5-2032-2433-15d9-734d233712ed/198704059223_Cover.jpg/80x80bb.webp",
-        "appleID": "ortak/1756506701"
+        "appleID": "ortak/1756506701",
+        "youtubeID": "xM6-1GtxqYo"
     },
     {
         "ranking": "30",
@@ -256,7 +266,8 @@
         "title": "THE GREATEST",
         "artist": "Billie Eilish",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
-        "appleID": "the-greatest/1739659145"
+        "appleID": "the-greatest/1739659145",
+        "youtubeID": "aZqCFE_9U9o"
     },
     {
         "ranking": "38",
@@ -305,7 +316,8 @@
         "title": "FE!N (feat. Playboi Carti)",
         "artist": "Travis Scott",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/09/7d/b0/097db06f-8403-3cf7-7510-139e570ca66b/196871341882.jpg/80x80bb.webp",
-        "appleID": "fe-n-feat-playboi-carti/1699712651"
+        "appleID": "fe-n-feat-playboi-carti/1699712651",
+        "youtubeID": "B9synWjqBn8"
     },
     {
         "ranking": "45",
@@ -382,7 +394,8 @@
         "title": "BIRDS OF A FEATHER",
         "artist": "Billie Eilish",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
-        "appleID": "birds-of-a-feather/1739659142"
+        "appleID": "birds-of-a-feather/1739659142",
+        "youtubeID": "V9PVRfjEBTI"
     },
     {
         "ranking": "56",
@@ -564,7 +577,8 @@
         "title": "Вороны",
         "artist": "Xcho",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/0b/5e/fd/0b5efd95-e89c-be35-cbf7-1a66d5ff679c/cover.jpg/80x80bb.webp",
-        "appleID": "%D0%B2%D0%BE%D1%80%D0%BE%D0%BD%D1%8B/1804969911"
+        "appleID": "%D0%B2%D0%BE%D1%80%D0%BE%D0%BD%D1%8B/1587178099",
+        "spotifyID": "1eQc0azOMOv6VuqQi9c2Ba"
     },
     {
         "ranking": "82",
@@ -599,7 +613,8 @@
         "title": "Another Love",
         "artist": "Tom Odell",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/3d/80/6e/3d806e1d-106c-7483-2024-032042519ab3/886443996779.jpg/80x80bb.webp",
-        "appleID": "another-love/1308605492"
+        "appleID": "another-love/1308605492",
+        "spotifyID": "7jtQIBanIiJOMS6RyCx6jZ"
     },
     {
         "ranking": "87",
