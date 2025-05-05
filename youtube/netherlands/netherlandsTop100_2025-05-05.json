@@ -1,0 +1,1002 @@
+[
+    {
+        "ranking": "1",
+        "title": "Echte Liefde Is Te Koop",
+        "artist": "Samuel Welten",
+        "image": "https://lh3.googleusercontent.com/ArXNEz3HoeV8ZdnY6K9fKbBmRhVXwCSqPn1rlY-EN52fAt96Lpd4dWeauKBArl-YKHplrDkQ8I67TZ9s=w180-h180-l90-rj",
+        "prev": "2",
+        "streak": "7",
+        "streams": "43,110",
+        "youtubeID": "cw0AyFUHCfc"
+    },
+    {
+        "ranking": "2",
+        "title": "APT.",
+        "artist": "ROSÉ & Bruno Mars",
+        "image": "https://lh3.googleusercontent.com/-MtYkhdYuOvj8YWHA4afh-OUYMYHNpBpkk047QgGAxLJMLE570Pj0-LQjA2PW1ltedqTusKOjzXvuS8=w180-h180-l90-rj",
+        "prev": "1",
+        "streak": "29",
+        "streams": "42,655",
+        "youtubeID": "ekr2nIex040"
+    },
+    {
+        "ranking": "3",
+        "title": "PASSO BEM SOLTO (Slowed)",
+        "artist": "ATLXS",
+        "image": "https://i.ytimg.com/vi/NT4eF9YsYnM/default.jpg",
+        "prev": "3",
+        "streak": "8",
+        "streams": "34,753",
+        "youtubeID": "NT4eF9YsYnM"
+    },
+    {
+        "ranking": "4",
+        "title": "Die With A Smile",
+        "artist": "Lady Gaga & Bruno Mars",
+        "image": "https://lh3.googleusercontent.com/RFK4wHeGqwI3DndbARbRJB21IC0TcmqnrlyjxYK7T-nC8wlIVbfxNaCIFKNvSpchDKmYyVLe1RN36w=w180-h180-l90-rj",
+        "prev": "4",
+        "streak": "38",
+        "streams": "32,614",
+        "youtubeID": "kPa7bsKwL-c"
+    },
+    {
+        "ranking": "5",
+        "title": "Сигма Бой",
+        "artist": "Betsy & Мария Янковская",
+        "image": "https://lh3.googleusercontent.com/KNSkF4MOf_RraSi9JBwQ21uGM-PQ3L1mBhL-KhDCrDfJ5-tPAwWG-KER9ruxO-Hj8Ka3ocbPXEUWKnFt=w180-h180-l90-rj",
+        "prev": "5",
+        "streak": "24",
+        "streams": "31,616",
+        "youtubeID": "ueNY30Cs8Lk"
+    },
+    {
+        "ranking": "6",
+        "title": "Beneden",
+        "artist": "Bizzey & Ronnie Flex & Russo",
+        "image": "https://lh3.googleusercontent.com/gWEeqGq4yA2g0Qaz-gChPnUO-PQq92R2f_ignFGqryzgDBC9mFl1DSZCny2zQWjl6XVqCbLw0qpC4-D9=w180-h180-l90-rj",
+        "prev": "-",
+        "streak": "1",
+        "streams": "24,663",
+        "youtubeID": "ymZqlj4Uuw4"
+    },
+    {
+        "ranking": "7",
+        "title": "Engelbewaarder (Outsiders Remix)",
+        "artist": "Outsiders & Marco Schuitmaker",
+        "image": "https://lh3.googleusercontent.com/i3BYaN7Zst_kX1-fSSDGzTFPgmAKtwqGjLkEbXBmXnT1YlMxhvO5PPf6361CbskgbtShixtJWJ99C1A=w180-h180-l90-rj",
+        "prev": "8",
+        "streak": "84",
+        "streams": "23,549",
+        "youtubeID": "JYINumPkzQo"
+    },
+    {
+        "ranking": "8",
+        "title": "Ordinary",
+        "artist": "Alex Warren",
+        "image": "https://lh3.googleusercontent.com/IpMxcpbAoa3Dh09aQj6lvQtXpVd7B7C7dEF6SrGY9t_Hxs5xo7lFFJGXNyi1Ts3iNwnlxhGBmWjVn0QF=w180-h180-l90-rj",
+        "prev": "7",
+        "streak": "11",
+        "streams": "23,314",
+        "youtubeID": "u2ah9tWTkmk"
+    },
+    {
+        "ranking": "9",
+        "title": "MONTAGEM TOMADA (Slowed)",
+        "artist": "MXZI",
+        "image": "https://i.ytimg.com/vi/qN_ecsamhms/default.jpg",
+        "prev": "9",
+        "streak": "6",
+        "streams": "21,238",
+        "youtubeID": "qN_ecsamhms"
+    },
+    {
+        "ranking": "10",
+        "title": "Atlas",
+        "artist": "Pommelien Thijs",
+        "image": "https://lh3.googleusercontent.com/hEkbVQar0cLufVQ9YIX6Eovw4noc4UibCsRVl2P4C3O2WL7ATGyReoQYgnRG2zWU1tWF4Ii66RZBkAXnlg=w180-h180-l90-rj",
+        "prev": "6",
+        "streak": "7",
+        "streams": "20,688",
+        "youtubeID": "C0FC1hO8aMc"
+    },
+    {
+        "ranking": "11",
+        "title": "Siqilma",
+        "artist": "Mashhur Muhammad",
+        "image": "https://lh3.googleusercontent.com/_JLE2KYXOLk9XNas3KHtxri-ZdhbGijemJvN9T1znX1s7OKrNuUhUKx7HNQTghtFjCb6M1piUIdvOY4=w180-h180-l90-rj",
+        "prev": "10",
+        "streak": "5",
+        "streams": "19,562",
+        "youtubeID": "_e7vmODn6gg"
+    },
+    {
+        "ranking": "12",
+        "title": "100%",
+        "artist": "FLEMMING & Mart Hoogkamer",
+        "image": "https://lh3.googleusercontent.com/3oau2g9UuASFT-QuNJIG812oim58kvPrewpEUdi6boggfgmC181I_qXWynEpLN_DxrIOyucVrIPEAhwj4w=w180-h180-l90-rj",
+        "prev": "11",
+        "streak": "11",
+        "streams": "19,145",
+        "youtubeID": "8lpVa55nheE"
+    },
+    {
+        "ranking": "13",
+        "title": "Lotje",
+        "artist": "Lustrum U.V.S.V./N.V.V.S.U. & Jopke van Dobbenburgh & Roeland Beelen",
+        "image": "https://i.ytimg.com/vi/i6K7catVufA/default.jpg",
+        "prev": "13",
+        "streak": "5",
+        "streams": "18,611",
+        "youtubeID": "i6K7catVufA"
+    },
+    {
+        "ranking": "14",
+        "title": "8 Minuten",
+        "artist": "Lijpe",
+        "image": "https://lh3.googleusercontent.com/ioX_PMBm1NFNmOvzLvLlBVAcUh5k6dp8A-gz9igSMbsJ6O9vEqnsWt_wUDZmVxtbtcum0SaKWsJEqg=w180-h180-l90-rj",
+        "prev": "-",
+        "streak": "1",
+        "streams": "18,283",
+        "youtubeID": "FrOufGAAcyk"
+    },
+    {
+        "ranking": "15",
+        "title": "Terug In De Tijd",
+        "artist": "Yves Berendse",
+        "image": "https://lh3.googleusercontent.com/1hOuRBv33AkCAn0g-G4kqCjyTSHF68M-lZLfe4Ky1jIkcOSPFOF8VWuoB1F5KuCeCqM42YtoOGNhuh4=w180-h180-l90-rj",
+        "prev": "15",
+        "streak": "50",
+        "streams": "18,254",
+        "youtubeID": "ERSCR2cuqAU"
+    },
+    {
+        "ranking": "16",
+        "title": "C'est La Vie",
+        "artist": "Claude",
+        "image": "https://lh3.googleusercontent.com/e8vm9X0wMPbAUjUI1joxwvfqzEbmeq7aJHiDPzXnpuIoHNU0Y6a0YAbVvTFocvQWsFCnmqXVMruCs2S3Ig=w180-h180-l90-rj",
+        "prev": "17",
+        "streak": "10",
+        "streams": "17,334",
+        "youtubeID": "hEHwr5k9pd0"
+    },
+    {
+        "ranking": "17",
+        "title": "Abracadabra",
+        "artist": "Lady Gaga",
+        "image": "https://lh3.googleusercontent.com/RFK4wHeGqwI3DndbARbRJB21IC0TcmqnrlyjxYK7T-nC8wlIVbfxNaCIFKNvSpchDKmYyVLe1RN36w=w180-h180-l90-rj",
+        "prev": "16",
+        "streak": "14",
+        "streams": "16,546",
+        "youtubeID": "vBynw9Isr28"
+    },
+    {
+        "ranking": "18",
+        "title": "Матушка",
+        "artist": "Татьяна Куртукова",
+        "image": "https://lh3.googleusercontent.com/jSsliiX7gCpWIZM42ZGsxZ2Zr2whV0plOn0ifdZyut7YNoOb43ZM7EKk36IegDcdUS7CZYxxOz-cjWE=w180-h180-l90-rj",
+        "prev": "18",
+        "streak": "24",
+        "streams": "16,398",
+        "youtubeID": "AFcIXxkFxK4"
+    },
+    {
+        "ranking": "19",
+        "title": "Anxiety",
+        "artist": "Doechii",
+        "image": "https://lh3.googleusercontent.com/Br9wqCqXsncoR02sKuszBi-4KUFm3eRf44W7I0W-iQJAzxg53TH4rzeAcCmYGeLw8vpejO6k-fXmrsPr=w180-h180-l90-rj",
+        "prev": "14",
+        "streak": "9",
+        "streams": "15,841",
+        "youtubeID": "egemoVK0IKY"
+    },
+    {
+        "ranking": "20",
+        "title": "Shake It To The Max (FLY) [Remix]",
+        "artist": "Moliy & Silent Addy & Skillibeng & Shenseea",
+        "image": "https://lh3.googleusercontent.com/nnD2FHAu-JyCYgXAVrcJG9SvTbguS8a37nN7-mYvtXYt1gTPOs8zB6R22q8_4ygpSsnIRo5mzfdW0TE=w180-h180-l90-rj",
+        "prev": "19",
+        "streak": "7",
+        "streams": "15,202",
+        "youtubeID": "UjBhbMMgLzc"
+    },
+    {
+        "ranking": "21",
+        "title": "Blikkendag",
+        "artist": "Sven Versteeg & Likke Pêhp",
+        "image": "https://lh3.googleusercontent.com/dtchgepYVgHi2Ky6VB3BhInHo62VN6I4gQ6Uu-qzuQO07mnT0cErBs7IT1YTwFVWJD3cI25pMIjfofiBgQ=w180-h180-l90-rj",
+        "prev": "12",
+        "streak": "21",
+        "streams": "14,420",
+        "youtubeID": "8P_aWgpSb6Y"
+    },
+    {
+        "ranking": "22",
+        "title": "Priceless",
+        "artist": "Maroon 5 & LISA",
+        "image": "https://lh3.googleusercontent.com/ycgveCfFYcjfTHlPKNaa3FKQb12QMS-2LxPwGRwF5k4VA8MxKN2aZUkZt4jZN_Gog23TdZlBFvC6dGS9ig=w180-h180-l90-rj",
+        "prev": "-",
+        "streak": "1",
+        "streams": "13,385",
+        "youtubeID": "vaGf8fmtBr4"
+    },
+    {
+        "ranking": "23",
+        "title": "Sigma girl",
+        "artist": "Мария Янковская & POLI",
+        "image": "https://lh3.googleusercontent.com/ii2f5LSIp1jtKf_Z_UyzHO3HFdAHYfRscFTl1PZ0JaQVSE_cal3S6iib8jKc-2HaJaILRziY4X9U0--f=w180-h180-l90-rj",
+        "prev": "56",
+        "streak": "2",
+        "streams": "13,372",
+        "youtubeID": "RHCLycZ4huk"
+    },
+    {
+        "ranking": "24",
+        "title": "Kesh (feat. 3robi)",
+        "artist": "KA",
+        "image": "https://i.ytimg.com/vi/WOpF_vzIxEQ/default.jpg",
+        "prev": "-",
+        "streak": "1",
+        "streams": "13,102",
+        "youtubeID": "WOpF_vzIxEQ"
+    },
+    {
+        "ranking": "25",
+        "title": "Jinak",
+        "artist": "Al Shami",
+        "image": "https://lh3.googleusercontent.com/ma0SaDp9cZXlnLjXKsa7hbM1PvdCD4QiF-t2r0TzB8RLpmVdNw37_RpehvLOLLPVqhm5BBQAbyo5mVY=w180-h180-l90-rj",
+        "prev": "-",
+        "streak": "1",
+        "streams": "13,087",
+        "youtubeID": "taC1MNiF9-Q"
+    },
+    {
+        "ranking": "26",
+        "title": "Асфальт",
+        "artist": "Jakone & Kiliana",
+        "image": "https://lh3.googleusercontent.com/j-FrnmV5CwY3-VVzCz3FQFJuqN-pOQMScgCVZj_2ZW6fg3sy7W3TFmK9bByxY5qRNk8fgkjfiZR7yt8b=w180-h180-l90-rj",
+        "prev": "23",
+        "streak": "38",
+        "streams": "13,013",
+        "youtubeID": "1ll3FvVk6BA"
+    },
+    {
+        "ranking": "27",
+        "title": "NINAO",
+        "artist": "GIMS",
+        "image": "https://lh3.googleusercontent.com/nP-TKIxXIvDsi7ks98DDhYjNQn4kpH9CXbUVdPDdKZWxZSpCaSQrHf7UYU-ZLgry2dsEOtHOQPpfWLYG=w180-h180-l90-rj",
+        "prev": "20",
+        "streak": "10",
+        "streams": "12,891",
+        "youtubeID": "VT2qF97pQNw"
+    },
+    {
+        "ranking": "28",
+        "title": "Gnarly",
+        "artist": "KATSEYE",
+        "image": "https://lh3.googleusercontent.com/S62UcAT1BnwwUlAltPiPeElmnEiyQvq764YP0MjJJRCLIsiNZjO5NNHdNt-Tb6rCeRtW4-vNq2UOWeQ=w180-h180-l90-rj",
+        "prev": "-",
+        "streak": "1",
+        "streams": "12,864",
+        "youtubeID": "R2-yomhYAj4"
+    },
+    {
+        "ranking": "29",
+        "title": "like JENNIE",
+        "artist": "JENNIE",
+        "image": "https://lh3.googleusercontent.com/Z3gufPaLCcWuJNE4NH6KhlbUSrnx3hvUQgnhwQBrUDNzEgAp1aNMuCr0nv0gJxU8XcS2Rp9I-BHPZt_i=w180-h180-l90-rj",
+        "prev": "21",
+        "streak": "9",
+        "streams": "12,636",
+        "youtubeID": "JSFG-IE8n_c"
+    },
+    {
+        "ranking": "30",
+        "title": "Show Me Love",
+        "artist": "WizTheMc & bees & honey",
+        "image": "https://lh3.googleusercontent.com/KPt1b9I1Jo_LQFuCCQatV5CkDgij1R9KEHPwBsPKhH2z6pB7-uCqI2H3tmtWNTWPg3sH8YcjUECFS4XvEA=w180-h180-l90-rj",
+        "prev": "32",
+        "streak": "9",
+        "streams": "12,605",
+        "youtubeID": "Z3aduh5fxCo"
+    },
+    {
+        "ranking": "31",
+        "title": "Худи",
+        "artist": "GeeGun & Artik & Asti & NILETTO",
+        "image": "https://lh3.googleusercontent.com/0wvCdypncKE6rKBJjhIUnkiwUrlnVmakMA8uJ3IeRwDXa08ysOJ1nMd1LYlMfqHJp3Nz_UDVyNZUmodlGA=w180-h180-l90-rj",
+        "prev": "26",
+        "streak": "22",
+        "streams": "12,430",
+        "youtubeID": "uiPM4QToPBA"
+    },
+    {
+        "ranking": "32",
+        "title": "BIRDS OF A FEATHER",
+        "artist": "Billie Eilish",
+        "image": "https://lh3.googleusercontent.com/mXJjWX4E6Gpr03CUYl18PdVXlczmoL2Tm-LEBGafIr_8smlHnl8AHniJu0_7Y80e-aeloJxcryQQx0ZJ=w180-h180-l90-rj",
+        "prev": "30",
+        "streak": "47",
+        "streams": "12,399",
+        "youtubeID": "V9PVRfjEBTI"
+    },
+    {
+        "ranking": "33",
+        "title": "Azizam",
+        "artist": "Ed Sheeran",
+        "image": "https://lh3.googleusercontent.com/NmmuD5l9-Zf4koBtTbFgR6txh1jdg_u6mE-JDJZf71jLX902j1v8yPH2HO2Zxs0cgxPGMkjYebVo9Ms=w180-h180-l90-rj",
+        "prev": "22",
+        "streak": "5",
+        "streams": "12,389",
+        "youtubeID": "q_48vyHWls4"
+    },
+    {
+        "ranking": "34",
+        "title": "Messy",
+        "artist": "Lola Young",
+        "image": "https://lh3.googleusercontent.com/rRr1FAxkev_FJmkPkTziSONh57hZmPHe7lRrYqLfIHok8ugRu8FJOoT2q5D7t39XvuxPnxAZeGKdKgY=w180-h180-l90-rj",
+        "prev": "29",
+        "streak": "19",
+        "streams": "11,989",
+        "youtubeID": "k-k2_Liofy8"
+    },
+    {
+        "ranking": "35",
+        "title": "Wackelkontakt",
+        "artist": "Oimara",
+        "image": "https://lh3.googleusercontent.com/bFVWAvDBSLvEuJTtBQh5aOvOt4T_WvpeFt6eiOvvq26ndIcjW_d0qLSNbedQ9FHDOFXl16Cfa7K7KzhRmw=w180-h180-l90-rj",
+        "prev": "31",
+        "streak": "11",
+        "streams": "11,887",
+        "youtubeID": "1SXQfd8f-o0"
+    },
+    {
+        "ranking": "36",
+        "title": "MATUSHKA ULTRAFUNK",
+        "artist": "satirin & FUNK DEMON & EVO",
+        "image": "https://lh3.googleusercontent.com/a7-QDAb4c6BoAkxJmcOLYE4TvsQjrf-w-KwWIomzSd3a8F8Z3dMNhYg5ACMN5Ml5ZGg9VuvuTvYn33e4=w180-h180-l90-rj",
+        "prev": "28",
+        "streak": "9",
+        "streams": "11,857",
+        "youtubeID": "7sGWS8IjpEY"
+    },
+    {
+        "ranking": "37",
+        "title": "MONTAGEM LADRAO (Slowed)",
+        "artist": "ATLXS & MXZI & Itamar Mc",
+        "image": "https://i.ytimg.com/vi/ncIbUXRFEZk/default.jpg",
+        "prev": "25",
+        "streak": "7",
+        "streams": "11,852",
+        "youtubeID": "ncIbUXRFEZk"
+    },
+    {
+        "ranking": "38",
+        "title": "Ga Dan!",
+        "artist": "Roxy Dekker",
+        "image": "https://lh3.googleusercontent.com/y3o7fmYg5UgTnUw1XQ_omXXcosGTKhzDDvPIDeeTzzz90-owyxTHp8DRg76aQQcvXVKlNRw0XxPFD9Q_=w180-h180-l90-rj",
+        "prev": "27",
+        "streak": "16",
+        "streams": "11,317",
+        "youtubeID": "52u4NREAkDU"
+    },
+    {
+        "ranking": "39",
+        "title": "Zhurek (Isko Alvarez remix)",
+        "artist": "Adam & Isko Alvarez",
+        "image": "https://lh3.googleusercontent.com/VklSr2cfF4MLWR7UdMvCLs5mDSWLoRffY6L9ipB8CnI_ZpJqOLB-aYPmWlyOkZqqoBDLSjkgUwk81GrA=w180-h180-l90-rj",
+        "prev": "34",
+        "streak": "34",
+        "streams": "11,189",
+        "youtubeID": "N3onZdIIPh0"
+    },
+    {
+        "ranking": "40",
+        "title": "Wereldwonder",
+        "artist": "John West & Billy Dans",
+        "image": "https://lh3.googleusercontent.com/smLILZ2VsxhqUHj9_hEB4c3oiysYIgty9IACoYO8CcQYO1H1xjZxyYezktwKoyLRM3idkP7ngjPV9G29fQ=w180-h180-l90-rj",
+        "prev": "-",
+        "streak": "1",
+        "streams": "11,037",
+        "youtubeID": "tobsjUdVfPA"
+    },
+    {
+        "ranking": "41",
+        "title": "Bad Dreams",
+        "artist": "Teddy Swims",
+        "image": "https://lh3.googleusercontent.com/VvlPuEHeRkYWupV8-UIgJ1LqlwleHFBaHuIvfpnsV-kLX6QcjQe2ysFTawHtuhqilTxSGEkLTxOIqGv5=w180-h180-l90-rj",
+        "prev": "37",
+        "streak": "34",
+        "streams": "10,448",
+        "youtubeID": "Qh8QwVYOSVU"
+    },
+    {
+        "ranking": "42",
+        "title": "OIIA OIIA (Spinning Cat)",
+        "artist": "W&W",
+        "image": "https://lh3.googleusercontent.com/wRXnopAgsh85kfPdMylCi6GpkBkN_K3S-tNykHNzuymh2uQ6FpiwRhocprvUazZRzaGSPbZbmsTNccBj=w180-h180-l90-rj",
+        "prev": "35",
+        "streak": "14",
+        "streams": "10,348",
+        "youtubeID": "IxX_QHay02M"
+    },
+    {
+        "ranking": "43",
+        "title": "Move",
+        "artist": "Adam Port & Stryv & Keinemusik & Orso & Malachiii",
+        "image": "https://lh3.googleusercontent.com/wUNs9EG9Jag5AoJ_QTpO1sbV5KrYprZxiAAHUa1BIG5WcQgNxRFb3pnulRHfJljfYbR_NjNAtvMxEg_wEA=w180-h180-l90-rj",
+        "prev": "36",
+        "streak": "45",
+        "streams": "10,178",
+        "youtubeID": "95dB-ObZ7Ho"
+    },
+    {
+        "ranking": "44",
+        "title": "Безам",
+        "artist": "Idris & Leos",
+        "image": "https://lh3.googleusercontent.com/RpoYbVQXcKByrGRKRY3EOR6fmEghS_xWEMBtYOFaMWnoAJrbz8wsOXPzN6p0vFsuGeAvdmn-9PL02ePW=w180-h180-l90-rj",
+        "prev": "33",
+        "streak": "4",
+        "streams": "<10K",
+        "youtubeID": "YLLnF1SihEw"
+    },
+    {
+        "ranking": "45",
+        "title": "Waka (feat. Emms)",
+        "artist": "Noano",
+        "image": "https://lh3.googleusercontent.com/MB5mI7z47fq4bc1zR2WNsGjMBuqg2aNhKGTP0syzckxEG0AufWTRY1O_FQplg6xz5ZJdkRLyZcu44KmS=w180-h180-l90-rj",
+        "prev": "40",
+        "streak": "15",
+        "streams": "<10K",
+        "youtubeID": "rB6hDPLFERM"
+    },
+    {
+        "ranking": "46",
+        "title": "NUNCA MUDA?",
+        "artist": "Scythermane & NXGHT!",
+        "image": "https://i.ytimg.com/vi/jJu1bmjctUM/default.jpg",
+        "prev": "38",
+        "streak": "13",
+        "streams": "<10K",
+        "youtubeID": "jJu1bmjctUM"
+    },
+    {
+        "ranking": "47",
+        "title": "Alles Wordt Beter",
+        "artist": "Emma Heesters",
+        "image": "https://lh3.googleusercontent.com/ytoZAcGJa0Miof_M0RW-aiqP4rvIjxOLBgNvmWQ-MnYqSwoZJESglygobayYLyC0TjgbOz1pg5JiWnUU=w180-h180-l90-rj",
+        "prev": "39",
+        "streak": "3",
+        "streams": "<10K",
+        "youtubeID": "tbSE0PS2pVk"
+    },
+    {
+        "ranking": "48",
+        "title": "I Adore You (feat. Daecolm)",
+        "artist": "HUGEL & Topic & Arash",
+        "image": "https://lh3.googleusercontent.com/odGXesmyLRQ_TA9taEt68btzmCqkXJ3L1-86Cb7TxWUce-EaNbaYVGVY_LNT0s8BLeCYuX3IFarwdl2Z=w180-h180-l90-rj",
+        "prev": "45",
+        "streak": "37",
+        "streams": "<10K",
+        "youtubeID": "KiIc54yyktw"
+    },
+    {
+        "ranking": "49",
+        "title": "Last Dance With Mary Jane",
+        "artist": "Snoop Dogg & Dr. Dre & Tom Petty and the Heartbreakers  & Jelly Roll",
+        "image": "https://lh3.googleusercontent.com/cxMKkFJMDUPdZRNwuytBa4xWxURZJ5IJsWd_k-sT4ynItsnQNnk-p2YIC2idp64AXX3KWhki8nkQx0f9=w180-h180-l90-rj",
+        "prev": "24",
+        "streak": "3",
+        "streams": "<10K",
+        "youtubeID": "rseqmSGH7xk"
+    },
+    {
+        "ranking": "49",
+        "title": "Alleen Met Jou",
+        "artist": "Yves Berendse & Emma Heesters",
+        "image": "https://lh3.googleusercontent.com/5L7Yubs8n1N5CU6g1WpohecebNKE0InlnZ1U8MOMYcRD2YD5iXrtMRejctBj7X9ZcqfRLv8q06aP7MrF=w180-h180-l90-rj",
+        "prev": "46",
+        "streak": "31",
+        "streams": "<10K",
+        "youtubeID": "PxcsfEPYpnI"
+    },
+    {
+        "ranking": "51",
+        "title": "Love Language",
+        "artist": "TOMORROW X TOGETHER",
+        "image": "https://lh3.googleusercontent.com/l77deChVFTKPmvFhjKBMnQWsi4z9Jh3lTS5yFbyRge04S_6qGUl9n_gMsk5LUtbqwEdbB99mqJ6FOwI=w180-h180-l90-rj",
+        "prev": "-",
+        "streak": "1",
+        "streams": "<10K",
+        "youtubeID": "8aRTMQvbODs"
+    },
+    {
+        "ranking": "52",
+        "title": "I Got Love (feat. Rem Digga)",
+        "artist": "Miyagi & Andy Panda",
+        "image": "https://lh3.googleusercontent.com/fbLk1uW5np2KJmQw3TXqeIlkd_eOhNORVG9TCdV4Yp5VJCw228sgMmWh30jM0v2Fpie70_8j-SWiCx9sdw=w180-h180-l90-rj",
+        "prev": "54",
+        "streak": "20",
+        "streams": "<10K",
+        "youtubeID": "nidQCt_HEsY"
+    },
+    {
+        "ranking": "53",
+        "title": "4 Kampé",
+        "artist": "Joé Dwèt Filé",
+        "image": "https://lh3.googleusercontent.com/f7GPI6RxxAyicyhrtfoJUxqJwticVennyDsgVXU3wf4_AAeA0wKxbbmAr59dzYHJRJRKZsuk4GIoP_A=w180-h180-l90-rj",
+        "prev": "48",
+        "streak": "13",
+        "streams": "<10K",
+        "youtubeID": "Srvt_6up-0o"
+    },
+    {
+        "ranking": "54",
+        "title": "Jouw Idee",
+        "artist": "Roxy Dekker",
+        "image": "https://lh3.googleusercontent.com/y3o7fmYg5UgTnUw1XQ_omXXcosGTKhzDDvPIDeeTzzz90-owyxTHp8DRg76aQQcvXVKlNRw0XxPFD9Q_=w180-h180-l90-rj",
+        "prev": "47",
+        "streak": "9",
+        "streams": "<10K",
+        "youtubeID": "-zusRk7qwZE"
+    },
+    {
+        "ranking": "55",
+        "title": "Noord Africano",
+        "artist": "3robi &  Simba La Rue & YassineBeats",
+        "image": "https://lh3.googleusercontent.com/JLRfXA8LO1QaCkbZ9FBjLDLZLh1Gm0heH_TSBnBbcm3zcL1YZiSvGTpHbTWchEk4buv3BMxw4LfTQsQ=w180-h180-l90-rj",
+        "prev": "52",
+        "streak": "4",
+        "streams": "<10K",
+        "youtubeID": "ftfiTdExQtk"
+    },
+    {
+        "ranking": "56",
+        "title": "Не люби меня",
+        "artist": "CHEPIKK & Холла",
+        "image": "https://lh3.googleusercontent.com/TZggSgeCUbmV-627MRE4mee7t74GgZhyscZb7a_1xfBRVheSGH75uU4T3cbpmiDiYxvbceN7r-dtHIzxAQ=w180-h180-l90-rj",
+        "prev": "57",
+        "streak": "8",
+        "streams": "<10K",
+        "youtubeID": "wSGwmjxzDak"
+    },
+    {
+        "ranking": "57",
+        "title": "Одного",
+        "artist": "Татьяна Куртукова",
+        "image": "https://lh3.googleusercontent.com/gyFEA_IgE0JvN0Se0ILngwm17W_9Poms5AaC2qMjvTVPPRGH4pSWZtUVAhDBt-pvsvJP_416UbukRQB_=w180-h180-l90-rj",
+        "prev": "51",
+        "streak": "4",
+        "streams": "<10K",
+        "youtubeID": "YJpeJwHsvI8"
+    },
+    {
+        "ranking": "58",
+        "title": "Есенин",
+        "artist": "Navai & Mona",
+        "image": "https://lh3.googleusercontent.com/1a5K1Ht9FxewKIVU2tg-BE6LWqVlWYepkV5ApH05aVOo-b1Np3T5gtpBpkj45Bu7TVNEPbpeHwDFbdnJ=w180-h180-l90-rj",
+        "prev": "63",
+        "streak": "15",
+        "streams": "<10K",
+        "youtubeID": "MVHA1o5tgQk"
+    },
+    {
+        "ranking": "59",
+        "title": "Laho",
+        "artist": "Shallipopi",
+        "image": "https://lh3.googleusercontent.com/f_igBlnMSwN3O25jeaZitS0GPbCCzcER9lVZqX86faqwFTRfsq_3SmVZnrpwPsxhYrRQV5I1In1_bjg=w180-h180-l90-rj",
+        "prev": "83",
+        "streak": "2",
+        "streams": "<10K",
+        "youtubeID": "qARrn7G067w"
+    },
+    {
+        "ranking": "60",
+        "title": "Aldanırım",
+        "artist": "Sıla Şahin & Samet Kardeşler",
+        "image": "https://lh3.googleusercontent.com/WaGat30cegjUj342YlSwPKMWwO-Dz-QCTo54wjb69dJzNGYBEguY7LGcy5IY5pcZiRc0nwLOG7q42vcriw=w180-h180-l90-rj",
+        "prev": "62",
+        "streak": "10",
+        "streams": "<10K",
+        "youtubeID": "74MPLm3YcNI"
+    },
+    {
+        "ranking": "61",
+        "title": "Ik Zing (feat. Snelle)",
+        "artist": "Zoë Livay",
+        "image": "https://lh3.googleusercontent.com/ZKD91nVe24-BsNoLsmWwsNpaGjEWKYwROlsJ3C0ylI60kJCvksyb72Hwx2Nsshj7_ARnc9CpMxk8R3dm=w180-h180-l90-rj",
+        "prev": "61",
+        "streak": "4",
+        "streams": "<10K",
+        "youtubeID": "nbV3wWY-JFk"
+    },
+    {
+        "ranking": "62",
+        "title": "I've Been Loving You Too Long",
+        "artist": "André Hazes & Gerard Joling",
+        "image": "https://i.ytimg.com/vi/B5Vw8WylFBk/default.jpg",
+        "prev": "-",
+        "streak": "1",
+        "streams": "<10K",
+        "youtubeID": "B5Vw8WylFBk"
+    },
+    {
+        "ranking": "63",
+        "title": "Yigitga yo'qchilik kelganda",
+        "artist": "Abror Do'stov",
+        "image": "https://lh3.googleusercontent.com/Q4XbryxwkPNgvGImxmB4X6E6yYPabyaNieRCvmmZky62p5-c1wlPFd4lHIWjhuzYubkcJl7sVX6t7RIY6Q=w180-h180-l90-rj",
+        "prev": "60",
+        "streak": "5",
+        "streams": "<10K",
+        "youtubeID": "rvdRqsjtihc"
+    },
+    {
+        "ranking": "64",
+        "title": "Xastamanu",
+        "artist": "G'aybulla Tursunov",
+        "image": "https://lh3.googleusercontent.com/LUUU3gPDSg6z_qn9fRH22c4SPSoyXbZYDXFNHHzeYVYYvDVHczzNgc9--wI-RVMeGBDL04eBDNq3pt2U=w180-h180-l90-rj",
+        "prev": "66",
+        "streak": "4",
+        "streams": "<10K",
+        "youtubeID": "AHpUF2D2jao"
+    },
+    {
+        "ranking": "65",
+        "title": "Roman Olur Yazsam Seni",
+        "artist": "Velet",
+        "image": "https://lh3.googleusercontent.com/llIPtipCopyc3REikDVTa-oKMO9Zstw7P2peDMCDcUDw4sl1CpN5An4qvQEOC43AytD3bgvovH2wu06pHA=w180-h180-l90-rj",
+        "prev": "69",
+        "streak": "2",
+        "streams": "<10K",
+        "youtubeID": "WS3PIHygZMc"
+    },
+    {
+        "ranking": "66",
+        "title": "أحلى رسمه",
+        "artist": "Fadel Chaker",
+        "image": "https://lh3.googleusercontent.com/FqIP498aQK3LHPd68s8tX6xVtI3R_Mr-tbcQrJvReeP07uCLE9MVXZ_znar_4Gf5Oraci3APTc7pYMCy=w180-h180-l90-rj",
+        "prev": "53",
+        "streak": "2",
+        "streams": "<10K",
+        "youtubeID": "VkH3aMIWntw"
+    },
+    {
+        "ranking": "67",
+        "title": "Beetje Van Mij",
+        "artist": "Antoon",
+        "image": "https://lh3.googleusercontent.com/wEu8w49QCOF1zM67YQHXccYZCAkMVl-Mqa1Hno1BD5D0qH_Xg4bLlCEXGHmg0nS3o8xHUN5POcYTsiYKkg=w180-h180-l90-rj",
+        "prev": "59",
+        "streak": "13",
+        "streams": "<10K",
+        "youtubeID": "F-txo-OplB4"
+    },
+    {
+        "ranking": "68",
+        "title": "Beautiful People",
+        "artist": "David Guetta & Sia",
+        "image": "https://lh3.googleusercontent.com/cqNP4HbZuDBMOZH9n7qcy69RC-6hB-a9G3mGZJdNmUl1UM3NWg-tTDhgvHiJ3yS37dzf7gVypmIBXmrl=w180-h180-l90-rj",
+        "prev": "70",
+        "streak": "8",
+        "streams": "<10K",
+        "youtubeID": "S2fSojJqyNY"
+    },
+    {
+        "ranking": "69",
+        "title": "Уйду",
+        "artist": "Xcho",
+        "image": "https://lh3.googleusercontent.com/qZQ_iSqb_5MzHEyWai6Su7osDvZvGNc5aQ7uIM9AST7JZWO3M77lRS58jzADiC_PG9oyFRnvlbWbjAaN=w180-h180-l90-rj",
+        "prev": "65",
+        "streak": "4",
+        "streams": "<10K",
+        "youtubeID": "wR4k6fzCj2s"
+    },
+    {
+        "ranking": "70",
+        "title": "Glock",
+        "artist": "ILLIE & Jinho 9 & Gemz",
+        "image": "https://i.ytimg.com/vi/_ZeR2GMhNOM/default.jpg",
+        "prev": "44",
+        "streak": "2",
+        "streams": "<10K",
+        "youtubeID": "_ZeR2GMhNOM"
+    },
+    {
+        "ranking": "71",
+        "title": "Hoe Zou Het Zijn Geweest",
+        "artist": "Yves Berendse",
+        "image": "https://lh3.googleusercontent.com/V2Fj-JUFldcv-SoSTel0dK-P1w-kFt6stGM6EkwdH1o7ryKIPI0naMtQsJMIH083_2FPnITYf8vLjeY7=w180-h180-l90-rj",
+        "prev": "-",
+        "streak": "1",
+        "streams": "<10K",
+        "youtubeID": "VMWnjhy2Mqo"
+    },
+    {
+        "ranking": "72",
+        "title": "Vidrado Em Você",
+        "artist": "DJ Guuga & Mc Livinho",
+        "image": "https://lh3.googleusercontent.com/cTBf1Z2wycPaIn1CuLpXMBsYzqmT37A7n4Vf97AIJ-i3eGPxebjW2OX6kJvhfTyQ9ZC02d1OqK-HkwA=w180-h180-l90-rj",
+        "prev": "-",
+        "streak": "1",
+        "streams": "<10K",
+        "youtubeID": "Pr0B3kh1EYc"
+    },
+    {
+        "ranking": "73",
+        "title": "Chicken Banana",
+        "artist": "Crazy Music Channel",
+        "image": "https://lh3.googleusercontent.com/DPQTtiDIouQfy9RJhUHpTOKPBblJfB_lhgnnhpZbhKYOhh0uXo6ygBliA_iTdMbIFa1jCbdVsxlEGWfuQg=w180-h180-l90-rj",
+        "prev": "73",
+        "streak": "7",
+        "streams": "<10K",
+        "youtubeID": "ig7EKb6BrQk"
+    },
+    {
+        "ranking": "74",
+        "title": "Say It Right",
+        "artist": "Nelly Furtado",
+        "image": "https://lh3.googleusercontent.com/ccuTeY3wOy6Fj-LjzCuEQm2UV2VPXyLnjrPShLNBb7_Gy_Que7oDH8SZ1Jo2M0sW72TvRR9L3xW4VUo=w180-h180-l90-rj",
+        "prev": "87",
+        "streak": "16",
+        "streams": "<10K",
+        "youtubeID": "6JnGBs88sL0"
+    },
+    {
+        "ranking": "75",
+        "title": "Every Breath You Take",
+        "artist": "The Police",
+        "image": "https://lh3.googleusercontent.com/Evml9zWq0msFXoyxZlyF6OLs7Wc9jliiAsSZi8ObmP5i0FJyiTr2-GI-rQDaAD6vDsEaK-28vJJPMQA=w180-h180-l90-rj",
+        "prev": "80",
+        "streak": "19",
+        "streams": "<10K",
+        "youtubeID": "OMOGaugKpzs"
+    },
+    {
+        "ranking": "76",
+        "title": "boom",
+        "artist": "​bbno$",
+        "image": "https://lh3.googleusercontent.com/pauGt-EgQaN5USb9PLgXylAaUOOS5tOJadETMnADJnf8Yn3sSzKleZTai27MGQHes63PfwSYfnFW7bG0cQ=w180-h180-l90-rj",
+        "prev": "-",
+        "streak": "1",
+        "streams": "<10K",
+        "youtubeID": "X9xwkwD1zWM"
+    },
+    {
+        "ranking": "77",
+        "title": "18 yoshimda edi",
+        "artist": "Bahodir Mamajonov",
+        "image": "https://lh3.googleusercontent.com/SDGlp6Hogb0a2dq45GqpriUua65HGzCY87g0PGCCF0dSWzo3UE87mlSk1HgFU_bBD5N4Is6WBTeXHLk=w180-h180-l90-rj",
+        "prev": "78",
+        "streak": "4",
+        "streams": "<10K",
+        "youtubeID": "PX-rQzvje5o"
+    },
+    {
+        "ranking": "78",
+        "title": "Family Affair",
+        "artist": "Mary J. Blige",
+        "image": "https://lh3.googleusercontent.com/389OiIelieOXKeeUVs1dXGLlvgi8CjDkdKw-QRBwMNOTYZJ5X8sdDmoh2_Pukfrd7xGvx3u4Ai9Z7lm3=w180-h180-s-l90-rj",
+        "prev": "86",
+        "streak": "14",
+        "streams": "<10K",
+        "youtubeID": "znlFu_lemsU"
+    },
+    {
+        "ranking": "78",
+        "title": "Talk",
+        "artist": "Selena Gomez & Benny Blanco",
+        "image": "https://lh3.googleusercontent.com/dwbtudfVMBTaQbupbPAx3xjCCId1smOqkJY3s9i6fJDNQnYZlGaDasSaz6UaQP41pzrQ_K9n4egb9Br0tg=w180-h180-l90-rj",
+        "prev": "-",
+        "streak": "1",
+        "streams": "<10K",
+        "youtubeID": "uh95BL-Gi2o"
+    },
+    {
+        "ranking": "80",
+        "title": "ناري",
+        "artist": "Ahmed Sattar",
+        "image": "https://lh3.googleusercontent.com/iIubt1COHhpDOCfIG6NE4Nql0Nn_pMYIgox_JAgxMosZ307hRpQJ2r7pTEi753tTn4XA47s8II2fQ2o=w180-h180-l90-rj",
+        "prev": "64",
+        "streak": "17",
+        "streams": "<10K",
+        "youtubeID": "tIWr1MO3uVo"
+    },
+    {
+        "ranking": "81",
+        "title": "The Days",
+        "artist": "Chrystal",
+        "image": "https://lh3.googleusercontent.com/CECLgBUeP6q0uBx9DtpW-0LK0pigJHGq_RYHCguWrdoOP_ineZUVFD7cp7A66gMdirX8_Hi9F45lb6Y=w180-h180-l90-rj",
+        "prev": "93",
+        "streak": "11",
+        "streams": "<10K",
+        "youtubeID": "p4uHhfGKz6s"
+    },
+    {
+        "ranking": "82",
+        "title": "Hips Don't Lie (feat. Wyclef Jean)",
+        "artist": "Shakira",
+        "image": "https://lh3.googleusercontent.com/omScHlhW_DAgbWR77BMmwFd_9ahSdaxP2d7MgmlSi_rqcvZhy_JjGW9YDV8soYdYeD-MBQdGmg0_4MwNxQ=w180-h180-s-l90-rj",
+        "prev": "84",
+        "streak": "7",
+        "streams": "<10K",
+        "youtubeID": "DUT5rEU6pqM"
+    },
+    {
+        "ranking": "83",
+        "title": "Deutschland",
+        "artist": "Rammstein",
+        "image": "https://lh3.googleusercontent.com/aWn4ooF_qURGaKd-cZJKNYVYcY0FuhrsiXOAOCiFIUIbU8UylRCY1r7G_6Mv4CfBti0Xj8Mk5gZbCjQ5kw=w180-h180-l90-rj",
+        "prev": "89",
+        "streak": "10",
+        "streams": "<10K",
+        "youtubeID": "NeQM1c-XCDc"
+    },
+    {
+        "ranking": "84",
+        "title": "Yomg'irlar",
+        "artist": "Jamshid Ximmatov & Xamdam Sobirov",
+        "image": "https://lh3.googleusercontent.com/nkKQV9WMGLR1fe5kPOzTZtLGYQoX9ha5pjWx5NWOsWr6TH2661FrS2VIyHT0-cI8fZnrEk7RPiuLgffA=w180-h180-l90-rj",
+        "prev": "79",
+        "streak": "11",
+        "streams": "<10K",
+        "youtubeID": "IvVj4FrzdVo"
+    },
+    {
+        "ranking": "85",
+        "title": "The Way I Are (feat. Keri Hilson, D.O.E & Sebastian)",
+        "artist": "Timbaland",
+        "image": "https://lh3.googleusercontent.com/lytXVyc4-OGZlx9uMldsVULXjOCYURgo_7R4YCfGsDSC814mqWaf5DPqsf803cE1gCzeTODiHITI-uyN2A=w180-h180-s-l90-rj",
+        "prev": "94",
+        "streak": "8",
+        "streams": "<10K",
+        "youtubeID": "U5rLz5AZBIA"
+    },
+    {
+        "ranking": "86",
+        "title": "Let Me Love You (feat. Justin Bieber)",
+        "artist": "DJ Snake",
+        "image": "https://lh3.googleusercontent.com/hChcdJkpKRDaaowWQhFxc4ZK7_jcDqQydpG8NUXbyPQUxMNYzpgLhVdU-csAFhcGhi-mYPiFZGR3cQmK=w180-h180-l90-rj",
+        "prev": "92",
+        "streak": "10",
+        "streams": "<10K",
+        "youtubeID": "euCqAq6BRa4"
+    },
+    {
+        "ranking": "87",
+        "title": "Nu Meteen (Slide) (feat. Idaly)",
+        "artist": "KM",
+        "image": "https://lh3.googleusercontent.com/c3ekXACuUwe7ho_piTm1aMSwtpJZcj9QiGs6BD-JrvOoO8Gw9h1V4mrLLhK1amExp-1MujeJsxX16c2G-Q=w180-h180-l90-rj",
+        "prev": "-",
+        "streak": "8",
+        "streams": "<10K",
+        "youtubeID": "BQnUfdd-Dxo"
+    },
+    {
+        "ranking": "88",
+        "title": "Yonimda bo'l jonim",
+        "artist": "Osman Navruzov & Nefes",
+        "image": "https://lh3.googleusercontent.com/pQDnVMGBGYsDEKJRfU4kU_cNkBRwiQHsvG1b6YcC1LojMG3ueod8dSw3tIY0rUOmoPDEDbRPh-D1bqPgvw=w180-h180-l90-rj",
+        "prev": "-",
+        "streak": "1",
+        "streams": "<10K",
+        "youtubeID": "zNtc_cIyKcU"
+    },
+    {
+        "ranking": "89",
+        "title": "Funk de Beleza",
+        "artist": "Nateki & Scythermane",
+        "image": "https://i.ytimg.com/vi/PjoP5wQH9dA/default.jpg",
+        "prev": "72",
+        "streak": "10",
+        "streams": "<10K",
+        "youtubeID": "PjoP5wQH9dA"
+    },
+    {
+        "ranking": "90",
+        "title": "Xasta",
+        "artist": "Nilufar Usmonova",
+        "image": "https://i.ytimg.com/vi/XfBy1OPIzZk/default.jpg",
+        "prev": "-",
+        "streak": "1",
+        "streams": "<10K",
+        "youtubeID": "XfBy1OPIzZk"
+    },
+    {
+        "ranking": "91",
+        "title": "Damelo (feat. Mr. Juve)",
+        "artist": "Tzanca Uraganu",
+        "image": "https://lh3.googleusercontent.com/CLIPJ_JCc9quDEuB42jb9s1iax6kUwW-NKwbSNURTwG86114_4BRLBagC-P2NBHUgXVR6CdGyxxcHcN0oQ=w180-h180-l90-rj",
+        "prev": "-",
+        "streak": "1",
+        "streams": "<10K",
+        "youtubeID": "MIYRAcDx8RE"
+    },
+    {
+        "ranking": "92",
+        "title": "Doctor",
+        "artist": "Al Shami",
+        "image": "https://lh3.googleusercontent.com/iI5QXOexXaX4lgxlhaRlYQYId3eXCHEYmp2FO5-HL649eqAWLlX1GH5uz0IKf1_YWSKXBYi1zbmVdYIm=w180-h180-l90-rj",
+        "prev": "75",
+        "streak": "17",
+        "streams": "<10K",
+        "youtubeID": "rhOAyPKHWEo"
+    },
+    {
+        "ranking": "93",
+        "title": "The Baddest (feat. Qlas, kans & Oykie)",
+        "artist": "Chavanté",
+        "image": "https://lh3.googleusercontent.com/W_tXQbRx7WfrU9e5tBbg-gNZij8bN3zZTDkhdwPYh3m8G0Biqh4A2kifv1GxmEPm4hlSkN0W-N8JhHPh=w180-h180-l90-rj",
+        "prev": "77",
+        "streak": "11",
+        "streams": "<10K",
+        "youtubeID": "Frw19hGFFAo"
+    },
+    {
+        "ranking": "94",
+        "title": "Dilbar",
+        "artist": "Jaloliddin Ahmadaliyev",
+        "image": "https://lh3.googleusercontent.com/tSrU92q_RSWqqRiDrnXYYmlZOMIS4FCdMMhsaXPAf_4gJqrkvZ9bYQ8iJjRhJBgzqUsBefkoPHsjEU19Ag=w180-h180-l90-rj",
+        "prev": "-",
+        "streak": "2",
+        "streams": "<10K",
+        "youtubeID": "d8MU7TAFYRc"
+    },
+    {
+        "ranking": "95",
+        "title": "Creep",
+        "artist": "Radiohead",
+        "image": "https://lh3.googleusercontent.com/-h_EmlrGLsJwhih3lVHGDmK3CAmLdpqEIeerAuJ71qmJeZ_5zYf9ElWIEBNiB_6_CbXh4qHchBpOqhCu=w180-h180-l90-rj",
+        "prev": "100",
+        "streak": "6",
+        "streams": "<10K",
+        "youtubeID": "XFkzRNyygfk"
+    },
+    {
+        "ranking": "96",
+        "title": "BOMBARDINO CROCODILO FUNK",
+        "artist": "SHX4",
+        "image": "https://lh3.googleusercontent.com/ET2u2aZnOoNT0o7LvSwC7kCe6ALkq_yN7ym54QjSkyYCMh7JRp7-Vtq1mSFIg-7C5WuWch6CNq7_P5gt3A=w180-h180-l90-rj",
+        "prev": "-",
+        "streak": "1",
+        "streams": "<10K",
+        "youtubeID": "5pL393AIGP8"
+    },
+    {
+        "ranking": "97",
+        "title": "Riptide",
+        "artist": "Vance Joy",
+        "image": "https://lh3.googleusercontent.com/2wN86bHDLAmI_Nfw32_1zcTTigbWgtL25cz7RtF02dK5zGfaUIFBuzoegBNRUPQnzGHyUejeHA9AYUtmYA=w180-h180-l90-rj",
+        "prev": "-",
+        "streak": "19",
+        "streams": "<10K",
+        "youtubeID": "uJ_1HMAGb4k"
+    },
+    {
+        "ranking": "98",
+        "title": "Stop The Rain (TABLO X RM)",
+        "artist": "TABLO   & RM",
+        "image": "https://lh3.googleusercontent.com/nLrbLbhx3FIXNcu7GKujW05ARQA8alclD6VciQsJ4JyV0wl6sKeUfkOyQqngl-5txWL5zifAfEnSk93noQ=w180-h180-l90-rj",
+        "prev": "-",
+        "streak": "1",
+        "streams": "<10K",
+        "youtubeID": "ZXAcTToLy_Y"
+    },
+    {
+        "ranking": "99",
+        "title": "House of the Rising Sun",
+        "artist": "The Animals",
+        "image": "https://i.ytimg.com/vi/N4bFqW_eu2I/default.jpg",
+        "prev": "-",
+        "streak": "9",
+        "streams": "<10K",
+        "youtubeID": "N4bFqW_eu2I"
+    },
+    {
+        "ranking": "100",
+        "title": "Matcha Coco (feat. Jonna Fraser)",
+        "artist": "Noano",
+        "image": "https://i.ytimg.com/vi/iltdQMXd2Ok/default.jpg",
+        "prev": "74",
+        "streak": "2",
+        "streams": "<10K",
+        "youtubeID": "iltdQMXd2Ok"
+    }
+]
