@@ -53,7 +53,9 @@
         "title": "Die With A Smile",
         "artist": "Lady Gaga",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/11/ae/f2/11aef294-f57c-bab9-c9fc-529162984e62/24UMGIM85348.rgb.jpg/80x80bb.webp",
-        "appleID": "die-with-a-smile/1762656732"
+        "appleID": "die-with-a-smile/1762656732",
+        "youtubeID": "kPa7bsKwL-c",
+        "spotifyID": "2plbrEY59IikOBgBGLjaoe"
     },
     {
         "ranking": "9",
@@ -74,7 +76,8 @@
         "title": "Who",
         "artist": "Jimin",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/94/b5/84/94b58450-a0cd-ab97-2f30-0ed3608b5e24/196922987588_Cover.jpg/80x80bb.webp",
-        "appleID": "who/1751773093"
+        "appleID": "who/1751773093",
+        "youtubeID": "Av9DvtlJ9_M"
     },
     {
         "ranking": "12",
@@ -102,7 +105,9 @@
         "title": "Si Antes Te Hubiera Conocido",
         "artist": "KAROL G",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a0/60/94/a060947c-54d8-0fad-c558-eed12600224c/24UMGIM62705.rgb.jpg/80x80bb.webp",
-        "appleID": "si-antes-te-hubiera-conocido/1752031539"
+        "appleID": "si-antes-te-hubiera-conocido/1752031539",
+        "youtubeID": "QCZZwZQ4qNs",
+        "spotifyID": "6WatFBLVB0x077xWeoVc2k"
     },
     {
         "ranking": "16",
@@ -137,7 +142,9 @@
         "title": "Qué Pasaría...",
         "artist": "Rauw Alejandro",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ab/e8/09/abe8092d-ef44-61b9-6b50-ab7efb78ca51/196872401516.jpg/80x80bb.webp",
-        "appleID": "qu%C3%A9-pasar%C3%ADa/1775462855"
+        "appleID": "qu%C3%A9-pasar%C3%ADa/1775462855",
+        "youtubeID": "g08y_x83d5E",
+        "spotifyID": "0l0vcZMU7AOeQmUIREoI2U"
     },
     {
         "ranking": "21",
@@ -214,7 +221,8 @@
         "title": "Beautiful Things",
         "artist": "Benson Boone",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/54/f4/92/54f49210-e260-b519-ebbd-f4f40ee710cd/054391342751.jpg/80x80bb.webp",
-        "appleID": "beautiful-things/1724488124"
+        "appleID": "beautiful-things/1724488124",
+        "youtubeID": "Oa_RSwwpPaA"
     },
     {
         "ranking": "32",
@@ -242,7 +250,8 @@
         "title": "BIRDS OF A FEATHER",
         "artist": "Billie Eilish",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
-        "appleID": "birds-of-a-feather/1739659142"
+        "appleID": "birds-of-a-feather/1739659142",
+        "youtubeID": "V9PVRfjEBTI"
     },
     {
         "ranking": "36",
@@ -256,28 +265,33 @@
         "title": "WILDFLOWER",
         "artist": "Billie Eilish",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
-        "appleID": "wildflower/1739659144"
+        "appleID": "wildflower/1739659144",
+        "youtubeID": "IWKyykQBRKo",
+        "spotifyID": "3QaPy1KgI7nu9FJEQUgn6h"
     },
     {
         "ranking": "38",
         "title": "Winter Ahead",
         "artist": "V",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9b/7a/b8/9b7ab83b-c635-42fa-a3d3-f8ede6e5920e/198704250583_Cover.jpg/80x80bb.webp",
-        "appleID": "winter-ahead/1780285815"
+        "appleID": "winter-ahead/1780285815",
+        "youtubeID": "HAWYOuMGkK0"
     },
     {
         "ranking": "39",
         "title": "FRI(END)S",
         "artist": "V",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7d/dc/72/7ddc72a0-14e3-b92a-8b69-ec3ade3d9ed4/196922882227_Cover.jpg/80x80bb.webp",
-        "appleID": "fri-end-s/1734862500"
+        "appleID": "fri-end-s/1734862500",
+        "youtubeID": "62peQdQv4uo"
     },
     {
         "ranking": "40",
         "title": "Standing Next to You",
         "artist": "Jung Kook",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/86/78/b4/8678b4b3-2341-7239-b6cb-bcfdaef0e4e0/196922656545_Cover.jpg/80x80bb.webp",
-        "appleID": "standing-next-to-you/1709554997"
+        "appleID": "standing-next-to-you/1709554997",
+        "youtubeID": "UNo0TG9LwwI"
     },
     {
         "ranking": "41",
@@ -354,14 +368,18 @@
         "title": "EL CLúB",
         "artist": "Bad Bunny",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/90/5e/7e/905e7ed5-a8fa-a8f3-cd06-0028fdf3afaa/199066342442.jpg/80x80bb.webp",
-        "appleID": "el-cl%C3%BAb/1787023008"
+        "appleID": "el-cl%C3%BAb/1783419694",
+        "youtubeID": "7f6SxWMOpdU",
+        "spotifyID": "3zOgFY5kpQ6p2cwPIquZks"
     },
     {
         "ranking": "52",
         "title": "Khé?",
         "artist": "Rauw Alejandro",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ab/e8/09/abe8092d-ef44-61b9-6b50-ab7efb78ca51/196872401516.jpg/80x80bb.webp",
-        "appleID": "kh%C3%A9/1775463293"
+        "appleID": "kh%C3%A9/1775463293",
+        "youtubeID": "7SNycTMOF74",
+        "spotifyID": "1YYfyJ2yCvGFCxwjsIqEK9"
     },
     {
         "ranking": "53",
@@ -382,7 +400,8 @@
         "title": "Who (Rock Remix)",
         "artist": "Jimin",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/25/03/6b/25036b82-3a20-1b25-4a76-10d60dd994ed/198704057328_Cover.jpg/80x80bb.webp",
-        "appleID": "who-rock-remix/1757558460"
+        "appleID": "who-rock-remix/1757558460",
+        "youtubeID": "Av9DvtlJ9_M"
     },
     {
         "ranking": "56",
@@ -396,14 +415,16 @@
         "title": "Dynamite",
         "artist": "BTS",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/f7/68/9c/f7689ce3-6d41-60cd-62d2-57a91ddf5b9d/196922067341_Cover.jpg/80x80bb.webp",
-        "appleID": "dynamite/1627575419"
+        "appleID": "dynamite/1627575419",
+        "youtubeID": "gdZLi9oWNZg"
     },
     {
         "ranking": "58",
         "title": "Running Wild",
         "artist": "Jin",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c5/21/a1/c521a133-2a4d-05da-205f-19093c53cd55/198704169175_Cover.jpg/80x80bb.webp",
-        "appleID": "running-wild/1772351326"
+        "appleID": "running-wild/1772351326",
+        "youtubeID": "uoHol5Dr_go"
     },
     {
         "ranking": "59",
@@ -459,7 +480,8 @@
         "title": "DILUVIO",
         "artist": "Rauw Alejandro",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/d2/1a/63/d21a6376-80b9-ce89-e4f3-af3f0b70acf9/196871287098.jpg/80x80bb.webp",
-        "appleID": "diluvio/1695651429"
+        "appleID": "diluvio/1695651429",
+        "spotifyID": "2kz1YOhJiNubjigR1gB1VX"
     },
     {
         "ranking": "67",
@@ -508,7 +530,8 @@
         "title": "Haegeum",
         "artist": "Agust D",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/6d/46/83/6d4683b6-ab6f-db69-aa58-4a5a69c93fd6/196922439957_Cover.jpg/80x80bb.webp",
-        "appleID": "haegeum/1681823696"
+        "appleID": "haegeum/1681823696",
+        "spotifyID": "4bjN59DRXFRxBE1g5ne6B1"
     },
     {
         "ranking": "74",
@@ -529,14 +552,18 @@
         "title": "Lose Control",
         "artist": "Teddy Swims",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/36/19/66/36196640-1561-dc5e-c6bc-1e5f4befa583/093624856771.jpg/80x80bb.webp",
-        "appleID": "lose-control/1691699836"
+        "appleID": "lose-control/1691699836",
+        "youtubeID": "GZ3zL7kT6_c",
+        "spotifyID": "17phhZDn6oGtzMe56NuWvj"
     },
     {
         "ranking": "77",
         "title": "APT.",
         "artist": "ROSÉ",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2d/1a/7d/2d1a7d91-587e-0ceb-d434-327bd66d9e86/075679628312.jpg/80x80bb.webp",
-        "appleID": "apt/1773452221"
+        "appleID": "apt/1773452221",
+        "youtubeID": "ekr2nIex040",
+        "spotifyID": "4wJ5Qq0jBN4ajy7ouZIV1c"
     },
     {
         "ranking": "78",
@@ -592,7 +619,9 @@
         "title": "CHIHIRO",
         "artist": "Billie Eilish",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
-        "appleID": "chihiro/1739659141"
+        "appleID": "chihiro/1739659141",
+        "youtubeID": "BY_XwvKogC8",
+        "spotifyID": "7BRD7x5pt8Lqa1eGYC4dzj"
     },
     {
         "ranking": "86",
@@ -613,7 +642,7 @@
         "title": "Smeraldo Garden Marching Band",
         "artist": "Jimin",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e1/16/4b/e1164b5b-d6bf-b22d-d5b2-746f85771f93/198704027765_Cover.jpg/80x80bb.webp",
-        "appleID": "smeraldo-garden-marching-band/1752552299"
+        "appleID": "smeraldo-garden-marching-band/1757558449"
     },
     {
         "ranking": "89",
@@ -669,14 +698,17 @@
         "title": "La Bachata",
         "artist": "Manuel Turizo",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/df/70/11/df701101-9f0f-3c43-ff6d-2186235d7e9c/196589129123.jpg/80x80bb.webp",
-        "appleID": "la-bachata/1624563284"
+        "appleID": "la-bachata/1624563284",
+        "spotifyID": "3tt9i3Hhzq84dPS8H7iSiJ"
     },
     {
         "ranking": "97",
         "title": "SORRY 4 THAT MUCH",
         "artist": "Feid",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9c/20/ab/9c20ab01-62e6-239c-fcce-79dc1d711ac1/24UMGIM61720.rgb.jpg/80x80bb.webp",
-        "appleID": "sorry-4-that-much/1750132050"
+        "appleID": "sorry-4-that-much/1750132050",
+        "youtubeID": "Q2ftMmazZCU",
+        "spotifyID": "63pLfjK6FvcYJYMGwtHjd6"
     },
     {
         "ranking": "98",

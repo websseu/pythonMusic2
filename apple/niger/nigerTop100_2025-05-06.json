@@ -32,7 +32,9 @@
         "title": "4 Kampé",
         "artist": "Joé Dwèt Filé",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/05/32/0a/05320ae3-1eef-3cd6-8f19-9ad9f078fa25/cover.jpg/80x80bb.webp",
-        "appleID": "4-kamp%C3%A9/1773819412"
+        "appleID": "4-kamp%C3%A9/1773819412",
+        "youtubeID": "Srvt_6up-0o",
+        "spotifyID": "7dzuYJwwtNnfcptmbD58aJ"
     },
     {
         "ranking": "6",
@@ -158,14 +160,17 @@
         "title": "SOIS PAS TIMIDE",
         "artist": "GIMS",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/71/45/19/714519f5-40a6-b81a-d099-56512c4e4914/cover.jpg/80x80bb.webp",
-        "appleID": "sois-pas-timide/1757643303"
+        "appleID": "sois-pas-timide/1757643303",
+        "youtubeID": "Sq5EDI7JktA",
+        "spotifyID": "0yyFAbTlOk7DFhh6RSug9S"
     },
     {
         "ranking": "24",
         "title": "Timeless",
         "artist": "The Weeknd",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/40/77/cb/4077cbd1-b6a0-d8df-b9d3-e9a339dbc0ea/24UM1IM04061.rgb.jpg/80x80bb.webp",
-        "appleID": "timeless/1770380890"
+        "appleID": "timeless/1770380890",
+        "youtubeID": "5EpyN_6dqyk"
     },
     {
         "ranking": "25",
@@ -200,7 +205,9 @@
         "title": "CARTIER SANTOS",
         "artist": "SDM",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/64/46/95/64469515-0230-b26c-69cf-5db61f5ea879/24UMGIM72197.rgb.jpg/80x80bb.webp",
-        "appleID": "cartier-santos/1757803302"
+        "appleID": "cartier-santos/1757803302",
+        "youtubeID": "3nGdVePdlT4",
+        "spotifyID": "1Mzg6bu3hkCwJKEf7v49MN"
     },
     {
         "ranking": "30",
@@ -270,7 +277,9 @@
         "title": "Ça parle mal",
         "artist": "Bouss",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9e/c9/be/9ec9be96-5b08-980d-5918-7834bc558323/cover.jpg/80x80bb.webp",
-        "appleID": "%C3%A7a-parle-mal/1751725260"
+        "appleID": "%C3%A7a-parle-mal/1751725260",
+        "youtubeID": "UWbh7n6akIU",
+        "spotifyID": "7ifFhxRIvYbe4IuzIkY2Qi"
     },
     {
         "ranking": "40",
@@ -284,7 +293,9 @@
         "title": "PROBATION",
         "artist": "Gazo",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7e/cd/60/7ecd6037-c833-3b0d-c638-d734e3b06c22/196872607345.jpg/80x80bb.webp",
-        "appleID": "probation/1776875282"
+        "appleID": "probation/1776875282",
+        "youtubeID": "e6QY_1fixvk",
+        "spotifyID": "75j42uvZCRoUxBcGsEP9Mk"
     },
     {
         "ranking": "42",
@@ -347,7 +358,8 @@
         "title": "Rush",
         "artist": "Ayra Starr",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/b5/4a/3d/b54a3d1a-f493-7a9b-1807-a73f01709053/5059449090122.png/80x80bb.webp",
-        "appleID": "rush/1642898573"
+        "appleID": "rush/1642898573",
+        "youtubeID": "crtQSTYWtqE"
     },
     {
         "ranking": "51",
@@ -368,7 +380,9 @@
         "title": "La vie qu'on mène",
         "artist": "Ninho",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/ab/c5/ea/abc5eab6-1a33-3910-6f96-3954d76c5815/190295460259.jpg/80x80bb.webp",
-        "appleID": "la-vie-quon-m%C3%A8ne/1453399179"
+        "appleID": "la-vie-quon-m%C3%A8ne/1453399179",
+        "youtubeID": "BJwovrr6XzI",
+        "spotifyID": "0Jh6iWjna1wk5le0Ahn7No"
     },
     {
         "ranking": "54",
@@ -396,7 +410,9 @@
         "title": "POUR ELLE",
         "artist": "SDM",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/64/46/95/64469515-0230-b26c-69cf-5db61f5ea879/24UMGIM72197.rgb.jpg/80x80bb.webp",
-        "appleID": "pour-elle/1757803290"
+        "appleID": "pour-elle/1757803290",
+        "youtubeID": "eYG5Qg6RCyE",
+        "spotifyID": "5jX61gvbNenSDMldQrbtsU"
     },
     {
         "ranking": "58",
@@ -459,7 +475,8 @@
         "title": "Not Like Us",
         "artist": "Kendrick Lamar",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d0/ef/b6/d0efb685-73be-fdee-58c9-be655f4cd4fd/24UMGIM51924.rgb.jpg/80x80bb.webp",
-        "appleID": "not-like-us/1744776167"
+        "appleID": "not-like-us/1744776167",
+        "youtubeID": "H58vbez_m4E"
     },
     {
         "ranking": "67",
@@ -557,7 +574,9 @@
         "title": "CIEL",
         "artist": "GIMS",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7e/4a/df/7e4adfc1-7cf7-7a96-a4cb-2fc338a5b03e/cover.jpg/80x80bb.webp",
-        "appleID": "ciel/1773791057"
+        "appleID": "ciel/1773791057",
+        "youtubeID": "QS0A-CjRdAE",
+        "spotifyID": "1RiCNSkK4AfT1j8ZM4JnVs"
     },
     {
         "ranking": "81",
@@ -599,7 +618,8 @@
         "title": "FE!N (feat. Playboi Carti)",
         "artist": "Travis Scott",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/09/7d/b0/097db06f-8403-3cf7-7510-139e570ca66b/196871341882.jpg/80x80bb.webp",
-        "appleID": "fe-n-feat-playboi-carti/1699712651"
+        "appleID": "fe-n-feat-playboi-carti/1699712651",
+        "youtubeID": "B9synWjqBn8"
     },
     {
         "ranking": "87",
