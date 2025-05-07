@@ -81,7 +81,9 @@
         "title": "Die With A Smile",
         "artist": "Lady Gaga",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/11/ae/f2/11aef294-f57c-bab9-c9fc-529162984e62/24UMGIM85348.rgb.jpg/80x80bb.webp",
-        "appleID": "die-with-a-smile/1762656732"
+        "appleID": "die-with-a-smile/1762656732",
+        "youtubeID": "kPa7bsKwL-c",
+        "spotifyID": "2plbrEY59IikOBgBGLjaoe"
     },
     {
         "ranking": "13",
@@ -102,7 +104,8 @@
         "title": "Timeless",
         "artist": "The Weeknd",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/40/77/cb/4077cbd1-b6a0-d8df-b9d3-e9a339dbc0ea/24UM1IM04061.rgb.jpg/80x80bb.webp",
-        "appleID": "timeless/1770380890"
+        "appleID": "timeless/1770380890",
+        "youtubeID": "5EpyN_6dqyk"
     },
     {
         "ranking": "16",
@@ -137,7 +140,9 @@
         "title": "APT.",
         "artist": "ROSÉ",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2d/1a/7d/2d1a7d91-587e-0ceb-d434-327bd66d9e86/075679628312.jpg/80x80bb.webp",
-        "appleID": "apt/1773452221"
+        "appleID": "apt/1773452221",
+        "youtubeID": "ekr2nIex040",
+        "spotifyID": "4wJ5Qq0jBN4ajy7ouZIV1c"
     },
     {
         "ranking": "21",
@@ -235,7 +240,9 @@
         "title": "Bad Dreams",
         "artist": "Teddy Swims",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/cd/5d/64/cd5d64c2-338b-00c9-52d6-578a0f19d826/054391245908.jpg/80x80bb.webp",
-        "appleID": "bad-dreams/1765799904"
+        "appleID": "bad-dreams/1765799904",
+        "youtubeID": "Qh8QwVYOSVU",
+        "spotifyID": "3nHuKdFJZm78CoeBnDcFKe"
     },
     {
         "ranking": "35",
@@ -305,7 +312,8 @@
         "title": "Si Ai (Marshmello & UKAY Remix)",
         "artist": "Tayna",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e3/99/24/e39924db-8453-92cb-d5c1-2399bc088d2f/1174.jpg/80x80bb.webp",
-        "appleID": "si-ai-marshmello-ukay-remix/1782245477"
+        "appleID": "si-ai/1755088935",
+        "youtubeID": "4bZ-8pg4tbY"
     },
     {
         "ranking": "45",
@@ -340,7 +348,8 @@
         "title": "Not Like Us",
         "artist": "Kendrick Lamar",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d0/ef/b6/d0efb685-73be-fdee-58c9-be655f4cd4fd/24UMGIM51924.rgb.jpg/80x80bb.webp",
-        "appleID": "not-like-us/1744776167"
+        "appleID": "not-like-us/1744776167",
+        "youtubeID": "H58vbez_m4E"
     },
     {
         "ranking": "50",
@@ -375,7 +384,8 @@
         "title": "BIRDS OF A FEATHER",
         "artist": "Billie Eilish",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
-        "appleID": "birds-of-a-feather/1739659142"
+        "appleID": "birds-of-a-feather/1739659142",
+        "youtubeID": "V9PVRfjEBTI"
     },
     {
         "ranking": "55",
@@ -417,7 +427,7 @@
         "title": "Дивана",
         "artist": "Medi",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/af/bd/22/afbd22e4-6d1c-ef4f-9c6d-d2bab6c93218/3800152255290.jpg/80x80bb.webp",
-        "appleID": "%D0%B4%D0%B8%D0%B2%D0%B0%D0%BD%D0%B0/1808043852"
+        "appleID": "%D0%B4%D0%B8%D0%B2%D0%B0%D0%BD%D0%B0/1525999057"
     },
     {
         "ranking": "61",
@@ -445,7 +455,9 @@
         "title": "Lose Control",
         "artist": "Teddy Swims",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/36/19/66/36196640-1561-dc5e-c6bc-1e5f4befa583/093624856771.jpg/80x80bb.webp",
-        "appleID": "lose-control/1691699836"
+        "appleID": "lose-control/1691699836",
+        "youtubeID": "GZ3zL7kT6_c",
+        "spotifyID": "17phhZDn6oGtzMe56NuWvj"
     },
     {
         "ranking": "65",
@@ -466,14 +478,16 @@
         "title": "К'ъв Съм Як",
         "artist": "DJORDAN",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/06/10/2c/06102cfb-a385-38d9-666d-2769d2610872/40A966E2-2643-11EE-AAB1-0CF3DC287BC0.jpg/80x80bb.webp",
-        "appleID": "%D0%BA%D1%8A%D0%B2-%D1%81%D1%8A%D0%BC-%D1%8F%D0%BA/1699448571"
+        "appleID": "%D0%BA%D1%8A%D0%B2-%D1%81%D1%8A%D0%BC-%D1%8F%D0%BA/1699448571",
+        "spotifyID": "6z6PaDoMisMAHCB2OKwsrf"
     },
     {
         "ranking": "68",
         "title": "Espresso",
         "artist": "Sabrina Carpenter",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cb/64/8c/cb648cf7-e7bb-bd00-efe0-d744312c29a8/24UMGIM32304.rgb.jpg/80x80bb.webp",
-        "appleID": "espresso/1740212434"
+        "appleID": "espresso/1740212434",
+        "youtubeID": "eVli-tstM5E"
     },
     {
         "ranking": "69",
@@ -494,7 +508,8 @@
         "title": "Who",
         "artist": "Jimin",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/94/b5/84/94b58450-a0cd-ab97-2f30-0ed3608b5e24/196922987588_Cover.jpg/80x80bb.webp",
-        "appleID": "who/1751773093"
+        "appleID": "who/1751773093",
+        "youtubeID": "Av9DvtlJ9_M"
     },
     {
         "ranking": "72",
@@ -585,7 +600,7 @@
         "title": "Euphoria",
         "artist": "Galena",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e2/9d/70/e29d700a-78b9-4200-fd6b-31e97caef854/3800152334452.jpg/80x80bb.webp",
-        "appleID": "euphoria/1811175679"
+        "appleID": "euphoria/1628800789"
     },
     {
         "ranking": "85",
@@ -613,14 +628,16 @@
         "title": "Maria",
         "artist": "Medi",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f4/3c/72/f43c7202-582e-5260-a187-5bb23d08534b/3800152319374.jpg/80x80bb.webp",
-        "appleID": "maria/1808045554"
+        "appleID": "maria/1618006239"
     },
     {
         "ranking": "89",
         "title": "WILDFLOWER",
         "artist": "Billie Eilish",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
-        "appleID": "wildflower/1739659144"
+        "appleID": "wildflower/1739659144",
+        "youtubeID": "IWKyykQBRKo",
+        "spotifyID": "3QaPy1KgI7nu9FJEQUgn6h"
     },
     {
         "ranking": "90",
@@ -669,7 +686,7 @@
         "title": "Delta Force (feat. Tzanca Uraganu)",
         "artist": "Galena",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/09/44/4c/09444c4a-33f7-1f41-78ed-bc257ef8a392/3800152415601.jpg/80x80bb.webp",
-        "appleID": "delta-force-feat-tzanca-uraganu/1811208952"
+        "appleID": "delta-force/1753700655"
     },
     {
         "ranking": "97",
@@ -690,7 +707,9 @@
         "title": "CHIHIRO",
         "artist": "Billie Eilish",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
-        "appleID": "chihiro/1739659141"
+        "appleID": "chihiro/1739659141",
+        "youtubeID": "BY_XwvKogC8",
+        "spotifyID": "7BRD7x5pt8Lqa1eGYC4dzj"
     },
     {
         "ranking": "100",

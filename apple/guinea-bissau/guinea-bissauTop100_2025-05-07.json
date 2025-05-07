@@ -235,7 +235,7 @@
         "title": "Hit & Run",
         "artist": "Shenseea",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4d/42/ed/4d42edf6-6a14-5e74-9a02-a01fe9bff99c/23UM1IM07501.rgb.jpg/80x80bb.webp",
-        "appleID": "hit-run/1743522372"
+        "appleID": "hit-run/1727264203"
     },
     {
         "ranking": "35",
@@ -312,7 +312,7 @@
         "title": "Last Last",
         "artist": "Burna Boy",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/fd/08/8c/fd088c72-75fc-0306-3c69-1ef4448ff3cf/075679688477.jpg/80x80bb.webp",
-        "appleID": "last-last/1749166881"
+        "appleID": "last-last/1623677811"
     },
     {
         "ranking": "46",
@@ -459,7 +459,7 @@
         "title": "Regular",
         "artist": "Pa Salieu",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/73/f7/db/73f7db52-8979-b7cc-a2b0-14e7e05dfab0/5021732585240.jpg/80x80bb.webp",
-        "appleID": "regular/1783313248"
+        "appleID": "regular/1775917518"
     },
     {
         "ranking": "67",
@@ -494,7 +494,7 @@
         "title": "YGF",
         "artist": "Pa Salieu",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/73/f7/db/73f7db52-8979-b7cc-a2b0-14e7e05dfab0/5021732585240.jpg/80x80bb.webp",
-        "appleID": "ygf/1783313249"
+        "appleID": "ygf/1775917582"
     },
     {
         "ranking": "72",
@@ -606,7 +606,9 @@
         "title": "Crack com Mussilon",
         "artist": "Matuê",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/14/b5/4a/14b54a4f-eefd-fb47-cf0f-1c4afe252d0f/5034644060613.jpg/80x80bb.webp",
-        "appleID": "crack-com-mussilon/1767049265"
+        "appleID": "crack-com-mussilon/1767049265",
+        "youtubeID": "zctKiN-okXI",
+        "spotifyID": "4ssHL7bSnOAE7HjiuLx6Co"
     },
     {
         "ranking": "88",
@@ -641,7 +643,9 @@
         "title": "CHIHIRO",
         "artist": "Billie Eilish",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
-        "appleID": "chihiro/1739659141"
+        "appleID": "chihiro/1739659141",
+        "youtubeID": "BY_XwvKogC8",
+        "spotifyID": "7BRD7x5pt8Lqa1eGYC4dzj"
     },
     {
         "ranking": "93",
