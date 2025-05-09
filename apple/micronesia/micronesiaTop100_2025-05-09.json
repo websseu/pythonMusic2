@@ -95,7 +95,8 @@
         "title": "Carry My Heart",
         "artist": "Myshaan",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/84/56/18/845618ab-f06d-a5d3-ceda-b1080520425e/10288.jpg/80x80bb.webp",
-        "appleID": "carry-my-heart/1779243427"
+        "appleID": "carry-my-heart/1779243427",
+        "youtubeID": "N9Welk1i-XM"
     },
     {
         "ranking": "15",
@@ -256,7 +257,7 @@
         "title": "Life in Your Hands",
         "artist": "JKING",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/13/42/d3/1342d330-9057-2734-86b0-2a6ce264e5a2/0.jpg/80x80bb.webp",
-        "appleID": "life-in-your-hands/1804342122"
+        "appleID": "life-in-your-hands/1715938831"
     },
     {
         "ranking": "38",
@@ -382,7 +383,9 @@
         "title": "Too Sweet",
         "artist": "Hozier",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a4/12/e3/a412e390-51aa-6625-9adc-d502bf1c349f/196872373004.jpg/80x80bb.webp",
-        "appleID": "too-sweet/1763072931"
+        "appleID": "too-sweet/1763072931",
+        "youtubeID": "NTpbbQUBbuo",
+        "spotifyID": "19XpFsce28aByvCC4g89tJ"
     },
     {
         "ranking": "56",
@@ -697,6 +700,7 @@
         "title": "Zombie",
         "artist": "The Cranberries",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b6/c8/85/b6c885de-fde6-d40d-c95a-d89ede4270ae/06UMGIM09433.rgb.jpg/80x80bb.webp",
-        "appleID": "zombie/1440735264"
+        "appleID": "zombie/1440735264",
+        "youtubeID": "6Ejga4kJUts"
     }
 ]
