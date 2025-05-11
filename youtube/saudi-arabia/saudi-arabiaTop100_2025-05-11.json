@@ -77,7 +77,9 @@
         "prev": "9",
         "streak": "41",
         "streams": "537,052",
-        "youtubeID": "OXC9M3mrdmM"
+        "youtubeID": "OXC9M3mrdmM",
+        "appleID": "lammah/1759405298",
+        "spotifyID": "0Hk9OFVAxB6mxTtLmmFdkT"
     },
     {
         "ranking": "9",
@@ -237,7 +239,9 @@
         "prev": "22",
         "streak": "35",
         "streams": "368,892",
-        "youtubeID": "kPa7bsKwL-c"
+        "youtubeID": "kPa7bsKwL-c",
+        "appleID": "die-with-a-smile/1762656732",
+        "spotifyID": "2plbrEY59IikOBgBGLjaoe"
     },
     {
         "ranking": "25",
@@ -307,7 +311,8 @@
         "prev": "33",
         "streak": "23",
         "streams": "312,984",
-        "youtubeID": "qDzDFSItK_0"
+        "youtubeID": "qDzDFSItK_0",
+        "appleID": "ya-ana-ya-la/1775965916"
     },
     {
         "ranking": "32",
@@ -397,7 +402,8 @@
         "prev": "44",
         "streak": "21",
         "streams": "264,901",
-        "youtubeID": "ueNY30Cs8Lk"
+        "youtubeID": "ueNY30Cs8Lk",
+        "spotifyID": "23UBSdCPcsloNVmQZ508Zv"
     },
     {
         "ranking": "41",
@@ -847,7 +853,8 @@
         "prev": "86",
         "streak": "5",
         "streams": "159,029",
-        "youtubeID": "-2RAq5o5pwc"
+        "youtubeID": "-2RAq5o5pwc",
+        "spotifyID": "4XTgFBxBHN6var1BzAgE1m"
     },
     {
         "ranking": "86",
@@ -997,6 +1004,7 @@
         "prev": "-",
         "streak": "23",
         "streams": "147,648",
-        "youtubeID": "TdrL3QxjyVw"
+        "youtubeID": "TdrL3QxjyVw",
+        "appleID": "summertime-sadness/1440854460"
     }
 ]
