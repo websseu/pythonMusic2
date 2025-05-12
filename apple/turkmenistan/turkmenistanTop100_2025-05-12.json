@@ -60,7 +60,9 @@
         "title": "APT.",
         "artist": "ROSÉ",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2d/1a/7d/2d1a7d91-587e-0ceb-d434-327bd66d9e86/075679628312.jpg/80x80bb.webp",
-        "appleID": "apt/1773452221"
+        "appleID": "apt/1773452221",
+        "youtubeID": "ekr2nIex040",
+        "spotifyID": "4wJ5Qq0jBN4ajy7ouZIV1c"
     },
     {
         "ranking": "10",
@@ -116,14 +118,17 @@
         "title": "Not Like Us",
         "artist": "Kendrick Lamar",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d0/ef/b6/d0efb685-73be-fdee-58c9-be655f4cd4fd/24UMGIM51924.rgb.jpg/80x80bb.webp",
-        "appleID": "not-like-us/1744776167"
+        "appleID": "not-like-us/1744776167",
+        "youtubeID": "H58vbez_m4E"
     },
     {
         "ranking": "18",
         "title": "Bad Dreams",
         "artist": "Teddy Swims",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/cd/5d/64/cd5d64c2-338b-00c9-52d6-578a0f19d826/054391245908.jpg/80x80bb.webp",
-        "appleID": "bad-dreams/1765799904"
+        "appleID": "bad-dreams/1765799904",
+        "youtubeID": "Qh8QwVYOSVU",
+        "spotifyID": "3nHuKdFJZm78CoeBnDcFKe"
     },
     {
         "ranking": "19",
@@ -137,7 +142,9 @@
         "title": "Die With A Smile",
         "artist": "Lady Gaga",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/11/ae/f2/11aef294-f57c-bab9-c9fc-529162984e62/24UMGIM85348.rgb.jpg/80x80bb.webp",
-        "appleID": "die-with-a-smile/1762656732"
+        "appleID": "die-with-a-smile/1762656732",
+        "youtubeID": "kPa7bsKwL-c",
+        "spotifyID": "2plbrEY59IikOBgBGLjaoe"
     },
     {
         "ranking": "21",
@@ -186,7 +193,9 @@
         "title": "Silinmez",
         "artist": "Mansur Ark",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ba/8e/5e/ba8e5ec9-b571-a80a-ef50-6a812bcf2ae5/8697415715548_Cover.jpg/80x80bb.webp",
-        "appleID": "silinmez/1801194800"
+        "appleID": "silinmez/1801194800",
+        "youtubeID": "pJDpC6jBklo",
+        "spotifyID": "4sVIEO6DXqoGakHuixuPad"
     },
     {
         "ranking": "28",
@@ -326,7 +335,9 @@
         "title": "All Girls Are the Same",
         "artist": "Juice WRLD",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/e4/ca/3a/e4ca3a6c-b144-15db-5fdc-62ec22c9b813/18UMGIM30624.rgb.jpg/80x80bb.webp",
-        "appleID": "all-girls-are-the-same/1407165116"
+        "appleID": "all-girls-are-the-same/1407165116",
+        "youtubeID": "h3EJICKwITw",
+        "spotifyID": "4VXIryQMWpIdGgYR4TrjT1"
     },
     {
         "ranking": "48",
@@ -340,7 +351,9 @@
         "title": "The Door",
         "artist": "Teddy Swims",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/36/19/66/36196640-1561-dc5e-c6bc-1e5f4befa583/093624856771.jpg/80x80bb.webp",
-        "appleID": "the-door/1691699849"
+        "appleID": "the-door/1691699849",
+        "youtubeID": "VSXT4a2kRHA",
+        "spotifyID": "3dj4wgM3cPeuLwMNHDuBon"
     },
     {
         "ranking": "50",
@@ -354,7 +367,8 @@
         "title": "Human",
         "artist": "Rag'n'Bone Man",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/cc/81/83/cc818302-ff27-bbbf-195e-f72bb39d32c2/886446364636.jpg/80x80bb.webp",
-        "appleID": "human/1202354334"
+        "appleID": "human/1202354334",
+        "youtubeID": "L3wKzyIN1yk"
     },
     {
         "ranking": "52",
@@ -410,7 +424,8 @@
         "title": "Sana Yıldızları Ödediğimden",
         "artist": "Bengü Beker",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/d3/ec/81/d3ec814f-27cb-1431-320e-0e3ea428491c/197190989366.jpg/80x80bb.webp",
-        "appleID": "sana-y%C4%B1ld%C4%B1zlar%C4%B1-%C3%B6dedi%C4%9Fimden/1728065757"
+        "appleID": "sana-y%C4%B1ld%C4%B1zlar%C4%B1-%C3%B6dedi%C4%9Fimden/1728065757",
+        "youtubeID": "edvfqQ5Mmx0"
     },
     {
         "ranking": "60",
@@ -536,7 +551,8 @@
         "title": "Another Love",
         "artist": "Tom Odell",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/3d/80/6e/3d806e1d-106c-7483-2024-032042519ab3/886443996779.jpg/80x80bb.webp",
-        "appleID": "another-love/1308605492"
+        "appleID": "another-love/1308605492",
+        "spotifyID": "7jtQIBanIiJOMS6RyCx6jZ"
     },
     {
         "ranking": "78",
