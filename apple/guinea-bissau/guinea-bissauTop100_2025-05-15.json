@@ -25,7 +25,7 @@
         "title": "Pipoca",
         "artist": "Vado Más Ki Ás",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/97/6b/c3/976bc331-c7e1-497a-cae3-c265d05c2fef/0.jpg/80x80bb.webp",
-        "appleID": "pipoca/1800012172"
+        "appleID": "pipoca/1741641134"
     },
     {
         "ranking": "5",
@@ -648,7 +648,8 @@
         "title": "Apocalypse",
         "artist": "Cigarettes After Sex",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b3/5e/0f/b35e0fbe-2370-fc48-0f0c-977525e93bf2/720841214601_Cover.jpg/80x80bb.webp",
-        "appleID": "apocalypse/1217977755"
+        "appleID": "apocalypse/1215409245",
+        "spotifyID": "0yc6Gst2xkRu0eMLeRMGCX"
     },
     {
         "ranking": "94",
@@ -697,6 +698,7 @@
         "title": "Rush",
         "artist": "Ayra Starr",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/b5/4a/3d/b54a3d1a-f493-7a9b-1807-a73f01709053/5059449090122.png/80x80bb.webp",
-        "appleID": "rush/1642898573"
+        "appleID": "rush/1642898573",
+        "youtubeID": "crtQSTYWtqE"
     }
 ]
