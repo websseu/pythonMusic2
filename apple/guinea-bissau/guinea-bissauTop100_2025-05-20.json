@@ -347,7 +347,8 @@
         "title": "Bitter Sweet Symphony (Live)",
         "artist": "The Verve",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/5c/b1/85/5cb18512-9cbd-7b84-4042-37f23bc2ae45/17UMGIM89555.rgb.jpg/80x80bb.webp",
-        "appleID": "bitter-sweet-symphony-live/1443258582"
+        "appleID": "bitter-sweet-symphony-live/1443258582",
+        "youtubeID": "1lyu1KKwC74"
     },
     {
         "ranking": "51",
@@ -494,7 +495,7 @@
         "title": "New Rules (Acoustic)",
         "artist": "Dua Lipa",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/52/0b/6e/520b6ef2-ba2f-1b97-26ea-ea694889c900/190295718756.jpg/80x80bb.webp",
-        "appleID": "new-rules-acoustic/1295360421"
+        "appleID": "new-rules/1228739609"
     },
     {
         "ranking": "72",
@@ -536,7 +537,9 @@
         "title": "Night Changes",
         "artist": "One Direction",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/14/e4/98/14e49846-57a9-dc8d-6fa3-5e03ccf3606c/dj.ljogvxod.jpg/80x80bb.webp",
-        "appleID": "night-changes/914556579"
+        "appleID": "night-changes/914556579",
+        "youtubeID": "syFZfO_wfMQ",
+        "spotifyID": "5O2P9iiztwhomNh8xkR9lJ"
     },
     {
         "ranking": "78",
@@ -620,7 +623,8 @@
         "title": "Pink Venom",
         "artist": "BLACKPINK",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/72/48/88/72488832-558c-fcba-4aa0-03d88dc79eb3/22UMGIM87808.rgb.jpg/80x80bb.webp",
-        "appleID": "pink-venom/1639174482"
+        "appleID": "pink-venom/1639174482",
+        "youtubeID": "gQlMMD8auMs"
     },
     {
         "ranking": "90",

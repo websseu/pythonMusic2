@@ -53,7 +53,8 @@
         "title": "Espresso Macchiato",
         "artist": "Tommy Cash",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7f/b0/03/7fb003a0-3073-f573-3d3b-d24f904297a2/cover.jpg/80x80bb.webp",
-        "appleID": "espresso-macchiato/1783135861"
+        "appleID": "espresso-macchiato/1783135861",
+        "spotifyID": "3gWBWLw3J3XTy3QTo36GqJ"
     },
     {
         "ranking": "9",
@@ -151,7 +152,8 @@
         "title": "Xiliometra",
         "artist": "APON",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f9/1b/04/f91b0448-6458-6ae4-dc63-0cef1c29d15e/cover.jpg/80x80bb.webp",
-        "appleID": "xiliometra/1766994773"
+        "appleID": "xiliometra/1766994773",
+        "spotifyID": "2acUYxCZbgndtm70LgCCbS"
     },
     {
         "ranking": "23",
@@ -200,7 +202,8 @@
         "title": "Vorias",
         "artist": "APON",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/21/57/81/215781d0-91e8-38d1-7bdd-74915c9f725e/cover.jpg/80x80bb.webp",
-        "appleID": "vorias/1750062276"
+        "appleID": "vorias/1750062276",
+        "spotifyID": "0ZK2jpmk44WBUfe2UV30AY"
     },
     {
         "ranking": "30",
@@ -291,7 +294,8 @@
         "title": "AUTOS",
         "artist": "Sicario",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b0/86/4e/b0864ea6-fe31-fe1c-f3d4-b7d6f4aa0d24/cover.jpg/80x80bb.webp",
-        "appleID": "autos/1774686848"
+        "appleID": "autos/1774686848",
+        "spotifyID": "0EwKlAawFATYjR7Od5ps6k"
     },
     {
         "ranking": "43",
@@ -319,14 +323,16 @@
         "title": "3:15",
         "artist": "TOQUEL",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/fd/2d/47/fd2d471b-03cf-073c-8430-29d5095b424b/23UM1IM48699.rgb.jpg/80x80bb.webp",
-        "appleID": "3-15/1715296646"
+        "appleID": "3-15/1715296646",
+        "spotifyID": "5d2ETO2YDunJTXd5yuCCRA"
     },
     {
         "ranking": "47",
         "title": "ANATOLI",
         "artist": "Marina Satti",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b1/69/50/b1695045-a0ec-9a82-c806-f6b8181e109c/24UM1IM28699.rgb.jpg/80x80bb.webp",
-        "appleID": "anatoli/1780327669"
+        "appleID": "anatoli/1780327669",
+        "spotifyID": "1XaESunLfD5BmNNjSExrHq"
     },
     {
         "ranking": "48",
@@ -361,7 +367,7 @@
         "title": "Mosca",
         "artist": "Light",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/eb/75/bc/eb75bcc9-8a13-6cf7-b6be-4424f8cd3f6f/6299.jpg/80x80bb.webp",
-        "appleID": "mosca/1814024596"
+        "appleID": "mosca/1453751658"
     },
     {
         "ranking": "53",
@@ -417,21 +423,24 @@
         "title": "Die With A Smile",
         "artist": "Lady Gaga",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/11/ae/f2/11aef294-f57c-bab9-c9fc-529162984e62/24UMGIM85348.rgb.jpg/80x80bb.webp",
-        "appleID": "die-with-a-smile/1762656732"
+        "appleID": "die-with-a-smile/1762656732",
+        "youtubeID": "kPa7bsKwL-c",
+        "spotifyID": "2plbrEY59IikOBgBGLjaoe"
     },
     {
         "ranking": "61",
         "title": "ISOS",
         "artist": "Sicario",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/78/88/c9/7888c994-5e27-e875-619b-39af1c69aad3/cover.jpg/80x80bb.webp",
-        "appleID": "isos/1717963275"
+        "appleID": "isos/1717963275",
+        "spotifyID": "3CdFVH8SOVnvT0sJLT198p"
     },
     {
         "ranking": "62",
         "title": "Cc",
         "artist": "Light",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5e/1b/a5/5e1ba544-2498-0bd2-86a5-60c5108118b1/6577.jpg/80x80bb.webp",
-        "appleID": "cc/1814471900"
+        "appleID": "cc/1566395095"
     },
     {
         "ranking": "63",
@@ -459,7 +468,7 @@
         "title": "MVP Freestyle",
         "artist": "Light",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/98/5e/59/985e59ca-0e46-b6a3-d6df-bc5424be2914/6425.jpg/80x80bb.webp",
-        "appleID": "mvp-freestyle/1814309749"
+        "appleID": "mvp-freestyle/1474644471"
     },
     {
         "ranking": "67",
@@ -473,7 +482,8 @@
         "title": "Se Periptosi Pou",
         "artist": "Anna Vissi",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3e/35/dc/3e35dcda-64cb-3eb7-3ec2-7456a6047114/cover.jpg/80x80bb.webp",
-        "appleID": "se-periptosi-pou/1777139739"
+        "appleID": "se-periptosi-pou/1777139739",
+        "spotifyID": "4iJkeikfkJ7EzkR2xUu0m4"
     },
     {
         "ranking": "69",
@@ -522,7 +532,8 @@
         "title": "Not Like Us",
         "artist": "Kendrick Lamar",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d0/ef/b6/d0efb685-73be-fdee-58c9-be655f4cd4fd/24UMGIM51924.rgb.jpg/80x80bb.webp",
-        "appleID": "not-like-us/1744776167"
+        "appleID": "not-like-us/1744776167",
+        "youtubeID": "H58vbez_m4E"
     },
     {
         "ranking": "76",
@@ -536,7 +547,8 @@
         "title": "Timeless",
         "artist": "The Weeknd",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/40/77/cb/4077cbd1-b6a0-d8df-b9d3-e9a339dbc0ea/24UM1IM04061.rgb.jpg/80x80bb.webp",
-        "appleID": "timeless/1770380890"
+        "appleID": "timeless/1770380890",
+        "youtubeID": "5EpyN_6dqyk"
     },
     {
         "ranking": "78",
@@ -599,7 +611,8 @@
         "title": "BIRDS OF A FEATHER",
         "artist": "Billie Eilish",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
-        "appleID": "birds-of-a-feather/1739659142"
+        "appleID": "birds-of-a-feather/1739659142",
+        "youtubeID": "V9PVRfjEBTI"
     },
     {
         "ranking": "87",
@@ -627,7 +640,8 @@
         "title": "KSEHORISTO",
         "artist": "Sicario",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/78/88/c9/7888c994-5e27-e875-619b-39af1c69aad3/cover.jpg/80x80bb.webp",
-        "appleID": "ksehoristo/1717964129"
+        "appleID": "ksehoristo/1717964129",
+        "spotifyID": "1mOLBCX3IRwGNDLqYzXpM5"
     },
     {
         "ranking": "91",
@@ -690,7 +704,7 @@
         "title": "24hrs",
         "artist": "Light",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6b/ff/a7/6bffa7bd-b026-e869-601c-9ff1297a3b62/6332.jpg/80x80bb.webp",
-        "appleID": "24hrs/1814021876"
+        "appleID": "24hrs/1668845225"
     },
     {
         "ranking": "100",
