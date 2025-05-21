@@ -137,7 +137,9 @@
         "title": "Die With A Smile",
         "artist": "Lady Gaga",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/11/ae/f2/11aef294-f57c-bab9-c9fc-529162984e62/24UMGIM85348.rgb.jpg/80x80bb.webp",
-        "appleID": "die-with-a-smile/1762656732"
+        "appleID": "die-with-a-smile/1762656732",
+        "youtubeID": "kPa7bsKwL-c",
+        "spotifyID": "2plbrEY59IikOBgBGLjaoe"
     },
     {
         "ranking": "21",
@@ -368,7 +370,8 @@
         "title": "Forever Young",
         "artist": "Alphaville",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music/y2005/m06/d22/h05/s05.qwwmqauc.jpg/80x80bb.webp",
-        "appleID": "forever-young/73255043"
+        "appleID": "forever-young/73255043",
+        "youtubeID": "oNjQXmoxiQ8"
     },
     {
         "ranking": "54",
@@ -592,7 +595,8 @@
         "title": "The Line (from the series Arcane League of Legends)",
         "artist": "twenty one pilots",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/54/cf/11/54cf11ab-ac8b-587c-d98f-ac491277ae97/00198704145971_Cover.jpg/80x80bb.webp",
-        "appleID": "the-line-from-the-series-arcane-league-of-legends/1767032205"
+        "appleID": "the-line-from-the-series-arcane-league-of-legends/1767032205",
+        "youtubeID": "E2Rj2gQAyPA"
     },
     {
         "ranking": "86",
