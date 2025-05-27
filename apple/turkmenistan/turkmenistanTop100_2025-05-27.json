@@ -39,7 +39,9 @@
         "title": "Die With A Smile",
         "artist": "Lady Gaga",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/11/ae/f2/11aef294-f57c-bab9-c9fc-529162984e62/24UMGIM85348.rgb.jpg/80x80bb.webp",
-        "appleID": "die-with-a-smile/1762656732"
+        "appleID": "die-with-a-smile/1762656732",
+        "youtubeID": "kPa7bsKwL-c",
+        "spotifyID": "2plbrEY59IikOBgBGLjaoe"
     },
     {
         "ranking": "7",
@@ -53,7 +55,9 @@
         "title": "Bad Dreams",
         "artist": "Teddy Swims",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/cd/5d/64/cd5d64c2-338b-00c9-52d6-578a0f19d826/054391245908.jpg/80x80bb.webp",
-        "appleID": "bad-dreams/1765799904"
+        "appleID": "bad-dreams/1765799904",
+        "youtubeID": "Qh8QwVYOSVU",
+        "spotifyID": "3nHuKdFJZm78CoeBnDcFKe"
     },
     {
         "ranking": "9",
@@ -67,7 +71,9 @@
         "title": "APT.",
         "artist": "ROSÉ",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2d/1a/7d/2d1a7d91-587e-0ceb-d434-327bd66d9e86/075679628312.jpg/80x80bb.webp",
-        "appleID": "apt/1773452221"
+        "appleID": "apt/1773452221",
+        "youtubeID": "ekr2nIex040",
+        "spotifyID": "4wJ5Qq0jBN4ajy7ouZIV1c"
     },
     {
         "ranking": "11",
@@ -123,14 +129,17 @@
         "title": "Not Like Us",
         "artist": "Kendrick Lamar",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d0/ef/b6/d0efb685-73be-fdee-58c9-be655f4cd4fd/24UMGIM51924.rgb.jpg/80x80bb.webp",
-        "appleID": "not-like-us/1744776167"
+        "appleID": "not-like-us/1744776167",
+        "youtubeID": "H58vbez_m4E"
     },
     {
         "ranking": "19",
         "title": "The Door",
         "artist": "Teddy Swims",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/36/19/66/36196640-1561-dc5e-c6bc-1e5f4befa583/093624856771.jpg/80x80bb.webp",
-        "appleID": "the-door/1691699849"
+        "appleID": "the-door/1691699849",
+        "youtubeID": "VSXT4a2kRHA",
+        "spotifyID": "3dj4wgM3cPeuLwMNHDuBon"
     },
     {
         "ranking": "20",
@@ -193,7 +202,9 @@
         "title": "Love Somebody",
         "artist": "Morgan Wallen",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0e/6d/e1/0e6de152-3ff5-84a3-7ce7-7dfbdcb2c3e1/24UMGIM96374.rgb.jpg/80x80bb.webp",
-        "appleID": "love-somebody/1773342229"
+        "appleID": "love-somebody/1773342229",
+        "youtubeID": "zxMo0CZZzyg",
+        "spotifyID": "7hR22TOX3RorxJPcsz5Wbo"
     },
     {
         "ranking": "29",
@@ -277,7 +288,8 @@
         "title": "Another Love",
         "artist": "Tom Odell",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/3d/80/6e/3d806e1d-106c-7483-2024-032042519ab3/886443996779.jpg/80x80bb.webp",
-        "appleID": "another-love/1308605492"
+        "appleID": "another-love/1308605492",
+        "spotifyID": "7jtQIBanIiJOMS6RyCx6jZ"
     },
     {
         "ranking": "41",
@@ -368,7 +380,8 @@
         "title": "Si Ai (Marshmello & UKAY Remix)",
         "artist": "Tayna",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e3/99/24/e39924db-8453-92cb-d5c1-2399bc088d2f/1174.jpg/80x80bb.webp",
-        "appleID": "si-ai-marshmello-ukay-remix/1782245477"
+        "appleID": "si-ai/1755088935",
+        "youtubeID": "4bZ-8pg4tbY"
     },
     {
         "ranking": "54",
@@ -445,14 +458,17 @@
         "title": "Human",
         "artist": "Rag'n'Bone Man",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/cc/81/83/cc818302-ff27-bbbf-195e-f72bb39d32c2/886446364636.jpg/80x80bb.webp",
-        "appleID": "human/1202354334"
+        "appleID": "human/1202354334",
+        "youtubeID": "L3wKzyIN1yk"
     },
     {
         "ranking": "65",
         "title": "Night Changes",
         "artist": "One Direction",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/14/e4/98/14e49846-57a9-dc8d-6fa3-5e03ccf3606c/dj.ljogvxod.jpg/80x80bb.webp",
-        "appleID": "night-changes/914556579"
+        "appleID": "night-changes/914556579",
+        "youtubeID": "syFZfO_wfMQ",
+        "spotifyID": "5O2P9iiztwhomNh8xkR9lJ"
     },
     {
         "ranking": "66",
@@ -501,7 +517,8 @@
         "title": "Where's My Love (Acoustic)",
         "artist": "SYML",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7a/19/9a/7a199a72-16ba-4416-896d-110d14c8172c/067003072465.png/80x80bb.webp",
-        "appleID": "wheres-my-love-acoustic/1606587580"
+        "appleID": "wheres-my-love-acoustic/1606587580",
+        "spotifyID": "1B62o4CbdL9ckGvwsz2cgn"
     },
     {
         "ranking": "73",
@@ -599,7 +616,8 @@
         "title": "Without Me",
         "artist": "Halsey",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/68/3e/71/683e71a2-da8b-039b-91e5-b8d8c9899dad/19UMGIM75011.rgb.jpg/80x80bb.webp",
-        "appleID": "without-me/1533014937"
+        "appleID": "without-me/1533014937",
+        "youtubeID": "ZAfAud_M_mg"
     },
     {
         "ranking": "87",
