@@ -151,7 +151,8 @@
         "title": "iseoluwa",
         "artist": "Fireboy DML",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5e/36/52/5e365214-2057-31df-2d2e-d39022d6cd9f/197342696906_cover.jpg/80x80bb.webp",
-        "appleID": "iseoluwa/1763688390"
+        "appleID": "iseoluwa/1763688390",
+        "youtubeID": "-NlcsfIUumg"
     },
     {
         "ranking": "23",
@@ -270,14 +271,17 @@
         "title": "In the End",
         "artist": "LINKIN PARK",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/53/a7/7f/53a77fab-c54c-a57b-8130-248fc12d0c80/093624948995.jpg/80x80bb.webp",
-        "appleID": "in-the-end/590431785"
+        "appleID": "in-the-end/590431785",
+        "spotifyID": "60a0Rd6pjrkxjPbaKzXjfq"
     },
     {
         "ranking": "40",
         "title": "The Emptiness Machine",
         "artist": "LINKIN PARK",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/69/21/cf/6921cff3-7074-118a-ece2-4012450e6c75/093624839811.jpg/80x80bb.webp",
-        "appleID": "the-emptiness-machine/1766137051"
+        "appleID": "the-emptiness-machine/1766137051",
+        "youtubeID": "SRXH9AbT280",
+        "spotifyID": "1EDPVGbyPKJPeGqATwXZvN"
     },
     {
         "ranking": "41",
@@ -522,7 +526,8 @@
         "title": "Bitter Sweet Symphony (Live)",
         "artist": "The Verve",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/5c/b1/85/5cb18512-9cbd-7b84-4042-37f23bc2ae45/17UMGIM89555.rgb.jpg/80x80bb.webp",
-        "appleID": "bitter-sweet-symphony-live/1443258582"
+        "appleID": "bitter-sweet-symphony-live/1443258582",
+        "youtubeID": "1lyu1KKwC74"
     },
     {
         "ranking": "76",
