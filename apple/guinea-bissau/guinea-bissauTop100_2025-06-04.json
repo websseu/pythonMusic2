@@ -494,7 +494,8 @@
         "title": "Someone Like You",
         "artist": "Adele",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/d8/e3/f9/d8e3f9ea-d6fe-9a1b-9f13-109983d3062e/191404113868.png/80x80bb.webp",
-        "appleID": "someone-like-you/1544491998"
+        "appleID": "someone-like-you/1544491998",
+        "spotifyID": "5lkpeJwmQKgY3bX2zChjxX"
     },
     {
         "ranking": "72",
@@ -599,7 +600,8 @@
         "title": "Stressed Out",
         "artist": "twenty one pilots",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8e/e2/89/8ee28904-0821-610d-5011-a61845f62756/075679926951.jpg/80x80bb.webp",
-        "appleID": "stressed-out/974485474"
+        "appleID": "stressed-out/974485474",
+        "youtubeID": "pXRviuL6vMY"
     },
     {
         "ranking": "87",
