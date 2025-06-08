@@ -102,7 +102,8 @@
         "title": "luther",
         "artist": "Kendrick Lamar",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/50/c2/cc/50c2cc95-3658-9417-0d4b-831abde44ba1/24UM1IM28978.rgb.jpg/80x80bb.webp",
-        "appleID": "luther/1781270323"
+        "appleID": "luther/1781270323",
+        "youtubeID": "4_taypLmSMU"
     },
     {
         "ranking": "16",
@@ -158,7 +159,8 @@
         "title": "KANTE (feat. Fave)",
         "artist": "Davido",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/40/12/87/4012878d-d267-09b8-7fe0-8c3fd8fdf169/886449553617.jpg/80x80bb.webp",
-        "appleID": "https://music.apple.com/us/artist/davido/254654363"
+        "appleID": "https://music.apple.com/us/artist/davido/254654363",
+        "youtubeID": "3bFPDfWReN0"
     },
     {
         "ranking": "24",
@@ -326,14 +328,16 @@
         "title": "Dawa",
         "artist": "Elijah Kitaka",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7e/17/72/7e1772a1-f2c4-d000-d1c4-6dd2f46223c2/8721093345909.png/80x80bb.webp",
-        "appleID": "dawa/1753059018"
+        "appleID": "dawa/1753059018",
+        "youtubeID": "EmVoc6B_Qso"
     },
     {
         "ranking": "48",
         "title": "BIRDS OF A FEATHER",
         "artist": "Billie Eilish",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
-        "appleID": "birds-of-a-feather/1739659142"
+        "appleID": "birds-of-a-feather/1739659142",
+        "youtubeID": "V9PVRfjEBTI"
     },
     {
         "ranking": "49",
@@ -347,7 +351,9 @@
         "title": "Die With A Smile",
         "artist": "Lady Gaga",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/11/ae/f2/11aef294-f57c-bab9-c9fc-529162984e62/24UMGIM85348.rgb.jpg/80x80bb.webp",
-        "appleID": "die-with-a-smile/1762656732"
+        "appleID": "die-with-a-smile/1762656732",
+        "youtubeID": "kPa7bsKwL-c",
+        "spotifyID": "2plbrEY59IikOBgBGLjaoe"
     },
     {
         "ranking": "51",
@@ -438,7 +444,8 @@
         "title": "Commas",
         "artist": "Ayra Starr",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/fa/d4/c4/fad4c4ce-2b3f-0304-8965-3c618987824e/24UMGIM51453.rgb.jpg/80x80bb.webp",
-        "appleID": "commas/1745016096"
+        "appleID": "commas/1759261970",
+        "youtubeID": "EhyzYPSHRQU"
     },
     {
         "ranking": "64",
@@ -473,7 +480,8 @@
         "title": "Awolowo",
         "artist": "Fido",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/62/47/35/62473588-693f-71ba-87cb-29f90cfb637d/386564.jpg/80x80bb.webp",
-        "appleID": "awolowo/1765564585"
+        "appleID": "awolowo/1765564585",
+        "youtubeID": "XEL4ksfKIPk"
     },
     {
         "ranking": "69",
@@ -494,7 +502,8 @@
         "title": "Not Like Us",
         "artist": "Kendrick Lamar",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d0/ef/b6/d0efb685-73be-fdee-58c9-be655f4cd4fd/24UMGIM51924.rgb.jpg/80x80bb.webp",
-        "appleID": "not-like-us/1744776167"
+        "appleID": "not-like-us/1744776167",
+        "youtubeID": "H58vbez_m4E"
     },
     {
         "ranking": "72",
@@ -557,7 +566,9 @@
         "title": "Snooze",
         "artist": "SZA",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/bd/3b/a9/bd3ba9fb-9609-144f-bcfe-ead67b5f6ab3/196589564931.jpg/80x80bb.webp",
-        "appleID": "snooze/1657869492"
+        "appleID": "snooze/1657869492",
+        "youtubeID": "LDY_XyxBu8A",
+        "spotifyID": "4iZ4pt7kvcaH6Yo8UoZ4s2"
     },
     {
         "ranking": "81",
