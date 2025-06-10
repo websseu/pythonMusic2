@@ -18,7 +18,8 @@
         "title": "Locked Out of Heaven",
         "artist": "Bruno Mars",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/e0/a4/7c/e0a47c6f-005a-9f9f-ce29-8e858e2bcfcb/075679957283.jpg/80x80bb.webp",
-        "appleID": "locked-out-of-heaven/573962551"
+        "appleID": "locked-out-of-heaven/573962551",
+        "spotifyID": "5g7sDjBhZ4I3gcFIpkrLuI"
     },
     {
         "ranking": "4",
@@ -144,7 +145,9 @@
         "title": "Die With A Smile",
         "artist": "Lady Gaga",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/11/ae/f2/11aef294-f57c-bab9-c9fc-529162984e62/24UMGIM85348.rgb.jpg/80x80bb.webp",
-        "appleID": "die-with-a-smile/1762656732"
+        "appleID": "die-with-a-smile/1762656732",
+        "youtubeID": "kPa7bsKwL-c",
+        "spotifyID": "2plbrEY59IikOBgBGLjaoe"
     },
     {
         "ranking": "22",
@@ -263,7 +266,8 @@
         "title": "Otonoke",
         "artist": "Creepy Nuts",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2c/66/b5/2c66b5b5-a46f-1064-4802-fe82c0e56200/4547366705638.jpg/80x80bb.webp",
-        "appleID": "otonoke/1771603031"
+        "appleID": "otonoke/1771603031",
+        "spotifyID": "6KYOlIwDHbrbeBbJEtQ0Fj"
     },
     {
         "ranking": "39",
@@ -473,7 +477,8 @@
         "title": "Just the Way You Are",
         "artist": "Bruno Mars",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/98/ae/c2/98aec2e1-3be4-0311-1b44-69348fc87abb/075679956484.jpg/80x80bb.webp",
-        "appleID": "just-the-way-you-are/576670459"
+        "appleID": "just-the-way-you-are/576670459",
+        "spotifyID": "7BqBn9nzAq8spo5e7cZ0dJ"
     },
     {
         "ranking": "69",
@@ -536,14 +541,16 @@
         "title": "Bye Bye Bye",
         "artist": "*NSYNC",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/36/22/d6/3622d665-873c-57b8-392b-971292e6086f/012414170224.jpg/80x80bb.webp",
-        "appleID": "bye-bye-bye/303171368"
+        "appleID": "bye-bye-bye/303171368",
+        "youtubeID": "Eo-KmOd3i7s"
     },
     {
         "ranking": "78",
         "title": "Believer",
         "artist": "Imagine Dragons",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/11/7a/b8/117ab805-6811-8929-18b9-0fad7baf0c25/17UMGIM98210.rgb.jpg/80x80bb.webp",
-        "appleID": "believer/1411628233"
+        "appleID": "believer/1411628233",
+        "youtubeID": "7wtfhZwyrcc"
     },
     {
         "ranking": "79",
