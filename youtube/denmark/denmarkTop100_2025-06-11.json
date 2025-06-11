@@ -17,7 +17,8 @@
         "prev": "2",
         "streak": "28",
         "streams": "77,295",
-        "youtubeID": "ueNY30Cs8Lk"
+        "youtubeID": "ueNY30Cs8Lk",
+        "spotifyID": "23UBSdCPcsloNVmQZ508Zv"
     },
     {
         "ranking": "3",
@@ -67,7 +68,9 @@
         "prev": "6",
         "streak": "42",
         "streams": "60,938",
-        "youtubeID": "kPa7bsKwL-c"
+        "youtubeID": "kPa7bsKwL-c",
+        "appleID": "die-with-a-smile/1762656732",
+        "spotifyID": "2plbrEY59IikOBgBGLjaoe"
     },
     {
         "ranking": "8",
@@ -117,7 +120,8 @@
         "prev": "14",
         "streak": "30",
         "streams": "46,641",
-        "youtubeID": "1ll3FvVk6BA"
+        "youtubeID": "1ll3FvVk6BA",
+        "spotifyID": "4iHBUChicNYaHrO7vHkYtF"
     },
     {
         "ranking": "13",
@@ -187,7 +191,9 @@
         "prev": "11",
         "streak": "5",
         "streams": "39,229",
-        "youtubeID": "5MS_Fczs_98"
+        "youtubeID": "5MS_Fczs_98",
+        "appleID": "espresso-macchiato/1783135861",
+        "spotifyID": "3gWBWLw3J3XTy3QTo36GqJ"
     },
     {
         "ranking": "20",
@@ -397,7 +403,7 @@
         "prev": "42",
         "streak": "8",
         "streams": "25,755",
-        "youtubeID": "BiF6j9UzRkk"
+        "youtubeID": "YJpeJwHsvI8"
     },
     {
         "ranking": "41",
@@ -457,7 +463,8 @@
         "prev": "54",
         "streak": "15",
         "streams": "24,636",
-        "youtubeID": "MVHA1o5tgQk"
+        "youtubeID": "MVHA1o5tgQk",
+        "spotifyID": "0mM9pAcHb228EyEgDtdJZb"
     },
     {
         "ranking": "47",
@@ -467,7 +474,8 @@
         "prev": "55",
         "streak": "10",
         "streams": "24,316",
-        "youtubeID": "ZJsZCsdoNE4"
+        "youtubeID": "ZJsZCsdoNE4",
+        "appleID": "janona/1752651392"
     },
     {
         "ranking": "48",
@@ -827,7 +835,7 @@
         "prev": "75",
         "streak": "8",
         "streams": "16,549",
-        "youtubeID": "p6HbrlSwong"
+        "youtubeID": "tweRgo-Pucw"
     },
     {
         "ranking": "84",
@@ -837,7 +845,8 @@
         "prev": "93",
         "streak": "5",
         "streams": "16,547",
-        "youtubeID": "d8-3ffuTTZ8"
+        "youtubeID": "d8-3ffuTTZ8",
+        "appleID": "%D1%86%D0%B0%D1%80%D0%B8%D1%86%D0%B0/1695852450"
     },
     {
         "ranking": "85",
@@ -997,6 +1006,7 @@
         "prev": "-",
         "streak": "14",
         "streams": "15,298",
-        "youtubeID": "LO71pC20BDI"
+        "youtubeID": "LO71pC20BDI",
+        "spotifyID": "5EcG8eMMlwkHRVa4aTR1qd"
     }
 ]
