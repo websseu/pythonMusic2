@@ -95,7 +95,8 @@
         "title": "Your Love",
         "artist": "The Outfield",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/af/35/d3/af35d339-a9c0-a565-712d-a31dd9e42a4b/mzi.jyzejvil.jpg/80x80bb.webp",
-        "appleID": "your-love/186346150"
+        "appleID": "your-love/186346150",
+        "youtubeID": "4N1iwQxiHrs"
     },
     {
         "ranking": "15",
@@ -158,7 +159,7 @@
         "title": "Life in Your Hands",
         "artist": "JKING",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/13/42/d3/1342d330-9057-2734-86b0-2a6ce264e5a2/0.jpg/80x80bb.webp",
-        "appleID": "life-in-your-hands/1804342122"
+        "appleID": "life-in-your-hands/1715938831"
     },
     {
         "ranking": "24",
@@ -305,7 +306,9 @@
         "title": "Lose Control",
         "artist": "Teddy Swims",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/36/19/66/36196640-1561-dc5e-c6bc-1e5f4befa583/093624856771.jpg/80x80bb.webp",
-        "appleID": "lose-control/1691699836"
+        "appleID": "lose-control/1691699836",
+        "youtubeID": "GZ3zL7kT6_c",
+        "spotifyID": "17phhZDn6oGtzMe56NuWvj"
     },
     {
         "ranking": "45",
@@ -459,7 +462,8 @@
         "title": "Every Night Every Morning",
         "artist": "Maoli",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/db/73/4f/db734ffc-785c-9999-be7c-f0c54458690a/0.jpg/80x80bb.webp",
-        "appleID": "every-night-every-morning/1761629618"
+        "appleID": "every-night-every-morning/1761629618",
+        "youtubeID": "20k90wvdLco"
     },
     {
         "ranking": "67",
@@ -501,14 +505,17 @@
         "title": "Lucid Dreams",
         "artist": "Juice WRLD",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/e4/ca/3a/e4ca3a6c-b144-15db-5fdc-62ec22c9b813/18UMGIM30624.rgb.jpg/80x80bb.webp",
-        "appleID": "lucid-dreams/1407165118"
+        "appleID": "lucid-dreams/1407165118",
+        "youtubeID": "mzB1VGEGcSU",
+        "spotifyID": "285pBltuF7vW8TeWk8hdRR"
     },
     {
         "ranking": "73",
         "title": "Memories",
         "artist": "Maroon 5",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/22/58/58/225858c4-ef47-2b91-723a-47af3e99699a/19UMGIM64502.rgb.jpg/80x80bb.webp",
-        "appleID": "memories/1479600902"
+        "appleID": "memories/1479600902",
+        "youtubeID": "SlPhMPnQ58k"
     },
     {
         "ranking": "74",
@@ -536,7 +543,8 @@
         "title": "BIRDS OF A FEATHER",
         "artist": "Billie Eilish",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
-        "appleID": "birds-of-a-feather/1739659142"
+        "appleID": "birds-of-a-feather/1739659142",
+        "youtubeID": "V9PVRfjEBTI"
     },
     {
         "ranking": "78",
