@@ -39,7 +39,8 @@
         "title": "Stayin' Alive",
         "artist": "Bee Gees",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/45/db/1d/45db1dac-fe00-3681-b216-266deea6e4cc/17UM1IM26789.rgb.jpg/80x80bb.webp",
-        "appleID": "stayin-alive/1442259185"
+        "appleID": "stayin-alive/1442259185",
+        "youtubeID": "I_izvAbhExY"
     },
     {
         "ranking": "7",
@@ -123,7 +124,8 @@
         "title": "Otonoke",
         "artist": "Creepy Nuts",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2c/66/b5/2c66b5b5-a46f-1064-4802-fe82c0e56200/4547366705638.jpg/80x80bb.webp",
-        "appleID": "otonoke/1771603031"
+        "appleID": "otonoke/1771603031",
+        "spotifyID": "6KYOlIwDHbrbeBbJEtQ0Fj"
     },
     {
         "ranking": "19",
@@ -158,7 +160,8 @@
         "title": "A Sky Full of Stars",
         "artist": "Coldplay",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/60/90/ad/6090adc3-8863-861d-afcc-23c55c6fe5da/dj.vmtulfyu.jpg/80x80bb.webp",
-        "appleID": "a-sky-full-of-stars/829910927"
+        "appleID": "a-sky-full-of-stars/829910927",
+        "youtubeID": "VPRjCeoBqrI"
     },
     {
         "ranking": "24",
@@ -228,7 +231,8 @@
         "title": "7 Years",
         "artist": "Lukas Graham",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music69/v4/1f/57/08/1f57082e-ee7e-dcb7-a73e-ba1f3468211d/093624920496.jpg/80x80bb.webp",
-        "appleID": "7-years/1081573445"
+        "appleID": "7-years/1081573445",
+        "youtubeID": "LHCob76kigA"
     },
     {
         "ranking": "34",
@@ -312,7 +316,8 @@
         "title": "Bring Me to Life",
         "artist": "Evanescence",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/10/4c/21/104c21e6-9ef0-4d3a-d1bd-d47167f121e5/00601501406300.rgb.jpg/80x80bb.webp",
-        "appleID": "bring-me-to-life/1440666111"
+        "appleID": "bring-me-to-life/1440666111",
+        "youtubeID": "3YxaaGgTQYM"
     },
     {
         "ranking": "46",
@@ -361,7 +366,8 @@
         "title": "Beautiful Things",
         "artist": "Benson Boone",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/54/f4/92/54f49210-e260-b519-ebbd-f4f40ee710cd/054391342751.jpg/80x80bb.webp",
-        "appleID": "beautiful-things/1724488124"
+        "appleID": "beautiful-things/1724488124",
+        "youtubeID": "Oa_RSwwpPaA"
     },
     {
         "ranking": "53",
@@ -403,7 +409,9 @@
         "title": "PUSH 2 START",
         "artist": "Tyla",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2a/cc/48/2acc48c7-e092-6b83-ce65-ff80ac6eb51c/196872520118.jpg/80x80bb.webp",
-        "appleID": "push-2-start/1772394889"
+        "appleID": "push-2-start/1772394889",
+        "youtubeID": "uLK2r3sG4lE",
+        "spotifyID": "1Cbl3Yq8rHo7hhDQmLQagU"
     },
     {
         "ranking": "59",
@@ -606,7 +614,8 @@
         "title": "People",
         "artist": "Libianca",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/c6/8c/ca/c68ccacb-cdd5-b765-53e1-eeca394770ac/196589735607.jpg/80x80bb.webp",
-        "appleID": "people/1658390607"
+        "appleID": "people/1658390607",
+        "youtubeID": "rJWdfDPZ9Ck"
     },
     {
         "ranking": "88",
@@ -627,7 +636,8 @@
         "title": "AWAY",
         "artist": "Davido",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/40/12/87/4012878d-d267-09b8-7fe0-8c3fd8fdf169/886449553617.jpg/80x80bb.webp",
-        "appleID": "away/1675379763"
+        "appleID": "away/1675379763",
+        "youtubeID": "SbgKpHi-Cao"
     },
     {
         "ranking": "91",
@@ -655,7 +665,8 @@
         "title": "KANTE (feat. Fave)",
         "artist": "Davido",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/40/12/87/4012878d-d267-09b8-7fe0-8c3fd8fdf169/886449553617.jpg/80x80bb.webp",
-        "appleID": "https://music.apple.com/us/artist/davido/254654363"
+        "appleID": "https://music.apple.com/us/artist/davido/254654363",
+        "youtubeID": "3bFPDfWReN0"
     },
     {
         "ranking": "95",

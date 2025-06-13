@@ -7,7 +7,8 @@
         "prev": "1",
         "streak": "60",
         "streams": "4,915,727",
-        "youtubeID": "QjrkrVmC-8M"
+        "youtubeID": "QjrkrVmC-8M",
+        "spotifyID": "78W4mTLIh4qoLu92W4IQhO"
     },
     {
         "ranking": "2",
@@ -97,7 +98,8 @@
         "prev": "9",
         "streak": "37",
         "streams": "2,457,746",
-        "youtubeID": "jZqTz1G8G04"
+        "youtubeID": "jZqTz1G8G04",
+        "spotifyID": "3KtwMkj9gml6BDeYlyS8nG"
     },
     {
         "ranking": "11",
@@ -137,7 +139,8 @@
         "prev": "12",
         "streak": "49",
         "streams": "2,122,220",
-        "youtubeID": "Jj1_mfUzjOs"
+        "youtubeID": "Jj1_mfUzjOs",
+        "appleID": "undead/1752838890"
     },
     {
         "ranking": "15",
@@ -327,7 +330,8 @@
         "prev": "34",
         "streak": "27",
         "streams": "1,134,033",
-        "youtubeID": "-6YeAmmRdoA"
+        "youtubeID": "-6YeAmmRdoA",
+        "spotifyID": "6DYV1GqwCTrvfPcjeFwjLt"
     },
     {
         "ranking": "34",
@@ -397,7 +401,9 @@
         "prev": "30",
         "streak": "35",
         "streams": "1,082,108",
-        "youtubeID": "eQndIPCv4Z0"
+        "youtubeID": "eQndIPCv4Z0",
+        "appleID": "bunny-girl/1769165500",
+        "spotifyID": "5skCbGGAnc7Ns18Figz54h"
     },
     {
         "ranking": "41",
@@ -447,7 +453,9 @@
         "prev": "39",
         "streak": "43",
         "streams": "1,015,443",
-        "youtubeID": "FYhxYcXfhYA"
+        "youtubeID": "FYhxYcXfhYA",
+        "appleID": "familie/1760670654",
+        "spotifyID": "4PCQHOJFMV9BWq46UMVf2l"
     },
     {
         "ranking": "46",
@@ -587,7 +595,8 @@
         "prev": "50",
         "streak": "66",
         "streams": "781,968",
-        "youtubeID": "TcLLpZBWsck"
+        "youtubeID": "TcLLpZBWsck",
+        "spotifyID": "51oc6MEsXTpnPn6GOw5VuP"
     },
     {
         "ranking": "60",
@@ -997,6 +1006,7 @@
         "prev": "-",
         "streak": "18",
         "streams": "424,509",
-        "youtubeID": "meZPD28Y7xE"
+        "youtubeID": "meZPD28Y7xE",
+        "spotifyID": "3QIAwtEEDOrv0g5NKCGrXZ"
     }
 ]
