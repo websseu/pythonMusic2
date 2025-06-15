@@ -17,7 +17,9 @@
         "prev": "1",
         "streak": "11",
         "streams": "<10K",
-        "youtubeID": "5MS_Fczs_98"
+        "youtubeID": "5MS_Fczs_98",
+        "appleID": "espresso-macchiato/1783135861",
+        "spotifyID": "3gWBWLw3J3XTy3QTo36GqJ"
     },
     {
         "ranking": "3",
@@ -67,7 +69,8 @@
         "prev": "5",
         "streak": "28",
         "streams": "<10K",
-        "youtubeID": "ueNY30Cs8Lk"
+        "youtubeID": "ueNY30Cs8Lk",
+        "spotifyID": "23UBSdCPcsloNVmQZ508Zv"
     },
     {
         "ranking": "8",
@@ -87,7 +90,9 @@
         "prev": "-",
         "streak": "64",
         "streams": "<10K",
-        "youtubeID": "GZ3zL7kT6_c"
+        "youtubeID": "GZ3zL7kT6_c",
+        "appleID": "lose-control/1691699836",
+        "spotifyID": "17phhZDn6oGtzMe56NuWvj"
     },
     {
         "ranking": "10",
@@ -97,7 +102,9 @@
         "prev": "6",
         "streak": "43",
         "streams": "<10K",
-        "youtubeID": "kPa7bsKwL-c"
+        "youtubeID": "kPa7bsKwL-c",
+        "appleID": "die-with-a-smile/1762656732",
+        "spotifyID": "2plbrEY59IikOBgBGLjaoe"
     },
     {
         "ranking": "11",
@@ -107,7 +114,8 @@
         "prev": "8",
         "streak": "47",
         "streams": "<10K",
-        "youtubeID": "60XkRnH3Rc8"
+        "youtubeID": "60XkRnH3Rc8",
+        "spotifyID": "0q2TiBDwdGZ4B8g3M7dNuO"
     },
     {
         "ranking": "12",
@@ -147,7 +155,9 @@
         "prev": "18",
         "streak": "39",
         "streams": "<10K",
-        "youtubeID": "Qh8QwVYOSVU"
+        "youtubeID": "Qh8QwVYOSVU",
+        "appleID": "bad-dreams/1765799904",
+        "spotifyID": "3nHuKdFJZm78CoeBnDcFKe"
     },
     {
         "ranking": "16",
@@ -227,7 +237,8 @@
         "prev": "22",
         "streak": "17",
         "streams": "<10K",
-        "youtubeID": "DMrJiFF1zmg"
+        "youtubeID": "DMrJiFF1zmg",
+        "spotifyID": "6dqtXAD7TqlhZVroaUigVC"
     },
     {
         "ranking": "24",
@@ -337,7 +348,9 @@
         "prev": "35",
         "streak": "23",
         "streams": "<10K",
-        "youtubeID": "k-k2_Liofy8"
+        "youtubeID": "k-k2_Liofy8",
+        "appleID": "messy/1743250261",
+        "spotifyID": "35ISBknsCeZQtq66xABI9g"
     },
     {
         "ranking": "35",
@@ -347,7 +360,9 @@
         "prev": "33",
         "streak": "37",
         "streams": "<10K",
-        "youtubeID": "NdYWuo9OFAw"
+        "youtubeID": "NdYWuo9OFAw",
+        "appleID": "iris/267537169",
+        "spotifyID": "6Qyc6fS4DsZjB2mRW9DsQs"
     },
     {
         "ranking": "36",
@@ -457,7 +472,9 @@
         "prev": "25",
         "streak": "36",
         "streams": "<10K",
-        "youtubeID": "nOI67IDlNMQ"
+        "youtubeID": "nOI67IDlNMQ",
+        "appleID": "like-crazy/1676947244",
+        "spotifyID": "3Ua0m0YmEjrMi9XErKcNiR"
     },
     {
         "ranking": "47",
@@ -507,7 +524,8 @@
         "prev": "-",
         "streak": "40",
         "streams": "<10K",
-        "youtubeID": "u1V8YRJnr4Q"
+        "youtubeID": "u1V8YRJnr4Q",
+        "spotifyID": "2LawezPeJhN4AWuSB0GtAU"
     },
     {
         "ranking": "52",
@@ -567,7 +585,9 @@
         "prev": "-",
         "streak": "19",
         "streams": "<10K",
-        "youtubeID": "wq6Boirj7Dc"
+        "youtubeID": "BY_XwvKogC8",
+        "appleID": "chihiro/1739659141",
+        "spotifyID": "7BRD7x5pt8Lqa1eGYC4dzj"
     },
     {
         "ranking": "58",
@@ -597,7 +617,9 @@
         "prev": "-",
         "streak": "29",
         "streams": "<10K",
-        "youtubeID": "uJ_1HMAGb4k"
+        "youtubeID": "uJ_1HMAGb4k",
+        "appleID": "riptide/1022164261",
+        "spotifyID": "2uXlHCUbq9OMUwx3hrk06o"
     },
     {
         "ranking": "61",
@@ -827,7 +849,9 @@
         "prev": "-",
         "streak": "18",
         "streams": "<10K",
-        "youtubeID": "GR3Liudev18"
+        "youtubeID": "GR3Liudev18",
+        "appleID": "pink-pony-club/1675173768",
+        "spotifyID": "1k2pQc5i348DCHwbn5KTdc"
     },
     {
         "ranking": "84",
@@ -937,7 +961,8 @@
         "prev": "87",
         "streak": "9",
         "streams": "<10K",
-        "youtubeID": "hN5X4kGhAtU"
+        "youtubeID": "hN5X4kGhAtU",
+        "appleID": "we-are-the-people/712862710"
     },
     {
         "ranking": "95",
