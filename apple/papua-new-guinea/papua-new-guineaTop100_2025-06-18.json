@@ -81,7 +81,9 @@
         "title": "Snooze",
         "artist": "SZA",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/bd/3b/a9/bd3ba9fb-9609-144f-bcfe-ead67b5f6ab3/196589564931.jpg/80x80bb.webp",
-        "appleID": "snooze/1657869492"
+        "appleID": "snooze/1657869492",
+        "youtubeID": "LDY_XyxBu8A",
+        "spotifyID": "4iZ4pt7kvcaH6Yo8UoZ4s2"
     },
     {
         "ranking": "13",
@@ -102,7 +104,8 @@
         "title": "Nobody Gets Me",
         "artist": "SZA",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/bd/3b/a9/bd3ba9fb-9609-144f-bcfe-ead67b5f6ab3/196589564931.jpg/80x80bb.webp",
-        "appleID": "nobody-gets-me/1657869532"
+        "appleID": "nobody-gets-me/1657869532",
+        "spotifyID": "5Y35SjAfXjjG0sFQ3KOxmm"
     },
     {
         "ranking": "16",
@@ -130,7 +133,8 @@
         "title": "luther",
         "artist": "Kendrick Lamar",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/50/c2/cc/50c2cc95-3658-9417-0d4b-831abde44ba1/24UM1IM28978.rgb.jpg/80x80bb.webp",
-        "appleID": "luther/1781270323"
+        "appleID": "luther/1781270323",
+        "youtubeID": "4_taypLmSMU"
     },
     {
         "ranking": "20",
@@ -214,14 +218,17 @@
         "title": "BIRDS OF A FEATHER",
         "artist": "Billie Eilish",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
-        "appleID": "birds-of-a-feather/1739659142"
+        "appleID": "birds-of-a-feather/1739659142",
+        "youtubeID": "V9PVRfjEBTI"
     },
     {
         "ranking": "32",
         "title": "Bad Dreams",
         "artist": "Teddy Swims",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/cd/5d/64/cd5d64c2-338b-00c9-52d6-578a0f19d826/054391245908.jpg/80x80bb.webp",
-        "appleID": "bad-dreams/1765799904"
+        "appleID": "bad-dreams/1765799904",
+        "youtubeID": "Qh8QwVYOSVU",
+        "spotifyID": "3nHuKdFJZm78CoeBnDcFKe"
     },
     {
         "ranking": "33",
@@ -235,14 +242,17 @@
         "title": "Every Night Every Morning",
         "artist": "Maoli",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/db/73/4f/db734ffc-785c-9999-be7c-f0c54458690a/0.jpg/80x80bb.webp",
-        "appleID": "every-night-every-morning/1761629618"
+        "appleID": "every-night-every-morning/1761629618",
+        "youtubeID": "20k90wvdLco"
     },
     {
         "ranking": "35",
         "title": "WILDFLOWER",
         "artist": "Billie Eilish",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
-        "appleID": "wildflower/1739659144"
+        "appleID": "wildflower/1739659144",
+        "youtubeID": "IWKyykQBRKo",
+        "spotifyID": "3QaPy1KgI7nu9FJEQUgn6h"
     },
     {
         "ranking": "36",
@@ -291,7 +301,7 @@
         "title": "RAUN LONGLONG",
         "artist": "Tarvin Toune",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/13/1f/f5/131ff53e-9610-46f5-e03c-9d1c70ebdfbc/0.jpg/80x80bb.webp",
-        "appleID": "raun-longlong/1803556857"
+        "appleID": "raun-longlong/1782501089"
     },
     {
         "ranking": "43",
@@ -354,7 +364,7 @@
         "title": "Dei",
         "artist": "Kali Tui",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/dc/6e/62/dc6e628a-50f2-b850-84a6-befdf5f56af3/0.jpg/80x80bb.webp",
-        "appleID": "dei/1802832955"
+        "appleID": "dei/1766008069"
     },
     {
         "ranking": "52",
@@ -410,7 +420,8 @@
         "title": "Marilag",
         "artist": "Dionela",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f1/3e/56/f13e5665-0f18-7443-d493-c68ac3ca5b42/24UM1IM14978.rgb.jpg/80x80bb.webp",
-        "appleID": "marilag/1776345984"
+        "appleID": "marilag/1776345984",
+        "spotifyID": "2zbq6eS68i4NIJWekIuW1s"
     },
     {
         "ranking": "60",
@@ -431,7 +442,8 @@
         "title": "Saturn",
         "artist": "SZA",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/0f/90/a8/0f90a856-0447-d846-fa7b-b9c937e72310/196871881180.jpg/80x80bb.webp",
-        "appleID": "saturn/1732348414"
+        "appleID": "saturn/1732348414",
+        "spotifyID": "1bjeWoagtHmUKputLVyDxQ"
     },
     {
         "ranking": "63",
@@ -494,7 +506,9 @@
         "title": "Die With A Smile",
         "artist": "Lady Gaga",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/11/ae/f2/11aef294-f57c-bab9-c9fc-529162984e62/24UMGIM85348.rgb.jpg/80x80bb.webp",
-        "appleID": "die-with-a-smile/1762656732"
+        "appleID": "die-with-a-smile/1762656732",
+        "youtubeID": "kPa7bsKwL-c",
+        "spotifyID": "2plbrEY59IikOBgBGLjaoe"
     },
     {
         "ranking": "72",
@@ -515,14 +529,17 @@
         "title": "Diet Pepsi",
         "artist": "Addison Rae",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/01/ef/7a/01ef7a06-1b48-0460-efbf-983d6a0a37fa/196872309959.jpg/80x80bb.webp",
-        "appleID": "diet-pepsi/1760428041"
+        "appleID": "diet-pepsi/1760428041",
+        "spotifyID": "6MzofobZt2dm0Kf1hTThFz"
     },
     {
         "ranking": "75",
         "title": "Stargazing",
         "artist": "Myles Smith",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/bf/c3/a5/bfc3a56d-a51b-69cb-cdfc-26ee63631cb8/196872051872.jpg/80x80bb.webp",
-        "appleID": "stargazing/1742275653"
+        "appleID": "stargazing/1742275653",
+        "youtubeID": "9p9EauIOPm8",
+        "spotifyID": "3Vr3zh0r7ALn8VLqCiRR10"
     },
     {
         "ranking": "76",
@@ -599,7 +616,8 @@
         "title": "Good Days",
         "artist": "SZA",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/ef/09/cf/ef09cf1f-a057-6039-00d3-7b5d14c7eba1/886449006717.jpg/80x80bb.webp",
-        "appleID": "good-days/1546390051"
+        "appleID": "good-days/1546390051",
+        "youtubeID": "0BdlKkvjEgA"
     },
     {
         "ranking": "87",
@@ -676,7 +694,8 @@
         "title": "Bitter Sweet Symphony",
         "artist": "The Verve",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/5c/b1/85/5cb18512-9cbd-7b84-4042-37f23bc2ae45/17UMGIM89555.rgb.jpg/80x80bb.webp",
-        "appleID": "bitter-sweet-symphony/1443258189"
+        "appleID": "bitter-sweet-symphony/1443258189",
+        "youtubeID": "1lyu1KKwC74"
     },
     {
         "ranking": "98",
