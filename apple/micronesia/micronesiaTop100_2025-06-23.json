@@ -11,7 +11,8 @@
         "title": "Not Like Us",
         "artist": "Kendrick Lamar",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d0/ef/b6/d0efb685-73be-fdee-58c9-be655f4cd4fd/24UMGIM51924.rgb.jpg/80x80bb.webp",
-        "appleID": "not-like-us/1744776167"
+        "appleID": "not-like-us/1744776167",
+        "youtubeID": "H58vbez_m4E"
     },
     {
         "ranking": "3",
@@ -95,7 +96,8 @@
         "title": "Praise Jah In the Moonlight",
         "artist": "YG Marley",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f2/da/b4/f2dab4af-f209-1563-ff58-98fa5bd2920a/cover_4062851821834.jpg/80x80bb.webp",
-        "appleID": "praise-jah-in-the-moonlight/1723309988"
+        "appleID": "praise-jah-in-the-moonlight/1723309988",
+        "youtubeID": "Kgh9TVm4X8s"
     },
     {
         "ranking": "15",
@@ -186,14 +188,16 @@
         "title": "luther",
         "artist": "Kendrick Lamar",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/50/c2/cc/50c2cc95-3658-9417-0d4b-831abde44ba1/24UM1IM28978.rgb.jpg/80x80bb.webp",
-        "appleID": "luther/1781270323"
+        "appleID": "luther/1781270323",
+        "youtubeID": "4_taypLmSMU"
     },
     {
         "ranking": "28",
         "title": "tv off (feat. Lefty Gunplay)",
         "artist": "Kendrick Lamar",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/50/c2/cc/50c2cc95-3658-9417-0d4b-831abde44ba1/24UM1IM28978.rgb.jpg/80x80bb.webp",
-        "appleID": "tv-off-feat-lefty-gunplay/1781270540"
+        "appleID": "tv-off-feat-lefty-gunplay/1781270540",
+        "youtubeID": "U8F5G5wR1mk"
     },
     {
         "ranking": "29",
@@ -235,14 +239,17 @@
         "title": "When It Rains It Pours",
         "artist": "Luke Combs",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/3c/83/bf/3c83bf3e-bf4a-7e69-5668-d55f5a8e38e0/886446460840.jpg/80x80bb.webp",
-        "appleID": "when-it-rains-it-pours/1228888143"
+        "appleID": "when-it-rains-it-pours/1228888143",
+        "spotifyID": "1mMLMZYXkMueg65jRRWG1l"
     },
     {
         "ranking": "35",
         "title": "Lose Control",
         "artist": "Teddy Swims",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/36/19/66/36196640-1561-dc5e-c6bc-1e5f4befa583/093624856771.jpg/80x80bb.webp",
-        "appleID": "lose-control/1691699836"
+        "appleID": "lose-control/1691699836",
+        "youtubeID": "GZ3zL7kT6_c",
+        "spotifyID": "17phhZDn6oGtzMe56NuWvj"
     },
     {
         "ranking": "36",
@@ -291,7 +298,7 @@
         "title": "Life in Your Hands",
         "artist": "JKING",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/13/42/d3/1342d330-9057-2734-86b0-2a6ce264e5a2/0.jpg/80x80bb.webp",
-        "appleID": "life-in-your-hands/1804342122"
+        "appleID": "life-in-your-hands/1715938831"
     },
     {
         "ranking": "43",
@@ -480,7 +487,8 @@
         "title": "Your Love",
         "artist": "The Outfield",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/af/35/d3/af35d339-a9c0-a565-712d-a31dd9e42a4b/mzi.jyzejvil.jpg/80x80bb.webp",
-        "appleID": "your-love/186346150"
+        "appleID": "your-love/186346150",
+        "youtubeID": "4N1iwQxiHrs"
     },
     {
         "ranking": "70",
@@ -564,7 +572,8 @@
         "title": "Fast Car",
         "artist": "Luke Combs",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/7d/24/14/7d241439-671a-d957-9613-2f738f43a064/196589485991.jpg/80x80bb.webp",
-        "appleID": "fast-car/1666738585"
+        "appleID": "fast-car/1666738585",
+        "spotifyID": "1Lo0QY9cvc8sUB2vnIOxDT"
     },
     {
         "ranking": "82",
@@ -627,7 +636,9 @@
         "title": "Iris",
         "artist": "The Goo Goo Dolls",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music/b4/0c/98/mzi.vhowcacb.jpg/80x80bb.webp",
-        "appleID": "iris/267537169"
+        "appleID": "iris/267537169",
+        "youtubeID": "NdYWuo9OFAw",
+        "spotifyID": "6Qyc6fS4DsZjB2mRW9DsQs"
     },
     {
         "ranking": "91",

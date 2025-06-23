@@ -67,7 +67,9 @@
         "title": "APT.",
         "artist": "ROSÉ",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2d/1a/7d/2d1a7d91-587e-0ceb-d434-327bd66d9e86/075679628312.jpg/80x80bb.webp",
-        "appleID": "apt/1773452221"
+        "appleID": "apt/1773452221",
+        "youtubeID": "ekr2nIex040",
+        "spotifyID": "4wJ5Qq0jBN4ajy7ouZIV1c"
     },
     {
         "ranking": "11",
@@ -95,7 +97,8 @@
         "title": "Shape of You",
         "artist": "Ed Sheeran",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/15/e6/e8/15e6e8a4-4190-6a8b-86c3-ab4a51b88288/190295851286.jpg/80x80bb.webp",
-        "appleID": "shape-of-you/1193701392"
+        "appleID": "shape-of-you/1193701392",
+        "youtubeID": "JGwWNGJdvx8"
     },
     {
         "ranking": "15",
@@ -165,7 +168,8 @@
         "title": "Timeless",
         "artist": "The Weeknd",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/40/77/cb/4077cbd1-b6a0-d8df-b9d3-e9a339dbc0ea/24UM1IM04061.rgb.jpg/80x80bb.webp",
-        "appleID": "timeless/1770380890"
+        "appleID": "timeless/1770380890",
+        "youtubeID": "5EpyN_6dqyk"
     },
     {
         "ranking": "25",
@@ -263,7 +267,9 @@
         "title": "Bad Dreams",
         "artist": "Teddy Swims",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/cd/5d/64/cd5d64c2-338b-00c9-52d6-578a0f19d826/054391245908.jpg/80x80bb.webp",
-        "appleID": "bad-dreams/1765799904"
+        "appleID": "bad-dreams/1765799904",
+        "youtubeID": "Qh8QwVYOSVU",
+        "spotifyID": "3nHuKdFJZm78CoeBnDcFKe"
     },
     {
         "ranking": "39",
@@ -291,7 +297,8 @@
         "title": "On The Ground",
         "artist": "ROSÉ",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/c2/a9/23/c2a923ac-b382-e73b-91f4-013a8d5a0600/21UMGIM18155.rgb.jpg/80x80bb.webp",
-        "appleID": "on-the-ground/1557745420"
+        "appleID": "on-the-ground/1557745420",
+        "youtubeID": "CKZvWhCqx1s"
     },
     {
         "ranking": "43",
@@ -438,7 +445,9 @@
         "title": "Die With A Smile",
         "artist": "Lady Gaga",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/11/ae/f2/11aef294-f57c-bab9-c9fc-529162984e62/24UMGIM85348.rgb.jpg/80x80bb.webp",
-        "appleID": "die-with-a-smile/1762656732"
+        "appleID": "die-with-a-smile/1762656732",
+        "youtubeID": "kPa7bsKwL-c",
+        "spotifyID": "2plbrEY59IikOBgBGLjaoe"
     },
     {
         "ranking": "64",
@@ -466,7 +475,8 @@
         "title": "Одного",
         "artist": "Татьяна Куртукова",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/af/67/6a/af676ae6-6ab5-146a-2d0c-4c001b2912e0/cover.jpg/80x80bb.webp",
-        "appleID": "%D0%BE%D0%B4%D0%BD%D0%BE%D0%B3%D0%BE/1777112820"
+        "appleID": "%D0%BE%D0%B4%D0%BD%D0%BE%D0%B3%D0%BE/1777112820",
+        "youtubeID": "YJpeJwHsvI8"
     },
     {
         "ranking": "68",
@@ -599,7 +609,8 @@
         "title": "Вороны",
         "artist": "Xcho",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/0b/5e/fd/0b5efd95-e89c-be35-cbf7-1a66d5ff679c/cover.jpg/80x80bb.webp",
-        "appleID": "%D0%B2%D0%BE%D1%80%D0%BE%D0%BD%D1%8B/1804969911"
+        "appleID": "%D0%B2%D0%BE%D1%80%D0%BE%D0%BD%D1%8B/1587178099",
+        "spotifyID": "1eQc0azOMOv6VuqQi9c2Ba"
     },
     {
         "ranking": "87",
