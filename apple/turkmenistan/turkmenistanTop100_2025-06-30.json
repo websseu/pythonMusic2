@@ -32,7 +32,9 @@
         "title": "Böyle Sever",
         "artist": "Kahraman Deniz",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/75/d1/40/75d140ee-8c3f-c022-b12c-5b11746fca8e/8718857756118.png/80x80bb.webp",
-        "appleID": "b%C3%B6yle-sever/1471128261"
+        "appleID": "b%C3%B6yle-sever/1471128261",
+        "youtubeID": "31MlKrC-Yvc",
+        "spotifyID": "7hU3H2id2pBVawD7e3zd8N"
     },
     {
         "ranking": "6",
@@ -67,7 +69,9 @@
         "title": "PİŞT",
         "artist": "Era7capone",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/20/5b/3f/205b3f24-52e1-498e-7632-84e3104d39c8/198846479705.jpg/80x80bb.webp",
-        "appleID": "pi-%C5%9Ft/1771467712"
+        "appleID": "pi-%C5%9Ft/1771467712",
+        "youtubeID": "YxUlqj3rtk8",
+        "spotifyID": "2ugG3itPOpM9IANApt473B"
     },
     {
         "ranking": "11",
@@ -123,7 +127,9 @@
         "title": "Bad Dreams",
         "artist": "Teddy Swims",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/cd/5d/64/cd5d64c2-338b-00c9-52d6-578a0f19d826/054391245908.jpg/80x80bb.webp",
-        "appleID": "bad-dreams/1765799904"
+        "appleID": "bad-dreams/1765799904",
+        "youtubeID": "Qh8QwVYOSVU",
+        "spotifyID": "3nHuKdFJZm78CoeBnDcFKe"
     },
     {
         "ranking": "19",
@@ -158,7 +164,9 @@
         "title": "APT.",
         "artist": "ROSÉ",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2d/1a/7d/2d1a7d91-587e-0ceb-d434-327bd66d9e86/075679628312.jpg/80x80bb.webp",
-        "appleID": "apt/1773452221"
+        "appleID": "apt/1773452221",
+        "youtubeID": "ekr2nIex040",
+        "spotifyID": "4wJ5Qq0jBN4ajy7ouZIV1c"
     },
     {
         "ranking": "24",
@@ -186,7 +194,9 @@
         "title": "That’s So True",
         "artist": "Gracie Abrams",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/26/78/81/26788143-5e5f-0813-2480-ecf4280ef221/24UM1IM07082.rgb.jpg/80x80bb.webp",
-        "appleID": "thats-so-true/1773474483"
+        "appleID": "thats-so-true/1773474483",
+        "youtubeID": "BDHM8cyJQa8",
+        "spotifyID": "7ne4VBA60CxGM75vw0EYad"
     },
     {
         "ranking": "28",
@@ -200,14 +210,16 @@
         "title": "Timeless",
         "artist": "The Weeknd",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/40/77/cb/4077cbd1-b6a0-d8df-b9d3-e9a339dbc0ea/24UM1IM04061.rgb.jpg/80x80bb.webp",
-        "appleID": "timeless/1770380890"
+        "appleID": "timeless/1770380890",
+        "youtubeID": "5EpyN_6dqyk"
     },
     {
         "ranking": "30",
         "title": "Shape of You",
         "artist": "Ed Sheeran",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/15/e6/e8/15e6e8a4-4190-6a8b-86c3-ab4a51b88288/190295851286.jpg/80x80bb.webp",
-        "appleID": "shape-of-you/1193701392"
+        "appleID": "shape-of-you/1193701392",
+        "youtubeID": "JGwWNGJdvx8"
     },
     {
         "ranking": "31",
@@ -228,7 +240,8 @@
         "title": "Another Love",
         "artist": "Tom Odell",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/3d/80/6e/3d806e1d-106c-7483-2024-032042519ab3/886443996779.jpg/80x80bb.webp",
-        "appleID": "another-love/1308605492"
+        "appleID": "another-love/1308605492",
+        "spotifyID": "7jtQIBanIiJOMS6RyCx6jZ"
     },
     {
         "ranking": "34",
@@ -277,7 +290,7 @@
         "title": "Radio",
         "artist": "Lana Del Rey",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/c5/df/dd/c5dfdd9c-24f2-de01-246c-fcc5e028f705/12UMGIM53864.rgb.jpg/80x80bb.webp",
-        "appleID": "radio/1442452480"
+        "appleID": "radio/1440854449"
     },
     {
         "ranking": "41",
@@ -396,7 +409,9 @@
         "title": "Lose Control",
         "artist": "Teddy Swims",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/36/19/66/36196640-1561-dc5e-c6bc-1e5f4befa583/093624856771.jpg/80x80bb.webp",
-        "appleID": "lose-control/1691699836"
+        "appleID": "lose-control/1691699836",
+        "youtubeID": "GZ3zL7kT6_c",
+        "spotifyID": "17phhZDn6oGtzMe56NuWvj"
     },
     {
         "ranking": "58",
@@ -438,7 +453,8 @@
         "title": "Yankı",
         "artist": "Simge",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/39/c8/2d/39c82d12-4ac5-169c-2b60-ed85a7ee9268/cover.jpg/80x80bb.webp",
-        "appleID": "yank%C4%B1/1078972975"
+        "appleID": "yank%C4%B1/1078972975",
+        "spotifyID": "4y3QBJf9E8yDJCEFbRK8xk"
     },
     {
         "ranking": "64",
@@ -494,7 +510,8 @@
         "title": "Love Story",
         "artist": "Indila",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/49/58/30/49583018-308b-431d-c691-4a28e78be8cd/14UMGIM01109.rgb.jpg/80x80bb.webp",
-        "appleID": "love-story/1440830558"
+        "appleID": "love-story/1440830558",
+        "youtubeID": "DF3XjEhJ40Y"
     },
     {
         "ranking": "72",
@@ -571,7 +588,9 @@
         "title": "The Door",
         "artist": "Teddy Swims",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/36/19/66/36196640-1561-dc5e-c6bc-1e5f4befa583/093624856771.jpg/80x80bb.webp",
-        "appleID": "the-door/1691699849"
+        "appleID": "the-door/1691699849",
+        "youtubeID": "VSXT4a2kRHA",
+        "spotifyID": "3dj4wgM3cPeuLwMNHDuBon"
     },
     {
         "ranking": "83",
@@ -662,7 +681,7 @@
         "title": "Born to Die",
         "artist": "Lana Del Rey",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/c5/df/dd/c5dfdd9c-24f2-de01-246c-fcc5e028f705/12UMGIM53864.rgb.jpg/80x80bb.webp",
-        "appleID": "born-to-die/1442452466"
+        "appleID": "born-to-die/1440854125"
     },
     {
         "ranking": "96",
@@ -683,7 +702,8 @@
         "title": "Flowers",
         "artist": "Miley Cyrus",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/c4/40/d8/c440d88a-2bcd-5d10-e814-e482271134f4/196871387361.jpg/80x80bb.webp",
-        "appleID": "flowers/1702906535"
+        "appleID": "flowers/1702906535",
+        "youtubeID": "G7KNmW9a75Y"
     },
     {
         "ranking": "99",
