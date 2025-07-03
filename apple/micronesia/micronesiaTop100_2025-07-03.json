@@ -60,7 +60,8 @@
         "title": "I Had Some Help (feat. Morgan Wallen)",
         "artist": "Post Malone",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e1/b7/09/e1b7098f-d6e1-2b18-fd6f-8390110908eb/24UMGIM50612.rgb.jpg/80x80bb.webp",
-        "appleID": "i-had-some-help-feat-morgan-wallen/1744439049"
+        "appleID": "i-had-some-help-feat-morgan-wallen/1744439049",
+        "youtubeID": "4QIZE708gJ4"
     },
     {
         "ranking": "10",
@@ -95,7 +96,8 @@
         "title": "A Bar Song (Tipsy)",
         "artist": "Shaboozey",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/97/b5/bc/97b5bca2-6238-2421-4f0d-1f7a39d5d9d4/197342550925_cover.jpg/80x80bb.webp",
-        "appleID": "a-bar-song-tipsy/1737085899"
+        "appleID": "a-bar-song-tipsy/1737085899",
+        "youtubeID": "t7bQwwqW-Hc"
     },
     {
         "ranking": "15",
@@ -277,21 +279,23 @@
         "title": "Knife Talk (feat. 21 Savage & Project Pat)",
         "artist": "Drake",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/11/36/38/1136384a-eebc-697a-c005-d890e41c0854/21UM1IM07518.rgb.jpg/80x80bb.webp",
-        "appleID": "knife-talk-feat-21-savage-project-pat/1584281787"
+        "appleID": "knife-talk-feat-21-savage-project-pat/1584281787",
+        "youtubeID": "XqpQpt_cmhE"
     },
     {
         "ranking": "41",
         "title": "Naita",
         "artist": "Jay Tauleka",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d6/1f/e6/d61fe674-96e3-a909-64b7-9fd79299b783/0.jpg/80x80bb.webp",
-        "appleID": "naita/1802834758"
+        "appleID": "naita/1701898885"
     },
     {
         "ranking": "42",
         "title": "on one tonight",
         "artist": "Gunna",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/42/4e/45/424e4521-37b7-6f49-293a-98a1285ed7c5/075679660336.jpg/80x80bb.webp",
-        "appleID": "on-one-tonight/1744458286"
+        "appleID": "on-one-tonight/1744458286",
+        "spotifyID": "6EUcP55GlbmsmCzfL2vxtZ"
     },
     {
         "ranking": "43",
@@ -347,7 +351,8 @@
         "title": "Not Like Us",
         "artist": "Kendrick Lamar",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d0/ef/b6/d0efb685-73be-fdee-58c9-be655f4cd4fd/24UMGIM51924.rgb.jpg/80x80bb.webp",
-        "appleID": "not-like-us/1744776167"
+        "appleID": "not-like-us/1744776167",
+        "youtubeID": "H58vbez_m4E"
     },
     {
         "ranking": "51",
@@ -368,14 +373,16 @@
         "title": "luther",
         "artist": "Kendrick Lamar",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/50/c2/cc/50c2cc95-3658-9417-0d4b-831abde44ba1/24UM1IM28978.rgb.jpg/80x80bb.webp",
-        "appleID": "luther/1781270323"
+        "appleID": "luther/1781270323",
+        "youtubeID": "4_taypLmSMU"
     },
     {
         "ranking": "54",
         "title": "tv off (feat. Lefty Gunplay)",
         "artist": "Kendrick Lamar",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/50/c2/cc/50c2cc95-3658-9417-0d4b-831abde44ba1/24UM1IM28978.rgb.jpg/80x80bb.webp",
-        "appleID": "tv-off-feat-lefty-gunplay/1781270540"
+        "appleID": "tv-off-feat-lefty-gunplay/1781270540",
+        "youtubeID": "U8F5G5wR1mk"
     },
     {
         "ranking": "55",
@@ -410,7 +417,8 @@
         "title": "Beautiful Things",
         "artist": "Benson Boone",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/54/f4/92/54f49210-e260-b519-ebbd-f4f40ee710cd/054391342751.jpg/80x80bb.webp",
-        "appleID": "beautiful-things/1724488124"
+        "appleID": "beautiful-things/1724488124",
+        "youtubeID": "Oa_RSwwpPaA"
     },
     {
         "ranking": "60",
@@ -424,7 +432,8 @@
         "title": "Fast Car",
         "artist": "Luke Combs",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/7d/24/14/7d241439-671a-d957-9613-2f738f43a064/196589485991.jpg/80x80bb.webp",
-        "appleID": "fast-car/1666738585"
+        "appleID": "fast-car/1666738585",
+        "spotifyID": "1Lo0QY9cvc8sUB2vnIOxDT"
     },
     {
         "ranking": "62",
@@ -487,7 +496,8 @@
         "title": "Believer",
         "artist": "Imagine Dragons",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/11/7a/b8/117ab805-6811-8929-18b9-0fad7baf0c25/17UMGIM98210.rgb.jpg/80x80bb.webp",
-        "appleID": "believer/1411628233"
+        "appleID": "believer/1411628233",
+        "youtubeID": "7wtfhZwyrcc"
     },
     {
         "ranking": "71",
@@ -508,7 +518,7 @@
         "title": "Late Night",
         "artist": "Victor J Sefo",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/67/7f/9c/677f9c0f-9971-d3df-43e8-ff1a1a779238/7490.jpg/80x80bb.webp",
-        "appleID": "late-night/1730643139"
+        "appleID": "late-night/1740651621"
     },
     {
         "ranking": "74",
@@ -683,7 +693,8 @@
         "title": "King Shit",
         "artist": "Shubh",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/05/b6/ed/05b6ed4c-ada8-01e2-965b-03b58801b836/197190670639.jpg/80x80bb.webp",
-        "appleID": "king-shit/1721323017"
+        "appleID": "king-shit/1721323017",
+        "spotifyID": "1BpvuKIG7jK5EiTp2tv5z8"
     },
     {
         "ranking": "99",

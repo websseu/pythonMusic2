@@ -39,7 +39,9 @@
         "title": "Wavy",
         "artist": "Karan Aujla",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cd/df/5a/cddf5a8c-464e-3958-cf4a-7fac9e490aa5/5063616597178_cover.jpg/80x80bb.webp",
-        "appleID": "wavy/1779786209"
+        "appleID": "wavy/1779786209",
+        "youtubeID": "XTp5jaRU3Ws",
+        "spotifyID": "4d2jV5fmX6hbRwaRbY39dt"
     },
     {
         "ranking": "7",
@@ -67,7 +69,8 @@
         "title": "Antidote",
         "artist": "Karan Aujla",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c2/ce/a0/c2cea088-dbde-43db-346f-e536058fdcfb/5063483978438_cover.jpg/80x80bb.webp",
-        "appleID": "antidote/1753101077"
+        "appleID": "antidote/1753101077",
+        "spotifyID": "7KmCQLSSde0UX5OqCgvGN9"
     },
     {
         "ranking": "11",
@@ -144,14 +147,18 @@
         "title": "Sifar Safar",
         "artist": "Karan Aujla",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b5/a1/5f/b5a15f57-7184-47a6-564e-272d515b4810/5063616203642_cover.jpg/80x80bb.webp",
-        "appleID": "sifar-safar/1773799678"
+        "appleID": "sifar-safar/1773799678",
+        "youtubeID": "TU1HQnU_9ME",
+        "spotifyID": "3lQPwCmD918SyoiIkw1zqx"
     },
     {
         "ranking": "22",
         "title": "Die With A Smile",
         "artist": "Lady Gaga",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/11/ae/f2/11aef294-f57c-bab9-c9fc-529162984e62/24UMGIM85348.rgb.jpg/80x80bb.webp",
-        "appleID": "die-with-a-smile/1762656732"
+        "appleID": "die-with-a-smile/1762656732",
+        "youtubeID": "kPa7bsKwL-c",
+        "spotifyID": "2plbrEY59IikOBgBGLjaoe"
     },
     {
         "ranking": "23",
@@ -235,14 +242,16 @@
         "title": "Timeless",
         "artist": "The Weeknd",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/40/77/cb/4077cbd1-b6a0-d8df-b9d3-e9a339dbc0ea/24UM1IM04061.rgb.jpg/80x80bb.webp",
-        "appleID": "timeless/1770380890"
+        "appleID": "timeless/1770380890",
+        "youtubeID": "5EpyN_6dqyk"
     },
     {
         "ranking": "35",
         "title": "Cheques",
         "artist": "Shubh",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/dc/46/a9/dc46a9c9-794e-2d7a-1afb-97eb4ae0fff6/197188915704.jpg/80x80bb.webp",
-        "appleID": "cheques/1687649562"
+        "appleID": "cheques/1687649562",
+        "spotifyID": "4eBvRhTJ2AcxCsbfTUjoRp"
     },
     {
         "ranking": "36",
@@ -291,7 +300,7 @@
         "title": "Jhol (Acoustic)",
         "artist": "Maanu",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/11/09/e3/1109e398-a090-f703-db6f-b952ea2aa787/artwork.jpg/80x80bb.webp",
-        "appleID": "jhol-acoustic/1793731820"
+        "appleID": "jhol/1748567106"
     },
     {
         "ranking": "43",
@@ -333,7 +342,9 @@
         "title": "Jo Tum Mere Ho",
         "artist": "Anuv Jain",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cd/df/37/cddf37f9-9794-175e-d68f-272c8a3853b2/24UMGIM79558.rgb.jpg/80x80bb.webp",
-        "appleID": "jo-tum-mere-ho/1758669726"
+        "appleID": "jo-tum-mere-ho/1758669726",
+        "youtubeID": "ilNt2bikxDI",
+        "spotifyID": "0eCajpR75pDW0r64U6hP2x"
     },
     {
         "ranking": "49",
@@ -375,7 +386,8 @@
         "title": "Pehle Bhi Main",
         "artist": "Vishal Mishra",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/db/ad/5e/dbad5e8b-0bee-d962-92d4-021c90e375ac/8902894362092_cover.jpg/80x80bb.webp",
-        "appleID": "pehle-bhi-main/1718278234"
+        "appleID": "pehle-bhi-main/1718278234",
+        "youtubeID": "lwv_0SEJ4NQ"
     },
     {
         "ranking": "55",
@@ -389,7 +401,8 @@
         "title": "Old Money",
         "artist": "AP Dhillon",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5a/fb/61/5afb613a-c9ca-625d-da7f-8d4b501f8eab/24UMGIM84219.rgb.jpg/80x80bb.webp",
-        "appleID": "old-money/1760672989"
+        "appleID": "old-money/1760672989",
+        "spotifyID": "5xlYVZxEwriP6hetG7QJw7"
     },
     {
         "ranking": "57",
@@ -466,21 +479,24 @@
         "title": "Still Rollin",
         "artist": "Shubh",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/dc/46/a9/dc46a9c9-794e-2d7a-1afb-97eb4ae0fff6/197188915704.jpg/80x80bb.webp",
-        "appleID": "still-rollin/1687649546"
+        "appleID": "still-rollin/1687649546",
+        "spotifyID": "6oz1L5jcqZWYuId7nxvIan"
     },
     {
         "ranking": "68",
         "title": "Husn",
         "artist": "Anuv Jain",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/b6/3d/12/b63d1218-7bc1-f4f2-5fdd-5d1909abda1c/23UM1IM56437.rgb.jpg/80x80bb.webp",
-        "appleID": "husn/1717140552"
+        "appleID": "husn/1717140552",
+        "spotifyID": "0TL0LFcwIBF5eX7arDIKxY"
     },
     {
         "ranking": "69",
         "title": "One Love",
         "artist": "Shubh",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/48/4f/3c/484f3c19-fdab-1fa8-fdb4-c7de79852d12/197189603969.jpg/80x80bb.webp",
-        "appleID": "one-love/1700735404"
+        "appleID": "one-love/1700735404",
+        "spotifyID": "5ZLkihi6DVsHwDL3B8ym1t"
     },
     {
         "ranking": "70",
@@ -620,14 +636,17 @@
         "title": "Millionaire",
         "artist": "Yo Yo Honey Singh",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/11/e3/9c/11e39c6d-0ac9-8728-cb9e-94197f645bfd/8903431012173_cover.jpg/80x80bb.webp",
-        "appleID": "millionaire/1763807340"
+        "appleID": "millionaire/1763807340",
+        "youtubeID": "XO8wew38VM8",
+        "spotifyID": "78BWCd70D1X6LMkDZm1UoF"
     },
     {
         "ranking": "90",
         "title": "Blinding Lights",
         "artist": "The Weeknd",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/a6/6e/bf/a66ebf79-5008-8948-b352-a790fc87446b/19UM1IM04638.rgb.jpg/80x80bb.webp",
-        "appleID": "blinding-lights/1488408568"
+        "appleID": "blinding-lights/1488408568",
+        "spotifyID": "0VjIjW4GlUZAMYd2vXMi3b"
     },
     {
         "ranking": "91",
@@ -641,7 +660,8 @@
         "title": "King Shit",
         "artist": "Shubh",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/05/b6/ed/05b6ed4c-ada8-01e2-965b-03b58801b836/197190670639.jpg/80x80bb.webp",
-        "appleID": "king-shit/1721323017"
+        "appleID": "king-shit/1721323017",
+        "spotifyID": "1BpvuKIG7jK5EiTp2tv5z8"
     },
     {
         "ranking": "93",
@@ -676,14 +696,16 @@
         "title": "Born to Shine",
         "artist": "Diljit Dosanjh",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/d2/89/ac/d289ac98-749e-3822-6b6e-b06aa4815715/859740651597_cover.jpg/80x80bb.webp",
-        "appleID": "born-to-shine/1523521607"
+        "appleID": "born-to-shine/1523521607",
+        "spotifyID": "4XxfOvudrnBRdlgzEaq1sd"
     },
     {
         "ranking": "98",
         "title": "G.O.A.T.",
         "artist": "Diljit Dosanjh",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/d2/89/ac/d289ac98-749e-3822-6b6e-b06aa4815715/859740651597_cover.jpg/80x80bb.webp",
-        "appleID": "g-o-a-t/1523521149"
+        "appleID": "g-o-a-t/1523521149",
+        "spotifyID": "46QbY78ha62aiu6gBgC7lS"
     },
     {
         "ranking": "99",
@@ -697,6 +719,7 @@
         "title": "Perfect",
         "artist": "Ed Sheeran",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/15/e6/e8/15e6e8a4-4190-6a8b-86c3-ab4a51b88288/190295851286.jpg/80x80bb.webp",
-        "appleID": "perfect/1193701400"
+        "appleID": "perfect/1193701400",
+        "youtubeID": "2Vv-BfVoq4g"
     }
 ]
