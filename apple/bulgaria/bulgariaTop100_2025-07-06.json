@@ -165,7 +165,8 @@
         "title": "Timeless",
         "artist": "The Weeknd",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/40/77/cb/4077cbd1-b6a0-d8df-b9d3-e9a339dbc0ea/24UM1IM04061.rgb.jpg/80x80bb.webp",
-        "appleID": "timeless/1770380890"
+        "appleID": "timeless/1770380890",
+        "youtubeID": "5EpyN_6dqyk"
     },
     {
         "ranking": "25",
@@ -221,7 +222,7 @@
         "title": "Euphoria",
         "artist": "Galena",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e2/9d/70/e29d700a-78b9-4200-fd6b-31e97caef854/3800152334452.jpg/80x80bb.webp",
-        "appleID": "euphoria/1811175679"
+        "appleID": "euphoria/1628800789"
     },
     {
         "ranking": "33",
@@ -340,14 +341,16 @@
         "title": "А+Г=ВНЛ",
         "artist": "Galena",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/48/7b/d5/487bd57b-ebb2-0fd3-f91c-d6e248e0d2e4/3800152309559.jpg/80x80bb.webp",
-        "appleID": "%D0%B0-%D0%B3-%D0%B2%D0%BD%D0%BB/1811175687"
+        "appleID": "%D0%B0-%D0%B3-%D0%B2%D0%BD%D0%BB/1599389435"
     },
     {
         "ranking": "50",
         "title": "Die With A Smile",
         "artist": "Lady Gaga",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/11/ae/f2/11aef294-f57c-bab9-c9fc-529162984e62/24UMGIM85348.rgb.jpg/80x80bb.webp",
-        "appleID": "die-with-a-smile/1762656732"
+        "appleID": "die-with-a-smile/1762656732",
+        "youtubeID": "kPa7bsKwL-c",
+        "spotifyID": "2plbrEY59IikOBgBGLjaoe"
     },
     {
         "ranking": "51",
@@ -410,7 +413,8 @@
         "title": "Si Ai (Marshmello & UKAY Remix)",
         "artist": "Tayna",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e3/99/24/e39924db-8453-92cb-d5c1-2399bc088d2f/1174.jpg/80x80bb.webp",
-        "appleID": "si-ai-marshmello-ukay-remix/1782245477"
+        "appleID": "si-ai/1755088935",
+        "youtubeID": "4bZ-8pg4tbY"
     },
     {
         "ranking": "60",
@@ -424,14 +428,17 @@
         "title": "Espresso",
         "artist": "Sabrina Carpenter",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cb/64/8c/cb648cf7-e7bb-bd00-efe0-d744312c29a8/24UMGIM32304.rgb.jpg/80x80bb.webp",
-        "appleID": "espresso/1740212434"
+        "appleID": "espresso/1740212434",
+        "youtubeID": "eVli-tstM5E"
     },
     {
         "ranking": "62",
         "title": "APT.",
         "artist": "ROSÉ",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2d/1a/7d/2d1a7d91-587e-0ceb-d434-327bd66d9e86/075679628312.jpg/80x80bb.webp",
-        "appleID": "apt/1773452221"
+        "appleID": "apt/1773452221",
+        "youtubeID": "ekr2nIex040",
+        "spotifyID": "4wJ5Qq0jBN4ajy7ouZIV1c"
     },
     {
         "ranking": "63",
@@ -452,7 +459,8 @@
         "title": "К'ъв Съм Як",
         "artist": "DJORDAN",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/06/10/2c/06102cfb-a385-38d9-666d-2769d2610872/40A966E2-2643-11EE-AAB1-0CF3DC287BC0.jpg/80x80bb.webp",
-        "appleID": "%D0%BA%D1%8A%D0%B2-%D1%81%D1%8A%D0%BC-%D1%8F%D0%BA/1699448571"
+        "appleID": "%D0%BA%D1%8A%D0%B2-%D1%81%D1%8A%D0%BC-%D1%8F%D0%BA/1699448571",
+        "spotifyID": "6z6PaDoMisMAHCB2OKwsrf"
     },
     {
         "ranking": "66",
@@ -515,7 +523,9 @@
         "title": "Lose Control",
         "artist": "Teddy Swims",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/36/19/66/36196640-1561-dc5e-c6bc-1e5f4befa583/093624856771.jpg/80x80bb.webp",
-        "appleID": "lose-control/1691699836"
+        "appleID": "lose-control/1691699836",
+        "youtubeID": "GZ3zL7kT6_c",
+        "spotifyID": "17phhZDn6oGtzMe56NuWvj"
     },
     {
         "ranking": "75",
@@ -613,7 +623,9 @@
         "title": "Bad Dreams",
         "artist": "Teddy Swims",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/cd/5d/64/cd5d64c2-338b-00c9-52d6-578a0f19d826/054391245908.jpg/80x80bb.webp",
-        "appleID": "bad-dreams/1765799904"
+        "appleID": "bad-dreams/1765799904",
+        "youtubeID": "Qh8QwVYOSVU",
+        "spotifyID": "3nHuKdFJZm78CoeBnDcFKe"
     },
     {
         "ranking": "89",
@@ -627,14 +639,14 @@
         "title": "Дивана",
         "artist": "Medi",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/af/bd/22/afbd22e4-6d1c-ef4f-9c6d-d2bab6c93218/3800152255290.jpg/80x80bb.webp",
-        "appleID": "%D0%B4%D0%B8%D0%B2%D0%B0%D0%BD%D0%B0/1808043852"
+        "appleID": "%D0%B4%D0%B8%D0%B2%D0%B0%D0%BD%D0%B0/1525999057"
     },
     {
         "ranking": "91",
         "title": "По, по, по",
         "artist": "Galena",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c0/8a/b9/c08ab96c-2694-7482-dd81-773db62bcedd/3800152407095.jpg/80x80bb.webp",
-        "appleID": "%D0%BF%D0%BE-%D0%BF%D0%BE-%D0%BF%D0%BE/1811176228"
+        "appleID": "%D0%BF%D0%BE-%D0%BF%D0%BE-%D0%BF%D0%BE/1710611702"
     },
     {
         "ranking": "92",
@@ -669,7 +681,8 @@
         "title": "Обичам те, ти мене - не",
         "artist": "Medi",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f5/2b/e4/f52be483-8f7f-22ee-38b1-f2a5778d04ba/3800152398973.jpg/80x80bb.webp",
-        "appleID": "%D0%BE%D0%B1%D0%B8%D1%87%D0%B0%D0%BC-%D1%82%D0%B5-%D1%82%D0%B8-%D0%BC%D0%B5%D0%BD%D0%B5-%D0%BD%D0%B5/1808045766"
+        "appleID": "%D0%BE%D0%B1%D0%B8%D1%87%D0%B0%D0%BC-%D1%82%D0%B5-%D1%82%D0%B8-%D0%BC%D0%B5%D0%BD%D0%B5-%D0%BD%D0%B5/1699449590",
+        "spotifyID": "2R3jE3iK7C1Ok8eCuIFCmy"
     },
     {
         "ranking": "97",

@@ -307,7 +307,9 @@
         "prev": "22",
         "streak": "46",
         "streams": "135,315",
-        "youtubeID": "kPa7bsKwL-c"
+        "youtubeID": "kPa7bsKwL-c",
+        "appleID": "die-with-a-smile/1762656732",
+        "spotifyID": "2plbrEY59IikOBgBGLjaoe"
     },
     {
         "ranking": "32",
@@ -797,7 +799,8 @@
         "prev": "-",
         "streak": "24",
         "streams": "62,087",
-        "youtubeID": "K2XCMnB6984"
+        "youtubeID": "K2XCMnB6984",
+        "appleID": "pidgin-english/1703820453"
     },
     {
         "ranking": "81",
@@ -997,6 +1000,7 @@
         "prev": "-",
         "streak": "31",
         "streams": "50,453",
-        "youtubeID": "YNr3t1vOv2M"
+        "youtubeID": "YNr3t1vOv2M",
+        "appleID": "mama/1302463460"
     }
 ]
