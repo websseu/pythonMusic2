@@ -473,7 +473,8 @@
         "title": "Timeless",
         "artist": "The Weeknd",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/40/77/cb/4077cbd1-b6a0-d8df-b9d3-e9a339dbc0ea/24UM1IM04061.rgb.jpg/80x80bb.webp",
-        "appleID": "timeless/1770380890"
+        "appleID": "timeless/1770380890",
+        "youtubeID": "5EpyN_6dqyk"
     },
     {
         "ranking": "69",
@@ -634,14 +635,16 @@
         "title": "Full",
         "artist": "MHD",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/28/88/c9/2888c927-3e8f-1cd4-938e-82e9faddf5a5/859791762976_cover.jpg/80x80bb.webp",
-        "appleID": "full/1759893641"
+        "appleID": "full/1759893641",
+        "youtubeID": "GNXQFHGEnBg"
     },
     {
         "ranking": "92",
         "title": "Talking to the Moon",
         "artist": "Bruno Mars",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/98/ae/c2/98aec2e1-3be4-0311-1b44-69348fc87abb/075679956484.jpg/80x80bb.webp",
-        "appleID": "talking-to-the-moon/576670464"
+        "appleID": "talking-to-the-moon/576670464",
+        "spotifyID": "161DnLWsx1i3u1JT05lzqU"
     },
     {
         "ranking": "93",
