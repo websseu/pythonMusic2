@@ -151,7 +151,8 @@
         "title": "Water",
         "artist": "Tyla",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/1e/c9/5b/1ec95bbc-a56f-cbef-070c-ddec9f4fdd3c/196871296205.jpg/80x80bb.webp",
-        "appleID": "water/1699082734"
+        "appleID": "water/1699082734",
+        "spotifyID": "5aIVCx5tnk0ntmdiinnYvw"
     },
     {
         "ranking": "23",
@@ -242,14 +243,16 @@
         "title": "Rush",
         "artist": "Ayra Starr",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/b5/4a/3d/b54a3d1a-f493-7a9b-1807-a73f01709053/5059449090122.png/80x80bb.webp",
-        "appleID": "rush/1642898573"
+        "appleID": "rush/1642898573",
+        "youtubeID": "crtQSTYWtqE"
     },
     {
         "ranking": "36",
         "title": "People",
         "artist": "Libianca",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/c6/8c/ca/c68ccacb-cdd5-b765-53e1-eeca394770ac/196589735607.jpg/80x80bb.webp",
-        "appleID": "people/1658390607"
+        "appleID": "people/1658390607",
+        "youtubeID": "rJWdfDPZ9Ck"
     },
     {
         "ranking": "37",
@@ -270,7 +273,8 @@
         "title": "Every Night Every Morning",
         "artist": "Maoli",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/db/73/4f/db734ffc-785c-9999-be7c-f0c54458690a/0.jpg/80x80bb.webp",
-        "appleID": "every-night-every-morning/1761629618"
+        "appleID": "every-night-every-morning/1761629618",
+        "youtubeID": "20k90wvdLco"
     },
     {
         "ranking": "40",
@@ -298,7 +302,8 @@
         "title": "I Had Some Help (feat. Morgan Wallen)",
         "artist": "Post Malone",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e1/b7/09/e1b7098f-d6e1-2b18-fd6f-8390110908eb/24UMGIM50612.rgb.jpg/80x80bb.webp",
-        "appleID": "i-had-some-help-feat-morgan-wallen/1744439049"
+        "appleID": "i-had-some-help-feat-morgan-wallen/1744439049",
+        "youtubeID": "4QIZE708gJ4"
     },
     {
         "ranking": "44",
@@ -354,7 +359,7 @@
         "title": "White Iverson",
         "artist": "Post Malone",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cc/72/92/cc72922f-2b24-a45d-ca03-05c597941a3f/23UMGIM42184.rgb.jpg/80x80bb.webp",
-        "appleID": "white-iverson/1762885423"
+        "appleID": "white-iverson/1440887523"
     },
     {
         "ranking": "52",
@@ -501,7 +506,8 @@
         "title": "Tennessee Whiskey",
         "artist": "Chris Stapleton",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/e2/4b/60/e24b6016-8278-bb18-cf5d-d44bf68371da/00602547223838.rgb.jpg/80x80bb.webp",
-        "appleID": "tennessee-whiskey/1440827492"
+        "appleID": "tennessee-whiskey/1440827492",
+        "spotifyID": "3fqwjXwUGN6vbzIwvyFMhx"
     },
     {
         "ranking": "73",
@@ -690,7 +696,7 @@
         "title": "Hit & Run (Solo Version)",
         "artist": "Shenseea",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d1/e7/09/d1e70996-be1f-a96a-3015-2d8f55a60040/24UMGIM33356.rgb.jpg/80x80bb.webp",
-        "appleID": "hit-run-solo-version/1737870691"
+        "appleID": "hit-run/1727264203"
     },
     {
         "ranking": "100",

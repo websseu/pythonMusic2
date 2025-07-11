@@ -67,14 +67,16 @@
         "title": "Perfect",
         "artist": "Ed Sheeran",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/15/e6/e8/15e6e8a4-4190-6a8b-86c3-ab4a51b88288/190295851286.jpg/80x80bb.webp",
-        "appleID": "perfect/1193701400"
+        "appleID": "perfect/1193701400",
+        "youtubeID": "2Vv-BfVoq4g"
     },
     {
         "ranking": "11",
         "title": "Story of My Life",
         "artist": "One Direction",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/66/75/88/6675882c-3685-2b6b-f9de-c6d3e06602b5/dj.fuklqvvg.jpg/80x80bb.webp",
-        "appleID": "story-of-my-life/695318302"
+        "appleID": "story-of-my-life/695318302",
+        "youtubeID": "W-TE_Ys4iwM"
     },
     {
         "ranking": "12",
@@ -270,7 +272,9 @@
         "title": "Die With A Smile",
         "artist": "Lady Gaga",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/11/ae/f2/11aef294-f57c-bab9-c9fc-529162984e62/24UMGIM85348.rgb.jpg/80x80bb.webp",
-        "appleID": "die-with-a-smile/1762656732"
+        "appleID": "die-with-a-smile/1762656732",
+        "youtubeID": "kPa7bsKwL-c",
+        "spotifyID": "2plbrEY59IikOBgBGLjaoe"
     },
     {
         "ranking": "40",
@@ -529,7 +533,8 @@
         "title": "País das Maravilhas",
         "artist": "Plutónio",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7d/b5/42/7db54276-a783-c308-bbc4-c75f5efef89f/196872557923.jpg/80x80bb.webp",
-        "appleID": "pa%C3%ADs-das-maravilhas/1776657471"
+        "appleID": "pa%C3%ADs-das-maravilhas/1776657471",
+        "youtubeID": "JolO6Y7TkRQ"
     },
     {
         "ranking": "77",

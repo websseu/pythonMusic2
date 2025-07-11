@@ -270,7 +270,8 @@
         "title": "OZEBA",
         "artist": "Rema",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/43/67/cd/4367cd08-da60-dbd5-783d-edf824fd5710/24UMGIM73107.rgb.jpg/80x80bb.webp",
-        "appleID": "ozeba/1755408907"
+        "appleID": "ozeba/1755408907",
+        "youtubeID": "CAyD5xr1yGY"
     },
     {
         "ranking": "40",
@@ -375,7 +376,8 @@
         "title": "Not Like Us",
         "artist": "Kendrick Lamar",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d0/ef/b6/d0efb685-73be-fdee-58c9-be655f4cd4fd/24UMGIM51924.rgb.jpg/80x80bb.webp",
-        "appleID": "not-like-us/1744776167"
+        "appleID": "not-like-us/1744776167",
+        "youtubeID": "H58vbez_m4E"
     },
     {
         "ranking": "55",
@@ -410,7 +412,7 @@
         "title": "Sur paname",
         "artist": "Ninho",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/5c/e2/93/5ce2935c-cd63-bcf4-0d47-a948a2923761/5060899072439_cover.jpg/80x80bb.webp",
-        "appleID": "sur-paname/1565402015"
+        "appleID": "sur-paname/1537133461"
     },
     {
         "ranking": "60",
@@ -494,7 +496,9 @@
         "title": "Ça parle mal",
         "artist": "Bouss",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9e/c9/be/9ec9be96-5b08-980d-5918-7834bc558323/cover.jpg/80x80bb.webp",
-        "appleID": "%C3%A7a-parle-mal/1751725260"
+        "appleID": "%C3%A7a-parle-mal/1751725260",
+        "youtubeID": "UWbh7n6akIU",
+        "spotifyID": "7ifFhxRIvYbe4IuzIkY2Qi"
     },
     {
         "ranking": "72",
@@ -508,7 +512,7 @@
         "title": "VETEMENTS",
         "artist": "Himra",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4e/fc/0c/4efc0cc8-c043-e4fc-dfa7-5e6f9bb189e7/085365044852.jpg/80x80bb.webp",
-        "appleID": "vetements/1758219902"
+        "appleID": "vetements/1774762224"
     },
     {
         "ranking": "74",
@@ -536,7 +540,8 @@
         "title": "Laboratoire",
         "artist": "Werenoi",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/11/9b/68/119b6873-ea4b-4b0d-29ee-a6451c800da7/cover.jpg/80x80bb.webp",
-        "appleID": "laboratoire/1677620766"
+        "appleID": "laboratoire/1677620766",
+        "spotifyID": "7wOgZ1otoKYDvKyQKP1sNZ"
     },
     {
         "ranking": "78",
@@ -578,7 +583,9 @@
         "title": "Pétunias",
         "artist": "Werenoi",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/86/cd/96/86cd96df-cb51-3cd4-f9f9-fca95f60ec80/cover.jpg/80x80bb.webp",
-        "appleID": "p%C3%A9tunias/1771382985"
+        "appleID": "p%C3%A9tunias/1771385253",
+        "youtubeID": "n2THLWjJ3Wo",
+        "spotifyID": "3Byu179ofnuChb4zF1fMhu"
     },
     {
         "ranking": "84",
@@ -662,7 +669,9 @@
         "title": "CARTIER SANTOS",
         "artist": "SDM",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/64/46/95/64469515-0230-b26c-69cf-5db61f5ea879/24UMGIM72197.rgb.jpg/80x80bb.webp",
-        "appleID": "cartier-santos/1757803302"
+        "appleID": "cartier-santos/1757803302",
+        "youtubeID": "3nGdVePdlT4",
+        "spotifyID": "1Mzg6bu3hkCwJKEf7v49MN"
     },
     {
         "ranking": "96",
