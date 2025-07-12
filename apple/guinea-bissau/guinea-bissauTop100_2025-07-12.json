@@ -193,7 +193,8 @@
         "title": "In the End",
         "artist": "LINKIN PARK",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/53/a7/7f/53a77fab-c54c-a57b-8130-248fc12d0c80/093624948995.jpg/80x80bb.webp",
-        "appleID": "in-the-end/590431785"
+        "appleID": "in-the-end/590431785",
+        "spotifyID": "60a0Rd6pjrkxjPbaKzXjfq"
     },
     {
         "ranking": "29",
@@ -207,14 +208,16 @@
         "title": "The Line (from the series Arcane League of Legends)",
         "artist": "twenty one pilots",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/54/cf/11/54cf11ab-ac8b-587c-d98f-ac491277ae97/00198704145971_Cover.jpg/80x80bb.webp",
-        "appleID": "the-line-from-the-series-arcane-league-of-legends/1767032205"
+        "appleID": "the-line-from-the-series-arcane-league-of-legends/1767032205",
+        "youtubeID": "E2Rj2gQAyPA"
     },
     {
         "ranking": "31",
         "title": "Heavy Is the Crown",
         "artist": "LINKIN PARK",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/69/21/cf/6921cff3-7074-118a-ece2-4012450e6c75/093624839811.jpg/80x80bb.webp",
-        "appleID": "heavy-is-the-crown/1766137053"
+        "appleID": "heavy-is-the-crown/1766137053",
+        "youtubeID": "5FrhtahQiRc"
     },
     {
         "ranking": "32",
@@ -529,7 +532,8 @@
         "title": "Timeless",
         "artist": "The Weeknd",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/40/77/cb/4077cbd1-b6a0-d8df-b9d3-e9a339dbc0ea/24UM1IM04061.rgb.jpg/80x80bb.webp",
-        "appleID": "timeless/1770380890"
+        "appleID": "timeless/1770380890",
+        "youtubeID": "5EpyN_6dqyk"
     },
     {
         "ranking": "77",
@@ -585,7 +589,9 @@
         "title": "The Emptiness Machine",
         "artist": "LINKIN PARK",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/69/21/cf/6921cff3-7074-118a-ece2-4012450e6c75/093624839811.jpg/80x80bb.webp",
-        "appleID": "the-emptiness-machine/1766137051"
+        "appleID": "the-emptiness-machine/1766137051",
+        "youtubeID": "SRXH9AbT280",
+        "spotifyID": "1EDPVGbyPKJPeGqATwXZvN"
     },
     {
         "ranking": "85",

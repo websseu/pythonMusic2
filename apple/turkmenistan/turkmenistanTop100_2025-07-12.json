@@ -109,7 +109,9 @@
         "title": "Die With A Smile",
         "artist": "Lady Gaga",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/11/ae/f2/11aef294-f57c-bab9-c9fc-529162984e62/24UMGIM85348.rgb.jpg/80x80bb.webp",
-        "appleID": "die-with-a-smile/1762656732"
+        "appleID": "die-with-a-smile/1762656732",
+        "youtubeID": "kPa7bsKwL-c",
+        "spotifyID": "2plbrEY59IikOBgBGLjaoe"
     },
     {
         "ranking": "17",
@@ -130,7 +132,9 @@
         "title": "Bad Dreams",
         "artist": "Teddy Swims",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/cd/5d/64/cd5d64c2-338b-00c9-52d6-578a0f19d826/054391245908.jpg/80x80bb.webp",
-        "appleID": "bad-dreams/1765799904"
+        "appleID": "bad-dreams/1765799904",
+        "youtubeID": "Qh8QwVYOSVU",
+        "spotifyID": "3nHuKdFJZm78CoeBnDcFKe"
     },
     {
         "ranking": "20",
@@ -179,7 +183,9 @@
         "title": "APT.",
         "artist": "ROSÉ",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2d/1a/7d/2d1a7d91-587e-0ceb-d434-327bd66d9e86/075679628312.jpg/80x80bb.webp",
-        "appleID": "apt/1773452221"
+        "appleID": "apt/1773452221",
+        "youtubeID": "ekr2nIex040",
+        "spotifyID": "4wJ5Qq0jBN4ajy7ouZIV1c"
     },
     {
         "ranking": "27",
@@ -249,7 +255,9 @@
         "title": "The Door",
         "artist": "Teddy Swims",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/36/19/66/36196640-1561-dc5e-c6bc-1e5f4befa583/093624856771.jpg/80x80bb.webp",
-        "appleID": "the-door/1691699849"
+        "appleID": "the-door/1691699849",
+        "youtubeID": "VSXT4a2kRHA",
+        "spotifyID": "3dj4wgM3cPeuLwMNHDuBon"
     },
     {
         "ranking": "37",
@@ -389,7 +397,8 @@
         "title": "Вороны",
         "artist": "Xcho",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/0b/5e/fd/0b5efd95-e89c-be35-cbf7-1a66d5ff679c/cover.jpg/80x80bb.webp",
-        "appleID": "%D0%B2%D0%BE%D1%80%D0%BE%D0%BD%D1%8B/1804969911"
+        "appleID": "%D0%B2%D0%BE%D1%80%D0%BE%D0%BD%D1%8B/1587178099",
+        "spotifyID": "1eQc0azOMOv6VuqQi9c2Ba"
     },
     {
         "ranking": "57",
@@ -424,14 +433,16 @@
         "title": "Another Love",
         "artist": "Tom Odell",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/3d/80/6e/3d806e1d-106c-7483-2024-032042519ab3/886443996779.jpg/80x80bb.webp",
-        "appleID": "another-love/1308605492"
+        "appleID": "another-love/1308605492",
+        "spotifyID": "7jtQIBanIiJOMS6RyCx6jZ"
     },
     {
         "ranking": "62",
         "title": "Human",
         "artist": "Rag'n'Bone Man",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/cc/81/83/cc818302-ff27-bbbf-195e-f72bb39d32c2/886446364636.jpg/80x80bb.webp",
-        "appleID": "human/1202354334"
+        "appleID": "human/1202354334",
+        "youtubeID": "L3wKzyIN1yk"
     },
     {
         "ranking": "63",
@@ -592,7 +603,8 @@
         "title": "BIRDS OF A FEATHER",
         "artist": "Billie Eilish",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
-        "appleID": "birds-of-a-feather/1739659142"
+        "appleID": "birds-of-a-feather/1739659142",
+        "youtubeID": "V9PVRfjEBTI"
     },
     {
         "ranking": "86",
@@ -641,7 +653,8 @@
         "title": "Italy Forma",
         "artist": "Ati242",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/fa/f9/55/faf95520-f2d0-42f2-69f0-31a5fedbaffa/198846424330.jpg/80x80bb.webp",
-        "appleID": "italy-forma/1771701600"
+        "appleID": "italy-forma/1771701600",
+        "spotifyID": "7FfdTwI2i0b5PNeNvqtqCY"
     },
     {
         "ranking": "93",
@@ -669,7 +682,9 @@
         "title": "That’s So True",
         "artist": "Gracie Abrams",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/26/78/81/26788143-5e5f-0813-2480-ecf4280ef221/24UM1IM07082.rgb.jpg/80x80bb.webp",
-        "appleID": "thats-so-true/1773474483"
+        "appleID": "thats-so-true/1773474483",
+        "youtubeID": "BDHM8cyJQa8",
+        "spotifyID": "7ne4VBA60CxGM75vw0EYad"
     },
     {
         "ranking": "97",

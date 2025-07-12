@@ -4,7 +4,8 @@
         "title": "Dynamite",
         "artist": "BTS",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/f7/68/9c/f7689ce3-6d41-60cd-62d2-57a91ddf5b9d/196922067341_Cover.jpg/80x80bb.webp",
-        "appleID": "dynamite/1627575419"
+        "appleID": "dynamite/1627575419",
+        "youtubeID": "gdZLi9oWNZg"
     },
     {
         "ranking": "2",
@@ -46,7 +47,8 @@
         "title": "Winter Ahead",
         "artist": "V",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9b/7a/b8/9b7ab83b-c635-42fa-a3d3-f8ede6e5920e/198704250583_Cover.jpg/80x80bb.webp",
-        "appleID": "winter-ahead/1780285815"
+        "appleID": "winter-ahead/1780285815",
+        "youtubeID": "HAWYOuMGkK0"
     },
     {
         "ranking": "8",
@@ -81,14 +83,16 @@
         "title": "BIRDS OF A FEATHER",
         "artist": "Billie Eilish",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
-        "appleID": "birds-of-a-feather/1739659142"
+        "appleID": "birds-of-a-feather/1739659142",
+        "youtubeID": "V9PVRfjEBTI"
     },
     {
         "ranking": "13",
         "title": "Not Like Us",
         "artist": "Kendrick Lamar",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/31/3a/3f/313a3fbc-bb8f-80c7-b5a2-e226869a38cd/24UMGIM51924.rgb.jpg/80x80bb.webp",
-        "appleID": "not-like-us/1781353929"
+        "appleID": "not-like-us/1781353929",
+        "youtubeID": "H58vbez_m4E"
     },
     {
         "ranking": "14",
@@ -102,14 +106,16 @@
         "title": "Who",
         "artist": "Jimin",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/94/b5/84/94b58450-a0cd-ab97-2f30-0ed3608b5e24/196922987588_Cover.jpg/80x80bb.webp",
-        "appleID": "who/1751773093"
+        "appleID": "who/1751773093",
+        "youtubeID": "Av9DvtlJ9_M"
     },
     {
         "ranking": "16",
         "title": "luther",
         "artist": "Kendrick Lamar",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/50/c2/cc/50c2cc95-3658-9417-0d4b-831abde44ba1/24UM1IM28978.rgb.jpg/80x80bb.webp",
-        "appleID": "luther/1781270323"
+        "appleID": "luther/1781270323",
+        "youtubeID": "4_taypLmSMU"
     },
     {
         "ranking": "17",
@@ -165,7 +171,7 @@
         "title": "Butterfly (Prologue Mix)",
         "artist": "BTS",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/4c/97/6f/4c976f5c-5196-1221-8517-ddfcb0ba514c/8804775070341_Cover.jpg/80x80bb.webp",
-        "appleID": "butterfly-prologue-mix/1598661900"
+        "appleID": "butterfly/1598662271"
     },
     {
         "ranking": "25",
@@ -207,7 +213,9 @@
         "title": "Die With A Smile",
         "artist": "Lady Gaga",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/11/ae/f2/11aef294-f57c-bab9-c9fc-529162984e62/24UMGIM85348.rgb.jpg/80x80bb.webp",
-        "appleID": "die-with-a-smile/1762656732"
+        "appleID": "die-with-a-smile/1762656732",
+        "youtubeID": "kPa7bsKwL-c",
+        "spotifyID": "2plbrEY59IikOBgBGLjaoe"
     },
     {
         "ranking": "31",
@@ -242,7 +250,8 @@
         "title": "M a k e  I t  T o  T h e  M o r n i n g",
         "artist": "PARTYNEXTDOOR",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2a/de/fa/2adefac5-0d69-ca47-da59-94f50f405d52/39740.jpg/80x80bb.webp",
-        "appleID": "m-a-k-e-i-t-t-o-t-h-e-m-o-r-n-i-n-g/1742607770"
+        "appleID": "m-a-k-e-i-t-t-o-t-h-e-m-o-r-n-i-n-g/1738702855",
+        "spotifyID": "12VH4g5pTMZmrUVzfJq7F7"
     },
     {
         "ranking": "36",
@@ -270,7 +279,8 @@
         "title": "Running Wild",
         "artist": "Jin",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c5/21/a1/c521a133-2a4d-05da-205f-19093c53cd55/198704169175_Cover.jpg/80x80bb.webp",
-        "appleID": "running-wild/1772351326"
+        "appleID": "running-wild/1772351326",
+        "youtubeID": "uoHol5Dr_go"
     },
     {
         "ranking": "40",
@@ -284,7 +294,7 @@
         "title": "God's Plan",
         "artist": "Drake",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/bb/6d/8f/bb6d8f67-6d04-10b5-dd62-eb5809ac54fc/00602567879152.rgb.jpg/80x80bb.webp",
-        "appleID": "gods-plan/1406109863"
+        "appleID": "gods-plan/1418213269"
     },
     {
         "ranking": "42",
@@ -361,7 +371,9 @@
         "title": "APT.",
         "artist": "ROSÉ",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2d/1a/7d/2d1a7d91-587e-0ceb-d434-327bd66d9e86/075679628312.jpg/80x80bb.webp",
-        "appleID": "apt/1773452221"
+        "appleID": "apt/1773452221",
+        "youtubeID": "ekr2nIex040",
+        "spotifyID": "4wJ5Qq0jBN4ajy7ouZIV1c"
     },
     {
         "ranking": "53",
@@ -410,7 +422,7 @@
         "title": "Under the Influence",
         "artist": "Chris Brown",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/62/7c/ac/627cac79-3693-dd16-6466-48950746f527/886447924471.jpg/80x80bb.webp",
-        "appleID": "under-the-influence/1481598829"
+        "appleID": "under-the-influence/1481623864"
     },
     {
         "ranking": "60",
@@ -445,7 +457,8 @@
         "title": "Haegeum",
         "artist": "Agust D",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/6d/46/83/6d4683b6-ab6f-db69-aa58-4a5a69c93fd6/196922439957_Cover.jpg/80x80bb.webp",
-        "appleID": "haegeum/1681823696"
+        "appleID": "haegeum/1681823696",
+        "spotifyID": "4bjN59DRXFRxBE1g5ne6B1"
     },
     {
         "ranking": "65",
@@ -459,7 +472,8 @@
         "title": "I Had Some Help (feat. Morgan Wallen)",
         "artist": "Post Malone",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/84/df/b9/84dfb96b-27c8-4d40-4780-b65ff22790e4/24UMGIM50612.rgb.jpg/80x80bb.webp",
-        "appleID": "i-had-some-help-feat-morgan-wallen/1744452425"
+        "appleID": "i-had-some-help-feat-morgan-wallen/1744452425",
+        "youtubeID": "4QIZE708gJ4"
     },
     {
         "ranking": "67",
@@ -480,7 +494,7 @@
         "title": "White Christmas",
         "artist": "V",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/99/a7/e5/99a7e5da-ce5c-8f45-d688-982735754912/198704453977_Cover.jpg/80x80bb.webp",
-        "appleID": "white-christmas/1807079542"
+        "appleID": "white-christmas/1777448469"
     },
     {
         "ranking": "70",
@@ -536,14 +550,16 @@
         "title": "Dancing In The Flames",
         "artist": "The Weeknd",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/34/7e/9f/347e9f54-2d74-820f-a910-68d01f044fcf/24UMGIM95646.rgb.jpg/80x80bb.webp",
-        "appleID": "dancing-in-the-flames/1767511513"
+        "appleID": "dancing-in-the-flames/1767511513",
+        "youtubeID": "gu0_ixJMx5U"
     },
     {
         "ranking": "78",
         "title": "Seven",
         "artist": "Jung Kook",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/a5/a6/56/a5a6561a-f570-2fb1-5a3a-95b150c18f18/196922550928_Cover.jpg/80x80bb.webp",
-        "appleID": "seven/1697147752"
+        "appleID": "seven/1697147752",
+        "youtubeID": "QU9c0053UAU"
     },
     {
         "ranking": "79",
@@ -564,7 +580,8 @@
         "title": "Winter Ahead (YUNSEOKCHEOL TRIO Ver.)",
         "artist": "V",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/97/86/5c/97865ccb-8b63-5192-74c4-e462deb01564/198704274565_Cover.jpg/80x80bb.webp",
-        "appleID": "winter-ahead-yunseokcheol-trio-ver/1785149567"
+        "appleID": "winter-ahead-yunseokcheol-trio-ver/1785149567",
+        "youtubeID": "HAWYOuMGkK0"
     },
     {
         "ranking": "82",
@@ -578,7 +595,8 @@
         "title": "tv off (feat. Lefty Gunplay)",
         "artist": "Kendrick Lamar",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/54/28/14/54281424-eece-0935-299d-fdd2ab403f92/24UM1IM28978.rgb.jpg/80x80bb.webp",
-        "appleID": "tv-off-feat-lefty-gunplay/1781316952"
+        "appleID": "tv-off-feat-lefty-gunplay/1781270540",
+        "youtubeID": "U8F5G5wR1mk"
     },
     {
         "ranking": "84",
@@ -599,7 +617,8 @@
         "title": "Blinding Lights",
         "artist": "The Weeknd",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/a6/6e/bf/a66ebf79-5008-8948-b352-a790fc87446b/19UM1IM04638.rgb.jpg/80x80bb.webp",
-        "appleID": "blinding-lights/1488408568"
+        "appleID": "blinding-lights/1488408568",
+        "spotifyID": "0VjIjW4GlUZAMYd2vXMi3b"
     },
     {
         "ranking": "87",
@@ -613,14 +632,15 @@
         "title": "Perfect",
         "artist": "Ed Sheeran",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/15/e6/e8/15e6e8a4-4190-6a8b-86c3-ab4a51b88288/190295851286.jpg/80x80bb.webp",
-        "appleID": "perfect/1193701400"
+        "appleID": "perfect/1193701400",
+        "youtubeID": "2Vv-BfVoq4g"
     },
     {
         "ranking": "89",
         "title": "São Paulo",
         "artist": "The Weeknd",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c3/9f/c8/c39fc847-2d00-1b7f-7327-264436bd9957/24UM1IM21421.rgb.jpg/80x80bb.webp",
-        "appleID": "s%C3%A3o-paulo/1776719937"
+        "appleID": "s%C3%A3o-paulo/1776914757"
     },
     {
         "ranking": "90",
@@ -641,7 +661,8 @@
         "title": "Timeless",
         "artist": "The Weeknd",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/af/04/83/af048357-131d-1ca3-fe8a-d7ef3dda68ec/24UM1IM04062.rgb.jpg/80x80bb.webp",
-        "appleID": "timeless/1770393194"
+        "appleID": "timeless/1770380890",
+        "youtubeID": "5EpyN_6dqyk"
     },
     {
         "ranking": "93",
@@ -690,7 +711,9 @@
         "title": "Please Please Please",
         "artist": "Sabrina Carpenter",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a1/1c/ca/a11ccab6-7d4c-e041-d028-998bcebeb709/24UMGIM61704.rgb.jpg/80x80bb.webp",
-        "appleID": "please-please-please/1752214912"
+        "appleID": "please-please-please/1750307080",
+        "youtubeID": "cF1Na4AIecM",
+        "spotifyID": "2tHwzyyOLoWSFqYNjeVMzj"
     },
     {
         "ranking": "100",
