@@ -165,14 +165,16 @@
         "title": "Full",
         "artist": "MHD",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/28/88/c9/2888c927-3e8f-1cd4-938e-82e9faddf5a5/859791762976_cover.jpg/80x80bb.webp",
-        "appleID": "full/1759893641"
+        "appleID": "full/1759893641",
+        "youtubeID": "GNXQFHGEnBg"
     },
     {
         "ranking": "25",
         "title": "Kata",
         "artist": "MHD",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/be/3c/6f/be3c6fde-bcf3-b3a9-2692-0323fb379bfd/859794026822_cover.jpg/80x80bb.webp",
-        "appleID": "kata/1767791153"
+        "appleID": "kata/1767791153",
+        "youtubeID": "dYaw-6UIDdY"
     },
     {
         "ranking": "26",
@@ -536,7 +538,8 @@
         "title": "Sunsetz",
         "artist": "Cigarettes After Sex",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b3/5e/0f/b35e0fbe-2370-fc48-0f0c-977525e93bf2/720841214601_Cover.jpg/80x80bb.webp",
-        "appleID": "sunsetz/1217977722"
+        "appleID": "sunsetz/1217977722",
+        "spotifyID": "0SpkyS1Q4MD8GaVcP5YjT4"
     },
     {
         "ranking": "78",
@@ -585,7 +588,8 @@
         "title": "Talking to the Moon",
         "artist": "Bruno Mars",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/98/ae/c2/98aec2e1-3be4-0311-1b44-69348fc87abb/075679956484.jpg/80x80bb.webp",
-        "appleID": "talking-to-the-moon/576670464"
+        "appleID": "talking-to-the-moon/576670464",
+        "spotifyID": "161DnLWsx1i3u1JT05lzqU"
     },
     {
         "ranking": "85",
@@ -669,7 +673,8 @@
         "title": "Water",
         "artist": "Tyla",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/1e/c9/5b/1ec95bbc-a56f-cbef-070c-ddec9f4fdd3c/196871296205.jpg/80x80bb.webp",
-        "appleID": "water/1699082734"
+        "appleID": "water/1699082734",
+        "spotifyID": "5aIVCx5tnk0ntmdiinnYvw"
     },
     {
         "ranking": "97",
