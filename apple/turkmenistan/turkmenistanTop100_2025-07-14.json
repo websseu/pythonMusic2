@@ -109,7 +109,9 @@
         "title": "APT.",
         "artist": "ROSÉ",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2d/1a/7d/2d1a7d91-587e-0ceb-d434-327bd66d9e86/075679628312.jpg/80x80bb.webp",
-        "appleID": "apt/1773452221"
+        "appleID": "apt/1773452221",
+        "youtubeID": "ekr2nIex040",
+        "spotifyID": "4wJ5Qq0jBN4ajy7ouZIV1c"
     },
     {
         "ranking": "17",
@@ -137,7 +139,8 @@
         "title": "Timeless",
         "artist": "The Weeknd",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/40/77/cb/4077cbd1-b6a0-d8df-b9d3-e9a339dbc0ea/24UM1IM04061.rgb.jpg/80x80bb.webp",
-        "appleID": "timeless/1770380890"
+        "appleID": "timeless/1770380890",
+        "youtubeID": "5EpyN_6dqyk"
     },
     {
         "ranking": "21",
@@ -214,7 +217,8 @@
         "title": "Another Love",
         "artist": "Tom Odell",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/3d/80/6e/3d806e1d-106c-7483-2024-032042519ab3/886443996779.jpg/80x80bb.webp",
-        "appleID": "another-love/1308605492"
+        "appleID": "another-love/1308605492",
+        "spotifyID": "7jtQIBanIiJOMS6RyCx6jZ"
     },
     {
         "ranking": "32",
@@ -228,7 +232,9 @@
         "title": "Die With A Smile",
         "artist": "Lady Gaga",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/11/ae/f2/11aef294-f57c-bab9-c9fc-529162984e62/24UMGIM85348.rgb.jpg/80x80bb.webp",
-        "appleID": "die-with-a-smile/1762656732"
+        "appleID": "die-with-a-smile/1762656732",
+        "youtubeID": "kPa7bsKwL-c",
+        "spotifyID": "2plbrEY59IikOBgBGLjaoe"
     },
     {
         "ranking": "34",
@@ -312,7 +318,8 @@
         "title": "Not Like Us",
         "artist": "Kendrick Lamar",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d0/ef/b6/d0efb685-73be-fdee-58c9-be655f4cd4fd/24UMGIM51924.rgb.jpg/80x80bb.webp",
-        "appleID": "not-like-us/1744776167"
+        "appleID": "not-like-us/1744776167",
+        "youtubeID": "H58vbez_m4E"
     },
     {
         "ranking": "46",
@@ -480,7 +487,8 @@
         "title": "Breakin' Dishes",
         "artist": "Rihanna",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/2b/c0/81/2bc081c8-25f0-ba43-d451-587a54613778/16UMGIM59202.rgb.jpg/80x80bb.webp",
-        "appleID": "breakin-dishes/1441154440"
+        "appleID": "breakin-dishes/1441154440",
+        "spotifyID": "5EcG8eMMlwkHRVa4aTR1qd"
     },
     {
         "ranking": "70",
@@ -494,7 +502,9 @@
         "title": "Bad Dreams",
         "artist": "Teddy Swims",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/cd/5d/64/cd5d64c2-338b-00c9-52d6-578a0f19d826/054391245908.jpg/80x80bb.webp",
-        "appleID": "bad-dreams/1765799904"
+        "appleID": "bad-dreams/1765799904",
+        "youtubeID": "Qh8QwVYOSVU",
+        "spotifyID": "3nHuKdFJZm78CoeBnDcFKe"
     },
     {
         "ranking": "72",
@@ -571,7 +581,9 @@
         "title": "SEVMEYİ DENEMEDİN",
         "artist": "BLOK3",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c9/16/59/c91659c0-c1c1-9bd3-a6ee-a935ef58b5f7/cover.jpg/80x80bb.webp",
-        "appleID": "sevmeyi-denemedi-n/1767437103"
+        "appleID": "sevmeyi-denemedi-n/1767437103",
+        "youtubeID": "n7iuaTlGbd4",
+        "spotifyID": "3ff93VTp2DBbNnDEsAW8Cm"
     },
     {
         "ranking": "83",
@@ -585,7 +597,9 @@
         "title": "ParisLove",
         "artist": "FORTUNA 812",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/fe/45/c8/fe45c82f-c075-d2e8-d2c9-dbece6ec8440/cover.jpg/80x80bb.webp",
-        "appleID": "parislove/1777698230"
+        "appleID": "parislove/1777698230",
+        "youtubeID": "-q68__Slg-8",
+        "spotifyID": "6zECxDYlNtEybq8hZ9Tp12"
     },
     {
         "ranking": "85",

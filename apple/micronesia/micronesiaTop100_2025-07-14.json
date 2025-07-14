@@ -116,7 +116,8 @@
         "title": "Every Night Every Morning",
         "artist": "Maoli",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/db/73/4f/db734ffc-785c-9999-be7c-f0c54458690a/0.jpg/80x80bb.webp",
-        "appleID": "every-night-every-morning/1761629618"
+        "appleID": "every-night-every-morning/1761629618",
+        "youtubeID": "20k90wvdLco"
     },
     {
         "ranking": "18",
@@ -151,14 +152,16 @@
         "title": "MILLION DOLLAR BABY",
         "artist": "Tommy Richman",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5c/e7/39/5ce73933-8f42-1095-e84b-0caec311f54b/24CRGIM43010.rgb.jpg/80x80bb.webp",
-        "appleID": "million-dollar-baby/1749616863"
+        "appleID": "million-dollar-baby/1749616863",
+        "youtubeID": "bUX8MDNQda4"
     },
     {
         "ranking": "23",
         "title": "I Had Some Help (feat. Morgan Wallen)",
         "artist": "Post Malone",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e1/b7/09/e1b7098f-d6e1-2b18-fd6f-8390110908eb/24UMGIM50612.rgb.jpg/80x80bb.webp",
-        "appleID": "i-had-some-help-feat-morgan-wallen/1744439049"
+        "appleID": "i-had-some-help-feat-morgan-wallen/1744439049",
+        "youtubeID": "4QIZE708gJ4"
     },
     {
         "ranking": "24",
@@ -228,7 +231,8 @@
         "title": "Water",
         "artist": "Tyla",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/1e/c9/5b/1ec95bbc-a56f-cbef-070c-ddec9f4fdd3c/196871296205.jpg/80x80bb.webp",
-        "appleID": "water/1699082734"
+        "appleID": "water/1699082734",
+        "spotifyID": "5aIVCx5tnk0ntmdiinnYvw"
     },
     {
         "ranking": "34",
@@ -256,7 +260,8 @@
         "title": "Rush",
         "artist": "Ayra Starr",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/b5/4a/3d/b54a3d1a-f493-7a9b-1807-a73f01709053/5059449090122.png/80x80bb.webp",
-        "appleID": "rush/1642898573"
+        "appleID": "rush/1642898573",
+        "youtubeID": "crtQSTYWtqE"
     },
     {
         "ranking": "38",
@@ -312,7 +317,8 @@
         "title": "Knife Talk (feat. 21 Savage & Project Pat)",
         "artist": "Drake",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/11/36/38/1136384a-eebc-697a-c005-d890e41c0854/21UM1IM07518.rgb.jpg/80x80bb.webp",
-        "appleID": "knife-talk-feat-21-savage-project-pat/1584281787"
+        "appleID": "knife-talk-feat-21-savage-project-pat/1584281787",
+        "youtubeID": "XqpQpt_cmhE"
     },
     {
         "ranking": "46",
@@ -326,7 +332,8 @@
         "title": "Praise Jah In the Moonlight",
         "artist": "YG Marley",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f2/da/b4/f2dab4af-f209-1563-ff58-98fa5bd2920a/cover_4062851821834.jpg/80x80bb.webp",
-        "appleID": "praise-jah-in-the-moonlight/1723309988"
+        "appleID": "praise-jah-in-the-moonlight/1723309988",
+        "youtubeID": "Kgh9TVm4X8s"
     },
     {
         "ranking": "48",
