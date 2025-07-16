@@ -81,7 +81,7 @@
         "title": "Bahar",
         "artist": "Röya",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b4/b0/3a/b4b03a4b-33ba-7684-e8f1-f304e51315ae/cover.jpg/80x80bb.webp",
-        "appleID": "bahar/1806694031"
+        "appleID": "bahar/1547527312"
     },
     {
         "ranking": "13",
@@ -137,7 +137,9 @@
         "title": "WILDFLOWER",
         "artist": "Billie Eilish",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
-        "appleID": "wildflower/1739659144"
+        "appleID": "wildflower/1739659144",
+        "youtubeID": "IWKyykQBRKo",
+        "spotifyID": "3QaPy1KgI7nu9FJEQUgn6h"
     },
     {
         "ranking": "21",
@@ -200,7 +202,8 @@
         "title": "Si Ai (Marshmello & Ukay Remix)",
         "artist": "Tayna",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/21/db/3b/21db3b33-e993-4c0e-aa0d-7e00784cc0b6/cover.jpg/80x80bb.webp",
-        "appleID": "si-ai-marshmello-ukay-remix/1825611594"
+        "appleID": "si-ai/1755088935",
+        "youtubeID": "4bZ-8pg4tbY"
     },
     {
         "ranking": "30",
@@ -221,7 +224,9 @@
         "title": "Die With A Smile",
         "artist": "Lady Gaga",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/11/ae/f2/11aef294-f57c-bab9-c9fc-529162984e62/24UMGIM85348.rgb.jpg/80x80bb.webp",
-        "appleID": "die-with-a-smile/1762656732"
+        "appleID": "die-with-a-smile/1762656732",
+        "youtubeID": "kPa7bsKwL-c",
+        "spotifyID": "2plbrEY59IikOBgBGLjaoe"
     },
     {
         "ranking": "33",
@@ -263,14 +268,17 @@
         "title": "Timeless",
         "artist": "The Weeknd",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/40/77/cb/4077cbd1-b6a0-d8df-b9d3-e9a339dbc0ea/24UM1IM04061.rgb.jpg/80x80bb.webp",
-        "appleID": "timeless/1770380890"
+        "appleID": "timeless/1770380890",
+        "youtubeID": "5EpyN_6dqyk"
     },
     {
         "ranking": "39",
         "title": "CHIHIRO",
         "artist": "Billie Eilish",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
-        "appleID": "chihiro/1739659141"
+        "appleID": "chihiro/1739659141",
+        "youtubeID": "BY_XwvKogC8",
+        "spotifyID": "7BRD7x5pt8Lqa1eGYC4dzj"
     },
     {
         "ranking": "40",
@@ -326,7 +334,9 @@
         "title": "Sen Kaldın",
         "artist": "Semicenk",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/82/dc/38/82dc3880-9fd4-947b-b8cf-40db72669232/cover.jpg/80x80bb.webp",
-        "appleID": "sen-kald%C4%B1n/1757698294"
+        "appleID": "sen-kald%C4%B1n/1757698294",
+        "youtubeID": "QPXU_mvj2dg",
+        "spotifyID": "0VOnehekjQz9cvUwLzmYSQ"
     },
     {
         "ranking": "48",
@@ -361,7 +371,7 @@
         "title": "Zülmətəm",
         "artist": "Röya",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e6/32/12/e632121b-819b-bee1-a1e8-051e60f94cd1/cover.jpg/80x80bb.webp",
-        "appleID": "z%C3%BClm%C9%99t%C9%99m/1783016982"
+        "appleID": "z%C3%BClm%C9%99t%C9%99m/1729195474"
     },
     {
         "ranking": "53",
@@ -382,14 +392,16 @@
         "title": "Beni Hatırla",
         "artist": "Nazan Öncel",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/81/17/28/811728ec-660f-06c2-15c3-34973d74863f/0.jpg/80x80bb.webp",
-        "appleID": "beni-hat%C4%B1rla/1748791672"
+        "appleID": "beni-hat%C4%B1rla/1748791672",
+        "youtubeID": "sd8TImTiPnw",
+        "spotifyID": "4mwKj8jNSq8eTp3ylpcBAE"
     },
     {
         "ranking": "56",
         "title": "Камин",
         "artist": "EMIN",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/18/af/1d/18af1d8e-d684-3c0c-487a-f29c7453f174/3616404669582.jpg/80x80bb.webp",
-        "appleID": "%D0%BA%D0%B0%D0%BC%D0%B8%D0%BD/1570267744"
+        "appleID": "%D0%BA%D0%B0%D0%BC%D0%B8%D0%BD/1719165204"
     },
     {
         "ranking": "57",
@@ -438,7 +450,8 @@
         "title": "Her Nerdeysen",
         "artist": "Ati242",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/fa/f9/55/faf95520-f2d0-42f2-69f0-31a5fedbaffa/198846424330.jpg/80x80bb.webp",
-        "appleID": "her-nerdeysen/1771701685"
+        "appleID": "her-nerdeysen/1771701685",
+        "spotifyID": "65txmqjijZoGYs1irX6tBU"
     },
     {
         "ranking": "64",
@@ -515,7 +528,8 @@
         "title": "BIRDS OF A FEATHER",
         "artist": "Billie Eilish",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
-        "appleID": "birds-of-a-feather/1739659142"
+        "appleID": "birds-of-a-feather/1739659142",
+        "youtubeID": "V9PVRfjEBTI"
     },
     {
         "ranking": "75",
@@ -550,14 +564,17 @@
         "title": "Капкан",
         "artist": "МОТ",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music69/v4/f6/55/4d/f6554d6a-dd86-c5e3-b47a-9befb8fc564f/cover.jpg/80x80bb.webp",
-        "appleID": "%D0%BA%D0%B0%D0%BF%D0%BA%D0%B0%D0%BD/1079308769"
+        "appleID": "%D0%BA%D0%B0%D0%BF%D0%BA%D0%B0%D0%BD/1079308769",
+        "spotifyID": "551l3WSPbohzxQGHhTVm0q"
     },
     {
         "ranking": "80",
         "title": "Böyle Sever",
         "artist": "Kahraman Deniz",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/75/d1/40/75d140ee-8c3f-c022-b12c-5b11746fca8e/8718857756118.png/80x80bb.webp",
-        "appleID": "b%C3%B6yle-sever/1471128261"
+        "appleID": "b%C3%B6yle-sever/1471128261",
+        "youtubeID": "31MlKrC-Yvc",
+        "spotifyID": "7hU3H2id2pBVawD7e3zd8N"
     },
     {
         "ranking": "81",
@@ -571,7 +588,9 @@
         "title": "SEVMEYİ DENEMEDİN",
         "artist": "BLOK3",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c9/16/59/c91659c0-c1c1-9bd3-a6ee-a935ef58b5f7/cover.jpg/80x80bb.webp",
-        "appleID": "sevmeyi-denemedi-n/1767437103"
+        "appleID": "sevmeyi-denemedi-n/1767437103",
+        "youtubeID": "n7iuaTlGbd4",
+        "spotifyID": "3ff93VTp2DBbNnDEsAW8Cm"
     },
     {
         "ranking": "83",
@@ -592,7 +611,8 @@
         "title": "FE!N (feat. Playboi Carti)",
         "artist": "Travis Scott",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/09/7d/b0/097db06f-8403-3cf7-7510-139e570ca66b/196871341882.jpg/80x80bb.webp",
-        "appleID": "fe-n-feat-playboi-carti/1699712651"
+        "appleID": "fe-n-feat-playboi-carti/1699712651",
+        "youtubeID": "B9synWjqBn8"
     },
     {
         "ranking": "86",
@@ -613,7 +633,8 @@
         "title": "Not Like Us",
         "artist": "Kendrick Lamar",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d0/ef/b6/d0efb685-73be-fdee-58c9-be655f4cd4fd/24UMGIM51924.rgb.jpg/80x80bb.webp",
-        "appleID": "not-like-us/1744776167"
+        "appleID": "not-like-us/1744776167",
+        "youtubeID": "H58vbez_m4E"
     },
     {
         "ranking": "89",
@@ -627,7 +648,9 @@
         "title": "APT.",
         "artist": "ROSÉ",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2d/1a/7d/2d1a7d91-587e-0ceb-d434-327bd66d9e86/075679628312.jpg/80x80bb.webp",
-        "appleID": "apt/1773452221"
+        "appleID": "apt/1773452221",
+        "youtubeID": "ekr2nIex040",
+        "spotifyID": "4wJ5Qq0jBN4ajy7ouZIV1c"
     },
     {
         "ranking": "91",
@@ -662,7 +685,8 @@
         "title": "Skyfall",
         "artist": "Adele",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/b3/fe/cf/b3fecf76-0359-8e14-0651-4b101fc68a3f/886443673632.jpg/80x80bb.webp",
-        "appleID": "skyfall/566322365"
+        "appleID": "skyfall/566322365",
+        "youtubeID": "DeumyOzKqgI"
     },
     {
         "ranking": "96",
