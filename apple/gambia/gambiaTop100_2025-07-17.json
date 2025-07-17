@@ -606,7 +606,8 @@
         "title": "7:00 (Raw)",
         "artist": "Malie Donn",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9b/2b/41/9b2b41f6-5f4d-e5da-9e82-8054ed4adb88/10307.jpg/80x80bb.webp",
-        "appleID": "7-00-raw/1802270718"
+        "appleID": "7-00-raw/1802270718",
+        "youtubeID": "PdoPIpKdsPI"
     },
     {
         "ranking": "88",
@@ -662,7 +663,8 @@
         "title": "luther",
         "artist": "Kendrick Lamar",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/50/c2/cc/50c2cc95-3658-9417-0d4b-831abde44ba1/24UM1IM28978.rgb.jpg/80x80bb.webp",
-        "appleID": "luther/1781270323"
+        "appleID": "luther/1781270323",
+        "youtubeID": "4_taypLmSMU"
     },
     {
         "ranking": "96",

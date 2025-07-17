@@ -77,7 +77,8 @@
         "prev": "7",
         "streak": "31",
         "streams": "165,560",
-        "youtubeID": "w8l33K5D5CI"
+        "youtubeID": "w8l33K5D5CI",
+        "spotifyID": "7ricDBUakN3N0YkkKE8Obu"
     },
     {
         "ranking": "9",
@@ -107,7 +108,8 @@
         "prev": "13",
         "streak": "51",
         "streams": "133,426",
-        "youtubeID": "kt1Edu0dbvY"
+        "youtubeID": "kt1Edu0dbvY",
+        "spotifyID": "0Qe2g06yzLBuuSvVmFiweP"
     },
     {
         "ranking": "12",
@@ -157,7 +159,9 @@
         "prev": "16",
         "streak": "38",
         "streams": "122,243",
-        "youtubeID": "BrGl81E4ZOc"
+        "youtubeID": "BrGl81E4ZOc",
+        "appleID": "i-miss-you/1773435177",
+        "spotifyID": "65oSp7rdpLddlRGUgogU24"
     },
     {
         "ranking": "17",
@@ -167,7 +171,9 @@
         "prev": "21",
         "streak": "41",
         "streams": "120,001",
-        "youtubeID": "IryOLXtyTRU"
+        "youtubeID": "IryOLXtyTRU",
+        "appleID": "frente-al-mar/1768787334",
+        "spotifyID": "60u6hcpH5Qm1M3xESdNBrB"
     },
     {
         "ranking": "18",
@@ -287,7 +293,9 @@
         "prev": "31",
         "streak": "47",
         "streams": "96,995",
-        "youtubeID": "spbagny8OjM"
+        "youtubeID": "spbagny8OjM",
+        "appleID": "uwaie/1761902101",
+        "spotifyID": "5QjmUqgpPQgXgg4606DqZF"
     },
     {
         "ranking": "30",
@@ -347,7 +355,8 @@
         "prev": "32",
         "streak": "35",
         "streams": "87,833",
-        "youtubeID": "YpoUzo-CflQ"
+        "youtubeID": "YpoUzo-CflQ",
+        "spotifyID": "6s9PpYbExKlHuJ8JMyep21"
     },
     {
         "ranking": "36",
@@ -497,7 +506,8 @@
         "prev": "41",
         "streak": "34",
         "streams": "75,194",
-        "youtubeID": "TVyLcqNg5lY"
+        "youtubeID": "TVyLcqNg5lY",
+        "spotifyID": "4zbEItKoaRId1vRZkoO0Uh"
     },
     {
         "ranking": "51",
@@ -587,7 +597,8 @@
         "prev": "55",
         "streak": "16",
         "streams": "64,024",
-        "youtubeID": "4Ez2wJnlwag"
+        "youtubeID": "4Ez2wJnlwag",
+        "spotifyID": "5E3T0hZ77NXXUtXJocRIOc"
     },
     {
         "ranking": "60",
@@ -997,6 +1008,7 @@
         "prev": "95",
         "streak": "12",
         "streams": "37,388",
-        "youtubeID": "HGVhNel9ceI"
+        "youtubeID": "HGVhNel9ceI",
+        "spotifyID": "3KZCP2StVGdWkOKyRZNWA4"
     }
 ]

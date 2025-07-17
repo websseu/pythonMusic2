@@ -452,14 +452,17 @@
         "title": "Laboratoire",
         "artist": "Werenoi",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/11/9b/68/119b6873-ea4b-4b0d-29ee-a6451c800da7/cover.jpg/80x80bb.webp",
-        "appleID": "laboratoire/1677620766"
+        "appleID": "laboratoire/1677620766",
+        "spotifyID": "7wOgZ1otoKYDvKyQKP1sNZ"
     },
     {
         "ranking": "66",
         "title": "CARTIER SANTOS",
         "artist": "SDM",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/64/46/95/64469515-0230-b26c-69cf-5db61f5ea879/24UMGIM72197.rgb.jpg/80x80bb.webp",
-        "appleID": "cartier-santos/1757803302"
+        "appleID": "cartier-santos/1757803302",
+        "youtubeID": "3nGdVePdlT4",
+        "spotifyID": "1Mzg6bu3hkCwJKEf7v49MN"
     },
     {
         "ranking": "67",
@@ -473,14 +476,16 @@
         "title": "CIEL",
         "artist": "GIMS",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7e/4a/df/7e4adfc1-7cf7-7a96-a4cb-2fc338a5b03e/cover.jpg/80x80bb.webp",
-        "appleID": "ciel/1773791057"
+        "appleID": "ciel/1773791057",
+        "youtubeID": "QS0A-CjRdAE",
+        "spotifyID": "1RiCNSkK4AfT1j8ZM4JnVs"
     },
     {
         "ranking": "69",
         "title": "Last Last",
         "artist": "Burna Boy",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/fd/08/8c/fd088c72-75fc-0306-3c69-1ef4448ff3cf/075679688477.jpg/80x80bb.webp",
-        "appleID": "last-last/1749166881"
+        "appleID": "last-last/1623677811"
     },
     {
         "ranking": "70",
@@ -578,7 +583,8 @@
         "title": "OZEBA",
         "artist": "Rema",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/43/67/cd/4367cd08-da60-dbd5-783d-edf824fd5710/24UMGIM73107.rgb.jpg/80x80bb.webp",
-        "appleID": "ozeba/1755408907"
+        "appleID": "ozeba/1755408907",
+        "youtubeID": "CAyD5xr1yGY"
     },
     {
         "ranking": "84",

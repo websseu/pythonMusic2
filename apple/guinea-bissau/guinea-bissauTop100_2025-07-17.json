@@ -123,7 +123,8 @@
         "title": "Timeless",
         "artist": "The Weeknd",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/40/77/cb/4077cbd1-b6a0-d8df-b9d3-e9a339dbc0ea/24UM1IM04061.rgb.jpg/80x80bb.webp",
-        "appleID": "timeless/1770380890"
+        "appleID": "timeless/1770380890",
+        "youtubeID": "5EpyN_6dqyk"
     },
     {
         "ranking": "19",
@@ -319,14 +320,16 @@
         "title": "Full",
         "artist": "MHD",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/28/88/c9/2888c927-3e8f-1cd4-938e-82e9faddf5a5/859791762976_cover.jpg/80x80bb.webp",
-        "appleID": "full/1759893641"
+        "appleID": "full/1759893641",
+        "youtubeID": "GNXQFHGEnBg"
     },
     {
         "ranking": "47",
         "title": "Sunsetz",
         "artist": "Cigarettes After Sex",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b3/5e/0f/b35e0fbe-2370-fc48-0f0c-977525e93bf2/720841214601_Cover.jpg/80x80bb.webp",
-        "appleID": "sunsetz/1217977722"
+        "appleID": "sunsetz/1217977722",
+        "spotifyID": "0SpkyS1Q4MD8GaVcP5YjT4"
     },
     {
         "ranking": "48",
@@ -361,7 +364,9 @@
         "title": "The Emptiness Machine",
         "artist": "LINKIN PARK",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/69/21/cf/6921cff3-7074-118a-ece2-4012450e6c75/093624839811.jpg/80x80bb.webp",
-        "appleID": "the-emptiness-machine/1766137051"
+        "appleID": "the-emptiness-machine/1766137051",
+        "youtubeID": "SRXH9AbT280",
+        "spotifyID": "1EDPVGbyPKJPeGqATwXZvN"
     },
     {
         "ranking": "53",
@@ -487,7 +492,8 @@
         "title": "Bring Me to Life",
         "artist": "Evanescence",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/10/4c/21/104c21e6-9ef0-4d3a-d1bd-d47167f121e5/00601501406300.rgb.jpg/80x80bb.webp",
-        "appleID": "bring-me-to-life/1440666111"
+        "appleID": "bring-me-to-life/1440666111",
+        "youtubeID": "3YxaaGgTQYM"
     },
     {
         "ranking": "71",
