@@ -74,7 +74,8 @@
         "title": "Every Night Every Morning",
         "artist": "Maoli",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/db/73/4f/db734ffc-785c-9999-be7c-f0c54458690a/0.jpg/80x80bb.webp",
-        "appleID": "every-night-every-morning/1761629618"
+        "appleID": "every-night-every-morning/1761629618",
+        "youtubeID": "20k90wvdLco"
     },
     {
         "ranking": "12",
@@ -249,7 +250,9 @@
         "title": "Last Night",
         "artist": "Morgan Wallen",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/82/eb/b3/82ebb3c6-2bd4-31fd-0eb9-57667f3590e1/00602455239419_Cover.jpg/80x80bb.webp",
-        "appleID": "last-night/1818424212"
+        "appleID": "last-night/1667990774",
+        "youtubeID": "bUjPPBxbQrQ",
+        "spotifyID": "7K3BhSpAxZBznislvUMVtn"
     },
     {
         "ranking": "37",
@@ -263,7 +266,8 @@
         "title": "A Bar Song (Tipsy)",
         "artist": "Shaboozey",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/97/b5/bc/97b5bca2-6238-2421-4f0d-1f7a39d5d9d4/197342550925_cover.jpg/80x80bb.webp",
-        "appleID": "a-bar-song-tipsy/1737085899"
+        "appleID": "a-bar-song-tipsy/1737085899",
+        "youtubeID": "t7bQwwqW-Hc"
     },
     {
         "ranking": "39",
@@ -396,7 +400,8 @@
         "title": "I Had Some Help (feat. Morgan Wallen)",
         "artist": "Post Malone",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e1/b7/09/e1b7098f-d6e1-2b18-fd6f-8390110908eb/24UMGIM50612.rgb.jpg/80x80bb.webp",
-        "appleID": "i-had-some-help-feat-morgan-wallen/1744439049"
+        "appleID": "i-had-some-help-feat-morgan-wallen/1744439049",
+        "youtubeID": "4QIZE708gJ4"
     },
     {
         "ranking": "58",
@@ -669,7 +674,8 @@
         "title": "Water",
         "artist": "Tyla",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/1e/c9/5b/1ec95bbc-a56f-cbef-070c-ddec9f4fdd3c/196871296205.jpg/80x80bb.webp",
-        "appleID": "water/1699082734"
+        "appleID": "water/1699082734",
+        "spotifyID": "5aIVCx5tnk0ntmdiinnYvw"
     },
     {
         "ranking": "97",
