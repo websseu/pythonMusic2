@@ -459,14 +459,16 @@
         "title": "7 Years",
         "artist": "Lukas Graham",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music69/v4/1f/57/08/1f57082e-ee7e-dcb7-a73e-ba1f3468211d/093624920496.jpg/80x80bb.webp",
-        "appleID": "7-years/1081573445"
+        "appleID": "7-years/1081573445",
+        "youtubeID": "LHCob76kigA"
     },
     {
         "ranking": "67",
         "title": "Creep",
         "artist": "Radiohead",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/78/a4/ec/78a4ec7b-c6d6-c9c8-441b-660486e56a89/634904077969.png/80x80bb.webp",
-        "appleID": "creep/1097862231"
+        "appleID": "creep/1097862231",
+        "youtubeID": "XFkzRNyygfk"
     },
     {
         "ranking": "68",
@@ -550,7 +552,8 @@
         "title": "Water",
         "artist": "Tyla",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/1e/c9/5b/1ec95bbc-a56f-cbef-070c-ddec9f4fdd3c/196871296205.jpg/80x80bb.webp",
-        "appleID": "water/1699082734"
+        "appleID": "water/1699082734",
+        "spotifyID": "5aIVCx5tnk0ntmdiinnYvw"
     },
     {
         "ranking": "80",
@@ -669,7 +672,8 @@
         "title": "Deixa o Clima Rolar",
         "artist": "Badoxa",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2d/e0/e9/2de0e9a2-a547-de54-26e6-620a569e0825/0.jpg/80x80bb.webp",
-        "appleID": "deixa-o-clima-rolar/1766747554"
+        "appleID": "deixa-o-clima-rolar/1766747554",
+        "youtubeID": "7EGzMoUEskw"
     },
     {
         "ranking": "97",

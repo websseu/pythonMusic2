@@ -53,7 +53,8 @@
         "title": "Это любовь",
         "artist": "Skryptonite",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/b7/de/d2/b7ded2bc-7657-8f3b-6a46-59880a40d3b7/cover.jpg/80x80bb.webp",
-        "appleID": "%D1%8D%D1%82%D0%BE-%D0%BB%D1%8E%D0%B1%D0%BE%D0%B2%D1%8C/1059346321"
+        "appleID": "%D1%8D%D1%82%D0%BE-%D0%BB%D1%8E%D0%B1%D0%BE%D0%B2%D1%8C/1059346321",
+        "spotifyID": "1P9oRiZJWnxe2pZmYUZ5eC"
     },
     {
         "ranking": "9",
@@ -214,7 +215,8 @@
         "title": "Tövbe",
         "artist": "Derya Bedavacı",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/67/37/d0/6737d0b6-4c02-9501-a51b-66c8bd859f7f/196871227315.jpg/80x80bb.webp",
-        "appleID": "t%C3%B6vbe/1692528406"
+        "appleID": "t%C3%B6vbe/1692528406",
+        "youtubeID": "gJiRnfQGt2A"
     },
     {
         "ranking": "32",
@@ -368,7 +370,8 @@
         "title": "Perfect",
         "artist": "Ed Sheeran",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/15/e6/e8/15e6e8a4-4190-6a8b-86c3-ab4a51b88288/190295851286.jpg/80x80bb.webp",
-        "appleID": "perfect/1193701400"
+        "appleID": "perfect/1193701400",
+        "youtubeID": "2Vv-BfVoq4g"
     },
     {
         "ranking": "54",
@@ -396,7 +399,9 @@
         "title": "The Night We Met",
         "artist": "Lord Huron",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/55/41/4a/55414a18-861a-79d1-e575-5bf8cf205dbe/886445056839_Cover.jpg/80x80bb.webp",
-        "appleID": "the-night-we-met/1806531961"
+        "appleID": "the-night-we-met/1806531961",
+        "youtubeID": "wGF7PswOENQ",
+        "spotifyID": "3hRV0jL3vUpRrcy398teAU"
     },
     {
         "ranking": "58",
@@ -466,7 +471,8 @@
         "title": "BIRDS OF A FEATHER",
         "artist": "Billie Eilish",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
-        "appleID": "birds-of-a-feather/1739659142"
+        "appleID": "birds-of-a-feather/1739659142",
+        "youtubeID": "V9PVRfjEBTI"
     },
     {
         "ranking": "68",
