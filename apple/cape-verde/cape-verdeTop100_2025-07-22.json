@@ -228,7 +228,7 @@
         "title": "Hero",
         "artist": "Nelson Freitas",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/1e/e1/2e/1ee12e5f-e612-b83f-8551-197d35f43fff/197189904165.jpg/80x80bb.webp",
-        "appleID": "hero/1707362285"
+        "appleID": "hero/1726487366"
     },
     {
         "ranking": "34",
@@ -368,7 +368,9 @@
         "title": "4 Kampé",
         "artist": "Joé Dwèt Filé",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/05/32/0a/05320ae3-1eef-3cd6-8f19-9ad9f078fa25/cover.jpg/80x80bb.webp",
-        "appleID": "4-kamp%C3%A9/1773819412"
+        "appleID": "4-kamp%C3%A9/1773819412",
+        "youtubeID": "Srvt_6up-0o",
+        "spotifyID": "7dzuYJwwtNnfcptmbD58aJ"
     },
     {
         "ranking": "54",
@@ -389,7 +391,7 @@
         "title": "KORPU VIOLA",
         "artist": "Alyrio",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/46/45/91/46459177-b91a-15cc-3b70-3709d797ac65/artwork.jpg/80x80bb.webp",
-        "appleID": "korpu-viola/1810285389"
+        "appleID": "korpu-viola/1777711341"
     },
     {
         "ranking": "57",
@@ -515,7 +517,7 @@
         "title": "Last Last",
         "artist": "Burna Boy",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/fd/08/8c/fd088c72-75fc-0306-3c69-1ef4448ff3cf/075679688477.jpg/80x80bb.webp",
-        "appleID": "last-last/1749166881"
+        "appleID": "last-last/1623677811"
     },
     {
         "ranking": "75",
@@ -536,7 +538,7 @@
         "title": "Камин",
         "artist": "EMIN",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/18/af/1d/18af1d8e-d684-3c0c-487a-f29c7453f174/3616404669582.jpg/80x80bb.webp",
-        "appleID": "%D0%BA%D0%B0%D0%BC%D0%B8%D0%BD/1570267744"
+        "appleID": "%D0%BA%D0%B0%D0%BC%D0%B8%D0%BD/1719165204"
     },
     {
         "ranking": "78",
@@ -557,7 +559,8 @@
         "title": "Not Like Us",
         "artist": "Kendrick Lamar",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d0/ef/b6/d0efb685-73be-fdee-58c9-be655f4cd4fd/24UMGIM51924.rgb.jpg/80x80bb.webp",
-        "appleID": "not-like-us/1744776167"
+        "appleID": "not-like-us/1744776167",
+        "youtubeID": "H58vbez_m4E"
     },
     {
         "ranking": "81",
@@ -599,7 +602,8 @@
         "title": "Rush",
         "artist": "Ayra Starr",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/b5/4a/3d/b54a3d1a-f493-7a9b-1807-a73f01709053/5059449090122.png/80x80bb.webp",
-        "appleID": "rush/1642898573"
+        "appleID": "rush/1642898573",
+        "youtubeID": "crtQSTYWtqE"
     },
     {
         "ranking": "87",

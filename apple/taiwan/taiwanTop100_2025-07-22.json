@@ -102,7 +102,9 @@
         "title": "APT.",
         "artist": "ROSÉ",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2d/1a/7d/2d1a7d91-587e-0ceb-d434-327bd66d9e86/075679628312.jpg/80x80bb.webp",
-        "appleID": "apt/1773452221"
+        "appleID": "apt/1773452221",
+        "youtubeID": "ekr2nIex040",
+        "spotifyID": "4wJ5Qq0jBN4ajy7ouZIV1c"
     },
     {
         "ranking": "16",
@@ -130,7 +132,8 @@
         "title": "HOME SWEET HOME (feat. TAEYANG & DAESUNG)",
         "artist": "G-DRAGON",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a4/e1/84/a4e1846a-6158-6a43-30c7-0297e891905e/197342826099_cover.jpg/80x80bb.webp",
-        "appleID": "home-sweet-home-feat-taeyang-daesung/1780635199"
+        "appleID": "home-sweet-home-feat-taeyang-daesung/1780635199",
+        "youtubeID": "fLi0EJfi_vg"
     },
     {
         "ranking": "20",
@@ -144,7 +147,8 @@
         "title": "Whiplash",
         "artist": "aespa",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d5/c1/f5/d5c1f505-f588-775f-df05-c672a8ec22e9/888735949562_Cover.jpg/80x80bb.webp",
-        "appleID": "whiplash/1772214981"
+        "appleID": "whiplash/1772214981",
+        "youtubeID": "jWQx2f-CErU"
     },
     {
         "ranking": "22",
@@ -165,7 +169,9 @@
         "title": "toxic till the end",
         "artist": "ROSÉ",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2d/14/66/2d14661b-345b-d0f3-4e86-56ef626e68aa/075679629203.jpg/80x80bb.webp",
-        "appleID": "toxic-till-the-end/1771105929"
+        "appleID": "toxic-till-the-end/1771105929",
+        "youtubeID": "eA0lHNZ1KCA",
+        "spotifyID": "1z5ebC9238uGoBgzYyvGpQ"
     },
     {
         "ranking": "25",
@@ -228,7 +234,8 @@
         "title": "Strategy",
         "artist": "TWICE",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e1/15/42/e1154273-8ecd-5702-e6e6-597f28001681/25UMGIM82363.rgb.jpg/80x80bb.webp",
-        "appleID": "strategy/1820264153"
+        "appleID": "strategy/1820264153",
+        "youtubeID": "LcV0eAgCSgw"
     },
     {
         "ranking": "34",
@@ -263,7 +270,9 @@
         "title": "Die With A Smile",
         "artist": "Lady Gaga",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/11/ae/f2/11aef294-f57c-bab9-c9fc-529162984e62/24UMGIM85348.rgb.jpg/80x80bb.webp",
-        "appleID": "die-with-a-smile/1762656732"
+        "appleID": "die-with-a-smile/1762656732",
+        "youtubeID": "kPa7bsKwL-c",
+        "spotifyID": "2plbrEY59IikOBgBGLjaoe"
     },
     {
         "ranking": "39",
@@ -284,7 +293,8 @@
         "title": "DRIP",
         "artist": "BABYMONSTER",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b9/e1/ef/b9e1ef3a-e3eb-8152-e91b-20aca0fc9ffd/BM_DRIP_Digital-Cover_4000.jpg/80x80bb.webp",
-        "appleID": "drip/1773262055"
+        "appleID": "drip/1773262055",
+        "youtubeID": "Zp-Jhuhq0bQ"
     },
     {
         "ranking": "42",
@@ -298,7 +308,8 @@
         "title": "POWER",
         "artist": "G-DRAGON",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/36/fa/03/36fa0306-b040-b01b-36d3-181256366615/197342805353_cover.jpg/80x80bb.webp",
-        "appleID": "power/1776670342"
+        "appleID": "power/1776670342",
+        "youtubeID": "NMjhjrBIrG8"
     },
     {
         "ranking": "44",
@@ -347,7 +358,8 @@
         "title": "Supernova",
         "artist": "aespa",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/50/7e/e0/507ee09f-ccfd-1e3c-af90-ca5e92b1221b/00888735949869_Cover.jpg/80x80bb.webp",
-        "appleID": "supernova/1773694544"
+        "appleID": "supernova/1773694544",
+        "youtubeID": "phuiiNCxRMg"
     },
     {
         "ranking": "51",
@@ -389,7 +401,8 @@
         "title": "luther",
         "artist": "Kendrick Lamar",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/50/c2/cc/50c2cc95-3658-9417-0d4b-831abde44ba1/24UM1IM28978.rgb.jpg/80x80bb.webp",
-        "appleID": "luther/1781270323"
+        "appleID": "luther/1781270323",
+        "youtubeID": "4_taypLmSMU"
     },
     {
         "ranking": "57",
@@ -480,14 +493,16 @@
         "title": "Magnetic",
         "artist": "ILLIT",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/3e/49/1e/3e491e43-4961-21ab-2abe-37fb1c0feb40/196922879227_Cover.jpg/80x80bb.webp",
-        "appleID": "magnetic/1734500896"
+        "appleID": "magnetic/1734500896",
+        "youtubeID": "Vk5-c_v4gMU",
+        "spotifyID": "1aKvZDoLGkNMxoRYgkckZG"
     },
     {
         "ranking": "70",
         "title": "泡沫",
         "artist": "G.E.M.",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music6/v4/2e/23/c8/2e23c89b-580b-4a86-1a56-c6da0e92a182/887158493607_Cover.jpg/80x80bb.webp",
-        "appleID": "%E6%B3%A1%E6%B2%AB/666994388"
+        "appleID": "%E6%B3%A1%E6%B2%AB/544934807"
     },
     {
         "ranking": "71",
@@ -522,7 +537,7 @@
         "title": "If Only",
         "artist": "JJ Lin",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/57/5a/1b/575a1bc9-ca86-7549-e873-b55663ba6276/4711508105925.jpg/80x80bb.webp",
-        "appleID": "if-only/1788007696"
+        "appleID": "if-only/945738655"
     },
     {
         "ranking": "76",
@@ -557,7 +572,9 @@
         "title": "Mantra",
         "artist": "JENNIE",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5d/9a/4c/5d9a4c5f-1c34-1265-0fa5-860dc8f0e802/196872495263.jpg/80x80bb.webp",
-        "appleID": "mantra/1772759719"
+        "appleID": "mantra/1772759719",
+        "youtubeID": "bB3-CUMERIU",
+        "spotifyID": "2CspwnypzT7rcWI9RfsoSb"
     },
     {
         "ranking": "81",
@@ -571,14 +588,16 @@
         "title": "BIRDS OF A FEATHER",
         "artist": "Billie Eilish",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
-        "appleID": "birds-of-a-feather/1739659142"
+        "appleID": "birds-of-a-feather/1739659142",
+        "youtubeID": "V9PVRfjEBTI"
     },
     {
         "ranking": "83",
         "title": "Drama",
         "artist": "aespa",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/f7/f0/5c/f7f05ce4-e5a4-900d-e087-1dd9668b2b34/888735945939.jpg/80x80bb.webp",
-        "appleID": "drama/1715939931"
+        "appleID": "drama/1715939931",
+        "youtubeID": "D8VEhcPeSlc"
     },
     {
         "ranking": "84",
@@ -592,7 +611,9 @@
         "title": "number one girl",
         "artist": "ROSÉ",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2d/14/66/2d14661b-345b-d0f3-4e86-56ef626e68aa/075679629203.jpg/80x80bb.webp",
-        "appleID": "number-one-girl/1771105923"
+        "appleID": "number-one-girl/1771105923",
+        "youtubeID": "pZ1NdE69VTs",
+        "spotifyID": "1lcBt7LoEikqYmhUoa2cez"
     },
     {
         "ranking": "86",
@@ -606,7 +627,8 @@
         "title": "Shape of You",
         "artist": "Ed Sheeran",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/15/e6/e8/15e6e8a4-4190-6a8b-86c3-ab4a51b88288/190295851286.jpg/80x80bb.webp",
-        "appleID": "shape-of-you/1193701392"
+        "appleID": "shape-of-you/1193701392",
+        "youtubeID": "JGwWNGJdvx8"
     },
     {
         "ranking": "88",
@@ -634,7 +656,8 @@
         "title": "Armageddon",
         "artist": "aespa",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/50/7e/e0/507ee09f-ccfd-1e3c-af90-ca5e92b1221b/00888735949869_Cover.jpg/80x80bb.webp",
-        "appleID": "armageddon/1773694547"
+        "appleID": "armageddon/1773694547",
+        "youtubeID": "nFYwcndNuOY"
     },
     {
         "ranking": "92",
@@ -697,6 +720,7 @@
         "title": "CROOKED",
         "artist": "G-DRAGON",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/6f/ea/f0/6feaf05d-1c45-a7ac-479e-f294d0ca4b70/8806197910472.jpg/80x80bb.webp",
-        "appleID": "crooked/1348187176"
+        "appleID": "crooked/1348187176",
+        "youtubeID": "RKhsHGfrFmY"
     }
 ]

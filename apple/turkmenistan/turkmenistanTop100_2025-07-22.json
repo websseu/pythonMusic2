@@ -193,7 +193,8 @@
         "title": "Shape of You",
         "artist": "Ed Sheeran",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/15/e6/e8/15e6e8a4-4190-6a8b-86c3-ab4a51b88288/190295851286.jpg/80x80bb.webp",
-        "appleID": "shape-of-you/1193701392"
+        "appleID": "shape-of-you/1193701392",
+        "youtubeID": "JGwWNGJdvx8"
     },
     {
         "ranking": "29",
@@ -263,7 +264,9 @@
         "title": "Die With A Smile",
         "artist": "Lady Gaga",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/11/ae/f2/11aef294-f57c-bab9-c9fc-529162984e62/24UMGIM85348.rgb.jpg/80x80bb.webp",
-        "appleID": "die-with-a-smile/1762656732"
+        "appleID": "die-with-a-smile/1762656732",
+        "youtubeID": "kPa7bsKwL-c",
+        "spotifyID": "2plbrEY59IikOBgBGLjaoe"
     },
     {
         "ranking": "39",
@@ -354,14 +357,16 @@
         "title": "Это любовь",
         "artist": "Skryptonite",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/b7/de/d2/b7ded2bc-7657-8f3b-6a46-59880a40d3b7/cover.jpg/80x80bb.webp",
-        "appleID": "%D1%8D%D1%82%D0%BE-%D0%BB%D1%8E%D0%B1%D0%BE%D0%B2%D1%8C/1059346321"
+        "appleID": "%D1%8D%D1%82%D0%BE-%D0%BB%D1%8E%D0%B1%D0%BE%D0%B2%D1%8C/1059346321",
+        "spotifyID": "1P9oRiZJWnxe2pZmYUZ5eC"
     },
     {
         "ranking": "52",
         "title": "Blinding Lights",
         "artist": "The Weeknd",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/a6/6e/bf/a66ebf79-5008-8948-b352-a790fc87446b/19UM1IM04638.rgb.jpg/80x80bb.webp",
-        "appleID": "blinding-lights/1488408568"
+        "appleID": "blinding-lights/1488408568",
+        "spotifyID": "0VjIjW4GlUZAMYd2vXMi3b"
     },
     {
         "ranking": "53",
@@ -459,7 +464,8 @@
         "title": "Perfect",
         "artist": "Ed Sheeran",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/15/e6/e8/15e6e8a4-4190-6a8b-86c3-ab4a51b88288/190295851286.jpg/80x80bb.webp",
-        "appleID": "perfect/1193701400"
+        "appleID": "perfect/1193701400",
+        "youtubeID": "2Vv-BfVoq4g"
     },
     {
         "ranking": "67",
@@ -508,7 +514,8 @@
         "title": "Flowers",
         "artist": "Miley Cyrus",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/c4/40/d8/c440d88a-2bcd-5d10-e814-e482271134f4/196871387361.jpg/80x80bb.webp",
-        "appleID": "flowers/1702906535"
+        "appleID": "flowers/1702906535",
+        "youtubeID": "G7KNmW9a75Y"
     },
     {
         "ranking": "74",
@@ -522,7 +529,9 @@
         "title": "Stargazing",
         "artist": "Myles Smith",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/bf/c3/a5/bfc3a56d-a51b-69cb-cdfc-26ee63631cb8/196872051872.jpg/80x80bb.webp",
-        "appleID": "stargazing/1742275653"
+        "appleID": "stargazing/1742275653",
+        "youtubeID": "9p9EauIOPm8",
+        "spotifyID": "3Vr3zh0r7ALn8VLqCiRR10"
     },
     {
         "ranking": "76",
@@ -641,7 +650,9 @@
         "title": "Lan",
         "artist": "Zeynep Bastık",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/3f/d2/b8/3fd2b8ef-e0e8-0a82-f37a-664ca9ca442c/cover.jpg/80x80bb.webp",
-        "appleID": "lan/1733527958"
+        "appleID": "lan/1733527958",
+        "youtubeID": "-O22D3EV6G0",
+        "spotifyID": "1whKKdtCiFjN7MW7DrIRUH"
     },
     {
         "ranking": "93",

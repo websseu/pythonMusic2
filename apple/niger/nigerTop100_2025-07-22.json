@@ -263,7 +263,9 @@
         "title": "4 Kampé",
         "artist": "Joé Dwèt Filé",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/05/32/0a/05320ae3-1eef-3cd6-8f19-9ad9f078fa25/cover.jpg/80x80bb.webp",
-        "appleID": "4-kamp%C3%A9/1773819412"
+        "appleID": "4-kamp%C3%A9/1773819412",
+        "youtubeID": "Srvt_6up-0o",
+        "spotifyID": "7dzuYJwwtNnfcptmbD58aJ"
     },
     {
         "ranking": "39",
@@ -291,7 +293,7 @@
         "title": "Top Boy",
         "artist": "Himra",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/39/e1/fc/39e1fc3b-ee9b-3f8e-b032-952805107701/199066910078.jpg/80x80bb.webp",
-        "appleID": "top-boy/1799728023"
+        "appleID": "top-boy/1717665285"
     },
     {
         "ranking": "43",
@@ -305,7 +307,9 @@
         "title": "POUR ELLE",
         "artist": "SDM",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/64/46/95/64469515-0230-b26c-69cf-5db61f5ea879/24UMGIM72197.rgb.jpg/80x80bb.webp",
-        "appleID": "pour-elle/1757803290"
+        "appleID": "pour-elle/1757803290",
+        "youtubeID": "eYG5Qg6RCyE",
+        "spotifyID": "5jX61gvbNenSDMldQrbtsU"
     },
     {
         "ranking": "45",
@@ -326,7 +330,7 @@
         "title": "Last Last",
         "artist": "Burna Boy",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/fd/08/8c/fd088c72-75fc-0306-3c69-1ef4448ff3cf/075679688477.jpg/80x80bb.webp",
-        "appleID": "last-last/1749166881"
+        "appleID": "last-last/1623677811"
     },
     {
         "ranking": "48",
@@ -368,7 +372,8 @@
         "title": "Timeless",
         "artist": "The Weeknd",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/40/77/cb/4077cbd1-b6a0-d8df-b9d3-e9a339dbc0ea/24UM1IM04061.rgb.jpg/80x80bb.webp",
-        "appleID": "timeless/1770380890"
+        "appleID": "timeless/1770380890",
+        "youtubeID": "5EpyN_6dqyk"
     },
     {
         "ranking": "54",
@@ -431,7 +436,8 @@
         "title": "Not Like Us",
         "artist": "Kendrick Lamar",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d0/ef/b6/d0efb685-73be-fdee-58c9-be655f4cd4fd/24UMGIM51924.rgb.jpg/80x80bb.webp",
-        "appleID": "not-like-us/1744776167"
+        "appleID": "not-like-us/1744776167",
+        "youtubeID": "H58vbez_m4E"
     },
     {
         "ranking": "63",
@@ -466,7 +472,8 @@
         "title": "KANTE (feat. Fave)",
         "artist": "Davido",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/40/12/87/4012878d-d267-09b8-7fe0-8c3fd8fdf169/886449553617.jpg/80x80bb.webp",
-        "appleID": "https://music.apple.com/us/artist/davido/254654363"
+        "appleID": "https://music.apple.com/us/artist/davido/254654363",
+        "youtubeID": "3bFPDfWReN0"
     },
     {
         "ranking": "68",
@@ -697,6 +704,8 @@
         "title": "La vie qu'on mène",
         "artist": "Ninho",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/ab/c5/ea/abc5eab6-1a33-3910-6f96-3954d76c5815/190295460259.jpg/80x80bb.webp",
-        "appleID": "la-vie-quon-m%C3%A8ne/1453399179"
+        "appleID": "la-vie-quon-m%C3%A8ne/1453399179",
+        "youtubeID": "BJwovrr6XzI",
+        "spotifyID": "0Jh6iWjna1wk5le0Ahn7No"
     }
 ]
