@@ -249,7 +249,8 @@
         "title": "Freestyle",
         "artist": "Lil Baby",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/93/e7/aa/93e7aa59-da8b-15bc-2992-5803f70fe8fa/17UM1IM55478.rgb.jpg/80x80bb.webp",
-        "appleID": "freestyle/1440929293"
+        "appleID": "freestyle/1440929293",
+        "youtubeID": "MHryuYVyHhk"
     },
     {
         "ranking": "37",
@@ -263,7 +264,7 @@
         "title": "In A Minute",
         "artist": "Lil Baby",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/9f/c0/99/9fc09958-180d-e66a-bbf7-9462289435f6/22UM1IM13098.rgb.jpg/80x80bb.webp",
-        "appleID": "in-a-minute/1648587330"
+        "appleID": "in-a-minute/1618285316"
     },
     {
         "ranking": "39",
@@ -347,7 +348,8 @@
         "title": "Whites",
         "artist": "Masicka",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/26/01/27/260127e0-4a19-a2ce-f778-6263789a148d/0.jpg/80x80bb.webp",
-        "appleID": "whites/1777116735"
+        "appleID": "whites/1777116735",
+        "youtubeID": "2C0mGEfQnt4"
     },
     {
         "ranking": "51",
@@ -550,7 +552,8 @@
         "title": "Wants and Needs (feat. Lil Baby)",
         "artist": "Drake",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/63/2a/34/632a3488-d104-3ff1-dc02-4ed86f58ed05/21UMGIM18577.rgb.jpg/80x80bb.webp",
-        "appleID": "wants-and-needs-feat-lil-baby/1556670532"
+        "appleID": "wants-and-needs-feat-lil-baby/1556670532",
+        "youtubeID": "0oBeEnY2CAQ"
     },
     {
         "ranking": "80",
@@ -578,7 +581,7 @@
         "title": "Last Last",
         "artist": "Burna Boy",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/fd/08/8c/fd088c72-75fc-0306-3c69-1ef4448ff3cf/075679688477.jpg/80x80bb.webp",
-        "appleID": "last-last/1749166881"
+        "appleID": "last-last/1623677811"
     },
     {
         "ranking": "84",
@@ -690,7 +693,9 @@
         "title": "Snooze",
         "artist": "SZA",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/bd/3b/a9/bd3ba9fb-9609-144f-bcfe-ead67b5f6ab3/196589564931.jpg/80x80bb.webp",
-        "appleID": "snooze/1657869492"
+        "appleID": "snooze/1657869492",
+        "youtubeID": "LDY_XyxBu8A",
+        "spotifyID": "4iZ4pt7kvcaH6Yo8UoZ4s2"
     },
     {
         "ranking": "100",

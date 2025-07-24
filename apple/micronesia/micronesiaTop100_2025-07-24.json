@@ -18,7 +18,8 @@
         "title": "A Bar Song (Tipsy)",
         "artist": "Shaboozey",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/97/b5/bc/97b5bca2-6238-2421-4f0d-1f7a39d5d9d4/197342550925_cover.jpg/80x80bb.webp",
-        "appleID": "a-bar-song-tipsy/1737085899"
+        "appleID": "a-bar-song-tipsy/1737085899",
+        "youtubeID": "t7bQwwqW-Hc"
     },
     {
         "ranking": "4",
@@ -130,7 +131,8 @@
         "title": "Rush",
         "artist": "Ayra Starr",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/b5/4a/3d/b54a3d1a-f493-7a9b-1807-a73f01709053/5059449090122.png/80x80bb.webp",
-        "appleID": "rush/1642898573"
+        "appleID": "rush/1642898573",
+        "youtubeID": "crtQSTYWtqE"
     },
     {
         "ranking": "20",
@@ -179,7 +181,8 @@
         "title": "Every Night Every Morning",
         "artist": "Maoli",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/db/73/4f/db734ffc-785c-9999-be7c-f0c54458690a/0.jpg/80x80bb.webp",
-        "appleID": "every-night-every-morning/1761629618"
+        "appleID": "every-night-every-morning/1761629618",
+        "youtubeID": "20k90wvdLco"
     },
     {
         "ranking": "27",
@@ -270,7 +273,8 @@
         "title": "MILLION DOLLAR BABY",
         "artist": "Tommy Richman",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5c/e7/39/5ce73933-8f42-1095-e84b-0caec311f54b/24CRGIM43010.rgb.jpg/80x80bb.webp",
-        "appleID": "million-dollar-baby/1749616863"
+        "appleID": "million-dollar-baby/1749616863",
+        "youtubeID": "bUX8MDNQda4"
     },
     {
         "ranking": "40",
@@ -291,14 +295,16 @@
         "title": "Fast Car",
         "artist": "Luke Combs",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/7d/24/14/7d241439-671a-d957-9613-2f738f43a064/196589485991.jpg/80x80bb.webp",
-        "appleID": "fast-car/1666738585"
+        "appleID": "fast-car/1666738585",
+        "spotifyID": "1Lo0QY9cvc8sUB2vnIOxDT"
     },
     {
         "ranking": "43",
         "title": "When It Rains It Pours",
         "artist": "Luke Combs",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/3c/83/bf/3c83bf3e-bf4a-7e69-5668-d55f5a8e38e0/886446460840.jpg/80x80bb.webp",
-        "appleID": "when-it-rains-it-pours/1228888143"
+        "appleID": "when-it-rains-it-pours/1228888143",
+        "spotifyID": "1mMLMZYXkMueg65jRRWG1l"
     },
     {
         "ranking": "44",
@@ -515,7 +521,9 @@
         "title": "Last Night",
         "artist": "Morgan Wallen",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/82/eb/b3/82ebb3c6-2bd4-31fd-0eb9-57667f3590e1/00602455239419_Cover.jpg/80x80bb.webp",
-        "appleID": "last-night/1818424212"
+        "appleID": "last-night/1667990774",
+        "youtubeID": "bUjPPBxbQrQ",
+        "spotifyID": "7K3BhSpAxZBznislvUMVtn"
     },
     {
         "ranking": "75",

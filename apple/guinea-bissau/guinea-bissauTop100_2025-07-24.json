@@ -424,7 +424,8 @@
         "title": "Creep",
         "artist": "Radiohead",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/78/a4/ec/78a4ec7b-c6d6-c9c8-441b-660486e56a89/634904077969.png/80x80bb.webp",
-        "appleID": "creep/1097862231"
+        "appleID": "creep/1097862231",
+        "youtubeID": "XFkzRNyygfk"
     },
     {
         "ranking": "62",
@@ -557,7 +558,8 @@
         "title": "Perfect",
         "artist": "Ed Sheeran",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/15/e6/e8/15e6e8a4-4190-6a8b-86c3-ab4a51b88288/190295851286.jpg/80x80bb.webp",
-        "appleID": "perfect/1193701400"
+        "appleID": "perfect/1193701400",
+        "youtubeID": "2Vv-BfVoq4g"
     },
     {
         "ranking": "81",
@@ -578,7 +580,9 @@
         "title": "4 Kampé",
         "artist": "Joé Dwèt Filé",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/05/32/0a/05320ae3-1eef-3cd6-8f19-9ad9f078fa25/cover.jpg/80x80bb.webp",
-        "appleID": "4-kamp%C3%A9/1773819412"
+        "appleID": "4-kamp%C3%A9/1773819412",
+        "youtubeID": "Srvt_6up-0o",
+        "spotifyID": "7dzuYJwwtNnfcptmbD58aJ"
     },
     {
         "ranking": "84",
@@ -627,7 +631,9 @@
         "title": "Amar Pela Metade (Aimer À Moitié)",
         "artist": "Calema",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ee/a1/49/eea149db-f385-8981-0b82-4a8aece641bc/24UMGIM96558.rgb.jpg/80x80bb.webp",
-        "appleID": "amar-pela-metade-aimer-%C3%A0-moiti%C3%A9/1767438350"
+        "appleID": "amar-pela-metade/1767438349",
+        "youtubeID": "TvIlfpOL6No",
+        "spotifyID": "1UQvRmRhbX3WxSLW3NbUIU"
     },
     {
         "ranking": "91",
