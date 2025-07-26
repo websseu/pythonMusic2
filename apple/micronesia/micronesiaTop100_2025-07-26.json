@@ -179,14 +179,16 @@
         "title": "A Bar Song (Tipsy)",
         "artist": "Shaboozey",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/97/b5/bc/97b5bca2-6238-2421-4f0d-1f7a39d5d9d4/197342550925_cover.jpg/80x80bb.webp",
-        "appleID": "a-bar-song-tipsy/1737085899"
+        "appleID": "a-bar-song-tipsy/1737085899",
+        "youtubeID": "t7bQwwqW-Hc"
     },
     {
         "ranking": "27",
         "title": "on one tonight",
         "artist": "Gunna",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/42/4e/45/424e4521-37b7-6f49-293a-98a1285ed7c5/075679660336.jpg/80x80bb.webp",
-        "appleID": "on-one-tonight/1744458286"
+        "appleID": "on-one-tonight/1744458286",
+        "spotifyID": "6EUcP55GlbmsmCzfL2vxtZ"
     },
     {
         "ranking": "28",
@@ -242,7 +244,8 @@
         "title": "Wishing Well",
         "artist": "Juice WRLD",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/69/ac/dc/69acdc57-c0d7-cde5-b46c-53a4c6a36561/20UMGIM58295.rgb.jpg/80x80bb.webp",
-        "appleID": "wishing-well/1528431366"
+        "appleID": "wishing-well/1528431366",
+        "youtubeID": "C5i-UnuUKUI"
     },
     {
         "ranking": "36",
@@ -256,7 +259,8 @@
         "title": "MILLION DOLLAR BABY",
         "artist": "Tommy Richman",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5c/e7/39/5ce73933-8f42-1095-e84b-0caec311f54b/24CRGIM43010.rgb.jpg/80x80bb.webp",
-        "appleID": "million-dollar-baby/1749616863"
+        "appleID": "million-dollar-baby/1749616863",
+        "youtubeID": "bUX8MDNQda4"
     },
     {
         "ranking": "38",
@@ -298,7 +302,7 @@
         "title": "White Iverson",
         "artist": "Post Malone",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cc/72/92/cc72922f-2b24-a45d-ca03-05c597941a3f/23UMGIM42184.rgb.jpg/80x80bb.webp",
-        "appleID": "white-iverson/1762885423"
+        "appleID": "white-iverson/1440887523"
     },
     {
         "ranking": "44",
@@ -361,7 +365,8 @@
         "title": "Every Night Every Morning",
         "artist": "Maoli",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/db/73/4f/db734ffc-785c-9999-be7c-f0c54458690a/0.jpg/80x80bb.webp",
-        "appleID": "every-night-every-morning/1761629618"
+        "appleID": "every-night-every-morning/1761629618",
+        "youtubeID": "20k90wvdLco"
     },
     {
         "ranking": "53",
@@ -578,7 +583,8 @@
         "title": "I Had Some Help (feat. Morgan Wallen)",
         "artist": "Post Malone",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e1/b7/09/e1b7098f-d6e1-2b18-fd6f-8390110908eb/24UMGIM50612.rgb.jpg/80x80bb.webp",
-        "appleID": "i-had-some-help-feat-morgan-wallen/1744439049"
+        "appleID": "i-had-some-help-feat-morgan-wallen/1744439049",
+        "youtubeID": "4QIZE708gJ4"
     },
     {
         "ranking": "84",
