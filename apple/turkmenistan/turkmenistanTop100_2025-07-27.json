@@ -102,7 +102,8 @@
         "title": "Это любовь",
         "artist": "Skryptonite",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/b7/de/d2/b7ded2bc-7657-8f3b-6a46-59880a40d3b7/cover.jpg/80x80bb.webp",
-        "appleID": "%D1%8D%D1%82%D0%BE-%D0%BB%D1%8E%D0%B1%D0%BE%D0%B2%D1%8C/1059346321"
+        "appleID": "%D1%8D%D1%82%D0%BE-%D0%BB%D1%8E%D0%B1%D0%BE%D0%B2%D1%8C/1059346321",
+        "spotifyID": "1P9oRiZJWnxe2pZmYUZ5eC"
     },
     {
         "ranking": "16",
@@ -270,7 +271,7 @@
         "title": "Камин",
         "artist": "EMIN",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/18/af/1d/18af1d8e-d684-3c0c-487a-f29c7453f174/3616404669582.jpg/80x80bb.webp",
-        "appleID": "%D0%BA%D0%B0%D0%BC%D0%B8%D0%BD/1570267744"
+        "appleID": "%D0%BA%D0%B0%D0%BC%D0%B8%D0%BD/1719165204"
     },
     {
         "ranking": "40",
@@ -410,7 +411,8 @@
         "title": "Топит",
         "artist": "ANNA ASTI",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2f/6a/aa/2f6aaa18-faea-8a41-119e-2d15f6b4daa1/cover.png/80x80bb.webp",
-        "appleID": "%D1%82%D0%BE%D0%BF%D0%B8%D1%82/1772880762"
+        "appleID": "%D1%82%D0%BE%D0%BF%D0%B8%D1%82/1772880762",
+        "youtubeID": "6cYfrYngRRI"
     },
     {
         "ranking": "60",
@@ -669,7 +671,8 @@
         "title": "Вороны",
         "artist": "Xcho",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/0b/5e/fd/0b5efd95-e89c-be35-cbf7-1a66d5ff679c/cover.jpg/80x80bb.webp",
-        "appleID": "%D0%B2%D0%BE%D1%80%D0%BE%D0%BD%D1%8B/1804969911"
+        "appleID": "%D0%B2%D0%BE%D1%80%D0%BE%D0%BD%D1%8B/1587178099",
+        "spotifyID": "1eQc0azOMOv6VuqQi9c2Ba"
     },
     {
         "ranking": "97",

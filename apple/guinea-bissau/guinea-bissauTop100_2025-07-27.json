@@ -200,7 +200,8 @@
         "title": "Bye Bye Bye",
         "artist": "*NSYNC",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/36/22/d6/3622d665-873c-57b8-392b-971292e6086f/012414170224.jpg/80x80bb.webp",
-        "appleID": "bye-bye-bye/303171368"
+        "appleID": "bye-bye-bye/303171368",
+        "youtubeID": "Eo-KmOd3i7s"
     },
     {
         "ranking": "30",
@@ -326,7 +327,8 @@
         "title": "Sunsetz",
         "artist": "Cigarettes After Sex",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b3/5e/0f/b35e0fbe-2370-fc48-0f0c-977525e93bf2/720841214601_Cover.jpg/80x80bb.webp",
-        "appleID": "sunsetz/1217977722"
+        "appleID": "sunsetz/1217977722",
+        "spotifyID": "0SpkyS1Q4MD8GaVcP5YjT4"
     },
     {
         "ranking": "48",
@@ -641,7 +643,9 @@
         "title": "Amar Pela Metade",
         "artist": "Calema",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ee/a1/49/eea149db-f385-8981-0b82-4a8aece641bc/24UMGIM96558.rgb.jpg/80x80bb.webp",
-        "appleID": "amar-pela-metade/1767438349"
+        "appleID": "amar-pela-metade/1767438349",
+        "youtubeID": "TvIlfpOL6No",
+        "spotifyID": "1UQvRmRhbX3WxSLW3NbUIU"
     },
     {
         "ranking": "93",
