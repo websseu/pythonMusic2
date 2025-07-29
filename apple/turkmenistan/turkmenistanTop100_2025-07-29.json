@@ -193,7 +193,8 @@
         "title": "Riptide",
         "artist": "Vance Joy",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/7a/1c/65/7a1c6571-34e9-bb77-32be-90c72ba003c0/075679920355.jpg/80x80bb.webp",
-        "appleID": "riptide/1022164261"
+        "appleID": "riptide/1022164261",
+        "spotifyID": "2uXlHCUbq9OMUwx3hrk06o"
     },
     {
         "ranking": "29",
@@ -438,7 +439,8 @@
         "title": "Enjoy the Silence",
         "artist": "Depeche Mode",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/fa/aa/ea/faaaead6-7626-dd2d-11e0-85d3895bbfb2/5099960662750.jpg/80x80bb.webp",
-        "appleID": "enjoy-the-silence/665416650"
+        "appleID": "enjoy-the-silence/665416650",
+        "youtubeID": "aGSKrC7dGcY"
     },
     {
         "ranking": "64",
@@ -487,7 +489,9 @@
         "title": "CHIHIRO",
         "artist": "Billie Eilish",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
-        "appleID": "chihiro/1739659141"
+        "appleID": "chihiro/1739659141",
+        "youtubeID": "BY_XwvKogC8",
+        "spotifyID": "7BRD7x5pt8Lqa1eGYC4dzj"
     },
     {
         "ranking": "71",
@@ -529,7 +533,9 @@
         "title": "Sen Bilmezsin",
         "artist": "Dedublüman",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/10/4a/99/104a99db-b9b1-dd77-a8dd-873eeb5271ef/cover.jpg/80x80bb.webp",
-        "appleID": "sen-bilmezsin/1733891928"
+        "appleID": "sen-bilmezsin/1733891928",
+        "youtubeID": "WRIfO4rT0Ig",
+        "spotifyID": "5VykLQtjCYF6qFq59HbUg9"
     },
     {
         "ranking": "77",
@@ -543,7 +549,8 @@
         "title": "Mesela Yani",
         "artist": "Kayra",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d6/e6/0b/d6e60bc2-b7ed-420b-fd96-c6038fc2a640/193036269517.png/80x80bb.webp",
-        "appleID": "mesela-yani/1512940774"
+        "appleID": "mesela-yani/1512940774",
+        "spotifyID": "6rDS12tA5szXrKyvL77wSb"
     },
     {
         "ranking": "79",
@@ -557,7 +564,9 @@
         "title": "Die With A Smile",
         "artist": "Lady Gaga",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/11/ae/f2/11aef294-f57c-bab9-c9fc-529162984e62/24UMGIM85348.rgb.jpg/80x80bb.webp",
-        "appleID": "die-with-a-smile/1762656732"
+        "appleID": "die-with-a-smile/1762656732",
+        "youtubeID": "kPa7bsKwL-c",
+        "spotifyID": "2plbrEY59IikOBgBGLjaoe"
     },
     {
         "ranking": "81",
@@ -627,7 +636,9 @@
         "title": "Bad Dreams",
         "artist": "Teddy Swims",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/cd/5d/64/cd5d64c2-338b-00c9-52d6-578a0f19d826/054391245908.jpg/80x80bb.webp",
-        "appleID": "bad-dreams/1765799904"
+        "appleID": "bad-dreams/1765799904",
+        "youtubeID": "Qh8QwVYOSVU",
+        "spotifyID": "3nHuKdFJZm78CoeBnDcFKe"
     },
     {
         "ranking": "91",
@@ -669,7 +680,9 @@
         "title": "SEVMEYİ DENEMEDİN",
         "artist": "BLOK3",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c9/16/59/c91659c0-c1c1-9bd3-a6ee-a935ef58b5f7/cover.jpg/80x80bb.webp",
-        "appleID": "sevmeyi-denemedi-n/1767437103"
+        "appleID": "sevmeyi-denemedi-n/1767437103",
+        "youtubeID": "n7iuaTlGbd4",
+        "spotifyID": "3ff93VTp2DBbNnDEsAW8Cm"
     },
     {
         "ranking": "97",
@@ -697,6 +710,7 @@
         "title": "Это любовь",
         "artist": "Skryptonite",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/b7/de/d2/b7ded2bc-7657-8f3b-6a46-59880a40d3b7/cover.jpg/80x80bb.webp",
-        "appleID": "%D1%8D%D1%82%D0%BE-%D0%BB%D1%8E%D0%B1%D0%BE%D0%B2%D1%8C/1059346321"
+        "appleID": "%D1%8D%D1%82%D0%BE-%D0%BB%D1%8E%D0%B1%D0%BE%D0%B2%D1%8C/1059346321",
+        "spotifyID": "1P9oRiZJWnxe2pZmYUZ5eC"
     }
 ]
