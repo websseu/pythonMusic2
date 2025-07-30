@@ -123,14 +123,17 @@
         "title": "Snooze",
         "artist": "SZA",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/bd/3b/a9/bd3ba9fb-9609-144f-bcfe-ead67b5f6ab3/196589564931.jpg/80x80bb.webp",
-        "appleID": "snooze/1657869492"
+        "appleID": "snooze/1657869492",
+        "youtubeID": "LDY_XyxBu8A",
+        "spotifyID": "4iZ4pt7kvcaH6Yo8UoZ4s2"
     },
     {
         "ranking": "19",
         "title": "Baddest In The Room",
         "artist": "Fridayy",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/02/46/d4/0246d497-10cb-e048-2eb7-27207844905e/24UMGIM61141.rgb.jpg/80x80bb.webp",
-        "appleID": "baddest-in-the-room/1750796336"
+        "appleID": "baddest-in-the-room/1750796336",
+        "youtubeID": "uijhGM3pVCY"
     },
     {
         "ranking": "20",
@@ -151,7 +154,8 @@
         "title": "Beautiful Things",
         "artist": "Benson Boone",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/54/f4/92/54f49210-e260-b519-ebbd-f4f40ee710cd/054391342751.jpg/80x80bb.webp",
-        "appleID": "beautiful-things/1724488124"
+        "appleID": "beautiful-things/1724488124",
+        "youtubeID": "Oa_RSwwpPaA"
     },
     {
         "ranking": "23",
@@ -284,7 +288,8 @@
         "title": "Not Like Us",
         "artist": "Kendrick Lamar",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d0/ef/b6/d0efb685-73be-fdee-58c9-be655f4cd4fd/24UMGIM51924.rgb.jpg/80x80bb.webp",
-        "appleID": "not-like-us/1744776167"
+        "appleID": "not-like-us/1744776167",
+        "youtubeID": "H58vbez_m4E"
     },
     {
         "ranking": "42",
@@ -431,7 +436,7 @@
         "title": "What a Beautiful Name",
         "artist": "Hillsong Worship",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/27/d7/7d/27d77d81-1e3e-0a27-6e91-f9ef87bb2f53/9320428327123.png/80x80bb.webp",
-        "appleID": "what-a-beautiful-name/1786284956"
+        "appleID": "what-a-beautiful-name/1440896101"
     },
     {
         "ranking": "63",
@@ -466,7 +471,9 @@
         "title": "WILDFLOWER",
         "artist": "Billie Eilish",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
-        "appleID": "wildflower/1739659144"
+        "appleID": "wildflower/1739659144",
+        "youtubeID": "IWKyykQBRKo",
+        "spotifyID": "3QaPy1KgI7nu9FJEQUgn6h"
     },
     {
         "ranking": "68",
@@ -508,7 +515,7 @@
         "title": "no tears left to cry",
         "artist": "Ariana Grande",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/9e/71/a4/9e71a47f-c290-a542-07fd-a3aed41eefa7/18UMGIM36924.rgb.jpg/80x80bb.webp",
-        "appleID": "no-tears-left-to-cry/1544324124"
+        "appleID": "no-tears-left-to-cry/1399204228"
     },
     {
         "ranking": "74",
