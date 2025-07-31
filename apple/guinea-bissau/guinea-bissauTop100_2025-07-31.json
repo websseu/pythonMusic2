@@ -452,14 +452,16 @@
         "title": "Someone Like You",
         "artist": "Adele",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/d8/e3/f9/d8e3f9ea-d6fe-9a1b-9f13-109983d3062e/191404113868.png/80x80bb.webp",
-        "appleID": "someone-like-you/1544491998"
+        "appleID": "someone-like-you/1544491998",
+        "spotifyID": "5lkpeJwmQKgY3bX2zChjxX"
     },
     {
         "ranking": "66",
         "title": "In the End",
         "artist": "LINKIN PARK",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/53/a7/7f/53a77fab-c54c-a57b-8130-248fc12d0c80/093624948995.jpg/80x80bb.webp",
-        "appleID": "in-the-end/590431785"
+        "appleID": "in-the-end/590431785",
+        "spotifyID": "60a0Rd6pjrkxjPbaKzXjfq"
     },
     {
         "ranking": "67",
@@ -592,7 +594,8 @@
         "title": "St. Chroma (feat. Daniel Caesar)",
         "artist": "Tyler, The Creator",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7d/bd/e9/7dbde97e-b97d-8cc3-0203-218b687408a9/196872555059.jpg/80x80bb.webp",
-        "appleID": "st-chroma-feat-daniel-caesar/1776500453"
+        "appleID": "st-chroma-feat-daniel-caesar/1776500453",
+        "youtubeID": "hCcwCv3G1FQ"
     },
     {
         "ranking": "86",
@@ -606,7 +609,8 @@
         "title": "Moonlight",
         "artist": "XXXTENTACION",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/f0/b0/21/f0b021d2-8bfb-e2ff-93f9-17c64147f971/18UMGIM14845.rgb.jpg/80x80bb.webp",
-        "appleID": "moonlight/1359293315"
+        "appleID": "moonlight/1359293315",
+        "spotifyID": "0JP9xo3adEtGSdUEISiszL"
     },
     {
         "ranking": "88",
@@ -627,7 +631,8 @@
         "title": "when the party's over",
         "artist": "Billie Eilish",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/1a/37/d1/1a37d1b1-8508-54f2-f541-bf4e437dda76/19UMGIM05028.rgb.jpg/80x80bb.webp",
-        "appleID": "when-the-partys-over/1450695872"
+        "appleID": "when-the-partys-over/1450695872",
+        "spotifyID": "43zdsphuZLzwA9k4DJhU0I"
     },
     {
         "ranking": "91",
@@ -676,7 +681,8 @@
         "title": "A Million Blessings",
         "artist": "Wizkid",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ad/12/b9/ad12b9d8-e896-5e36-6ef9-cec448a586e0/196872578911.jpg/80x80bb.webp",
-        "appleID": "a-million-blessings/1780459838"
+        "appleID": "a-million-blessings/1780459838",
+        "youtubeID": "ZJK2PGATcks"
     },
     {
         "ranking": "98",

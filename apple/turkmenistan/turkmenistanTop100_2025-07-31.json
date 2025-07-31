@@ -256,7 +256,7 @@
         "title": "Ты и Я",
         "artist": "Xcho",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c7/b0/4b/c7b04b77-a2b6-f0bf-df80-8cdc08abd09d/cover.jpg/80x80bb.webp",
-        "appleID": "%D1%82%D1%8B-%D0%B8-%D1%8F/1804994544"
+        "appleID": "%D1%82%D1%8B-%D0%B8-%D1%8F/1614669397"
     },
     {
         "ranking": "38",
@@ -368,7 +368,8 @@
         "title": "Saygımdan (Cihat Uğurel Remix)",
         "artist": "Bengü",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/ac/e2/d2/ace2d2d0-bab1-2a02-5b19-a73bd6723dfb/cover.jpg/80x80bb.webp",
-        "appleID": "sayg%C4%B1mdan-cihat-u%C4%9Furel-remix/767257885"
+        "appleID": "sayg%C4%B1mdan-cihat-u%C4%9Furel-remix/767257885",
+        "spotifyID": "4E10qEzOmTIVmrg6Wz2RHj"
     },
     {
         "ranking": "54",
@@ -424,7 +425,8 @@
         "title": "Dreams",
         "artist": "Fleetwood Mac",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/d2/48/f4/d248f4ae-a7e4-a48e-1588-6617de3e8d76/mzi.izeorbmm.jpg/80x80bb.webp",
-        "appleID": "dreams/202272624"
+        "appleID": "dreams/202272624",
+        "youtubeID": "Y3ywicffOj4"
     },
     {
         "ranking": "62",
@@ -473,7 +475,9 @@
         "title": "Die With A Smile",
         "artist": "Lady Gaga",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/11/ae/f2/11aef294-f57c-bab9-c9fc-529162984e62/24UMGIM85348.rgb.jpg/80x80bb.webp",
-        "appleID": "die-with-a-smile/1762656732"
+        "appleID": "die-with-a-smile/1762656732",
+        "youtubeID": "kPa7bsKwL-c",
+        "spotifyID": "2plbrEY59IikOBgBGLjaoe"
     },
     {
         "ranking": "69",
@@ -578,7 +582,8 @@
         "title": "Mesela Yani",
         "artist": "Kayra",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d6/e6/0b/d6e60bc2-b7ed-420b-fd96-c6038fc2a640/193036269517.png/80x80bb.webp",
-        "appleID": "mesela-yani/1512940774"
+        "appleID": "mesela-yani/1512940774",
+        "spotifyID": "6rDS12tA5szXrKyvL77wSb"
     },
     {
         "ranking": "84",
@@ -606,7 +611,8 @@
         "title": "My Love Mine All Mine",
         "artist": "Mitski",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/8f/4b/40/8f4b4044-d02b-dc25-7d01-7d9d225fdce4/40240.jpg/80x80bb.webp",
-        "appleID": "my-love-mine-all-mine/1697335814"
+        "appleID": "my-love-mine-all-mine/1697335814",
+        "spotifyID": "3vkCueOmm7xQDoJ17W1Pm3"
     },
     {
         "ranking": "88",
@@ -620,7 +626,8 @@
         "title": "Daylight",
         "artist": "David Kushner",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b9/f2/2b/b9f22b26-d962-70de-6d85-674139ded7cc/842812190988_Cover.jpg/80x80bb.webp",
-        "appleID": "daylight/1796004433"
+        "appleID": "daylight/1680069454",
+        "spotifyID": "2mEMKgLqH3VZaSYO7iYCzp"
     },
     {
         "ranking": "90",
@@ -662,7 +669,8 @@
         "title": "Apocalypse",
         "artist": "Cigarettes After Sex",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b3/5e/0f/b35e0fbe-2370-fc48-0f0c-977525e93bf2/720841214601_Cover.jpg/80x80bb.webp",
-        "appleID": "apocalypse/1217977755"
+        "appleID": "apocalypse/1215409245",
+        "spotifyID": "0yc6Gst2xkRu0eMLeRMGCX"
     },
     {
         "ranking": "96",
