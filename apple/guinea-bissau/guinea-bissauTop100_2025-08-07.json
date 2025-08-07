@@ -74,7 +74,8 @@
         "title": "Kata",
         "artist": "MHD",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/be/3c/6f/be3c6fde-bcf3-b3a9-2692-0323fb379bfd/859794026822_cover.jpg/80x80bb.webp",
-        "appleID": "kata/1767791153"
+        "appleID": "kata/1767791153",
+        "youtubeID": "dYaw-6UIDdY"
     },
     {
         "ranking": "12",
@@ -151,7 +152,8 @@
         "title": "Apocalypse",
         "artist": "Cigarettes After Sex",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b3/5e/0f/b35e0fbe-2370-fc48-0f0c-977525e93bf2/720841214601_Cover.jpg/80x80bb.webp",
-        "appleID": "apocalypse/1217977755"
+        "appleID": "apocalypse/1215409245",
+        "spotifyID": "0yc6Gst2xkRu0eMLeRMGCX"
     },
     {
         "ranking": "23",
@@ -235,7 +237,8 @@
         "title": "Rush",
         "artist": "Ayra Starr",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/b5/4a/3d/b54a3d1a-f493-7a9b-1807-a73f01709053/5059449090122.png/80x80bb.webp",
-        "appleID": "rush/1642898573"
+        "appleID": "rush/1642898573",
+        "youtubeID": "crtQSTYWtqE"
     },
     {
         "ranking": "35",
@@ -263,7 +266,8 @@
         "title": "Le temps",
         "artist": "Tayc",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/f0/08/a4/f008a40c-b343-91d1-8e57-c396b37a62e6/cover.jpg/80x80bb.webp",
-        "appleID": "le-temps/1554833273"
+        "appleID": "le-temps/1554833273",
+        "youtubeID": "mUTsvbridvM"
     },
     {
         "ranking": "39",
@@ -291,14 +295,17 @@
         "title": "Without Me",
         "artist": "Halsey",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/68/3e/71/683e71a2-da8b-039b-91e5-b8d8c9899dad/19UMGIM75011.rgb.jpg/80x80bb.webp",
-        "appleID": "without-me/1533014937"
+        "appleID": "without-me/1533014937",
+        "youtubeID": "ZAfAud_M_mg"
     },
     {
         "ranking": "43",
         "title": "4 Kampé",
         "artist": "Joé Dwèt Filé",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/05/32/0a/05320ae3-1eef-3cd6-8f19-9ad9f078fa25/cover.jpg/80x80bb.webp",
-        "appleID": "4-kamp%C3%A9/1773819412"
+        "appleID": "4-kamp%C3%A9/1773819412",
+        "youtubeID": "Srvt_6up-0o",
+        "spotifyID": "7dzuYJwwtNnfcptmbD58aJ"
     },
     {
         "ranking": "44",
@@ -424,7 +431,8 @@
         "title": "Forever Young",
         "artist": "Alphaville",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music/y2005/m06/d22/h05/s05.qwwmqauc.jpg/80x80bb.webp",
-        "appleID": "forever-young/73255043"
+        "appleID": "forever-young/73255043",
+        "youtubeID": "oNjQXmoxiQ8"
     },
     {
         "ranking": "62",
@@ -445,7 +453,8 @@
         "title": "OZEBA",
         "artist": "Rema",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/43/67/cd/4367cd08-da60-dbd5-783d-edf824fd5710/24UMGIM73107.rgb.jpg/80x80bb.webp",
-        "appleID": "ozeba/1755408907"
+        "appleID": "ozeba/1755408907",
+        "youtubeID": "CAyD5xr1yGY"
     },
     {
         "ranking": "65",
