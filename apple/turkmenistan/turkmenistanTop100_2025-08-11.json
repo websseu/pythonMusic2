@@ -123,7 +123,9 @@
         "title": "Die With A Smile",
         "artist": "Lady Gaga",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/11/ae/f2/11aef294-f57c-bab9-c9fc-529162984e62/24UMGIM85348.rgb.jpg/80x80bb.webp",
-        "appleID": "die-with-a-smile/1762656732"
+        "appleID": "die-with-a-smile/1762656732",
+        "youtubeID": "kPa7bsKwL-c",
+        "spotifyID": "2plbrEY59IikOBgBGLjaoe"
     },
     {
         "ranking": "19",
@@ -137,7 +139,8 @@
         "title": "Shape of You",
         "artist": "Ed Sheeran",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/15/e6/e8/15e6e8a4-4190-6a8b-86c3-ab4a51b88288/190295851286.jpg/80x80bb.webp",
-        "appleID": "shape-of-you/1193701392"
+        "appleID": "shape-of-you/1193701392",
+        "youtubeID": "JGwWNGJdvx8"
     },
     {
         "ranking": "21",
@@ -312,7 +315,8 @@
         "title": "Another Love",
         "artist": "Tom Odell",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/3d/80/6e/3d806e1d-106c-7483-2024-032042519ab3/886443996779.jpg/80x80bb.webp",
-        "appleID": "another-love/1308605492"
+        "appleID": "another-love/1308605492",
+        "spotifyID": "7jtQIBanIiJOMS6RyCx6jZ"
     },
     {
         "ranking": "46",
@@ -592,7 +596,8 @@
         "title": "Apocalypse",
         "artist": "Cigarettes After Sex",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b3/5e/0f/b35e0fbe-2370-fc48-0f0c-977525e93bf2/720841214601_Cover.jpg/80x80bb.webp",
-        "appleID": "apocalypse/1217977755"
+        "appleID": "apocalypse/1215409245",
+        "spotifyID": "0yc6Gst2xkRu0eMLeRMGCX"
     },
     {
         "ranking": "86",
@@ -641,7 +646,8 @@
         "title": "Saygımdan (Cihat Uğurel Remix)",
         "artist": "Bengü",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/ac/e2/d2/ace2d2d0-bab1-2a02-5b19-a73bd6723dfb/cover.jpg/80x80bb.webp",
-        "appleID": "sayg%C4%B1mdan-cihat-u%C4%9Furel-remix/767257885"
+        "appleID": "sayg%C4%B1mdan-cihat-u%C4%9Furel-remix/767257885",
+        "spotifyID": "4E10qEzOmTIVmrg6Wz2RHj"
     },
     {
         "ranking": "93",
@@ -655,7 +661,7 @@
         "title": "Move (feat. Keinemusik, Malachiii & Orso)",
         "artist": "Adam Port",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/07/64/cc/0764cc54-d6a1-8d1f-4381-737fd7a2ed02/24UM1IM06602.rgb.jpg/80x80bb.webp",
-        "appleID": "move-feat-keinemusik-malachiii-orso/1771560553"
+        "appleID": "move/1749043132"
     },
     {
         "ranking": "95",
