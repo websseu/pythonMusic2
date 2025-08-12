@@ -291,7 +291,8 @@
         "title": "him all along",
         "artist": "Gunna",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a0/68/12/a06812aa-110a-77b7-723f-662f5e977480/075679628237.jpg/80x80bb.webp",
-        "appleID": "him-all-along/1774073509"
+        "appleID": "him-all-along/1774072933",
+        "youtubeID": "w7Wf0h1Q8a4"
     },
     {
         "ranking": "43",
@@ -529,7 +530,8 @@
         "title": "Ungukuphila",
         "artist": "Xolly Mncwango",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/62/ef/48/62ef4827-2918-3966-f444-8a5b19ed54cc/20UMGIM85001.rgb.jpg/80x80bb.webp",
-        "appleID": "ungukuphila/1535816932"
+        "appleID": "ungukuphila/1535816932",
+        "spotifyID": "53wwaMp15eGyE12Cm7sxLa"
     },
     {
         "ranking": "77",
@@ -550,14 +552,17 @@
         "title": "Beautiful Things",
         "artist": "Benson Boone",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/54/f4/92/54f49210-e260-b519-ebbd-f4f40ee710cd/054391342751.jpg/80x80bb.webp",
-        "appleID": "beautiful-things/1724488124"
+        "appleID": "beautiful-things/1724488124",
+        "youtubeID": "Oa_RSwwpPaA"
     },
     {
         "ranking": "80",
         "title": "WILDFLOWER",
         "artist": "Billie Eilish",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
-        "appleID": "wildflower/1739659144"
+        "appleID": "wildflower/1739659144",
+        "youtubeID": "IWKyykQBRKo",
+        "spotifyID": "3QaPy1KgI7nu9FJEQUgn6h"
     },
     {
         "ranking": "81",
@@ -585,7 +590,8 @@
         "title": "Esandleni",
         "artist": "Nontokozo Mkhize",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/20/b0/e6/20b0e6c8-6230-d857-4830-a7648f2c006a/197342852265_cover.jpg/80x80bb.webp",
-        "appleID": "esandleni/1782983765"
+        "appleID": "esandleni/1782983765",
+        "spotifyID": "7LTDINonhUaOiWTyN3AxCI"
     },
     {
         "ranking": "85",
@@ -662,7 +668,9 @@
         "title": "Snooze",
         "artist": "SZA",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/bd/3b/a9/bd3ba9fb-9609-144f-bcfe-ead67b5f6ab3/196589564931.jpg/80x80bb.webp",
-        "appleID": "snooze/1657869492"
+        "appleID": "snooze/1657869492",
+        "youtubeID": "LDY_XyxBu8A",
+        "spotifyID": "4iZ4pt7kvcaH6Yo8UoZ4s2"
     },
     {
         "ranking": "96",
@@ -690,7 +698,8 @@
         "title": "BIRDS OF A FEATHER",
         "artist": "Billie Eilish",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
-        "appleID": "birds-of-a-feather/1739659142"
+        "appleID": "birds-of-a-feather/1739659142",
+        "youtubeID": "V9PVRfjEBTI"
     },
     {
         "ranking": "100",
