@@ -123,7 +123,7 @@
         "title": "Hero",
         "artist": "Nelson Freitas",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/1e/e1/2e/1ee12e5f-e612-b83f-8551-197d35f43fff/197189904165.jpg/80x80bb.webp",
-        "appleID": "hero/1707362285"
+        "appleID": "hero/1726487366"
     },
     {
         "ranking": "19",
@@ -165,7 +165,8 @@
         "title": "KANTE (feat. Fave)",
         "artist": "Davido",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/40/12/87/4012878d-d267-09b8-7fe0-8c3fd8fdf169/886449553617.jpg/80x80bb.webp",
-        "appleID": "https://music.apple.com/us/artist/davido/254654363"
+        "appleID": "https://music.apple.com/us/artist/davido/254654363",
+        "youtubeID": "3bFPDfWReN0"
     },
     {
         "ranking": "25",
@@ -487,7 +488,8 @@
         "title": "Sunsetz",
         "artist": "Cigarettes After Sex",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b3/5e/0f/b35e0fbe-2370-fc48-0f0c-977525e93bf2/720841214601_Cover.jpg/80x80bb.webp",
-        "appleID": "sunsetz/1217977722"
+        "appleID": "sunsetz/1217977722",
+        "spotifyID": "0SpkyS1Q4MD8GaVcP5YjT4"
     },
     {
         "ranking": "71",
@@ -529,7 +531,8 @@
         "title": "People",
         "artist": "Libianca",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/c6/8c/ca/c68ccacb-cdd5-b765-53e1-eeca394770ac/196589735607.jpg/80x80bb.webp",
-        "appleID": "people/1658390607"
+        "appleID": "people/1658390607",
+        "youtubeID": "rJWdfDPZ9Ck"
     },
     {
         "ranking": "77",
@@ -648,7 +651,9 @@
         "title": "Amar Pela Metade",
         "artist": "Calema",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ee/a1/49/eea149db-f385-8981-0b82-4a8aece641bc/24UMGIM96558.rgb.jpg/80x80bb.webp",
-        "appleID": "amar-pela-metade/1767438349"
+        "appleID": "amar-pela-metade/1767438349",
+        "youtubeID": "TvIlfpOL6No",
+        "spotifyID": "1UQvRmRhbX3WxSLW3NbUIU"
     },
     {
         "ranking": "94",

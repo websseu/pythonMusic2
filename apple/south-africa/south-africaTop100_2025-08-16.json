@@ -515,7 +515,9 @@
         "title": "WILDFLOWER",
         "artist": "Billie Eilish",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
-        "appleID": "wildflower/1739659144"
+        "appleID": "wildflower/1739659144",
+        "youtubeID": "IWKyykQBRKo",
+        "spotifyID": "3QaPy1KgI7nu9FJEQUgn6h"
     },
     {
         "ranking": "75",
@@ -550,7 +552,8 @@
         "title": "him all along",
         "artist": "Gunna",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a0/68/12/a06812aa-110a-77b7-723f-662f5e977480/075679628237.jpg/80x80bb.webp",
-        "appleID": "him-all-along/1774073509"
+        "appleID": "him-all-along/1774072933",
+        "youtubeID": "w7Wf0h1Q8a4"
     },
     {
         "ranking": "80",
@@ -585,7 +588,8 @@
         "title": "Beautiful Things",
         "artist": "Benson Boone",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/54/f4/92/54f49210-e260-b519-ebbd-f4f40ee710cd/054391342751.jpg/80x80bb.webp",
-        "appleID": "beautiful-things/1724488124"
+        "appleID": "beautiful-things/1724488124",
+        "youtubeID": "Oa_RSwwpPaA"
     },
     {
         "ranking": "85",
