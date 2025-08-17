@@ -417,14 +417,17 @@
         "title": "Snooze",
         "artist": "SZA",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/bd/3b/a9/bd3ba9fb-9609-144f-bcfe-ead67b5f6ab3/196589564931.jpg/80x80bb.webp",
-        "appleID": "snooze/1657869492"
+        "appleID": "snooze/1657869492",
+        "youtubeID": "LDY_XyxBu8A",
+        "spotifyID": "4iZ4pt7kvcaH6Yo8UoZ4s2"
     },
     {
         "ranking": "61",
         "title": "Marilag",
         "artist": "Dionela",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f1/3e/56/f13e5665-0f18-7443-d493-c68ac3ca5b42/24UM1IM14978.rgb.jpg/80x80bb.webp",
-        "appleID": "marilag/1776345984"
+        "appleID": "marilag/1776345984",
+        "spotifyID": "2zbq6eS68i4NIJWekIuW1s"
     },
     {
         "ranking": "62",
@@ -445,7 +448,9 @@
         "title": "Bad Dreams",
         "artist": "Teddy Swims",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/cd/5d/64/cd5d64c2-338b-00c9-52d6-578a0f19d826/054391245908.jpg/80x80bb.webp",
-        "appleID": "bad-dreams/1765799904"
+        "appleID": "bad-dreams/1765799904",
+        "youtubeID": "Qh8QwVYOSVU",
+        "spotifyID": "3nHuKdFJZm78CoeBnDcFKe"
     },
     {
         "ranking": "65",
@@ -592,7 +597,7 @@
         "title": "What a Beautiful Name",
         "artist": "Hillsong Worship",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/27/d7/7d/27d77d81-1e3e-0a27-6e91-f9ef87bb2f53/9320428327123.png/80x80bb.webp",
-        "appleID": "what-a-beautiful-name/1786284956"
+        "appleID": "what-a-beautiful-name/1440896101"
     },
     {
         "ranking": "86",
@@ -634,7 +639,8 @@
         "title": "Espresso",
         "artist": "Sabrina Carpenter",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cb/64/8c/cb648cf7-e7bb-bd00-efe0-d744312c29a8/24UMGIM32304.rgb.jpg/80x80bb.webp",
-        "appleID": "espresso/1740212434"
+        "appleID": "espresso/1740212434",
+        "youtubeID": "eVli-tstM5E"
     },
     {
         "ranking": "92",

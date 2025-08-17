@@ -179,7 +179,9 @@
         "title": "CARTIER SANTOS",
         "artist": "SDM",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/64/46/95/64469515-0230-b26c-69cf-5db61f5ea879/24UMGIM72197.rgb.jpg/80x80bb.webp",
-        "appleID": "cartier-santos/1757803302"
+        "appleID": "cartier-santos/1757803302",
+        "youtubeID": "3nGdVePdlT4",
+        "spotifyID": "1Mzg6bu3hkCwJKEf7v49MN"
     },
     {
         "ranking": "27",
@@ -207,7 +209,9 @@
         "title": "4 Kampé",
         "artist": "Joé Dwèt Filé",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/05/32/0a/05320ae3-1eef-3cd6-8f19-9ad9f078fa25/cover.jpg/80x80bb.webp",
-        "appleID": "4-kamp%C3%A9/1773819412"
+        "appleID": "4-kamp%C3%A9/1773819412",
+        "youtubeID": "Srvt_6up-0o",
+        "spotifyID": "7dzuYJwwtNnfcptmbD58aJ"
     },
     {
         "ranking": "31",
@@ -291,7 +295,9 @@
         "title": "CIEL",
         "artist": "GIMS",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7e/4a/df/7e4adfc1-7cf7-7a96-a4cb-2fc338a5b03e/cover.jpg/80x80bb.webp",
-        "appleID": "ciel/1773791057"
+        "appleID": "ciel/1773791057",
+        "youtubeID": "QS0A-CjRdAE",
+        "spotifyID": "1RiCNSkK4AfT1j8ZM4JnVs"
     },
     {
         "ranking": "43",
@@ -487,7 +493,7 @@
         "title": "Top Boy",
         "artist": "Himra",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/39/e1/fc/39e1fc3b-ee9b-3f8e-b032-952805107701/199066910078.jpg/80x80bb.webp",
-        "appleID": "top-boy/1799728023"
+        "appleID": "top-boy/1717665285"
     },
     {
         "ranking": "71",
@@ -508,7 +514,9 @@
         "title": "POUR ELLE",
         "artist": "SDM",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/64/46/95/64469515-0230-b26c-69cf-5db61f5ea879/24UMGIM72197.rgb.jpg/80x80bb.webp",
-        "appleID": "pour-elle/1757803290"
+        "appleID": "pour-elle/1757803290",
+        "youtubeID": "eYG5Qg6RCyE",
+        "spotifyID": "5jX61gvbNenSDMldQrbtsU"
     },
     {
         "ranking": "74",
@@ -522,7 +530,8 @@
         "title": "Not Like Us",
         "artist": "Kendrick Lamar",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d0/ef/b6/d0efb685-73be-fdee-58c9-be655f4cd4fd/24UMGIM51924.rgb.jpg/80x80bb.webp",
-        "appleID": "not-like-us/1744776167"
+        "appleID": "not-like-us/1744776167",
+        "youtubeID": "H58vbez_m4E"
     },
     {
         "ranking": "76",
@@ -557,7 +566,8 @@
         "title": "OZEBA",
         "artist": "Rema",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/43/67/cd/4367cd08-da60-dbd5-783d-edf824fd5710/24UMGIM73107.rgb.jpg/80x80bb.webp",
-        "appleID": "ozeba/1755408907"
+        "appleID": "ozeba/1755408907",
+        "youtubeID": "CAyD5xr1yGY"
     },
     {
         "ranking": "81",
@@ -634,7 +644,8 @@
         "title": "Timeless",
         "artist": "The Weeknd",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/40/77/cb/4077cbd1-b6a0-d8df-b9d3-e9a339dbc0ea/24UM1IM04061.rgb.jpg/80x80bb.webp",
-        "appleID": "timeless/1770380890"
+        "appleID": "timeless/1770380890",
+        "youtubeID": "5EpyN_6dqyk"
     },
     {
         "ranking": "92",
@@ -697,6 +708,7 @@
         "title": "Blinding Lights",
         "artist": "The Weeknd",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/a6/6e/bf/a66ebf79-5008-8948-b352-a790fc87446b/19UM1IM04638.rgb.jpg/80x80bb.webp",
-        "appleID": "blinding-lights/1488408568"
+        "appleID": "blinding-lights/1488408568",
+        "spotifyID": "0VjIjW4GlUZAMYd2vXMi3b"
     }
 ]
