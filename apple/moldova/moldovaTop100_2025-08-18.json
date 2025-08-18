@@ -333,7 +333,8 @@
         "title": "Timeless",
         "artist": "The Weeknd",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/40/77/cb/4077cbd1-b6a0-d8df-b9d3-e9a339dbc0ea/24UM1IM04061.rgb.jpg/80x80bb.webp",
-        "appleID": "timeless/1770380890"
+        "appleID": "timeless/1770380890",
+        "youtubeID": "5EpyN_6dqyk"
     },
     {
         "ranking": "49",
@@ -606,7 +607,8 @@
         "title": "Вороны",
         "artist": "Xcho",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/0b/5e/fd/0b5efd95-e89c-be35-cbf7-1a66d5ff679c/cover.jpg/80x80bb.webp",
-        "appleID": "%D0%B2%D0%BE%D1%80%D0%BE%D0%BD%D1%8B/1804969911"
+        "appleID": "%D0%B2%D0%BE%D1%80%D0%BE%D0%BD%D1%8B/1587178099",
+        "spotifyID": "1eQc0azOMOv6VuqQi9c2Ba"
     },
     {
         "ranking": "88",
@@ -690,13 +692,16 @@
         "title": "Not Like Us",
         "artist": "Kendrick Lamar",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d0/ef/b6/d0efb685-73be-fdee-58c9-be655f4cd4fd/24UMGIM51924.rgb.jpg/80x80bb.webp",
-        "appleID": "not-like-us/1744776167"
+        "appleID": "not-like-us/1744776167",
+        "youtubeID": "H58vbez_m4E"
     },
     {
         "ranking": "100",
         "title": "Lose Control",
         "artist": "Teddy Swims",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/36/19/66/36196640-1561-dc5e-c6bc-1e5f4befa583/093624856771.jpg/80x80bb.webp",
-        "appleID": "lose-control/1691699836"
+        "appleID": "lose-control/1691699836",
+        "youtubeID": "GZ3zL7kT6_c",
+        "spotifyID": "17phhZDn6oGtzMe56NuWvj"
     }
 ]
