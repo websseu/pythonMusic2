@@ -172,14 +172,17 @@
         "title": "Strawberry",
         "artist": "Desh",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e9/75/1f/e9751f4a-d77a-e81a-1783-489ac5d91584/cover.jpg/80x80bb.webp",
-        "appleID": "strawberry/1743731871"
+        "appleID": "strawberry/1743731871",
+        "youtubeID": "qTMLQIRMn4o",
+        "spotifyID": "6DmpM21b070AdtXm7Lc370"
     },
     {
         "ranking": "26",
         "title": "Passport",
         "artist": "BSW",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/58/40/07/584007f3-cc79-ca41-77f1-d3577382b425/cover.jpg/80x80bb.webp",
-        "appleID": "passport/1782905128"
+        "appleID": "passport/1782905128",
+        "spotifyID": "1tI1LGUz4fZg8es7toVK6K"
     },
     {
         "ranking": "27",
@@ -228,7 +231,8 @@
         "title": "introvertált dal",
         "artist": "Azahriah",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/94/50/2d/94502db3-e9a3-351b-d97e-1d5a3a0e7239/cover.jpg/80x80bb.webp",
-        "appleID": "introvert%C3%A1lt-dal/1671944290"
+        "appleID": "introvert%C3%A1lt-dal/1671944290",
+        "spotifyID": "2EAvOY1uymm5ZAd0ZbnnPW"
     },
     {
         "ranking": "34",
@@ -249,7 +253,8 @@
         "title": "3korty",
         "artist": "Azahriah",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/5d/33/26/5d33260b-3982-477c-0adf-b0090f5a09b3/cover.jpg/80x80bb.webp",
-        "appleID": "3korty/1682295650"
+        "appleID": "3korty/1682295650",
+        "spotifyID": "5ZY255MSISgMrvHmRZux1E"
     },
     {
         "ranking": "37",
@@ -277,7 +282,9 @@
         "title": "Tiara",
         "artist": "Manuel",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/c7/02/f7/c702f76b-8b8f-5253-9223-645d97e6086a/cover.jpg/80x80bb.webp",
-        "appleID": "tiara/1731350805"
+        "appleID": "tiara/1731350805",
+        "youtubeID": "jTvzTFpx0wc",
+        "spotifyID": "0nI4wU2023g1mFho21Vddr"
     },
     {
         "ranking": "41",
@@ -417,14 +424,17 @@
         "title": "Mámor",
         "artist": "Pogány Induló",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/60/00/54/60005417-d7ff-aa0a-e00f-26a19f318008/0747973884175_cover.jpg/80x80bb.webp",
-        "appleID": "m%C3%A1mor/1728901619"
+        "appleID": "m%C3%A1mor/1728901619",
+        "youtubeID": "hV3nS59kMO8",
+        "spotifyID": "1zWdoNRmxhBaAJiJI2SI7j"
     },
     {
         "ranking": "61",
         "title": "Breakin' Dishes",
         "artist": "Rihanna",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/2b/c0/81/2bc081c8-25f0-ba43-d451-587a54613778/16UMGIM59202.rgb.jpg/80x80bb.webp",
-        "appleID": "breakin-dishes/1441154440"
+        "appleID": "breakin-dishes/1441154440",
+        "spotifyID": "5EcG8eMMlwkHRVa4aTR1qd"
     },
     {
         "ranking": "62",
@@ -438,7 +448,9 @@
         "title": "Úgy Hiszem",
         "artist": "Pogány Induló",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/60/00/54/60005417-d7ff-aa0a-e00f-26a19f318008/0747973884175_cover.jpg/80x80bb.webp",
-        "appleID": "%C3%BAgy-hiszem/1728901610"
+        "appleID": "%C3%BAgy-hiszem/1728901610",
+        "youtubeID": "1SbBcw84Pkw",
+        "spotifyID": "2zIijzos3rNY6DkvX2ZYDX"
     },
     {
         "ranking": "64",
@@ -487,7 +499,8 @@
         "title": "Timeless",
         "artist": "The Weeknd",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/40/77/cb/4077cbd1-b6a0-d8df-b9d3-e9a339dbc0ea/24UM1IM04061.rgb.jpg/80x80bb.webp",
-        "appleID": "timeless/1770380890"
+        "appleID": "timeless/1770380890",
+        "youtubeID": "5EpyN_6dqyk"
     },
     {
         "ranking": "71",
@@ -557,7 +570,9 @@
         "title": "VIDÉKI CSAJSZI",
         "artist": "T. Danny",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/51/52/c8/5152c8f7-3c33-b315-748f-be2d404ada88/cover.jpg/80x80bb.webp",
-        "appleID": "vid%C3%A9ki-csajszi/1771830998"
+        "appleID": "vid%C3%A9ki-csajszi/1771830998",
+        "youtubeID": "9BKB8ohPWHs",
+        "spotifyID": "1105P9BDFQ4GZj7VS5vDuY"
     },
     {
         "ranking": "81",
@@ -592,7 +607,9 @@
         "title": "APT.",
         "artist": "ROSÉ",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2d/1a/7d/2d1a7d91-587e-0ceb-d434-327bd66d9e86/075679628312.jpg/80x80bb.webp",
-        "appleID": "apt/1773452221"
+        "appleID": "apt/1773452221",
+        "youtubeID": "ekr2nIex040",
+        "spotifyID": "4wJ5Qq0jBN4ajy7ouZIV1c"
     },
     {
         "ranking": "86",
@@ -655,7 +672,8 @@
         "title": "Beautiful Things",
         "artist": "Benson Boone",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/54/f4/92/54f49210-e260-b519-ebbd-f4f40ee710cd/054391342751.jpg/80x80bb.webp",
-        "appleID": "beautiful-things/1724488124"
+        "appleID": "beautiful-things/1724488124",
+        "youtubeID": "Oa_RSwwpPaA"
     },
     {
         "ranking": "95",
@@ -683,7 +701,9 @@
         "title": "Die With A Smile",
         "artist": "Lady Gaga",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/11/ae/f2/11aef294-f57c-bab9-c9fc-529162984e62/24UMGIM85348.rgb.jpg/80x80bb.webp",
-        "appleID": "die-with-a-smile/1762656732"
+        "appleID": "die-with-a-smile/1762656732",
+        "youtubeID": "kPa7bsKwL-c",
+        "spotifyID": "2plbrEY59IikOBgBGLjaoe"
     },
     {
         "ranking": "99",
