@@ -47,7 +47,8 @@
         "prev": "5",
         "streak": "26",
         "streams": "261,824",
-        "youtubeID": "4Ez2wJnlwag"
+        "youtubeID": "4Ez2wJnlwag",
+        "spotifyID": "5E3T0hZ77NXXUtXJocRIOc"
     },
     {
         "ranking": "6",
@@ -97,7 +98,9 @@
         "prev": "10",
         "streak": "49",
         "streams": "181,832",
-        "youtubeID": "ElRVZ09939k"
+        "youtubeID": "ElRVZ09939k",
+        "appleID": "rey-sin-reina/1765585955",
+        "spotifyID": "0BiDnJFB3TlRB6aji7jUz3"
     },
     {
         "ranking": "11",
@@ -117,7 +120,8 @@
         "prev": "11",
         "streak": "36",
         "streams": "144,171",
-        "youtubeID": "w8l33K5D5CI"
+        "youtubeID": "w8l33K5D5CI",
+        "spotifyID": "7ricDBUakN3N0YkkKE8Obu"
     },
     {
         "ranking": "13",
@@ -147,7 +151,8 @@
         "prev": "13",
         "streak": "37",
         "streams": "126,430",
-        "youtubeID": "EJnMW5BIsbg"
+        "youtubeID": "EJnMW5BIsbg",
+        "spotifyID": "69vi5SUSJJF0CQJCZngFFS"
     },
     {
         "ranking": "16",
@@ -197,7 +202,8 @@
         "prev": "-",
         "streak": "31",
         "streams": "105,468",
-        "youtubeID": "M3CbRJ6jgQc"
+        "youtubeID": "M3CbRJ6jgQc",
+        "spotifyID": "6j5LtifAnuTjTYvml61yFZ"
     },
     {
         "ranking": "21",
@@ -257,7 +263,9 @@
         "prev": "21",
         "streak": "47",
         "streams": "95,895",
-        "youtubeID": "IryOLXtyTRU"
+        "youtubeID": "IryOLXtyTRU",
+        "appleID": "frente-al-mar/1768787334",
+        "spotifyID": "60u6hcpH5Qm1M3xESdNBrB"
     },
     {
         "ranking": "27",
@@ -297,7 +305,8 @@
         "prev": "30",
         "streak": "25",
         "streams": "88,779",
-        "youtubeID": "GNyembSi1nw"
+        "youtubeID": "GNyembSi1nw",
+        "appleID": "cero-empati-a/1773445411"
     },
     {
         "ranking": "31",
@@ -417,7 +426,9 @@
         "prev": "55",
         "streak": "13",
         "streams": "78,193",
-        "youtubeID": "CHXzLUzzW5c"
+        "youtubeID": "CHXzLUzzW5c",
+        "appleID": "yogurcito/1744447740",
+        "spotifyID": "6rZno3nqeT7hv2PnSWRuYS"
     },
     {
         "ranking": "43",
@@ -427,7 +438,8 @@
         "prev": "44",
         "streak": "31",
         "streams": "77,945",
-        "youtubeID": "Lu8u_SEjt1Y"
+        "youtubeID": "Lu8u_SEjt1Y",
+        "spotifyID": "0Sr7ssScx54yxdM2ols7nW"
     },
     {
         "ranking": "44",
@@ -437,7 +449,8 @@
         "prev": "47",
         "streak": "38",
         "streams": "77,656",
-        "youtubeID": "TVyLcqNg5lY"
+        "youtubeID": "TVyLcqNg5lY",
+        "spotifyID": "4zbEItKoaRId1vRZkoO0Uh"
     },
     {
         "ranking": "45",
@@ -717,7 +730,7 @@
         "prev": "74",
         "streak": "3",
         "streams": "55,805",
-        "youtubeID": "BlCiQbxMxlc"
+        "youtubeID": "fEhnwoVjrgc"
     },
     {
         "ranking": "73",
@@ -747,7 +760,8 @@
         "prev": "92",
         "streak": "56",
         "streams": "53,041",
-        "youtubeID": "K9mTSekTktw"
+        "youtubeID": "K9mTSekTktw",
+        "spotifyID": "6mmPpaltUZK7xjNlBPQQ0p"
     },
     {
         "ranking": "76",
@@ -797,7 +811,8 @@
         "prev": "85",
         "streak": "24",
         "streams": "51,024",
-        "youtubeID": "bUkJLkoh3kA"
+        "youtubeID": "bUkJLkoh3kA",
+        "spotifyID": "6Z0ybnsUBhbZ9ZjPW64eoF"
     },
     {
         "ranking": "81",
@@ -857,7 +872,8 @@
         "prev": "-",
         "streak": "1",
         "streams": "47,914",
-        "youtubeID": "5fbYKkJUdJ0"
+        "youtubeID": "5fbYKkJUdJ0",
+        "spotifyID": "1xKP7GVLY33i5jmx1bB1Kk"
     },
     {
         "ranking": "87",
@@ -947,7 +963,8 @@
         "prev": "-",
         "streak": "29",
         "streams": "45,110",
-        "youtubeID": "iXM0797CFt4"
+        "youtubeID": "iXM0797CFt4",
+        "spotifyID": "2ANeBRTHe6N0dq7dz7CaVJ"
     },
     {
         "ranking": "96",
@@ -997,6 +1014,6 @@
         "prev": "93",
         "streak": "3",
         "streams": "44,219",
-        "youtubeID": "7GYVJgflHK4"
+        "youtubeID": "5EkAaZaRFXg"
     }
 ]
