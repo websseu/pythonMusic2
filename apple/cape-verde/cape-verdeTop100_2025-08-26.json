@@ -95,7 +95,9 @@
         "title": "4 Kampé",
         "artist": "Joé Dwèt Filé",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/05/32/0a/05320ae3-1eef-3cd6-8f19-9ad9f078fa25/cover.jpg/80x80bb.webp",
-        "appleID": "4-kamp%C3%A9/1773819412"
+        "appleID": "4-kamp%C3%A9/1773819412",
+        "youtubeID": "Srvt_6up-0o",
+        "spotifyID": "7dzuYJwwtNnfcptmbD58aJ"
     },
     {
         "ranking": "15",
@@ -186,7 +188,9 @@
         "title": "Die With A Smile",
         "artist": "Lady Gaga",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/11/ae/f2/11aef294-f57c-bab9-c9fc-529162984e62/24UMGIM85348.rgb.jpg/80x80bb.webp",
-        "appleID": "die-with-a-smile/1762656732"
+        "appleID": "die-with-a-smile/1762656732",
+        "youtubeID": "kPa7bsKwL-c",
+        "spotifyID": "2plbrEY59IikOBgBGLjaoe"
     },
     {
         "ranking": "28",
@@ -242,7 +246,7 @@
         "title": "Holy Ghost",
         "artist": "Omah Lay",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/02/72/fe/0272fea1-19bf-85c7-dab7-92ac93d7737b/196922691874_Cover.jpg/80x80bb.webp",
-        "appleID": "https://music.apple.com/us/artist/omah-lay/1459319359"
+        "appleID": "holy-ghost/1714017003"
     },
     {
         "ranking": "36",
@@ -305,7 +309,7 @@
         "title": "KORPU VIOLA",
         "artist": "Alyrio",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/46/45/91/46459177-b91a-15cc-3b70-3709d797ac65/artwork.jpg/80x80bb.webp",
-        "appleID": "korpu-viola/1810285389"
+        "appleID": "korpu-viola/1777711341"
     },
     {
         "ranking": "45",
@@ -319,14 +323,16 @@
         "title": "People",
         "artist": "Libianca",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/c6/8c/ca/c68ccacb-cdd5-b765-53e1-eeca394770ac/196589735607.jpg/80x80bb.webp",
-        "appleID": "people/1658390607"
+        "appleID": "people/1658390607",
+        "youtubeID": "rJWdfDPZ9Ck"
     },
     {
         "ranking": "47",
         "title": "luther",
         "artist": "Kendrick Lamar",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/50/c2/cc/50c2cc95-3658-9417-0d4b-831abde44ba1/24UM1IM28978.rgb.jpg/80x80bb.webp",
-        "appleID": "luther/1781270323"
+        "appleID": "luther/1781270323",
+        "youtubeID": "4_taypLmSMU"
     },
     {
         "ranking": "48",
@@ -445,7 +451,7 @@
         "title": "Hero",
         "artist": "Nelson Freitas",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/1e/e1/2e/1ee12e5f-e612-b83f-8551-197d35f43fff/197189904165.jpg/80x80bb.webp",
-        "appleID": "hero/1707362285"
+        "appleID": "hero/1726487366"
     },
     {
         "ranking": "65",
@@ -508,14 +514,14 @@
         "title": "Moving",
         "artist": "Omah Lay",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/af/fa/81/affa8111-2bf6-c2b0-a62b-b2dd785f06cc/198704096914_Cover.jpg/80x80bb.webp",
-        "appleID": "https://music.apple.com/us/artist/omah-lay/1459319359"
+        "appleID": "moving/1760873911"
     },
     {
         "ranking": "74",
         "title": "Last Last",
         "artist": "Burna Boy",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f7/99/15/f799151f-f3d3-ed8d-042a-92026cb8880e/194690848742_cover.jpg/80x80bb.webp",
-        "appleID": "https://music.apple.com/us/artist/burna-boy/591899010"
+        "appleID": "last-last/1623677811"
     },
     {
         "ranking": "75",
@@ -529,7 +535,7 @@
         "title": "soso",
         "artist": "Omah Lay",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/43/8f/5e/438f5e58-3d1f-f998-f887-77b9adb8e0d7/0766214756651_Cover.jpg/80x80bb.webp",
-        "appleID": "https://music.apple.com/us/artist/omah-lay/1459319359"
+        "appleID": "soso/1744454213"
     },
     {
         "ranking": "77",
