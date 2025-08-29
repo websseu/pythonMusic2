@@ -249,7 +249,8 @@
         "title": "Tata",
         "artist": "Slow J",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/7a/02/38/7a0238c7-5888-46aa-72c7-8f4236a890de/196871619080.jpg/80x80bb.webp",
-        "appleID": "tata/1715327089"
+        "appleID": "tata/1715327089",
+        "spotifyID": "0fPOFtS7ZylYKcC9b64cSj"
     },
     {
         "ranking": "37",
@@ -319,7 +320,8 @@
         "title": "Daylight",
         "artist": "David Kushner",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b9/f2/2b/b9f22b26-d962-70de-6d85-674139ded7cc/842812190988_Cover.jpg/80x80bb.webp",
-        "appleID": "daylight/1796004433"
+        "appleID": "daylight/1680069454",
+        "spotifyID": "2mEMKgLqH3VZaSYO7iYCzp"
     },
     {
         "ranking": "47",
@@ -501,7 +503,8 @@
         "title": "J'me tire",
         "artist": "GIMS",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/0d/d7/a8/0dd7a80c-a96b-0b9b-97e4-5a8ee603032d/dj.cnmkrwhy.jpg/80x80bb.webp",
-        "appleID": "jme-tire/749310621"
+        "appleID": "jme-tire/749310621",
+        "youtubeID": "F_rEHfLgdcY"
     },
     {
         "ranking": "73",
