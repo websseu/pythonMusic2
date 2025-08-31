@@ -4,14 +4,17 @@
         "title": "Who",
         "artist": "Jimin",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/94/b5/84/94b58450-a0cd-ab97-2f30-0ed3608b5e24/196922987588_Cover.jpg/80x80bb.webp",
-        "appleID": "who/1751773093"
+        "appleID": "who/1751773093",
+        "youtubeID": "Av9DvtlJ9_M"
     },
     {
         "ranking": "2",
         "title": "Be Mine",
         "artist": "Jimin",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/94/b5/84/94b58450-a0cd-ab97-2f30-0ed3608b5e24/196922987588_Cover.jpg/80x80bb.webp",
-        "appleID": "be-mine/1751773088"
+        "appleID": "be-mine/1751773088",
+        "youtubeID": "MYrZ5T3jFmA",
+        "spotifyID": "3LWVXp636uLT356Rj08Jaz"
     },
     {
         "ranking": "3",
@@ -25,14 +28,15 @@
         "title": "Smeraldo Garden Marching Band",
         "artist": "Jimin",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e1/16/4b/e1164b5b-d6bf-b22d-d5b2-746f85771f93/198704027765_Cover.jpg/80x80bb.webp",
-        "appleID": "smeraldo-garden-marching-band/1752552299"
+        "appleID": "smeraldo-garden-marching-band/1757558449"
     },
     {
         "ranking": "5",
         "title": "Who (Rock Remix)",
         "artist": "Jimin",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/25/03/6b/25036b82-3a20-1b25-4a76-10d60dd994ed/198704057328_Cover.jpg/80x80bb.webp",
-        "appleID": "who-rock-remix/1757558460"
+        "appleID": "who-rock-remix/1757558460",
+        "youtubeID": "Av9DvtlJ9_M"
     },
     {
         "ranking": "6",
@@ -60,14 +64,16 @@
         "title": "Interlude : Showtime",
         "artist": "Jimin",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/94/b5/84/94b58450-a0cd-ab97-2f30-0ed3608b5e24/196922987588_Cover.jpg/80x80bb.webp",
-        "appleID": "interlude-showtime/1751773082"
+        "appleID": "interlude-showtime/1751773082",
+        "spotifyID": "45zLrK0668WQ5JFMyiYmCS"
     },
     {
         "ranking": "10",
         "title": "Seven",
         "artist": "Jung Kook",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/a5/a6/56/a5a6561a-f570-2fb1-5a3a-95b150c18f18/196922550928_Cover.jpg/80x80bb.webp",
-        "appleID": "seven/1697147752"
+        "appleID": "seven/1697147752",
+        "youtubeID": "QU9c0053UAU"
     },
     {
         "ranking": "11",
@@ -88,14 +94,16 @@
         "title": "Come back to me",
         "artist": "RM",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/65/8e/78/658e78ae-253d-2b9c-ed83-3f623e607d36/196922948947_Cover.jpg/80x80bb.webp",
-        "appleID": "come-back-to-me/1742630454"
+        "appleID": "come-back-to-me/1742630454",
+        "youtubeID": "NrfikKxF4Ps"
     },
     {
         "ranking": "14",
         "title": "Closer Than This",
         "artist": "Jimin",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/8b/db/48/8bdb480c-86f8-7aeb-5897-41fd76bac031/196922764974_Cover.jpg/80x80bb.webp",
-        "appleID": "closer-than-this/1721409260"
+        "appleID": "closer-than-this/1721409260",
+        "spotifyID": "6qafqn8bBMy7t5c5WqpyRk"
     },
     {
         "ranking": "15",
@@ -116,7 +124,8 @@
         "title": "Who (Acoustic Remix)",
         "artist": "Jimin",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/25/03/6b/25036b82-3a20-1b25-4a76-10d60dd994ed/198704057328_Cover.jpg/80x80bb.webp",
-        "appleID": "who-acoustic-remix/1757558459"
+        "appleID": "who-acoustic-remix/1757558459",
+        "youtubeID": "Av9DvtlJ9_M"
     },
     {
         "ranking": "18",
@@ -137,28 +146,33 @@
         "title": "Who (Instrumental)",
         "artist": "Jimin",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/25/03/6b/25036b82-3a20-1b25-4a76-10d60dd994ed/198704057328_Cover.jpg/80x80bb.webp",
-        "appleID": "who-instrumental/1757558458"
+        "appleID": "who-instrumental/1757558458",
+        "youtubeID": "Av9DvtlJ9_M"
     },
     {
         "ranking": "21",
         "title": "Winter Ahead",
         "artist": "V",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9b/7a/b8/9b7ab83b-c635-42fa-a3d3-f8ede6e5920e/198704250583_Cover.jpg/80x80bb.webp",
-        "appleID": "winter-ahead/1780285815"
+        "appleID": "winter-ahead/1780285815",
+        "youtubeID": "HAWYOuMGkK0"
     },
     {
         "ranking": "22",
         "title": "Пожары",
         "artist": "XOLIDAYBOY",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/b5/ca/b3/b5cab33e-b047-f423-dadc-badfc0bb7f57/cover.jpg/80x80bb.webp",
-        "appleID": "%D0%BF%D0%BE%D0%B6%D0%B0%D1%80%D1%8B/1731327366"
+        "appleID": "%D0%BF%D0%BE%D0%B6%D0%B0%D1%80%D1%8B/1731327366",
+        "spotifyID": "5pZaiIokYGUANMAJiZg8tt"
     },
     {
         "ranking": "23",
         "title": "Like Crazy",
         "artist": "Jimin",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/41/a1/a5/41a1a5cb-22ac-0cef-a48c-5d00b1727320/196922330674_Cover.jpg/80x80bb.webp",
-        "appleID": "like-crazy/1676947244"
+        "appleID": "like-crazy/1676947244",
+        "youtubeID": "nOI67IDlNMQ",
+        "spotifyID": "3Ua0m0YmEjrMi9XErKcNiR"
     },
     {
         "ranking": "24",
@@ -200,7 +214,8 @@
         "title": "Who (Shibuyakei Remix)",
         "artist": "Jimin",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/21/30/c9/2130c9ee-eea1-8502-b912-185368a987f3/198704057335_Cover.jpg/80x80bb.webp",
-        "appleID": "who-shibuyakei-remix/1757553588"
+        "appleID": "who-shibuyakei-remix/1757553588",
+        "youtubeID": "Av9DvtlJ9_M"
     },
     {
         "ranking": "30",
@@ -319,7 +334,8 @@
         "title": "FRI(END)S",
         "artist": "V",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7d/dc/72/7ddc72a0-14e3-b92a-8b69-ec3ade3d9ed4/196922882227_Cover.jpg/80x80bb.webp",
-        "appleID": "fri-end-s/1734862500"
+        "appleID": "fri-end-s/1734862500",
+        "youtubeID": "62peQdQv4uo"
     },
     {
         "ranking": "47",
@@ -389,7 +405,8 @@
         "title": "Dynamite (Live)",
         "artist": "BTS",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2b/f6/82/2bf682ab-f6c5-a82e-d204-306faede272e/198704579318_Cover.jpg/80x80bb.webp",
-        "appleID": "dynamite-live/1823627863"
+        "appleID": "dynamite-live/1823627863",
+        "youtubeID": "gdZLi9oWNZg"
     },
     {
         "ranking": "57",
@@ -571,7 +588,8 @@
         "title": "Who (Beautiful Mind Remix)",
         "artist": "Jimin",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/21/30/c9/2130c9ee-eea1-8502-b912-185368a987f3/198704057335_Cover.jpg/80x80bb.webp",
-        "appleID": "who-beautiful-mind-remix/1757553927"
+        "appleID": "who-beautiful-mind-remix/1757553927",
+        "youtubeID": "Av9DvtlJ9_M"
     },
     {
         "ranking": "83",
@@ -620,7 +638,7 @@
         "title": "IDOL (Live)",
         "artist": "BTS",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2b/f6/82/2bf682ab-f6c5-a82e-d204-306faede272e/198704579318_Cover.jpg/80x80bb.webp",
-        "appleID": "idol-live/1823627888"
+        "appleID": "idol/1598730980"
     },
     {
         "ranking": "90",
@@ -676,7 +694,8 @@
         "title": "Матушка",
         "artist": "Татьяна Куртукова",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/d6/60/c8/d660c859-c3a9-0330-624e-f41be149eb40/cover.jpg/80x80bb.webp",
-        "appleID": "%D0%BC%D0%B0%D1%82%D1%83%D1%88%D0%BA%D0%B0/1732006589"
+        "appleID": "%D0%BC%D0%B0%D1%82%D1%83%D1%88%D0%BA%D0%B0/1732006589",
+        "youtubeID": "AFcIXxkFxK4"
     },
     {
         "ranking": "98",
@@ -690,7 +709,7 @@
         "title": "Telepathy (Live)",
         "artist": "BTS",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2b/f6/82/2bf682ab-f6c5-a82e-d204-306faede272e/198704579318_Cover.jpg/80x80bb.webp",
-        "appleID": "telepathy-live/1823627875"
+        "appleID": "telepathy/1596532390"
     },
     {
         "ranking": "100",
