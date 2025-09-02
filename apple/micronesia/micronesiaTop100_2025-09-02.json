@@ -25,7 +25,9 @@
         "title": "Lose Control",
         "artist": "Teddy Swims",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/36/19/66/36196640-1561-dc5e-c6bc-1e5f4befa583/093624856771.jpg/80x80bb.webp",
-        "appleID": "lose-control/1691699836"
+        "appleID": "lose-control/1691699836",
+        "youtubeID": "GZ3zL7kT6_c",
+        "spotifyID": "17phhZDn6oGtzMe56NuWvj"
     },
     {
         "ranking": "5",
@@ -60,7 +62,8 @@
         "title": "Every Night Every Morning",
         "artist": "Maoli",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/db/73/4f/db734ffc-785c-9999-be7c-f0c54458690a/0.jpg/80x80bb.webp",
-        "appleID": "every-night-every-morning/1761629618"
+        "appleID": "every-night-every-morning/1761629618",
+        "youtubeID": "20k90wvdLco"
     },
     {
         "ranking": "10",
@@ -221,14 +224,16 @@
         "title": "Carry My Heart",
         "artist": "Myshaan",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/84/56/18/845618ab-f06d-a5d3-ceda-b1080520425e/10288.jpg/80x80bb.webp",
-        "appleID": "carry-my-heart/1779243427"
+        "appleID": "carry-my-heart/1779243427",
+        "youtubeID": "N9Welk1i-XM"
     },
     {
         "ranking": "33",
         "title": "I Had Some Help (feat. Morgan Wallen)",
         "artist": "Post Malone",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e1/b7/09/e1b7098f-d6e1-2b18-fd6f-8390110908eb/24UMGIM50612.rgb.jpg/80x80bb.webp",
-        "appleID": "i-had-some-help-feat-morgan-wallen/1744439049"
+        "appleID": "i-had-some-help-feat-morgan-wallen/1744439049",
+        "youtubeID": "4QIZE708gJ4"
     },
     {
         "ranking": "34",
@@ -256,7 +261,8 @@
         "title": "On Bended Knee",
         "artist": "Boyz II Men",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/bd/4b/4f/bd4b4f79-f9f5-3686-19be-c2e2799ed6a7/09UMGIM07453.rgb.jpg/80x80bb.webp",
-        "appleID": "on-bended-knee/1445882252"
+        "appleID": "on-bended-knee/1445882252",
+        "youtubeID": "jSUSFow70no"
     },
     {
         "ranking": "38",
@@ -277,7 +283,7 @@
         "title": "Hit & Run (Solo Version)",
         "artist": "Shenseea",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d1/e7/09/d1e70996-be1f-a96a-3015-2d8f55a60040/24UMGIM33356.rgb.jpg/80x80bb.webp",
-        "appleID": "hit-run-solo-version/1737870691"
+        "appleID": "hit-run/1727264203"
     },
     {
         "ranking": "41",
@@ -375,7 +381,8 @@
         "title": "Dreams",
         "artist": "Fleetwood Mac",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/d2/48/f4/d248f4ae-a7e4-a48e-1588-6617de3e8d76/mzi.izeorbmm.jpg/80x80bb.webp",
-        "appleID": "dreams/202272624"
+        "appleID": "dreams/202272624",
+        "youtubeID": "Y3ywicffOj4"
     },
     {
         "ranking": "55",
@@ -431,7 +438,8 @@
         "title": "People",
         "artist": "Libianca",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/c6/8c/ca/c68ccacb-cdd5-b765-53e1-eeca394770ac/196589735607.jpg/80x80bb.webp",
-        "appleID": "people/1658390607"
+        "appleID": "people/1658390607",
+        "youtubeID": "rJWdfDPZ9Ck"
     },
     {
         "ranking": "63",

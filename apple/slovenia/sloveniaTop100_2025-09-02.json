@@ -207,7 +207,8 @@
         "title": "Forza",
         "artist": "Grše",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/62/ec/18/62ec1883-aac6-1a1b-8808-c8a79fab5201/cover.jpg/80x80bb.webp",
-        "appleID": "forza/1751269959"
+        "appleID": "forza/1751269959",
+        "youtubeID": "-w55SIKYZxc"
     },
     {
         "ranking": "31",
@@ -480,7 +481,9 @@
         "title": "That’s So True",
         "artist": "Gracie Abrams",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/26/78/81/26788143-5e5f-0813-2480-ecf4280ef221/24UM1IM07082.rgb.jpg/80x80bb.webp",
-        "appleID": "thats-so-true/1773474483"
+        "appleID": "thats-so-true/1773474483",
+        "youtubeID": "BDHM8cyJQa8",
+        "spotifyID": "7ne4VBA60CxGM75vw0EYad"
     },
     {
         "ranking": "70",
@@ -501,7 +504,7 @@
         "title": "Bez Koda",
         "artist": "Jala Brat",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/96/42/75/96427505-7355-66ad-3ca6-c346dc3cc379/1078.jpg/80x80bb.webp",
-        "appleID": "bez-koda/1782139510"
+        "appleID": "bez-koda/1753830403"
     },
     {
         "ranking": "73",
@@ -543,7 +546,8 @@
         "title": "Beautiful Things",
         "artist": "Benson Boone",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/54/f4/92/54f49210-e260-b519-ebbd-f4f40ee710cd/054391342751.jpg/80x80bb.webp",
-        "appleID": "beautiful-things/1724488124"
+        "appleID": "beautiful-things/1724488124",
+        "youtubeID": "Oa_RSwwpPaA"
     },
     {
         "ranking": "79",
