@@ -95,7 +95,9 @@
         "title": "WILDFLOWER",
         "artist": "Billie Eilish",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
-        "appleID": "wildflower/1739659144"
+        "appleID": "wildflower/1739659144",
+        "youtubeID": "IWKyykQBRKo",
+        "spotifyID": "3QaPy1KgI7nu9FJEQUgn6h"
     },
     {
         "ranking": "15",
@@ -200,7 +202,8 @@
         "title": "Ya Ana Ya La",
         "artist": "Amr Diab",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6b/fa/d0/6bfad002-1f1c-046a-2d4d-a932841e00a5/3616842369259.jpg/80x80bb.webp",
-        "appleID": "ya-ana-ya-la/1775965916"
+        "appleID": "ya-ana-ya-la/1775965916",
+        "youtubeID": "qDzDFSItK_0"
     },
     {
         "ranking": "30",
@@ -291,7 +294,9 @@
         "title": "Die With A Smile",
         "artist": "Lady Gaga",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/11/ae/f2/11aef294-f57c-bab9-c9fc-529162984e62/24UMGIM85348.rgb.jpg/80x80bb.webp",
-        "appleID": "die-with-a-smile/1762656732"
+        "appleID": "die-with-a-smile/1762656732",
+        "youtubeID": "kPa7bsKwL-c",
+        "spotifyID": "2plbrEY59IikOBgBGLjaoe"
     },
     {
         "ranking": "43",
@@ -326,7 +331,8 @@
         "title": "Timeless",
         "artist": "The Weeknd",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/40/77/cb/4077cbd1-b6a0-d8df-b9d3-e9a339dbc0ea/24UM1IM04061.rgb.jpg/80x80bb.webp",
-        "appleID": "timeless/1770380890"
+        "appleID": "timeless/1770380890",
+        "youtubeID": "5EpyN_6dqyk"
     },
     {
         "ranking": "48",
@@ -354,7 +360,8 @@
         "title": "Inta El Haz",
         "artist": "Amr Diab",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ea/c0/4d/eac04d0a-9e41-fa44-255f-b255f611f035/196872488401.jpg/80x80bb.webp",
-        "appleID": "inta-el-haz/1776026474"
+        "appleID": "inta-el-haz/1776026474",
+        "youtubeID": "T-LAJ0Y7lsw"
     },
     {
         "ranking": "52",
@@ -431,7 +438,9 @@
         "title": "CHIHIRO",
         "artist": "Billie Eilish",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
-        "appleID": "chihiro/1739659141"
+        "appleID": "chihiro/1739659141",
+        "youtubeID": "BY_XwvKogC8",
+        "spotifyID": "7BRD7x5pt8Lqa1eGYC4dzj"
     },
     {
         "ranking": "63",
@@ -480,7 +489,9 @@
         "title": "No One Noticed",
         "artist": "The Marías",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/df/47/18/df471848-5779-7147-a1df-c2d7f5fa0c3e/075679659644.jpg/80x80bb.webp",
-        "appleID": "no-one-noticed/1733731157"
+        "appleID": "no-one-noticed/1733731157",
+        "youtubeID": "Qn8F_u0vBNI",
+        "spotifyID": "3siwsiaEoU4Kuuc9WKMUy5"
     },
     {
         "ranking": "70",
@@ -501,7 +512,8 @@
         "title": "THE GREATEST",
         "artist": "Billie Eilish",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
-        "appleID": "the-greatest/1739659145"
+        "appleID": "the-greatest/1739659145",
+        "youtubeID": "aZqCFE_9U9o"
     },
     {
         "ranking": "73",
@@ -578,7 +590,9 @@
         "title": "That’s So True",
         "artist": "Gracie Abrams",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/26/78/81/26788143-5e5f-0813-2480-ecf4280ef221/24UM1IM07082.rgb.jpg/80x80bb.webp",
-        "appleID": "thats-so-true/1773474483"
+        "appleID": "thats-so-true/1773474483",
+        "youtubeID": "BDHM8cyJQa8",
+        "spotifyID": "7ne4VBA60CxGM75vw0EYad"
     },
     {
         "ranking": "84",
@@ -592,7 +606,8 @@
         "title": "BIRDS OF A FEATHER",
         "artist": "Billie Eilish",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
-        "appleID": "birds-of-a-feather/1739659142"
+        "appleID": "birds-of-a-feather/1739659142",
+        "youtubeID": "V9PVRfjEBTI"
     },
     {
         "ranking": "86",
@@ -627,7 +642,8 @@
         "title": "Apocalypse",
         "artist": "Cigarettes After Sex",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b3/5e/0f/b35e0fbe-2370-fc48-0f0c-977525e93bf2/720841214601_Cover.jpg/80x80bb.webp",
-        "appleID": "apocalypse/1217977755"
+        "appleID": "apocalypse/1215409245",
+        "spotifyID": "0yc6Gst2xkRu0eMLeRMGCX"
     },
     {
         "ranking": "91",
@@ -641,7 +657,8 @@
         "title": "Ray'a",
         "artist": "Amr Diab",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ae/a2/c6/aea2c687-6b2c-37f3-9fe6-00df5f4e156a/196872488395.jpg/80x80bb.webp",
-        "appleID": "raya/1776024498"
+        "appleID": "raya/1776024498",
+        "youtubeID": "JtDrB2h6C78"
     },
     {
         "ranking": "93",

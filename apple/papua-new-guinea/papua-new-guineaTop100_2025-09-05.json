@@ -109,7 +109,9 @@
         "title": "Snooze",
         "artist": "SZA",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/bd/3b/a9/bd3ba9fb-9609-144f-bcfe-ead67b5f6ab3/196589564931.jpg/80x80bb.webp",
-        "appleID": "snooze/1657869492"
+        "appleID": "snooze/1657869492",
+        "youtubeID": "LDY_XyxBu8A",
+        "spotifyID": "4iZ4pt7kvcaH6Yo8UoZ4s2"
     },
     {
         "ranking": "17",
@@ -242,7 +244,8 @@
         "title": "Beautiful Things",
         "artist": "Benson Boone",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/54/f4/92/54f49210-e260-b519-ebbd-f4f40ee710cd/054391342751.jpg/80x80bb.webp",
-        "appleID": "beautiful-things/1724488124"
+        "appleID": "beautiful-things/1724488124",
+        "youtubeID": "Oa_RSwwpPaA"
     },
     {
         "ranking": "36",
@@ -424,7 +427,9 @@
         "title": "Bad Dreams",
         "artist": "Teddy Swims",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/cd/5d/64/cd5d64c2-338b-00c9-52d6-578a0f19d826/054391245908.jpg/80x80bb.webp",
-        "appleID": "bad-dreams/1765799904"
+        "appleID": "bad-dreams/1765799904",
+        "youtubeID": "Qh8QwVYOSVU",
+        "spotifyID": "3nHuKdFJZm78CoeBnDcFKe"
     },
     {
         "ranking": "62",
@@ -445,7 +450,7 @@
         "title": "Malele",
         "artist": "Liz Vamarasi",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/87/2f/0f/872f0fa8-fa93-bee1-e292-70a91491f36c/0.jpg/80x80bb.webp",
-        "appleID": "malele/1802834722"
+        "appleID": "malele/1751186235"
     },
     {
         "ranking": "65",
@@ -466,7 +471,8 @@
         "title": "Kiss Me More (feat. SZA)",
         "artist": "Doja Cat",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/2d/fe/76/2dfe76da-e6bd-3a2c-d798-5b8a901a67bd/886449410538.jpg/80x80bb.webp",
-        "appleID": "kiss-me-more-feat-sza/1574004703"
+        "appleID": "kiss-me-more-feat-sza/1574004703",
+        "youtubeID": "0EVVKs6DQLo"
     },
     {
         "ranking": "68",
@@ -564,7 +570,9 @@
         "title": "WILDFLOWER",
         "artist": "Billie Eilish",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
-        "appleID": "wildflower/1739659144"
+        "appleID": "wildflower/1739659144",
+        "youtubeID": "IWKyykQBRKo",
+        "spotifyID": "3QaPy1KgI7nu9FJEQUgn6h"
     },
     {
         "ranking": "82",
@@ -634,7 +642,8 @@
         "title": "Nobody Gets Me",
         "artist": "SZA",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/bd/3b/a9/bd3ba9fb-9609-144f-bcfe-ead67b5f6ab3/196589564931.jpg/80x80bb.webp",
-        "appleID": "nobody-gets-me/1657869532"
+        "appleID": "nobody-gets-me/1657869532",
+        "spotifyID": "5Y35SjAfXjjG0sFQ3KOxmm"
     },
     {
         "ranking": "92",
@@ -648,14 +657,16 @@
         "title": "Good Luck, Babe!",
         "artist": "Chappell Roan",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/29/a7/c4/29a7c478-351d-25eb-a116-3e68118cdab8/24UMGIM31246.rgb.jpg/80x80bb.webp",
-        "appleID": "good-luck-babe/1737497080"
+        "appleID": "good-luck-babe/1737497080",
+        "youtubeID": "1RKqOmSkGgM",
+        "spotifyID": "0WbMK4wrZ1wFSty9F7FCgu"
     },
     {
         "ranking": "94",
         "title": "On the Low",
         "artist": "Burna Boy",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8d/58/f1/8d58f169-5f12-3574-3ba1-3a482eefe459/075679849304.jpg/80x80bb.webp",
-        "appleID": "on-the-low/1471446273"
+        "appleID": "on-the-low/1743942529"
     },
     {
         "ranking": "95",
@@ -683,7 +694,8 @@
         "title": "Not Like Us",
         "artist": "Kendrick Lamar",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d0/ef/b6/d0efb685-73be-fdee-58c9-be655f4cd4fd/24UMGIM51924.rgb.jpg/80x80bb.webp",
-        "appleID": "not-like-us/1744776167"
+        "appleID": "not-like-us/1744776167",
+        "youtubeID": "H58vbez_m4E"
     },
     {
         "ranking": "99",
