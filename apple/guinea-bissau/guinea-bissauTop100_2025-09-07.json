@@ -74,14 +74,15 @@
         "title": "Daylight",
         "artist": "David Kushner",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b9/f2/2b/b9f22b26-d962-70de-6d85-674139ded7cc/842812190988_Cover.jpg/80x80bb.webp",
-        "appleID": "daylight/1796004433"
+        "appleID": "daylight/1680069454",
+        "spotifyID": "2mEMKgLqH3VZaSYO7iYCzp"
     },
     {
         "ranking": "12",
         "title": "Hero",
         "artist": "Nelson Freitas",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/1e/e1/2e/1ee12e5f-e612-b83f-8551-197d35f43fff/197189904165.jpg/80x80bb.webp",
-        "appleID": "hero/1707362285"
+        "appleID": "hero/1726487366"
     },
     {
         "ranking": "13",
@@ -438,7 +439,8 @@
         "title": "Beautiful Things",
         "artist": "Benson Boone",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/54/f4/92/54f49210-e260-b519-ebbd-f4f40ee710cd/054391342751.jpg/80x80bb.webp",
-        "appleID": "beautiful-things/1724488124"
+        "appleID": "beautiful-things/1724488124",
+        "youtubeID": "Oa_RSwwpPaA"
     },
     {
         "ranking": "64",
