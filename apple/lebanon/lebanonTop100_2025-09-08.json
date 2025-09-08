@@ -95,7 +95,9 @@
         "title": "WILDFLOWER",
         "artist": "Billie Eilish",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
-        "appleID": "wildflower/1739659144"
+        "appleID": "wildflower/1739659144",
+        "youtubeID": "IWKyykQBRKo",
+        "spotifyID": "3QaPy1KgI7nu9FJEQUgn6h"
     },
     {
         "ranking": "15",
@@ -298,7 +300,8 @@
         "title": "Timeless",
         "artist": "The Weeknd",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/40/77/cb/4077cbd1-b6a0-d8df-b9d3-e9a339dbc0ea/24UM1IM04061.rgb.jpg/80x80bb.webp",
-        "appleID": "timeless/1770380890"
+        "appleID": "timeless/1770380890",
+        "youtubeID": "5EpyN_6dqyk"
     },
     {
         "ranking": "44",
@@ -312,7 +315,9 @@
         "title": "CHIHIRO",
         "artist": "Billie Eilish",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
-        "appleID": "chihiro/1739659141"
+        "appleID": "chihiro/1739659141",
+        "youtubeID": "BY_XwvKogC8",
+        "spotifyID": "7BRD7x5pt8Lqa1eGYC4dzj"
     },
     {
         "ranking": "46",
@@ -361,14 +366,16 @@
         "title": "Ya Ana Ya La",
         "artist": "Amr Diab",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6b/fa/d0/6bfad002-1f1c-046a-2d4d-a932841e00a5/3616842369259.jpg/80x80bb.webp",
-        "appleID": "ya-ana-ya-la/1775965916"
+        "appleID": "ya-ana-ya-la/1775965916",
+        "youtubeID": "qDzDFSItK_0"
     },
     {
         "ranking": "53",
         "title": "Yellow",
         "artist": "Coldplay",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f5/93/8c/f5938c49-964c-31d1-4b33-78b634f71fb7/190295978075.jpg/80x80bb.webp",
-        "appleID": "yellow/1122782283"
+        "appleID": "yellow/1122782283",
+        "spotifyID": "3AJwUDP919kvQ9QcozQPxg"
     },
     {
         "ranking": "54",
@@ -389,7 +396,8 @@
         "title": "Inta El Haz",
         "artist": "Amr Diab",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ea/c0/4d/eac04d0a-9e41-fa44-255f-b255f611f035/196872488401.jpg/80x80bb.webp",
-        "appleID": "inta-el-haz/1776026474"
+        "appleID": "inta-el-haz/1776026474",
+        "youtubeID": "T-LAJ0Y7lsw"
     },
     {
         "ranking": "57",
@@ -466,7 +474,8 @@
         "title": "Ray'a",
         "artist": "Amr Diab",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ae/a2/c6/aea2c687-6b2c-37f3-9fe6-00df5f4e156a/196872488395.jpg/80x80bb.webp",
-        "appleID": "raya/1776024498"
+        "appleID": "raya/1776024498",
+        "youtubeID": "JtDrB2h6C78"
     },
     {
         "ranking": "68",
@@ -529,7 +538,8 @@
         "title": "BIRDS OF A FEATHER",
         "artist": "Billie Eilish",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
-        "appleID": "birds-of-a-feather/1739659142"
+        "appleID": "birds-of-a-feather/1739659142",
+        "youtubeID": "V9PVRfjEBTI"
     },
     {
         "ranking": "77",
@@ -550,7 +560,8 @@
         "title": "A Sky Full of Stars",
         "artist": "Coldplay",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/60/90/ad/6090adc3-8863-861d-afcc-23c55c6fe5da/dj.vmtulfyu.jpg/80x80bb.webp",
-        "appleID": "a-sky-full-of-stars/829910927"
+        "appleID": "a-sky-full-of-stars/829910927",
+        "youtubeID": "VPRjCeoBqrI"
     },
     {
         "ranking": "80",
@@ -627,7 +638,8 @@
         "title": "Breakin' Dishes",
         "artist": "Rihanna",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/2b/c0/81/2bc081c8-25f0-ba43-d451-587a54613778/16UMGIM59202.rgb.jpg/80x80bb.webp",
-        "appleID": "breakin-dishes/1441154440"
+        "appleID": "breakin-dishes/1441154440",
+        "spotifyID": "5EcG8eMMlwkHRVa4aTR1qd"
     },
     {
         "ranking": "91",
@@ -648,7 +660,9 @@
         "title": "Iris",
         "artist": "The Goo Goo Dolls",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/21/d8/5f/21d85f0f-a218-09f7-0772-5593bc85a3f5/mzi.krlvjtlp.jpg/80x80bb.webp",
-        "appleID": "iris/329935736"
+        "appleID": "iris/267537169",
+        "youtubeID": "NdYWuo9OFAw",
+        "spotifyID": "6Qyc6fS4DsZjB2mRW9DsQs"
     },
     {
         "ranking": "94",
@@ -669,7 +683,9 @@
         "title": "No One Noticed",
         "artist": "The Marías",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/df/47/18/df471848-5779-7147-a1df-c2d7f5fa0c3e/075679659644.jpg/80x80bb.webp",
-        "appleID": "no-one-noticed/1733731157"
+        "appleID": "no-one-noticed/1733731157",
+        "youtubeID": "Qn8F_u0vBNI",
+        "spotifyID": "3siwsiaEoU4Kuuc9WKMUy5"
     },
     {
         "ranking": "97",
@@ -697,6 +713,7 @@
         "title": "THE GREATEST",
         "artist": "Billie Eilish",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
-        "appleID": "the-greatest/1739659145"
+        "appleID": "the-greatest/1739659145",
+        "youtubeID": "aZqCFE_9U9o"
     }
 ]

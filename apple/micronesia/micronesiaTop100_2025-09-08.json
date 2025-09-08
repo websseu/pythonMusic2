@@ -214,7 +214,8 @@
         "title": "Girlfriend",
         "artist": "Ruger",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/78/68/ce/7868ce23-2ce0-0cfd-7ce3-3eb1196f1d96/196589221094_Cover.jpg/80x80bb.webp",
-        "appleID": "girlfriend/1709394555"
+        "appleID": "girlfriend/1709394555",
+        "youtubeID": "7M2Gps9xR8g"
     },
     {
         "ranking": "32",
@@ -368,7 +369,9 @@
         "title": "Let Me Love You",
         "artist": "Mario",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/6b/77/72/6b777276-1f3d-8ecf-d9d2-06733e3d7dd3/828766188523.jpg/80x80bb.webp",
-        "appleID": "let-me-love-you/257524515"
+        "appleID": "let-me-love-you/257524515",
+        "youtubeID": "H64QG4UsrGI",
+        "spotifyID": "7GaFYUqP2WdR4KTPk7cXoP"
     },
     {
         "ranking": "54",
@@ -452,7 +455,8 @@
         "title": "luther",
         "artist": "Kendrick Lamar",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/50/c2/cc/50c2cc95-3658-9417-0d4b-831abde44ba1/24UM1IM28978.rgb.jpg/80x80bb.webp",
-        "appleID": "luther/1781270323"
+        "appleID": "luther/1781270323",
+        "youtubeID": "4_taypLmSMU"
     },
     {
         "ranking": "66",
@@ -515,7 +519,7 @@
         "title": "Hit & Run (Solo Version)",
         "artist": "Shenseea",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d1/e7/09/d1e70996-be1f-a96a-3015-2d8f55a60040/24UMGIM33356.rgb.jpg/80x80bb.webp",
-        "appleID": "hit-run-solo-version/1737870691"
+        "appleID": "hit-run/1727264203"
     },
     {
         "ranking": "75",
@@ -606,7 +610,9 @@
         "title": "Lose Control",
         "artist": "Teddy Swims",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/36/19/66/36196640-1561-dc5e-c6bc-1e5f4befa583/093624856771.jpg/80x80bb.webp",
-        "appleID": "lose-control/1691699836"
+        "appleID": "lose-control/1691699836",
+        "youtubeID": "GZ3zL7kT6_c",
+        "spotifyID": "17phhZDn6oGtzMe56NuWvj"
     },
     {
         "ranking": "88",
@@ -627,7 +633,8 @@
         "title": "On Bended Knee",
         "artist": "Boyz II Men",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/bd/4b/4f/bd4b4f79-f9f5-3686-19be-c2e2799ed6a7/09UMGIM07453.rgb.jpg/80x80bb.webp",
-        "appleID": "on-bended-knee/1445882252"
+        "appleID": "on-bended-knee/1445882252",
+        "youtubeID": "jSUSFow70no"
     },
     {
         "ranking": "91",
@@ -690,7 +697,8 @@
         "title": "Every Night Every Morning",
         "artist": "Maoli",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/db/73/4f/db734ffc-785c-9999-be7c-f0c54458690a/0.jpg/80x80bb.webp",
-        "appleID": "every-night-every-morning/1761629618"
+        "appleID": "every-night-every-morning/1761629618",
+        "youtubeID": "20k90wvdLco"
     },
     {
         "ranking": "100",
