@@ -81,7 +81,8 @@
         "title": "Timeless",
         "artist": "The Weeknd",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/40/77/cb/4077cbd1-b6a0-d8df-b9d3-e9a339dbc0ea/24UM1IM04061.rgb.jpg/80x80bb.webp",
-        "appleID": "timeless/1770380890"
+        "appleID": "timeless/1770380890",
+        "youtubeID": "5EpyN_6dqyk"
     },
     {
         "ranking": "13",
@@ -116,7 +117,9 @@
         "title": "Die With A Smile",
         "artist": "Lady Gaga",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/11/ae/f2/11aef294-f57c-bab9-c9fc-529162984e62/24UMGIM85348.rgb.jpg/80x80bb.webp",
-        "appleID": "die-with-a-smile/1762656732"
+        "appleID": "die-with-a-smile/1762656732",
+        "youtubeID": "kPa7bsKwL-c",
+        "spotifyID": "2plbrEY59IikOBgBGLjaoe"
     },
     {
         "ranking": "18",
@@ -144,7 +147,8 @@
         "title": "BIRDS OF A FEATHER",
         "artist": "Billie Eilish",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
-        "appleID": "birds-of-a-feather/1739659142"
+        "appleID": "birds-of-a-feather/1739659142",
+        "youtubeID": "V9PVRfjEBTI"
     },
     {
         "ranking": "22",
@@ -158,7 +162,9 @@
         "title": "WILDFLOWER",
         "artist": "Billie Eilish",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
-        "appleID": "wildflower/1739659144"
+        "appleID": "wildflower/1739659144",
+        "youtubeID": "IWKyykQBRKo",
+        "spotifyID": "3QaPy1KgI7nu9FJEQUgn6h"
     },
     {
         "ranking": "24",
@@ -193,14 +199,17 @@
         "title": "Blinding Lights",
         "artist": "The Weeknd",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/a6/6e/bf/a66ebf79-5008-8948-b352-a790fc87446b/19UM1IM04638.rgb.jpg/80x80bb.webp",
-        "appleID": "blinding-lights/1488408568"
+        "appleID": "blinding-lights/1488408568",
+        "spotifyID": "0VjIjW4GlUZAMYd2vXMi3b"
     },
     {
         "ranking": "29",
         "title": "CHIHIRO",
         "artist": "Billie Eilish",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
-        "appleID": "chihiro/1739659141"
+        "appleID": "chihiro/1739659141",
+        "youtubeID": "BY_XwvKogC8",
+        "spotifyID": "7BRD7x5pt8Lqa1eGYC4dzj"
     },
     {
         "ranking": "30",
@@ -263,7 +272,9 @@
         "title": "Lose Control",
         "artist": "Teddy Swims",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/36/19/66/36196640-1561-dc5e-c6bc-1e5f4befa583/093624856771.jpg/80x80bb.webp",
-        "appleID": "lose-control/1691699836"
+        "appleID": "lose-control/1691699836",
+        "youtubeID": "GZ3zL7kT6_c",
+        "spotifyID": "17phhZDn6oGtzMe56NuWvj"
     },
     {
         "ranking": "39",
@@ -284,7 +295,8 @@
         "title": "Beautiful Things",
         "artist": "Benson Boone",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/54/f4/92/54f49210-e260-b519-ebbd-f4f40ee710cd/054391342751.jpg/80x80bb.webp",
-        "appleID": "beautiful-things/1724488124"
+        "appleID": "beautiful-things/1724488124",
+        "youtubeID": "Oa_RSwwpPaA"
     },
     {
         "ranking": "42",
@@ -312,14 +324,17 @@
         "title": "AUTOS",
         "artist": "Sicario",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b0/86/4e/b0864ea6-fe31-fe1c-f3d4-b7d6f4aa0d24/cover.jpg/80x80bb.webp",
-        "appleID": "autos/1774686848"
+        "appleID": "autos/1774686848",
+        "spotifyID": "0EwKlAawFATYjR7Od5ps6k"
     },
     {
         "ranking": "46",
         "title": "Bad Dreams",
         "artist": "Teddy Swims",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/cd/5d/64/cd5d64c2-338b-00c9-52d6-578a0f19d826/054391245908.jpg/80x80bb.webp",
-        "appleID": "bad-dreams/1765799904"
+        "appleID": "bad-dreams/1765799904",
+        "youtubeID": "Qh8QwVYOSVU",
+        "spotifyID": "3nHuKdFJZm78CoeBnDcFKe"
     },
     {
         "ranking": "47",
@@ -375,7 +390,8 @@
         "title": "Se Periptosi Pou",
         "artist": "Anna Vissi",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3e/35/dc/3e35dcda-64cb-3eb7-3ec2-7456a6047114/cover.jpg/80x80bb.webp",
-        "appleID": "se-periptosi-pou/1777139739"
+        "appleID": "se-periptosi-pou/1777139739",
+        "spotifyID": "4iJkeikfkJ7EzkR2xUu0m4"
     },
     {
         "ranking": "55",
@@ -403,7 +419,9 @@
         "title": "That’s So True",
         "artist": "Gracie Abrams",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/26/78/81/26788143-5e5f-0813-2480-ecf4280ef221/24UM1IM07082.rgb.jpg/80x80bb.webp",
-        "appleID": "thats-so-true/1773474483"
+        "appleID": "thats-so-true/1773474483",
+        "youtubeID": "BDHM8cyJQa8",
+        "spotifyID": "7ne4VBA60CxGM75vw0EYad"
     },
     {
         "ranking": "59",
@@ -417,7 +435,9 @@
         "title": "APT.",
         "artist": "ROSÉ",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2d/1a/7d/2d1a7d91-587e-0ceb-d434-327bd66d9e86/075679628312.jpg/80x80bb.webp",
-        "appleID": "apt/1773452221"
+        "appleID": "apt/1773452221",
+        "youtubeID": "ekr2nIex040",
+        "spotifyID": "4wJ5Qq0jBN4ajy7ouZIV1c"
     },
     {
         "ranking": "61",
@@ -452,7 +472,8 @@
         "title": "Not Like Us",
         "artist": "Kendrick Lamar",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d0/ef/b6/d0efb685-73be-fdee-58c9-be655f4cd4fd/24UMGIM51924.rgb.jpg/80x80bb.webp",
-        "appleID": "not-like-us/1744776167"
+        "appleID": "not-like-us/1744776167",
+        "youtubeID": "H58vbez_m4E"
     },
     {
         "ranking": "66",
@@ -494,7 +515,8 @@
         "title": "Breakin' Dishes",
         "artist": "Rihanna",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/2b/c0/81/2bc081c8-25f0-ba43-d451-587a54613778/16UMGIM59202.rgb.jpg/80x80bb.webp",
-        "appleID": "breakin-dishes/1441154440"
+        "appleID": "breakin-dishes/1441154440",
+        "spotifyID": "5EcG8eMMlwkHRVa4aTR1qd"
     },
     {
         "ranking": "72",
@@ -508,7 +530,9 @@
         "title": "Iris",
         "artist": "The Goo Goo Dolls",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music/b4/0c/98/mzi.vhowcacb.jpg/80x80bb.webp",
-        "appleID": "iris/267537169"
+        "appleID": "iris/267537169",
+        "youtubeID": "NdYWuo9OFAw",
+        "spotifyID": "6Qyc6fS4DsZjB2mRW9DsQs"
     },
     {
         "ranking": "74",
@@ -564,35 +588,42 @@
         "title": "Espresso",
         "artist": "Sabrina Carpenter",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cb/64/8c/cb648cf7-e7bb-bd00-efe0-d744312c29a8/24UMGIM32304.rgb.jpg/80x80bb.webp",
-        "appleID": "espresso/1740212434"
+        "appleID": "espresso/1740212434",
+        "youtubeID": "eVli-tstM5E"
     },
     {
         "ranking": "82",
         "title": "Xiliometra",
         "artist": "APON",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f9/1b/04/f91b0448-6458-6ae4-dc63-0cef1c29d15e/cover.jpg/80x80bb.webp",
-        "appleID": "xiliometra/1766994773"
+        "appleID": "xiliometra/1766994773",
+        "spotifyID": "2acUYxCZbgndtm70LgCCbS"
     },
     {
         "ranking": "83",
         "title": "Without Me",
         "artist": "Eminem",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/b4/13/e9/b413e91d-40aa-a1a8-b8e3-2bacc3b3e222/00606949329020.rgb.jpg/80x80bb.webp",
-        "appleID": "without-me/1440903693"
+        "appleID": "without-me/1440903693",
+        "youtubeID": "YVkUvmDQ3HY",
+        "spotifyID": "7lQ8MOhq6IN2w8EYcFNSUk"
     },
     {
         "ranking": "84",
         "title": "Good Luck, Babe!",
         "artist": "Chappell Roan",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/29/a7/c4/29a7c478-351d-25eb-a116-3e68118cdab8/24UMGIM31246.rgb.jpg/80x80bb.webp",
-        "appleID": "good-luck-babe/1737497080"
+        "appleID": "good-luck-babe/1737497080",
+        "youtubeID": "1RKqOmSkGgM",
+        "spotifyID": "0WbMK4wrZ1wFSty9F7FCgu"
     },
     {
         "ranking": "85",
         "title": "Believer",
         "artist": "Imagine Dragons",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/11/7a/b8/117ab805-6811-8929-18b9-0fad7baf0c25/17UMGIM98210.rgb.jpg/80x80bb.webp",
-        "appleID": "believer/1411628233"
+        "appleID": "believer/1411628233",
+        "youtubeID": "7wtfhZwyrcc"
     },
     {
         "ranking": "86",
@@ -606,14 +637,16 @@
         "title": "Creep",
         "artist": "Radiohead",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/78/a4/ec/78a4ec7b-c6d6-c9c8-441b-660486e56a89/634904077969.png/80x80bb.webp",
-        "appleID": "creep/1097862231"
+        "appleID": "creep/1097862231",
+        "youtubeID": "XFkzRNyygfk"
     },
     {
         "ranking": "88",
         "title": "Dancing In The Flames",
         "artist": "The Weeknd",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/34/7e/9f/347e9f54-2d74-820f-a910-68d01f044fcf/24UMGIM95646.rgb.jpg/80x80bb.webp",
-        "appleID": "dancing-in-the-flames/1767511513"
+        "appleID": "dancing-in-the-flames/1767511513",
+        "youtubeID": "gu0_ixJMx5U"
     },
     {
         "ranking": "89",
@@ -648,14 +681,16 @@
         "title": "greedy",
         "artist": "Tate McRae",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/23/07/92/23079247-25be-3098-ef53-78e7d0fe7406/196871341653.jpg/80x80bb.webp",
-        "appleID": "greedy/1706381103"
+        "appleID": "greedy/1706381103",
+        "spotifyID": "3rUGC1vUpkDG9CZFHMur1t"
     },
     {
         "ranking": "94",
         "title": "Vorias",
         "artist": "APON",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/21/57/81/215781d0-91e8-38d1-7bdd-74915c9f725e/cover.jpg/80x80bb.webp",
-        "appleID": "vorias/1750062276"
+        "appleID": "vorias/1750062276",
+        "spotifyID": "0ZK2jpmk44WBUfe2UV30AY"
     },
     {
         "ranking": "95",

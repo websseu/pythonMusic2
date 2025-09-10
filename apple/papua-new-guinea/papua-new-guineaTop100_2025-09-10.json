@@ -109,7 +109,9 @@
         "title": "Snooze",
         "artist": "SZA",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/bd/3b/a9/bd3ba9fb-9609-144f-bcfe-ead67b5f6ab3/196589564931.jpg/80x80bb.webp",
-        "appleID": "snooze/1657869492"
+        "appleID": "snooze/1657869492",
+        "youtubeID": "LDY_XyxBu8A",
+        "spotifyID": "4iZ4pt7kvcaH6Yo8UoZ4s2"
     },
     {
         "ranking": "17",
@@ -298,7 +300,7 @@
         "title": "Malele",
         "artist": "Liz Vamarasi",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/87/2f/0f/872f0fa8-fa93-bee1-e292-70a91491f36c/0.jpg/80x80bb.webp",
-        "appleID": "malele/1802834722"
+        "appleID": "malele/1751186235"
     },
     {
         "ranking": "44",
@@ -585,7 +587,9 @@
         "title": "WILDFLOWER",
         "artist": "Billie Eilish",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
-        "appleID": "wildflower/1739659144"
+        "appleID": "wildflower/1739659144",
+        "youtubeID": "IWKyykQBRKo",
+        "spotifyID": "3QaPy1KgI7nu9FJEQUgn6h"
     },
     {
         "ranking": "85",
@@ -641,7 +645,8 @@
         "title": "Pink + White",
         "artist": "Frank Ocean",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/bb/45/68/bb4568f3-68cd-619d-fbcb-4e179916545d/BlondCover-Final.jpg/80x80bb.webp",
-        "appleID": "pink-white/1146195714"
+        "appleID": "pink-white/1146195714",
+        "spotifyID": "3xKsf9qdS1CyvXSMEid6g8"
     },
     {
         "ranking": "93",
