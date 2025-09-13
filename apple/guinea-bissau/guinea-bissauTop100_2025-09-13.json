@@ -60,7 +60,7 @@
         "title": "Mama",
         "artist": "Kizz Daniel",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/e3/34/5b/e3345ba9-edd5-799a-01fc-3b8ea9dc049f/859723806259_cover.jpg/80x80bb.webp",
-        "appleID": "mama/1302443253"
+        "appleID": "mama/1302463460"
     },
     {
         "ranking": "10",
@@ -543,7 +543,7 @@
         "title": "Hero",
         "artist": "Nelson Freitas",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/1e/e1/2e/1ee12e5f-e612-b83f-8551-197d35f43fff/197189904165.jpg/80x80bb.webp",
-        "appleID": "hero/1707362285"
+        "appleID": "hero/1726487366"
     },
     {
         "ranking": "79",
@@ -564,7 +564,8 @@
         "title": "BABETE",
         "artist": "Landrick",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/33/3a/42/333a42fe-7e1c-1e37-3fd9-4bae94e65168/24UMGIM18604.rgb.jpg/80x80bb.webp",
-        "appleID": "babete/1733080344"
+        "appleID": "babete/1733080344",
+        "youtubeID": "H9etTzcocfU"
     },
     {
         "ranking": "82",
@@ -578,14 +579,16 @@
         "title": "Daylight",
         "artist": "David Kushner",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b9/f2/2b/b9f22b26-d962-70de-6d85-674139ded7cc/842812190988_Cover.jpg/80x80bb.webp",
-        "appleID": "daylight/1796004433"
+        "appleID": "daylight/1680069454",
+        "spotifyID": "2mEMKgLqH3VZaSYO7iYCzp"
     },
     {
         "ranking": "84",
         "title": "Daylight (Slowed + Reverb)",
         "artist": "David Kushner",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/41/4b/e0/414be073-375e-65a8-660d-8e1b86aba2f6/842812196768_Cover.jpg/80x80bb.webp",
-        "appleID": "daylight-slowed-reverb/1796005021"
+        "appleID": "daylight/1680069454",
+        "spotifyID": "2mEMKgLqH3VZaSYO7iYCzp"
     },
     {
         "ranking": "85",
