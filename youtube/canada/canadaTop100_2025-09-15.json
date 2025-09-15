@@ -1,0 +1,1002 @@
+[
+    {
+        "ranking": "1",
+        "title": "Golden",
+        "artist": null,
+        "image": "https://i.ytimg.com/vi/yebNIHKAC4A/default.jpg",
+        "prev": "1",
+        "streak": "12",
+        "streams": "1,963,497",
+        "youtubeID": "yebNIHKAC4A"
+    },
+    {
+        "ranking": "2",
+        "title": "Soda Pop",
+        "artist": null,
+        "image": "https://i.ytimg.com/vi/983bBbJx0Mk/default.jpg",
+        "prev": "2",
+        "streak": "12",
+        "streams": "1,369,662",
+        "youtubeID": "983bBbJx0Mk"
+    },
+    {
+        "ranking": "3",
+        "title": "How It’s Done",
+        "artist": null,
+        "image": "https://i.ytimg.com/vi/QGsevnbItdU/default.jpg",
+        "prev": "4",
+        "streak": "12",
+        "streams": "807,302",
+        "youtubeID": "QGsevnbItdU"
+    },
+    {
+        "ranking": "4",
+        "title": "Your Idol",
+        "artist": null,
+        "image": "https://i.ytimg.com/vi/Ytmcwjf2amw/default.jpg",
+        "prev": "5",
+        "streak": "12",
+        "streams": "677,345",
+        "youtubeID": "Ytmcwjf2amw"
+    },
+    {
+        "ranking": "5",
+        "title": "Takedown",
+        "artist": null,
+        "image": "https://i.ytimg.com/vi/Ve_a9CXjlQc/default.jpg",
+        "prev": "10",
+        "streak": "11",
+        "streams": "640,561",
+        "youtubeID": "Ve_a9CXjlQc"
+    },
+    {
+        "ranking": "6",
+        "title": "Ordinary",
+        "artist": null,
+        "image": "https://i.ytimg.com/vi/u2ah9tWTkmk/default.jpg",
+        "prev": "7",
+        "streak": "29",
+        "streams": "635,342",
+        "youtubeID": "u2ah9tWTkmk"
+    },
+    {
+        "ranking": "7",
+        "title": "For A Reason",
+        "artist": null,
+        "image": "https://i.ytimg.com/vi/-YlmnPh-6rE/default.jpg",
+        "prev": "3",
+        "streak": "3",
+        "streams": "597,142",
+        "youtubeID": "-YlmnPh-6rE"
+    },
+    {
+        "ranking": "8",
+        "title": "Free",
+        "artist": null,
+        "image": "https://i.ytimg.com/vi/fjOeJssZX_Q/default.jpg",
+        "prev": "8",
+        "streak": "12",
+        "streams": "486,830",
+        "youtubeID": "fjOeJssZX_Q"
+    },
+    {
+        "ranking": "9",
+        "title": "What It Sounds Like",
+        "artist": null,
+        "image": "https://i.ytimg.com/vi/TbMEMCvFbZk/default.jpg",
+        "prev": "-",
+        "streak": "10",
+        "streams": "452,263",
+        "youtubeID": "TbMEMCvFbZk"
+    },
+    {
+        "ranking": "10",
+        "title": "APT.",
+        "artist": null,
+        "image": "https://i.ytimg.com/vi/ekr2nIex040/default.jpg",
+        "prev": "11",
+        "streak": "47",
+        "streams": "406,897",
+        "youtubeID": "ekr2nIex040"
+    },
+    {
+        "ranking": "11",
+        "title": "The Dead Dance",
+        "artist": null,
+        "image": "https://i.ytimg.com/vi/xGaZBfJOyAc/default.jpg",
+        "prev": "45",
+        "streak": "2",
+        "streams": "308,528",
+        "youtubeID": "xGaZBfJOyAc"
+    },
+    {
+        "ranking": "12",
+        "title": "Gabriela",
+        "artist": null,
+        "image": "https://i.ytimg.com/vi/co-TFLbaZAE/default.jpg",
+        "prev": "21",
+        "streak": "12",
+        "streams": "305,147",
+        "youtubeID": "co-TFLbaZAE"
+    },
+    {
+        "ranking": "13",
+        "title": "Daytona",
+        "artist": null,
+        "image": "https://i.ytimg.com/vi/XULDXoFU1hQ/default.jpg",
+        "prev": "13",
+        "streak": "3",
+        "streams": "303,000",
+        "youtubeID": "XULDXoFU1hQ"
+    },
+    {
+        "ranking": "14",
+        "title": "HIM.",
+        "artist": null,
+        "image": "https://i.ytimg.com/vi/_eoYsV5RwyA/default.jpg",
+        "prev": "16",
+        "streak": "3",
+        "streams": "268,353",
+        "youtubeID": "_eoYsV5RwyA"
+    },
+    {
+        "ranking": "15",
+        "title": "TAKEDOWN (JEONGYEON, JIHYO, CHAEYOUNG)",
+        "artist": null,
+        "image": "https://i.ytimg.com/vi/l8Dr7vzMSVE/default.jpg",
+        "prev": "12",
+        "streak": "11",
+        "streams": "265,171",
+        "youtubeID": "l8Dr7vzMSVE"
+    },
+    {
+        "ranking": "16",
+        "title": "I Really Do...",
+        "artist": null,
+        "image": "https://i.ytimg.com/vi/uMIutF1dw1w/default.jpg",
+        "prev": "15",
+        "streak": "3",
+        "streams": "261,805",
+        "youtubeID": "uMIutF1dw1w"
+    },
+    {
+        "ranking": "17",
+        "title": "Alcatraz",
+        "artist": null,
+        "image": "https://i.ytimg.com/vi/zaS7CdVXh7s/default.jpg",
+        "prev": "-",
+        "streak": "1",
+        "streams": "246,614",
+        "youtubeID": "zaS7CdVXh7s"
+    },
+    {
+        "ranking": "18",
+        "title": "뛰어",
+        "artist": null,
+        "image": "https://i.ytimg.com/vi/CgCVZdcKcqY/default.jpg",
+        "prev": "22",
+        "streak": "9",
+        "streams": "242,635",
+        "youtubeID": "CgCVZdcKcqY"
+    },
+    {
+        "ranking": "19",
+        "title": "Balenci",
+        "artist": null,
+        "image": "https://i.ytimg.com/vi/nt5tXl9Vtug/default.jpg",
+        "prev": "17",
+        "streak": "3",
+        "streams": "241,704",
+        "youtubeID": "nt5tXl9Vtug"
+    },
+    {
+        "ranking": "20",
+        "title": "Punjab Wal Nu",
+        "artist": null,
+        "image": "https://i.ytimg.com/vi/68XvXkfl_Rw/default.jpg",
+        "prev": "14",
+        "streak": "3",
+        "streams": "233,382",
+        "youtubeID": "68XvXkfl_Rw"
+    },
+    {
+        "ranking": "21",
+        "title": "Saiyaara",
+        "artist": null,
+        "image": "https://i.ytimg.com/vi/BSJa1UytM8w/default.jpg",
+        "prev": "25",
+        "streak": "8",
+        "streams": "228,749",
+        "youtubeID": "BSJa1UytM8w"
+    },
+    {
+        "ranking": "22",
+        "title": "Vail Purane",
+        "artist": null,
+        "image": "https://i.ytimg.com/vi/5LRHcpkiDKQ/default.jpg",
+        "prev": "18",
+        "streak": "3",
+        "streams": "223,905",
+        "youtubeID": "5LRHcpkiDKQ"
+    },
+    {
+        "ranking": "23",
+        "title": "Gabhru!",
+        "artist": null,
+        "image": "https://i.ytimg.com/vi/Fbv6-50S1lc/default.jpg",
+        "prev": "19",
+        "streak": "6",
+        "streams": "218,393",
+        "youtubeID": "Fbv6-50S1lc"
+    },
+    {
+        "ranking": "24",
+        "title": "Boyfriend",
+        "artist": null,
+        "image": "https://i.ytimg.com/vi/RYXUA32Dx4k/default.jpg",
+        "prev": "28",
+        "streak": "3",
+        "streams": "215,547",
+        "youtubeID": "RYXUA32Dx4k"
+    },
+    {
+        "ranking": "25",
+        "title": "Banda Bamb",
+        "artist": null,
+        "image": "https://i.ytimg.com/vi/3KEP1ZLi0DQ/default.jpg",
+        "prev": "27",
+        "streak": "14",
+        "streams": "208,783",
+        "youtubeID": "3KEP1ZLi0DQ"
+    },
+    {
+        "ranking": "26",
+        "title": "Gnarly",
+        "artist": null,
+        "image": "https://i.ytimg.com/vi/R2-yomhYAj4/default.jpg",
+        "prev": "38",
+        "streak": "19",
+        "streams": "204,020",
+        "youtubeID": "R2-yomhYAj4"
+    },
+    {
+        "ranking": "27",
+        "title": "Pink Pony Club",
+        "artist": null,
+        "image": "https://i.ytimg.com/vi/GR3Liudev18/default.jpg",
+        "prev": "31",
+        "streak": "51",
+        "streams": "201,884",
+        "youtubeID": "GR3Liudev18"
+    },
+    {
+        "ranking": "28",
+        "title": "Shake It To The Max (FLY) (Remix)",
+        "artist": null,
+        "image": "https://i.ytimg.com/vi/UjBhbMMgLzc/default.jpg",
+        "prev": "30",
+        "streak": "23",
+        "streams": "191,280",
+        "youtubeID": "UjBhbMMgLzc"
+    },
+    {
+        "ranking": "29",
+        "title": "Manchild",
+        "artist": null,
+        "image": "https://i.ytimg.com/vi/aSugSGCC12I/default.jpg",
+        "prev": "23",
+        "streak": "14",
+        "streams": "188,571",
+        "youtubeID": "aSugSGCC12I"
+    },
+    {
+        "ranking": "30",
+        "title": "I'm The Problem",
+        "artist": null,
+        "image": "https://i.ytimg.com/vi/HwThuMZ80RA/default.jpg",
+        "prev": "40",
+        "streak": "30",
+        "streams": "187,153",
+        "youtubeID": "HwThuMZ80RA"
+    },
+    {
+        "ranking": "31",
+        "title": "Tears",
+        "artist": null,
+        "image": "https://i.ytimg.com/vi/V9vuCByb6js/default.jpg",
+        "prev": "6",
+        "streak": "2",
+        "streams": "181,645",
+        "youtubeID": "V9vuCByb6js"
+    },
+    {
+        "ranking": "32",
+        "title": "At Peace",
+        "artist": null,
+        "image": "https://i.ytimg.com/vi/jVVwYXV22zg/default.jpg",
+        "prev": "33",
+        "streak": "11",
+        "streams": "178,233",
+        "youtubeID": "jVVwYXV22zg"
+    },
+    {
+        "ranking": "33",
+        "title": "DAISIES",
+        "artist": null,
+        "image": "https://i.ytimg.com/vi/msGuqelopMA/default.jpg",
+        "prev": "56",
+        "streak": "9",
+        "streams": "174,586",
+        "youtubeID": "msGuqelopMA"
+    },
+    {
+        "ranking": "34",
+        "title": "Aphrodite",
+        "artist": null,
+        "image": "https://i.ytimg.com/vi/maS-xgLnWIc/default.jpg",
+        "prev": "20",
+        "streak": "3",
+        "streams": "171,821",
+        "youtubeID": "maS-xgLnWIc"
+    },
+    {
+        "ranking": "35",
+        "title": "Sailor Song",
+        "artist": null,
+        "image": "https://i.ytimg.com/vi/1lrFsXkT_rM/default.jpg",
+        "prev": "49",
+        "streak": "52",
+        "streams": "171,695",
+        "youtubeID": "1lrFsXkT_rM"
+    },
+    {
+        "ranking": "36",
+        "title": "back to friends",
+        "artist": null,
+        "image": "https://i.ytimg.com/vi/c8zq4kAn_O0/default.jpg",
+        "prev": "47",
+        "streak": "16",
+        "streams": "169,424",
+        "youtubeID": "c8zq4kAn_O0"
+    },
+    {
+        "ranking": "37",
+        "title": "Courtside",
+        "artist": null,
+        "image": "https://i.ytimg.com/vi/Z8IRRphKFZA/default.jpg",
+        "prev": "35",
+        "streak": "18",
+        "streams": "169,313",
+        "youtubeID": "Z8IRRphKFZA"
+    },
+    {
+        "ranking": "38",
+        "title": "Feel Good Inc.",
+        "artist": null,
+        "image": "https://i.ytimg.com/vi/HyHNuVaZJ-k/default.jpg",
+        "prev": "51",
+        "streak": "34",
+        "streams": "165,309",
+        "youtubeID": "HyHNuVaZJ-k"
+    },
+    {
+        "ranking": "39",
+        "title": "Gyatt",
+        "artist": null,
+        "image": "https://i.ytimg.com/vi/h1SdotpjkTU/default.jpg",
+        "prev": "-",
+        "streak": "1",
+        "streams": "162,746",
+        "youtubeID": "h1SdotpjkTU"
+    },
+    {
+        "ranking": "40",
+        "title": "Pal Pal",
+        "artist": null,
+        "image": "https://i.ytimg.com/vi/8of5w7RgcTc/default.jpg",
+        "prev": "48",
+        "streak": "22",
+        "streams": "162,019",
+        "youtubeID": "8of5w7RgcTc"
+    },
+    {
+        "ranking": "41",
+        "title": "Timeless",
+        "artist": null,
+        "image": "https://i.ytimg.com/vi/5EpyN_6dqyk/default.jpg",
+        "prev": "46",
+        "streak": "49",
+        "streams": "161,200",
+        "youtubeID": "5EpyN_6dqyk"
+    },
+    {
+        "ranking": "42",
+        "title": "Loser",
+        "artist": null,
+        "image": "https://i.ytimg.com/vi/s3a4OQR-10M/default.jpg",
+        "prev": "-",
+        "streak": "1",
+        "streams": "160,251",
+        "youtubeID": "s3a4OQR-10M"
+    },
+    {
+        "ranking": "43",
+        "title": "Koka Gaani",
+        "artist": null,
+        "image": "https://i.ytimg.com/vi/6kBkiENmCag/default.jpg",
+        "prev": "34",
+        "streak": "10",
+        "streams": "160,091",
+        "youtubeID": "6kBkiENmCag"
+    },
+    {
+        "ranking": "44",
+        "title": "I'ma Do My Thiiing",
+        "artist": null,
+        "image": "https://i.ytimg.com/vi/p9Y2J02JYTA/default.jpg",
+        "prev": "24",
+        "streak": "3",
+        "streams": "160,017",
+        "youtubeID": "p9Y2J02JYTA"
+    },
+    {
+        "ranking": "45",
+        "title": "PASSO BEM SOLTO (Slowed)",
+        "artist": null,
+        "image": "https://i.ytimg.com/vi/NT4eF9YsYnM/default.jpg",
+        "prev": "36",
+        "streak": "25",
+        "streams": "159,363",
+        "youtubeID": "NT4eF9YsYnM"
+    },
+    {
+        "ranking": "46",
+        "title": "Jhol",
+        "artist": null,
+        "image": "https://i.ytimg.com/vi/-2RAq5o5pwc/default.jpg",
+        "prev": "-",
+        "streak": "30",
+        "streams": "152,099",
+        "youtubeID": "-2RAq5o5pwc"
+    },
+    {
+        "ranking": "47",
+        "title": "Rich Heart",
+        "artist": null,
+        "image": "https://i.ytimg.com/vi/uVdOQirnTgA/default.jpg",
+        "prev": "-",
+        "streak": "1",
+        "streams": "151,419",
+        "youtubeID": "uVdOQirnTgA"
+    },
+    {
+        "ranking": "48",
+        "title": "Sapphire",
+        "artist": null,
+        "image": "https://i.ytimg.com/vi/JgDNFQ2RaLQ/default.jpg",
+        "prev": "43",
+        "streak": "14",
+        "streams": "147,410",
+        "youtubeID": "JgDNFQ2RaLQ"
+    },
+    {
+        "ranking": "49",
+        "title": "صحاك الشوق",
+        "artist": null,
+        "image": "https://i.ytimg.com/vi/pDy8B_r81vY/default.jpg",
+        "prev": "32",
+        "streak": "3",
+        "streams": "147,136",
+        "youtubeID": "pDy8B_r81vY"
+    },
+    {
+        "ranking": "50",
+        "title": "Wavy",
+        "artist": null,
+        "image": "https://i.ytimg.com/vi/XTp5jaRU3Ws/default.jpg",
+        "prev": "-",
+        "streak": "42",
+        "streams": "145,572",
+        "youtubeID": "XTp5jaRU3Ws"
+    },
+    {
+        "ranking": "51",
+        "title": "Ik Tarfa",
+        "artist": null,
+        "image": "https://i.ytimg.com/vi/zAa4WTmuMxE/default.jpg",
+        "prev": "29",
+        "streak": "3",
+        "streams": "145,169",
+        "youtubeID": "zAa4WTmuMxE"
+    },
+    {
+        "ranking": "52",
+        "title": "MONTAGEM XONADA",
+        "artist": null,
+        "image": "https://i.ytimg.com/vi/sC2b43vxJbQ/default.jpg",
+        "prev": "52",
+        "streak": "4",
+        "streams": "143,038",
+        "youtubeID": "sC2b43vxJbQ"
+    },
+    {
+        "ranking": "53",
+        "title": "7.7 Magnitude",
+        "artist": null,
+        "image": "https://i.ytimg.com/vi/Pf311ETArlk/default.jpg",
+        "prev": "26",
+        "streak": "3",
+        "streams": "141,673",
+        "youtubeID": "Pf311ETArlk"
+    },
+    {
+        "ranking": "54",
+        "title": "Jaane Meriye",
+        "artist": null,
+        "image": "https://i.ytimg.com/vi/8J-Up5QcQpc/default.jpg",
+        "prev": "-",
+        "streak": "1",
+        "streams": "141,083",
+        "youtubeID": "8J-Up5QcQpc"
+    },
+    {
+        "ranking": "55",
+        "title": "Strategy (feat. Megan Thee Stallion)",
+        "artist": null,
+        "image": "https://i.ytimg.com/vi/Sz_wWzgh-vQ/default.jpg",
+        "prev": "57",
+        "streak": "12",
+        "streams": "139,389",
+        "youtubeID": "Sz_wWzgh-vQ"
+    },
+    {
+        "ranking": "56",
+        "title": "End of You",
+        "artist": null,
+        "image": "https://i.ytimg.com/vi/3rS83uI0Wak/default.jpg",
+        "prev": "-",
+        "streak": "1",
+        "streams": "138,969",
+        "youtubeID": "3rS83uI0Wak"
+    },
+    {
+        "ranking": "57",
+        "title": "Rich Man",
+        "artist": null,
+        "image": "https://i.ytimg.com/vi/5oQVTnq-UKk/default.jpg",
+        "prev": "-",
+        "streak": "1",
+        "streams": "137,493",
+        "youtubeID": "5oQVTnq-UKk"
+    },
+    {
+        "ranking": "58",
+        "title": "What I Want",
+        "artist": null,
+        "image": "https://i.ytimg.com/vi/hNrwlzBeFN8/default.jpg",
+        "prev": "71",
+        "streak": "14",
+        "streams": "134,555",
+        "youtubeID": "hNrwlzBeFN8"
+    },
+    {
+        "ranking": "59",
+        "title": "Touch",
+        "artist": null,
+        "image": "https://i.ytimg.com/vi/l9CZykYZkOQ/default.jpg",
+        "prev": "61",
+        "streak": "19",
+        "streams": "132,226",
+        "youtubeID": "l9CZykYZkOQ"
+    },
+    {
+        "ranking": "60",
+        "title": "モニタリング (feat. Hatsune Miku)",
+        "artist": null,
+        "image": "https://i.ytimg.com/vi/kbNdx0yqbZE/default.jpg",
+        "prev": "-",
+        "streak": "1",
+        "streams": "128,894",
+        "youtubeID": "kbNdx0yqbZE"
+    },
+    {
+        "ranking": "61",
+        "title": "Breakin' Dishes",
+        "artist": null,
+        "image": "https://i.ytimg.com/vi/LO71pC20BDI/default.jpg",
+        "prev": "65",
+        "streak": "4",
+        "streams": "126,537",
+        "youtubeID": "LO71pC20BDI"
+    },
+    {
+        "ranking": "62",
+        "title": "AZUL",
+        "artist": null,
+        "image": "https://i.ytimg.com/vi/vB0V3iCSzQw/default.jpg",
+        "prev": "54",
+        "streak": "5",
+        "streams": "125,970",
+        "youtubeID": "vB0V3iCSzQw"
+    },
+    {
+        "ranking": "63",
+        "title": "No Broke Boys",
+        "artist": null,
+        "image": "https://i.ytimg.com/vi/nS-fOh1CfhQ/default.jpg",
+        "prev": "64",
+        "streak": "4",
+        "streams": "125,894",
+        "youtubeID": "nS-fOh1CfhQ"
+    },
+    {
+        "ranking": "64",
+        "title": "Devil in Disguise",
+        "artist": null,
+        "image": "https://i.ytimg.com/vi/DC-cqWO_GM0/default.jpg",
+        "prev": "63",
+        "streak": "7",
+        "streams": "121,017",
+        "youtubeID": "DC-cqWO_GM0"
+    },
+    {
+        "ranking": "65",
+        "title": "YUKON",
+        "artist": null,
+        "image": "https://i.ytimg.com/vi/fXivMSJm_kA/default.jpg",
+        "prev": "75",
+        "streak": "6",
+        "streams": "119,116",
+        "youtubeID": "fXivMSJm_kA"
+    },
+    {
+        "ranking": "66",
+        "title": "Tattoo",
+        "artist": null,
+        "image": "https://i.ytimg.com/vi/oIucYqrz35Q/default.jpg",
+        "prev": "42",
+        "streak": "3",
+        "streams": "117,932",
+        "youtubeID": "oIucYqrz35Q"
+    },
+    {
+        "ranking": "67",
+        "title": "Rock That Body",
+        "artist": null,
+        "image": "https://i.ytimg.com/vi/nmnjL26OBcY/default.jpg",
+        "prev": "67",
+        "streak": "14",
+        "streams": "117,894",
+        "youtubeID": "nmnjL26OBcY"
+    },
+    {
+        "ranking": "68",
+        "title": "Kavita",
+        "artist": null,
+        "image": "https://i.ytimg.com/vi/3ogBz0m39Xo/default.jpg",
+        "prev": "41",
+        "streak": "3",
+        "streams": "116,457",
+        "youtubeID": "3ogBz0m39Xo"
+    },
+    {
+        "ranking": "69",
+        "title": "Gameboy",
+        "artist": null,
+        "image": "https://i.ytimg.com/vi/-bC4iak3kxg/default.jpg",
+        "prev": "88",
+        "streak": "10",
+        "streams": "115,318",
+        "youtubeID": "-bC4iak3kxg"
+    },
+    {
+        "ranking": "70",
+        "title": "Just Keep Watching",
+        "artist": null,
+        "image": "https://i.ytimg.com/vi/dpvQqmX6SUI/default.jpg",
+        "prev": "77",
+        "streak": "15",
+        "streams": "113,614",
+        "youtubeID": "dpvQqmX6SUI"
+    },
+    {
+        "ranking": "71",
+        "title": "Sirra",
+        "artist": null,
+        "image": "https://i.ytimg.com/vi/knGCfzm4jWs/default.jpg",
+        "prev": "60",
+        "streak": "8",
+        "streams": "113,572",
+        "youtubeID": "knGCfzm4jWs"
+    },
+    {
+        "ranking": "72",
+        "title": "I Got Better",
+        "artist": null,
+        "image": "https://i.ytimg.com/vi/H1xu44kH5BE/default.jpg",
+        "prev": "95",
+        "streak": "4",
+        "streams": "112,505",
+        "youtubeID": "H1xu44kH5BE"
+    },
+    {
+        "ranking": "73",
+        "title": "P-POP CULTURE",
+        "artist": null,
+        "image": "https://i.ytimg.com/vi/pJftkROOh2s/default.jpg",
+        "prev": "39",
+        "streak": "3",
+        "streams": "111,931",
+        "youtubeID": "pJftkROOh2s"
+    },
+    {
+        "ranking": "74",
+        "title": "Sugar On My Tongue",
+        "artist": null,
+        "image": "https://i.ytimg.com/vi/ljHdccyQbT4/default.jpg",
+        "prev": "66",
+        "streak": "5",
+        "streams": "111,859",
+        "youtubeID": "ljHdccyQbT4"
+    },
+    {
+        "ranking": "75",
+        "title": "Love Garrage",
+        "artist": null,
+        "image": "https://i.ytimg.com/vi/ApVpdraEdUw/default.jpg",
+        "prev": "53",
+        "streak": "3",
+        "streams": "111,737",
+        "youtubeID": "ApVpdraEdUw"
+    },
+    {
+        "ranking": "76",
+        "title": "Animal I Have Become",
+        "artist": null,
+        "image": "https://i.ytimg.com/vi/xqds0B_meys/default.jpg",
+        "prev": "78",
+        "streak": "20",
+        "streams": "110,205",
+        "youtubeID": "xqds0B_meys"
+    },
+    {
+        "ranking": "77",
+        "title": "Love Me Not",
+        "artist": null,
+        "image": "https://i.ytimg.com/vi/cswfR85D7jM/default.jpg",
+        "prev": "81",
+        "streak": "14",
+        "streams": "108,961",
+        "youtubeID": "cswfR85D7jM"
+    },
+    {
+        "ranking": "78",
+        "title": "كيفك ع فراقي",
+        "artist": null,
+        "image": "https://i.ytimg.com/vi/m5IWI6xFRms/default.jpg",
+        "prev": "69",
+        "streak": "9",
+        "streams": "107,737",
+        "youtubeID": "m5IWI6xFRms"
+    },
+    {
+        "ranking": "79",
+        "title": "Monica",
+        "artist": null,
+        "image": "https://i.ytimg.com/vi/pgMCk_T5jnU/default.jpg",
+        "prev": "70",
+        "streak": "9",
+        "streams": "106,564",
+        "youtubeID": "pgMCk_T5jnU"
+    },
+    {
+        "ranking": "80",
+        "title": "Thodi Si Daaru",
+        "artist": null,
+        "image": "https://i.ytimg.com/vi/slM5s55Jz0k/default.jpg",
+        "prev": "59",
+        "streak": "7",
+        "streams": "106,382",
+        "youtubeID": "slM5s55Jz0k"
+    },
+    {
+        "ranking": "81",
+        "title": "⁠⁠Ranjha",
+        "artist": null,
+        "image": "https://i.ytimg.com/vi/NXyGO7K4x54/default.jpg",
+        "prev": "50",
+        "streak": "3",
+        "streams": "105,122",
+        "youtubeID": "NXyGO7K4x54"
+    },
+    {
+        "ranking": "82",
+        "title": "Pardesiya",
+        "artist": null,
+        "image": "https://i.ytimg.com/vi/N4wK3NtVRT0/default.jpg",
+        "prev": "72",
+        "streak": "5",
+        "streams": "103,964",
+        "youtubeID": "N4wK3NtVRT0"
+    },
+    {
+        "ranking": "83",
+        "title": "Ki Kariye",
+        "artist": null,
+        "image": "https://i.ytimg.com/vi/KGfO5PjFUxY/default.jpg",
+        "prev": "37",
+        "streak": "3",
+        "streams": "103,319",
+        "youtubeID": "KGfO5PjFUxY"
+    },
+    {
+        "ranking": "84",
+        "title": "Toxicity",
+        "artist": null,
+        "image": "https://i.ytimg.com/vi/iywaBOMvYLI/default.jpg",
+        "prev": "-",
+        "streak": "21",
+        "streams": "103,128",
+        "youtubeID": "iywaBOMvYLI"
+    },
+    {
+        "ranking": "85",
+        "title": "Mohabbat",
+        "artist": null,
+        "image": "https://i.ytimg.com/vi/GE5S73HeLm0/default.jpg",
+        "prev": "44",
+        "streak": "3",
+        "streams": "98,736",
+        "youtubeID": "GE5S73HeLm0"
+    },
+    {
+        "ranking": "86",
+        "title": "Worst Way",
+        "artist": null,
+        "image": "https://i.ytimg.com/vi/OkktfeAR-Rk/default.jpg",
+        "prev": "92",
+        "streak": "14",
+        "streams": "98,133",
+        "youtubeID": "OkktfeAR-Rk"
+    },
+    {
+        "ranking": "87",
+        "title": "Mr. Brightside",
+        "artist": null,
+        "image": "https://i.ytimg.com/vi/gGdGFtwCNBE/default.jpg",
+        "prev": "100",
+        "streak": "13",
+        "streams": "97,945",
+        "youtubeID": "gGdGFtwCNBE"
+    },
+    {
+        "ranking": "88",
+        "title": "Lose My Mind (feat. Doja Cat)",
+        "artist": null,
+        "image": "https://i.ytimg.com/vi/WWEs82u37Mw/default.jpg",
+        "prev": "97",
+        "streak": "7",
+        "streams": "96,499",
+        "youtubeID": "WWEs82u37Mw"
+    },
+    {
+        "ranking": "89",
+        "title": "High On You",
+        "artist": null,
+        "image": "https://i.ytimg.com/vi/yuF7Pw-_YIE/default.jpg",
+        "prev": "-",
+        "streak": "9",
+        "streams": "96,269",
+        "youtubeID": "yuF7Pw-_YIE"
+    },
+    {
+        "ranking": "90",
+        "title": "Attention",
+        "artist": null,
+        "image": "https://i.ytimg.com/vi/nfs8NYg7yQM/default.jpg",
+        "prev": "-",
+        "streak": "35",
+        "streams": "95,832",
+        "youtubeID": "nfs8NYg7yQM"
+    },
+    {
+        "ranking": "91",
+        "title": "Maruti",
+        "artist": null,
+        "image": "https://i.ytimg.com/vi/_ijaEtNzZgw/default.jpg",
+        "prev": "-",
+        "streak": "1",
+        "streams": "95,807",
+        "youtubeID": "_ijaEtNzZgw"
+    },
+    {
+        "ranking": "92",
+        "title": "Eternity",
+        "artist": null,
+        "image": "https://i.ytimg.com/vi/jXqf3uqLkkU/default.jpg",
+        "prev": "85",
+        "streak": "7",
+        "streams": "95,156",
+        "youtubeID": "jXqf3uqLkkU"
+    },
+    {
+        "ranking": "93",
+        "title": "we can't be friends (wait for your love)",
+        "artist": null,
+        "image": "https://i.ytimg.com/vi/KNtJGQkC-WI/default.jpg",
+        "prev": "-",
+        "streak": "25",
+        "streams": "93,784",
+        "youtubeID": "KNtJGQkC-WI"
+    },
+    {
+        "ranking": "93",
+        "title": "SPEED DEMON",
+        "artist": null,
+        "image": "https://i.ytimg.com/vi/4BsBpOCaTrA/default.jpg",
+        "prev": "-",
+        "streak": "1",
+        "streams": "93,784",
+        "youtubeID": "4BsBpOCaTrA"
+    },
+    {
+        "ranking": "95",
+        "title": "One Last Breath",
+        "artist": null,
+        "image": "https://i.ytimg.com/vi/qnkuBUAwfe0/default.jpg",
+        "prev": "93",
+        "streak": "15",
+        "streams": "93,483",
+        "youtubeID": "qnkuBUAwfe0"
+    },
+    {
+        "ranking": "96",
+        "title": "Sahiba",
+        "artist": null,
+        "image": "https://i.ytimg.com/vi/n2dVFdqMYGA/default.jpg",
+        "prev": "-",
+        "streak": "1",
+        "streams": "93,343",
+        "youtubeID": "n2dVFdqMYGA"
+    },
+    {
+        "ranking": "97",
+        "title": "undressed",
+        "artist": null,
+        "image": "https://i.ytimg.com/vi/z0wT6CrEGYg/default.jpg",
+        "prev": "-",
+        "streak": "1",
+        "streams": "92,071",
+        "youtubeID": "z0wT6CrEGYg"
+    },
+    {
+        "ranking": "98",
+        "title": "Yours",
+        "artist": null,
+        "image": "https://i.ytimg.com/vi/NCbucQti7Dg/default.jpg",
+        "prev": "84",
+        "streak": "2",
+        "streams": "91,486",
+        "youtubeID": "NCbucQti7Dg"
+    },
+    {
+        "ranking": "99",
+        "title": "Shut Up and Dance",
+        "artist": null,
+        "image": "https://i.ytimg.com/vi/6JCLY0Rlx6Q/default.jpg",
+        "prev": "-",
+        "streak": "16",
+        "streams": "91,472",
+        "youtubeID": "6JCLY0Rlx6Q"
+    },
+    {
+        "ranking": "100",
+        "title": "You're U Tho",
+        "artist": null,
+        "image": "https://i.ytimg.com/vi/xciwYxZuxog/default.jpg",
+        "prev": "62",
+        "streak": "3",
+        "streams": "91,354",
+        "youtubeID": "xciwYxZuxog"
+    }
+]
