@@ -123,7 +123,8 @@
         "title": "BABETE",
         "artist": "Landrick",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/33/3a/42/333a42fe-7e1c-1e37-3fd9-4bae94e65168/24UMGIM18604.rgb.jpg/80x80bb.webp",
-        "appleID": "babete/1733080344"
+        "appleID": "babete/1733080344",
+        "youtubeID": "H9etTzcocfU"
     },
     {
         "ranking": "19",
@@ -270,7 +271,8 @@
         "title": "Daylight",
         "artist": "David Kushner",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b9/f2/2b/b9f22b26-d962-70de-6d85-674139ded7cc/842812190988_Cover.jpg/80x80bb.webp",
-        "appleID": "daylight/1796004433"
+        "appleID": "daylight/1680069454",
+        "spotifyID": "2mEMKgLqH3VZaSYO7iYCzp"
     },
     {
         "ranking": "40",
@@ -410,7 +412,9 @@
         "title": "Amar Pela Metade",
         "artist": "Calema",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ee/a1/49/eea149db-f385-8981-0b82-4a8aece641bc/24UMGIM96558.rgb.jpg/80x80bb.webp",
-        "appleID": "amar-pela-metade/1767438349"
+        "appleID": "amar-pela-metade/1767438349",
+        "youtubeID": "TvIlfpOL6No",
+        "spotifyID": "1UQvRmRhbX3WxSLW3NbUIU"
     },
     {
         "ranking": "60",
@@ -529,7 +533,8 @@
         "title": "Apocalypse",
         "artist": "Cigarettes After Sex",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b3/5e/0f/b35e0fbe-2370-fc48-0f0c-977525e93bf2/720841214601_Cover.jpg/80x80bb.webp",
-        "appleID": "apocalypse/1217977755"
+        "appleID": "apocalypse/1215409245",
+        "spotifyID": "0yc6Gst2xkRu0eMLeRMGCX"
     },
     {
         "ranking": "77",
@@ -585,7 +590,8 @@
         "title": "Sunsetz",
         "artist": "Cigarettes After Sex",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b3/5e/0f/b35e0fbe-2370-fc48-0f0c-977525e93bf2/720841214601_Cover.jpg/80x80bb.webp",
-        "appleID": "sunsetz/1217977722"
+        "appleID": "sunsetz/1217977722",
+        "spotifyID": "0SpkyS1Q4MD8GaVcP5YjT4"
     },
     {
         "ranking": "85",
@@ -606,7 +612,8 @@
         "title": "J'me tire",
         "artist": "GIMS",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/0d/d7/a8/0dd7a80c-a96b-0b9b-97e4-5a8ee603032d/dj.cnmkrwhy.jpg/80x80bb.webp",
-        "appleID": "jme-tire/749310621"
+        "appleID": "jme-tire/749310621",
+        "youtubeID": "F_rEHfLgdcY"
     },
     {
         "ranking": "88",
