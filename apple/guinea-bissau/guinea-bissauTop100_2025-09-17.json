@@ -11,7 +11,7 @@
         "title": "Last Last (Apple Music Live)",
         "artist": "Burna Boy",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/89/49/b6/8949b6fc-de1d-fd2c-6468-f90ff9229f26/075679675293.jpg/80x80bb.webp",
-        "appleID": "last-last-apple-music-live/1698198275"
+        "appleID": "last-last/1623677811"
     },
     {
         "ranking": "3",
@@ -130,7 +130,8 @@
         "title": "Perfect",
         "artist": "Ed Sheeran",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/15/e6/e8/15e6e8a4-4190-6a8b-86c3-ab4a51b88288/190295851286.jpg/80x80bb.webp",
-        "appleID": "perfect/1193701400"
+        "appleID": "perfect/1193701400",
+        "youtubeID": "2Vv-BfVoq4g"
     },
     {
         "ranking": "20",
@@ -158,7 +159,8 @@
         "title": "Tata",
         "artist": "Slow J",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/7a/02/38/7a0238c7-5888-46aa-72c7-8f4236a890de/196871619080.jpg/80x80bb.webp",
-        "appleID": "tata/1715327089"
+        "appleID": "tata/1715327089",
+        "spotifyID": "0fPOFtS7ZylYKcC9b64cSj"
     },
     {
         "ranking": "24",
@@ -200,14 +202,14 @@
         "title": "It's Plenty (Apple Music Live)",
         "artist": "Burna Boy",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/89/49/b6/8949b6fc-de1d-fd2c-6468-f90ff9229f26/075679675293.jpg/80x80bb.webp",
-        "appleID": "its-plenty-apple-music-live/1698198273"
+        "appleID": "its-plenty/1623677817"
     },
     {
         "ranking": "30",
         "title": "NA LUTA",
         "artist": "Memu Sunhu",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/cf/56/87/cf5687b8-38be-5bdf-df6f-463a2df4e951/24UMGIM47978.rgb.jpg/80x80bb.webp",
-        "appleID": "na-luta/1743075320"
+        "appleID": "na-luta/1744170219"
     },
     {
         "ranking": "31",
@@ -403,7 +405,8 @@
         "title": "Daylight",
         "artist": "David Kushner",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b9/f2/2b/b9f22b26-d962-70de-6d85-674139ded7cc/842812190988_Cover.jpg/80x80bb.webp",
-        "appleID": "daylight/1796004433"
+        "appleID": "daylight/1680069454",
+        "spotifyID": "2mEMKgLqH3VZaSYO7iYCzp"
     },
     {
         "ranking": "59",
@@ -480,7 +483,9 @@
         "title": "Lose Control",
         "artist": "Teddy Swims",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/36/19/66/36196640-1561-dc5e-c6bc-1e5f4befa583/093624856771.jpg/80x80bb.webp",
-        "appleID": "lose-control/1691699836"
+        "appleID": "lose-control/1691699836",
+        "youtubeID": "GZ3zL7kT6_c",
+        "spotifyID": "17phhZDn6oGtzMe56NuWvj"
     },
     {
         "ranking": "70",
@@ -515,7 +520,8 @@
         "title": "Shape of You",
         "artist": "Ed Sheeran",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/15/e6/e8/15e6e8a4-4190-6a8b-86c3-ab4a51b88288/190295851286.jpg/80x80bb.webp",
-        "appleID": "shape-of-you/1193701392"
+        "appleID": "shape-of-you/1193701392",
+        "youtubeID": "JGwWNGJdvx8"
     },
     {
         "ranking": "75",
