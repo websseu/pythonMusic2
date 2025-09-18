@@ -81,7 +81,8 @@
         "title": "Rap God",
         "artist": "Eminem",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/c7/d2/78/c7d2787f-5975-9263-fe47-eeebee3c892f/00602537542703.rgb.jpg/80x80bb.webp",
-        "appleID": "rap-god/1440863086"
+        "appleID": "rap-god/1440863086",
+        "youtubeID": "XbGs_qK2PQA"
     },
     {
         "ranking": "13",
@@ -102,7 +103,7 @@
         "title": "Last Last (Apple Music Live)",
         "artist": "Burna Boy",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/89/49/b6/8949b6fc-de1d-fd2c-6468-f90ff9229f26/075679675293.jpg/80x80bb.webp",
-        "appleID": "last-last-apple-music-live/1698198275"
+        "appleID": "last-last/1623677811"
     },
     {
         "ranking": "16",
@@ -200,7 +201,8 @@
         "title": "Apocalypse",
         "artist": "Cigarettes After Sex",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b3/5e/0f/b35e0fbe-2370-fc48-0f0c-977525e93bf2/720841214601_Cover.jpg/80x80bb.webp",
-        "appleID": "apocalypse/1217977755"
+        "appleID": "apocalypse/1215409245",
+        "spotifyID": "0yc6Gst2xkRu0eMLeRMGCX"
     },
     {
         "ranking": "30",
@@ -291,7 +293,8 @@
         "title": "Tata",
         "artist": "Slow J",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/7a/02/38/7a0238c7-5888-46aa-72c7-8f4236a890de/196871619080.jpg/80x80bb.webp",
-        "appleID": "tata/1715327089"
+        "appleID": "tata/1715327089",
+        "spotifyID": "0fPOFtS7ZylYKcC9b64cSj"
     },
     {
         "ranking": "43",
@@ -305,7 +308,7 @@
         "title": "It's Plenty (Apple Music Live)",
         "artist": "Burna Boy",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/89/49/b6/8949b6fc-de1d-fd2c-6468-f90ff9229f26/075679675293.jpg/80x80bb.webp",
-        "appleID": "its-plenty-apple-music-live/1698198273"
+        "appleID": "its-plenty/1623677817"
     },
     {
         "ranking": "45",
@@ -347,7 +350,9 @@
         "title": "Lose Control",
         "artist": "Teddy Swims",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/36/19/66/36196640-1561-dc5e-c6bc-1e5f4befa583/093624856771.jpg/80x80bb.webp",
-        "appleID": "lose-control/1691699836"
+        "appleID": "lose-control/1691699836",
+        "youtubeID": "GZ3zL7kT6_c",
+        "spotifyID": "17phhZDn6oGtzMe56NuWvj"
     },
     {
         "ranking": "51",
@@ -417,7 +422,8 @@
         "title": "Saturn",
         "artist": "SZA",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/0f/90/a8/0f90a856-0447-d846-fa7b-b9c937e72310/196871881180.jpg/80x80bb.webp",
-        "appleID": "saturn/1732348414"
+        "appleID": "saturn/1732348414",
+        "spotifyID": "1bjeWoagtHmUKputLVyDxQ"
     },
     {
         "ranking": "61",
@@ -445,7 +451,8 @@
         "title": "Not Like Us",
         "artist": "Kendrick Lamar",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d0/ef/b6/d0efb685-73be-fdee-58c9-be655f4cd4fd/24UMGIM51924.rgb.jpg/80x80bb.webp",
-        "appleID": "not-like-us/1744776167"
+        "appleID": "not-like-us/1744776167",
+        "youtubeID": "H58vbez_m4E"
     },
     {
         "ranking": "65",
@@ -690,7 +697,8 @@
         "title": "Interestelar",
         "artist": "Plutónio",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/60/6f/c7/606fc790-537e-d55a-f5a8-17ce0387f585/196872557992.jpg/80x80bb.webp",
-        "appleID": "interestelar/1775412754"
+        "appleID": "interestelar/1775412754",
+        "youtubeID": "lsBmNKMTrtw"
     },
     {
         "ranking": "100",
