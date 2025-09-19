@@ -263,7 +263,7 @@
         "title": "Last Last (Apple Music Live)",
         "artist": "Burna Boy",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/89/49/b6/8949b6fc-de1d-fd2c-6468-f90ff9229f26/075679675293.jpg/80x80bb.webp",
-        "appleID": "last-last-apple-music-live/1698198275"
+        "appleID": "last-last/1623677811"
     },
     {
         "ranking": "39",
@@ -382,7 +382,7 @@
         "title": "It's Plenty (Apple Music Live)",
         "artist": "Burna Boy",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/89/49/b6/8949b6fc-de1d-fd2c-6468-f90ff9229f26/075679675293.jpg/80x80bb.webp",
-        "appleID": "its-plenty-apple-music-live/1698198273"
+        "appleID": "its-plenty/1623677817"
     },
     {
         "ranking": "56",
@@ -452,7 +452,8 @@
         "title": "Sunsetz",
         "artist": "Cigarettes After Sex",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b3/5e/0f/b35e0fbe-2370-fc48-0f0c-977525e93bf2/720841214601_Cover.jpg/80x80bb.webp",
-        "appleID": "sunsetz/1217977722"
+        "appleID": "sunsetz/1217977722",
+        "spotifyID": "0SpkyS1Q4MD8GaVcP5YjT4"
     },
     {
         "ranking": "66",
@@ -494,7 +495,8 @@
         "title": "Super Homem",
         "artist": "Liriany",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8d/91/37/8d913778-b5ff-b8fd-40bb-98c803d3fa14/0.jpg/80x80bb.webp",
-        "appleID": "super-homem/1772745001"
+        "appleID": "super-homem/1772745001",
+        "youtubeID": "qNw5st-0nPw"
     },
     {
         "ranking": "72",
@@ -515,7 +517,7 @@
         "title": "NA LUTA",
         "artist": "Memu Sunhu",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/cf/56/87/cf5687b8-38be-5bdf-df6f-463a2df4e951/24UMGIM47978.rgb.jpg/80x80bb.webp",
-        "appleID": "na-luta/1743075320"
+        "appleID": "na-luta/1744170219"
     },
     {
         "ranking": "75",
@@ -564,7 +566,8 @@
         "title": "Rap God",
         "artist": "Eminem",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/c7/d2/78/c7d2787f-5975-9263-fe47-eeebee3c892f/00602537542703.rgb.jpg/80x80bb.webp",
-        "appleID": "rap-god/1440863086"
+        "appleID": "rap-god/1440863086",
+        "youtubeID": "XbGs_qK2PQA"
     },
     {
         "ranking": "82",

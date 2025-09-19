@@ -53,7 +53,8 @@
         "title": "Daytona",
         "artist": "Cris MJ",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/61/fd/76/61fd7677-e736-a5ca-42fc-3a3681061d58/197190355710.jpg/80x80bb.webp",
-        "appleID": "daytona/1715087682"
+        "appleID": "daytona/1715087682",
+        "spotifyID": "2kvpHbQHp9QmcG9WhyLwco"
     },
     {
         "ranking": "9",
@@ -74,7 +75,9 @@
         "title": "Moscow Mule",
         "artist": "Bad Bunny",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/3e/04/eb/3e04ebf6-370f-f59d-ec84-2c2643db92f1/196626945068.jpg/80x80bb.webp",
-        "appleID": "moscow-mule/1622045625"
+        "appleID": "moscow-mule/1622045625",
+        "youtubeID": "p38WgakuYDo",
+        "spotifyID": "6Xom58OOXk2SoU711L2IXO"
     },
     {
         "ranking": "12",
@@ -214,7 +217,9 @@
         "title": "Tattoo",
         "artist": "Grupo Zúmbale Primo",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b8/d8/75/b8d87532-bf05-78d0-2b77-5adbd1e1fa45/8721093846901.png/80x80bb.webp",
-        "appleID": "tattoo/1766327034"
+        "appleID": "tattoo/1766327034",
+        "youtubeID": "JacBizUCKh0",
+        "spotifyID": "0vfPiExVUcECwzpQ3vfV0R"
     },
     {
         "ranking": "32",
@@ -249,7 +254,9 @@
         "title": "Qué Pasaría...",
         "artist": "Rauw Alejandro",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ab/e8/09/abe8092d-ef44-61b9-6b50-ab7efb78ca51/196872401516.jpg/80x80bb.webp",
-        "appleID": "qu%C3%A9-pasar%C3%ADa/1775462855"
+        "appleID": "qu%C3%A9-pasar%C3%ADa/1775462855",
+        "youtubeID": "g08y_x83d5E",
+        "spotifyID": "0l0vcZMU7AOeQmUIREoI2U"
     },
     {
         "ranking": "37",
@@ -326,14 +333,16 @@
         "title": "Pa' Que La Pases Bien",
         "artist": "Arcángel",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/22/4e/72/224e725e-aa32-9332-626c-98ea931d984e/898717002017_art.jpg/80x80bb.webp",
-        "appleID": "pa-que-la-pases-bien/1247228818"
+        "appleID": "pa-que-la-pases-bien/1247228818",
+        "spotifyID": "1pLCpA1RN8avJxSD3ZCwhj"
     },
     {
         "ranking": "48",
         "title": "DILUVIO",
         "artist": "Rauw Alejandro",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/d2/1a/63/d21a6376-80b9-ce89-e4f3-af3f0b70acf9/196871287098.jpg/80x80bb.webp",
-        "appleID": "diluvio/1695651429"
+        "appleID": "diluvio/1695651429",
+        "spotifyID": "2kz1YOhJiNubjigR1gB1VX"
     },
     {
         "ranking": "49",
@@ -424,7 +433,8 @@
         "title": "Dile a El",
         "artist": "Rauw Alejandro",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/35/85/36/3585365d-4678-0648-1bfd-76ea49ba8c9c/886448841388.jpg/80x80bb.webp",
-        "appleID": "dile-a-el/1536861744"
+        "appleID": "dile-a-el/1536861744",
+        "spotifyID": "13Tbv4nflNxg9kYBIbJnd9"
     },
     {
         "ranking": "62",
@@ -578,7 +588,9 @@
         "title": "Si Antes Te Hubiera Conocido",
         "artist": "KAROL G",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a0/60/94/a060947c-54d8-0fad-c558-eed12600224c/24UMGIM62705.rgb.jpg/80x80bb.webp",
-        "appleID": "si-antes-te-hubiera-conocido/1752031539"
+        "appleID": "si-antes-te-hubiera-conocido/1752031539",
+        "youtubeID": "QCZZwZQ4qNs",
+        "spotifyID": "6WatFBLVB0x077xWeoVc2k"
     },
     {
         "ranking": "84",
@@ -690,7 +702,8 @@
         "title": "Algún Día Volverás",
         "artist": "SantaFeria",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/38/62/c5/3862c582-552a-45ac-bcc7-b54e9b0863e6/84d0b426-6d8e-4e75-b40a-715aa30e4c64.jpg/80x80bb.webp",
-        "appleID": "alg%C3%BAn-d%C3%ADa-volver%C3%A1s/1813563353"
+        "appleID": "alg%C3%BAn-d%C3%ADa-volver%C3%A1s/1813563353",
+        "spotifyID": "5Py45FF8phNy49BaehU3PC"
     },
     {
         "ranking": "100",
