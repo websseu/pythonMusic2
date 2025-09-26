@@ -277,7 +277,8 @@
         "title": "Saturn",
         "artist": "SZA",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/0f/90/a8/0f90a856-0447-d846-fa7b-b9c937e72310/196871881180.jpg/80x80bb.webp",
-        "appleID": "saturn/1732348414"
+        "appleID": "saturn/1732348414",
+        "spotifyID": "1bjeWoagtHmUKputLVyDxQ"
     },
     {
         "ranking": "41",
@@ -375,14 +376,16 @@
         "title": "Not Like Us",
         "artist": "Kendrick Lamar",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d0/ef/b6/d0efb685-73be-fdee-58c9-be655f4cd4fd/24UMGIM51924.rgb.jpg/80x80bb.webp",
-        "appleID": "not-like-us/1744776167"
+        "appleID": "not-like-us/1744776167",
+        "youtubeID": "H58vbez_m4E"
     },
     {
         "ranking": "55",
         "title": "Rap God",
         "artist": "Eminem",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/c7/d2/78/c7d2787f-5975-9263-fe47-eeebee3c892f/00602537542703.rgb.jpg/80x80bb.webp",
-        "appleID": "rap-god/1440863086"
+        "appleID": "rap-god/1440863086",
+        "youtubeID": "XbGs_qK2PQA"
     },
     {
         "ranking": "56",
@@ -536,7 +539,8 @@
         "title": "Dancing In The Flames",
         "artist": "The Weeknd",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/26/ae/7c/26ae7c91-3ea9-a3d4-444b-93fb563b3d48/24UM1IM01029.rgb.jpg/80x80bb.webp",
-        "appleID": "dancing-in-the-flames/1768635695"
+        "appleID": "dancing-in-the-flames/1767511513",
+        "youtubeID": "gu0_ixJMx5U"
     },
     {
         "ranking": "78",
