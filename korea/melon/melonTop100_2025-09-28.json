@@ -33,7 +33,8 @@
         "image": "https://cdnimg.melon.co.kr/cm2/album/images/111/83/506/11183506_20230426141236_500.jpg/melon/resize/120/quality/80/optimize",
         "album": "OO-LI",
         "likes": "253189",
-        "melonID": "36397952"
+        "melonID": "36397952",
+        "youtubeID": "tiKFuzpX-NA"
     },
     {
         "ranking": "5",
@@ -141,7 +142,8 @@
         "image": "https://cdnimg.melon.co.kr/cm2/album/images/116/20/540/11620540_20241018183208_500.jpg/melon/resize/120/quality/80/optimize",
         "album": "Whiplash - The 5th Mini Album",
         "likes": "146519",
-        "melonID": "38123332"
+        "melonID": "38123332",
+        "youtubeID": "jWQx2f-CErU"
     },
     {
         "ranking": "17",
@@ -150,7 +152,8 @@
         "image": "https://cdnimg.melon.co.kr/cm2/album/images/116/47/670/11647670_20241121150855_500.jpg/melon/resize/120/quality/80/optimize",
         "album": "HOME SWEET HOME (feat. 태양, 대성)",
         "likes": "221407",
-        "melonID": "38242510"
+        "melonID": "38242510",
+        "youtubeID": "fLi0EJfi_vg"
     },
     {
         "ranking": "18",
@@ -168,7 +171,8 @@
         "image": "https://cdnimg.melon.co.kr/cm2/album/images/116/20/541/11620541_20241018183253_500.jpg/melon/resize/120/quality/80/optimize",
         "album": "나는 반딧불",
         "likes": "153063",
-        "melonID": "38123338"
+        "melonID": "38123338",
+        "youtubeID": "x9Jz2OueIGY"
     },
     {
         "ranking": "20",
@@ -177,7 +181,8 @@
         "image": "https://cdnimg.melon.co.kr/cm2/album/images/114/44/397/11444397_20240318115810_500.jpg/melon/resize/120/quality/80/optimize",
         "album": "Fourever",
         "likes": "202870",
-        "melonID": "37323944"
+        "melonID": "37323944",
+        "youtubeID": "sWXGbkM0tBI"
     },
     {
         "ranking": "21",
@@ -186,7 +191,8 @@
         "image": "https://cdnimg.melon.co.kr/cm2/album/images/116/08/521/11608521_20241004161722_500.jpg/melon/resize/120/quality/80/optimize",
         "album": "만화 (滿花)",
         "likes": "84454",
-        "melonID": "38071559"
+        "melonID": "38071559",
+        "youtubeID": "qLJq2muxhWc"
     },
     {
         "ranking": "22",
@@ -204,7 +210,8 @@
         "image": "https://cdnimg.melon.co.kr/cm2/album/images/114/21/941/11421941_20240220105008_500.jpg/melon/resize/120/quality/80/optimize",
         "album": "천상연 (웹툰 '선녀외전' X 이창섭 (LEE CHANGSUB))",
         "likes": "136348",
-        "melonID": "37228861"
+        "melonID": "37228861",
+        "youtubeID": "fQ84rvbfa08"
     },
     {
         "ranking": "24",
@@ -213,7 +220,10 @@
         "image": "https://cdnimg.melon.co.kr/cm2/album/images/116/19/809/11619809_20241018103507_500.jpg/melon/resize/120/quality/80/optimize",
         "album": "APT.",
         "likes": "217221",
-        "melonID": "38120327"
+        "melonID": "38120327",
+        "appleID": "apt/1773452221",
+        "youtubeID": "ekr2nIex040",
+        "spotifyID": "4wJ5Qq0jBN4ajy7ouZIV1c"
     },
     {
         "ranking": "25",
@@ -258,7 +268,8 @@
         "image": "https://cdnimg.melon.co.kr/cm2/album/images/103/31/947/10331947_500.jpg/melon/resize/120/quality/80/optimize",
         "album": "항해",
         "likes": "487798",
-        "melonID": "32061975"
+        "melonID": "32061975",
+        "youtubeID": "m3DZsBw5bnE"
     },
     {
         "ranking": "30",
@@ -276,7 +287,8 @@
         "image": "https://cdnimg.melon.co.kr/cm/album/images/103/07/346/10307346_500.jpg/melon/resize/120/quality/80/optimize",
         "album": "The Book of Us : Gravity",
         "likes": "360358",
-        "melonID": "31927275"
+        "melonID": "31927275",
+        "youtubeID": "vnS_jn2uibs"
     },
     {
         "ranking": "32",
@@ -294,7 +306,8 @@
         "image": "https://cdnimg.melon.co.kr/cm2/album/images/116/16/312/11616312_20241015135802_500.jpg/melon/resize/120/quality/80/optimize",
         "album": "내게 사랑이 뭐냐고 물어본다면",
         "likes": "82324",
-        "melonID": "38104031"
+        "melonID": "38104031",
+        "youtubeID": "5ly8tAU-n_w"
     },
     {
         "ranking": "34",
@@ -303,7 +316,8 @@
         "image": "https://cdnimg.melon.co.kr/cm2/album/images/114/59/325/11459325_20240405171054_500.jpg/melon/resize/120/quality/80/optimize",
         "album": "선재 업고 튀어 OST Part 1",
         "likes": "188154",
-        "melonID": "37390939"
+        "melonID": "37390939",
+        "youtubeID": "fBB4MaBybyg"
     },
     {
         "ranking": "35",
@@ -330,7 +344,10 @@
         "image": "https://cdnimg.melon.co.kr/cm2/album/images/116/59/696/11659696_20241205141243_500.jpg/melon/resize/120/quality/80/optimize",
         "album": "rosie",
         "likes": "125766",
-        "melonID": "38300904"
+        "melonID": "38300904",
+        "appleID": "toxic-till-the-end/1771105929",
+        "youtubeID": "eA0lHNZ1KCA",
+        "spotifyID": "1z5ebC9238uGoBgzYyvGpQ"
     },
     {
         "ranking": "38",
@@ -339,7 +356,10 @@
         "image": "https://cdnimg.melon.co.kr/cm2/album/images/115/68/901/11568901_20240816130602_500.jpg/melon/resize/120/quality/80/optimize",
         "album": "Die With A Smile",
         "likes": "117123",
-        "melonID": "37901626"
+        "melonID": "37901626",
+        "appleID": "die-with-a-smile/1762656732",
+        "youtubeID": "kPa7bsKwL-c",
+        "spotifyID": "2plbrEY59IikOBgBGLjaoe"
     },
     {
         "ranking": "39",
@@ -348,7 +368,8 @@
         "image": "https://cdnimg.melon.co.kr/cm/album/images/100/36/099/10036099_500.jpg/melon/resize/120/quality/80/optimize",
         "album": "Every DAY6 February",
         "likes": "375248",
-        "melonID": "30232719"
+        "melonID": "30232719",
+        "youtubeID": "BS7tz2rAOSA"
     },
     {
         "ranking": "40",
@@ -357,7 +378,8 @@
         "image": "https://cdnimg.melon.co.kr/cm2/album/images/113/05/759/11305759_20230814111006_500.jpg/melon/resize/120/quality/80/optimize",
         "album": "그대만 있다면 (여름날 우리 X 너드커넥션 (Nerd Connection))",
         "likes": "160075",
-        "melonID": "36699489"
+        "melonID": "36699489",
+        "youtubeID": "IMWT6937uUs"
     },
     {
         "ranking": "41",
@@ -366,7 +388,8 @@
         "image": "https://cdnimg.melon.co.kr/cm2/album/images/114/44/397/11444397_20240318115810_500.jpg/melon/resize/120/quality/80/optimize",
         "album": "Fourever",
         "likes": "187883",
-        "melonID": "37323943"
+        "melonID": "37323943",
+        "youtubeID": "RowlrvmyFEk"
     },
     {
         "ranking": "42",
@@ -402,7 +425,8 @@
         "image": "https://cdnimg.melon.co.kr/cm/album/images/102/60/858/10260858_500.jpg/melon/resize/120/quality/80/optimize",
         "album": "전설",
         "likes": "448553",
-        "melonID": "31666417"
+        "melonID": "31666417",
+        "youtubeID": "t8P-zdkoeJA"
     },
     {
         "ranking": "46",
@@ -429,7 +453,8 @@
         "image": "https://cdnimg.melon.co.kr/cm/album/images/022/32/505/2232505_500.jpg/melon/resize/120/quality/80/optimize",
         "album": "별에서 온 그대 OST Part.7",
         "likes": "312095",
-        "melonID": "4446485"
+        "melonID": "4446485",
+        "youtubeID": "Dbxzh078jr4"
     },
     {
         "ranking": "49",
@@ -438,7 +463,8 @@
         "image": "https://cdnimg.melon.co.kr/cm/album/images/101/49/492/10149492_500.jpg/melon/resize/120/quality/80/optimize",
         "album": "'키스 먼저 할까요?' OST Part.3",
         "likes": "437906",
-        "melonID": "30962526"
+        "melonID": "30962526",
+        "youtubeID": "1q_t6RNuH8c"
     },
     {
         "ranking": "50",
@@ -447,7 +473,8 @@
         "image": "https://cdnimg.melon.co.kr/cm2/album/images/114/87/023/11487023_20240527154018_500.jpg/melon/resize/120/quality/80/optimize",
         "album": "Armageddon - The 1st Album",
         "likes": "185517",
-        "melonID": "37524037"
+        "melonID": "37524037",
+        "youtubeID": "phuiiNCxRMg"
     },
     {
         "ranking": "51",
@@ -456,7 +483,9 @@
         "image": "https://cdnimg.melon.co.kr/cm2/album/images/114/04/142/11404142_20240220141548_500.jpg/melon/resize/120/quality/80/optimize",
         "album": "The Winning",
         "likes": "215463",
-        "melonID": "37145732"
+        "melonID": "37145732",
+        "appleID": "love-wins-all/1726888402",
+        "youtubeID": "JleoAppaxi0"
     },
     {
         "ranking": "52",
@@ -465,7 +494,8 @@
         "image": "https://cdnimg.melon.co.kr/cm2/album/images/108/71/162/10871162_20220217162422_500.jpg/melon/resize/120/quality/80/optimize",
         "album": "사랑인가 봐 (사내맞선 OST 스페셜 트랙)",
         "likes": "230190",
-        "melonID": "34657844"
+        "melonID": "34657844",
+        "youtubeID": "McidaTgrQB0"
     },
     {
         "ranking": "53",
@@ -474,7 +504,8 @@
         "image": "https://cdnimg.melon.co.kr/cm2/album/images/113/86/568/11386568_20231218192452_500.jpg/melon/resize/120/quality/80/optimize",
         "album": "슬픈 초대장",
         "likes": "74635",
-        "melonID": "37069064"
+        "melonID": "37069064",
+        "youtubeID": "hkROGL9id6Y"
     },
     {
         "ranking": "54",
@@ -483,7 +514,8 @@
         "image": "https://cdnimg.melon.co.kr/cm2/album/images/114/55/285/11455285_20240401151801_500.jpg/melon/resize/120/quality/80/optimize",
         "album": "청혼하지 않을 이유를 못 찾았어",
         "likes": "63817",
-        "melonID": "37375706"
+        "melonID": "37375706",
+        "youtubeID": "t37jMbfNTPk"
     },
     {
         "ranking": "55",
@@ -492,7 +524,8 @@
         "image": "https://cdnimg.melon.co.kr/cm2/album/images/113/91/902/11391902_20250922111638_500.jpg/melon/resize/120/quality/80/optimize",
         "album": "TWS 1st Mini Album ‘Sparkling Blue’",
         "likes": "165100",
-        "melonID": "37140709"
+        "melonID": "37140709",
+        "youtubeID": "hVAc1Vf2ITU"
     },
     {
         "ranking": "56",
@@ -501,7 +534,8 @@
         "image": "https://cdnimg.melon.co.kr/cm2/album/images/106/10/525/10610525_20210518143433_500.jpg/melon/resize/120/quality/80/optimize",
         "album": "다정히 내 이름을 부르면 (경서예지 x 전건호)",
         "likes": "217818",
-        "melonID": "33496587"
+        "melonID": "33496587",
+        "youtubeID": "z127C11tKsg"
     },
     {
         "ranking": "57",
@@ -510,7 +544,8 @@
         "image": "https://cdnimg.melon.co.kr/cm2/album/images/113/76/816/11376816_20231201120653_500.jpg/melon/resize/120/quality/80/optimize",
         "album": "비의 랩소디",
         "likes": "105290",
-        "melonID": "37023625"
+        "melonID": "37023625",
+        "youtubeID": "OL2f3vzgE7M"
     },
     {
         "ranking": "58",
@@ -519,7 +554,8 @@
         "image": "https://cdnimg.melon.co.kr/cm2/album/images/112/11/297/11211297_20230410151046_500.jpg/melon/resize/120/quality/80/optimize",
         "album": "I've IVE",
         "likes": "233575",
-        "melonID": "36356993"
+        "melonID": "36356993",
+        "youtubeID": "2gyJW3AiPYY"
     },
     {
         "ranking": "59",
@@ -537,7 +573,8 @@
         "image": "https://cdnimg.melon.co.kr/cm2/album/images/107/35/654/10735654_20211008114339_500.jpg/melon/resize/120/quality/80/optimize",
         "album": "신사와 아가씨 OST Part.2",
         "likes": "231741",
-        "melonID": "34061322"
+        "melonID": "34061322",
+        "youtubeID": "Jr_2uyCJVUc"
     },
     {
         "ranking": "61",
@@ -555,7 +592,8 @@
         "image": "https://cdnimg.melon.co.kr/cm2/album/images/114/54/681/11454681_20240328174504_500.jpg/melon/resize/120/quality/80/optimize",
         "album": "1st Mini Album 'MANITO'",
         "likes": "151510",
-        "melonID": "37373234"
+        "melonID": "37373234",
+        "youtubeID": "ImuWa3SJulY"
     },
     {
         "ranking": "63",
@@ -564,7 +602,8 @@
         "image": "https://cdnimg.melon.co.kr/cm2/album/images/113/82/987/11382987_20231212165916_500.jpg/melon/resize/120/quality/80/optimize",
         "album": "에피소드",
         "likes": "133895",
-        "melonID": "37053556"
+        "melonID": "37053556",
+        "youtubeID": "gH1rVdXUlpo"
     },
     {
         "ranking": "64",
@@ -591,7 +630,10 @@
         "image": "https://cdnimg.melon.co.kr/cm2/album/images/114/50/069/11450069_20240325110702_500.jpg/melon/resize/120/quality/80/optimize",
         "album": "SUPER REAL ME",
         "likes": "138207",
-        "melonID": "37347911"
+        "melonID": "37347911",
+        "appleID": "magnetic/1734500896",
+        "youtubeID": "Vk5-c_v4gMU",
+        "spotifyID": "1aKvZDoLGkNMxoRYgkckZG"
     },
     {
         "ranking": "67",
@@ -627,7 +669,8 @@
         "image": "https://cdnimg.melon.co.kr/cm2/album/images/115/80/909/11580909_20240923131754_500.jpg/melon/resize/120/quality/80/optimize",
         "album": "2nd Mini Album 'Algorithm's Blossom'",
         "likes": "103074",
-        "melonID": "38022274"
+        "melonID": "38022274",
+        "youtubeID": "9yfrVqCcrS0"
     },
     {
         "ranking": "71",
@@ -636,7 +679,8 @@
         "image": "https://cdnimg.melon.co.kr/cm2/album/images/110/11/565/11011565_20220801102637_500.jpg/melon/resize/120/quality/80/optimize",
         "album": "NewJeans 1st EP 'New Jeans'",
         "likes": "312407",
-        "melonID": "35454426"
+        "melonID": "35454426",
+        "youtubeID": "11cta61wi0g"
     },
     {
         "ranking": "72",
@@ -645,7 +689,8 @@
         "image": "https://cdnimg.melon.co.kr/cm2/album/images/108/21/699/10821699_20231205103724_500.jpg/melon/resize/120/quality/80/optimize",
         "album": "인사",
         "likes": "153252",
-        "melonID": "34451383"
+        "melonID": "34451383",
+        "youtubeID": "H0lQwJPdoBU"
     },
     {
         "ranking": "73",
@@ -654,7 +699,8 @@
         "image": "https://cdnimg.melon.co.kr/cm2/album/images/116/29/208/11629208_20241101103249_500.jpg/melon/resize/120/quality/80/optimize",
         "album": "DRIP",
         "likes": "67420",
-        "melonID": "38161297"
+        "melonID": "38161297",
+        "youtubeID": "Zp-Jhuhq0bQ"
     },
     {
         "ranking": "74",
@@ -663,7 +709,8 @@
         "image": "https://cdnimg.melon.co.kr/cm2/album/images/112/27/533/11227533_20230419162238_500.jpg/melon/resize/120/quality/80/optimize",
         "album": "1집 Alone",
         "likes": "189966",
-        "melonID": "36382580"
+        "melonID": "36382580",
+        "youtubeID": "yFlxYHjHYAw"
     },
     {
         "ranking": "75",
@@ -672,7 +719,8 @@
         "image": "https://cdnimg.melon.co.kr/cm2/album/images/114/75/749/11475749_20240524105642_500.jpg/melon/resize/120/quality/80/optimize",
         "album": "How Sweet",
         "likes": "154023",
-        "melonID": "37563682"
+        "melonID": "37563682",
+        "youtubeID": "Q3K0TOvTOno"
     },
     {
         "ranking": "76",
@@ -717,7 +765,8 @@
         "image": "https://cdnimg.melon.co.kr/cm2/album/images/115/64/698/11564698_20240812100922_500.jpg/melon/resize/120/quality/80/optimize",
         "album": "Supersonic",
         "likes": "87214",
-        "melonID": "37884934"
+        "melonID": "37884934",
+        "youtubeID": "0LiQp7y8Wwc"
     },
     {
         "ranking": "81",
@@ -744,7 +793,8 @@
         "image": "https://cdnimg.melon.co.kr/cm2/album/images/116/10/170/11610170_20241008143002_500.jpg/melon/resize/120/quality/80/optimize",
         "album": "SYNK : PARALLEL LINE - Special Digital Single",
         "likes": "115328",
-        "melonID": "38077932"
+        "melonID": "38077932",
+        "youtubeID": "sir6uaQ1Ako"
     },
     {
         "ranking": "84",
@@ -762,7 +812,8 @@
         "image": "https://cdnimg.melon.co.kr/cm2/album/images/110/36/283/11036283_20220823181214_500.jpg/melon/resize/120/quality/80/optimize",
         "album": "유영",
         "likes": "174793",
-        "melonID": "35553933"
+        "melonID": "35553933",
+        "youtubeID": "8kQH_bBMrMQ"
     },
     {
         "ranking": "86",
@@ -780,7 +831,8 @@
         "image": "https://cdnimg.melon.co.kr/cm2/album/images/109/23/444/10923444_20220502140600_500.jpg/melon/resize/120/quality/80/optimize",
         "album": "IM HERO",
         "likes": "120670",
-        "melonID": "34908740"
+        "melonID": "34908740",
+        "youtubeID": "JPPIrXdocjQ"
     },
     {
         "ranking": "88",
@@ -798,7 +850,8 @@
         "image": "https://cdnimg.melon.co.kr/cm2/album/images/112/85/867/11285867_20230713162404_500.jpg/melon/resize/120/quality/80/optimize",
         "album": "사막에서 꽃을 피우듯",
         "likes": "111801",
-        "melonID": "36616378"
+        "melonID": "36616378",
+        "youtubeID": "j4qaT26K80A"
     },
     {
         "ranking": "90",
@@ -834,7 +887,8 @@
         "image": "https://cdnimg.melon.co.kr/cm/album/images/100/69/644/10069644_500.jpg/melon/resize/120/quality/80/optimize",
         "album": "권지용",
         "likes": "322932",
-        "melonID": "30461396"
+        "melonID": "30461396",
+        "youtubeID": "9kaCAbIXuyg"
     },
     {
         "ranking": "94",
@@ -843,7 +897,8 @@
         "image": "https://cdnimg.melon.co.kr/cm2/album/images/109/23/444/10923444_20220502140600_500.jpg/melon/resize/120/quality/80/optimize",
         "album": "IM HERO",
         "likes": "97607",
-        "melonID": "35008524"
+        "melonID": "35008524",
+        "youtubeID": "sHqFqWDviBg"
     },
     {
         "ranking": "95",
@@ -861,7 +916,8 @@
         "image": "https://cdnimg.melon.co.kr/cm2/album/images/115/17/951/11517951_20240620173412_500.jpg/melon/resize/120/quality/80/optimize",
         "album": "16 Fantasy",
         "likes": "167186",
-        "melonID": "37657039"
+        "melonID": "37657039",
+        "youtubeID": "11iZcYbq_is"
     },
     {
         "ranking": "97",
@@ -897,6 +953,7 @@
         "image": "https://cdnimg.melon.co.kr/cm2/album/images/106/92/255/10692255_20210825184324_500.jpg/melon/resize/120/quality/80/optimize",
         "album": "가까운 듯 먼 그대여",
         "likes": "136430",
-        "melonID": "33855085"
+        "melonID": "33855085",
+        "youtubeID": "CAxPgfOqtr8"
     }
 ]
