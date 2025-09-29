@@ -11,7 +11,8 @@
         "title": "BIRDS OF A FEATHER",
         "artist": "Billie Eilish",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
-        "appleID": "birds-of-a-feather/1739659142"
+        "appleID": "birds-of-a-feather/1739659142",
+        "youtubeID": "V9PVRfjEBTI"
     },
     {
         "ranking": "3",
@@ -67,7 +68,8 @@
         "title": "Cruel Summer",
         "artist": "Taylor Swift",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/49/3d/ab/493dab54-f920-9043-6181-80993b8116c9/19UMGIM53909.rgb.jpg/80x80bb.webp",
-        "appleID": "cruel-summer/1468058171"
+        "appleID": "cruel-summer/1468058171",
+        "youtubeID": "ic8j13piAhQ"
     },
     {
         "ranking": "11",
@@ -81,7 +83,8 @@
         "title": "luther",
         "artist": "Kendrick Lamar",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/50/c2/cc/50c2cc95-3658-9417-0d4b-831abde44ba1/24UM1IM28978.rgb.jpg/80x80bb.webp",
-        "appleID": "luther/1781270323"
+        "appleID": "luther/1781270323",
+        "youtubeID": "4_taypLmSMU"
     },
     {
         "ranking": "13",
@@ -116,7 +119,9 @@
         "title": "Snooze",
         "artist": "SZA",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/bd/3b/a9/bd3ba9fb-9609-144f-bcfe-ead67b5f6ab3/196589564931.jpg/80x80bb.webp",
-        "appleID": "snooze/1657869492"
+        "appleID": "snooze/1657869492",
+        "youtubeID": "LDY_XyxBu8A",
+        "spotifyID": "4iZ4pt7kvcaH6Yo8UoZ4s2"
     },
     {
         "ranking": "18",
@@ -137,21 +142,25 @@
         "title": "เพลงรัก",
         "artist": "Three Man Down",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/71/cd/0b/71cd0bbd-8072-2055-9c91-f3877f0f4e24/888332895279.jpg/80x80bb.webp",
-        "appleID": "%E0%B9%80%E0%B8%9E%E0%B8%A5%E0%B8%87%E0%B8%A3-%E0%B8%81/1792753683"
+        "appleID": "%E0%B9%80%E0%B8%9E%E0%B8%A5%E0%B8%87%E0%B8%A3-%E0%B8%81/1772114065",
+        "spotifyID": "1THWgXia63L6sds6dIMlI9"
     },
     {
         "ranking": "21",
         "title": "toxic till the end",
         "artist": "ROSÉ",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2d/14/66/2d14661b-345b-d0f3-4e86-56ef626e68aa/075679629203.jpg/80x80bb.webp",
-        "appleID": "toxic-till-the-end/1771105929"
+        "appleID": "toxic-till-the-end/1771105929",
+        "youtubeID": "eA0lHNZ1KCA",
+        "spotifyID": "1z5ebC9238uGoBgzYyvGpQ"
     },
     {
         "ranking": "22",
         "title": "Espresso",
         "artist": "Sabrina Carpenter",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cb/64/8c/cb648cf7-e7bb-bd00-efe0-d744312c29a8/24UMGIM32304.rgb.jpg/80x80bb.webp",
-        "appleID": "espresso/1740212434"
+        "appleID": "espresso/1740212434",
+        "youtubeID": "eVli-tstM5E"
     },
     {
         "ranking": "23",
@@ -165,7 +174,7 @@
         "title": "Love Story (Taylor’s Version)",
         "artist": "Taylor Swift",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/c3/d0/1c/c3d01c88-73e7-187e-fd62-e1744de979a6/21UMGIM09915.rgb.jpg/80x80bb.webp",
-        "appleID": "love-story-taylors-version/1552791427"
+        "appleID": "love-story/1452859410"
     },
     {
         "ranking": "25",
@@ -193,21 +202,24 @@
         "title": "About You",
         "artist": "The 1975",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/ec/35/84/ec35841a-f7d1-71dd-fcb8-38e8f6c62d83/196922101519_Cover.jpg/80x80bb.webp",
-        "appleID": "about-you/1632479847"
+        "appleID": "about-you/1632479847",
+        "youtubeID": "tGv7CUutzqU"
     },
     {
         "ranking": "29",
         "title": "Not Like Us",
         "artist": "Kendrick Lamar",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d0/ef/b6/d0efb685-73be-fdee-58c9-be655f4cd4fd/24UMGIM51924.rgb.jpg/80x80bb.webp",
-        "appleID": "not-like-us/1744776167"
+        "appleID": "not-like-us/1744776167",
+        "youtubeID": "H58vbez_m4E"
     },
     {
         "ranking": "30",
         "title": "Timeless",
         "artist": "The Weeknd",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/40/77/cb/4077cbd1-b6a0-d8df-b9d3-e9a339dbc0ea/24UM1IM04061.rgb.jpg/80x80bb.webp",
-        "appleID": "timeless/1770380890"
+        "appleID": "timeless/1770380890",
+        "youtubeID": "5EpyN_6dqyk"
     },
     {
         "ranking": "31",
@@ -221,14 +233,16 @@
         "title": "ทิ้งไป",
         "artist": "Only Monday",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/37/21/f7/3721f715-89ea-32cc-f3d5-05b7aaeff973/888332908559.jpg/80x80bb.webp",
-        "appleID": "%E0%B8%97-%E0%B8%87%E0%B9%84%E0%B8%9B/1792751230"
+        "appleID": "%E0%B8%97-%E0%B8%87%E0%B9%84%E0%B8%9B/1631812140"
     },
     {
         "ranking": "33",
         "title": "APT.",
         "artist": "ROSÉ",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2d/1a/7d/2d1a7d91-587e-0ceb-d434-327bd66d9e86/075679628312.jpg/80x80bb.webp",
-        "appleID": "apt/1773452221"
+        "appleID": "apt/1773452221",
+        "youtubeID": "ekr2nIex040",
+        "spotifyID": "4wJ5Qq0jBN4ajy7ouZIV1c"
     },
     {
         "ranking": "34",
@@ -249,7 +263,8 @@
         "title": "จดจำ",
         "artist": "Only Monday",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6f/eb/e3/6febe347-eca8-8dce-e070-77cb43317534/888332899802.jpg/80x80bb.webp",
-        "appleID": "%E0%B8%88%E0%B8%94%E0%B8%88%E0%B8%B3/1793461885"
+        "appleID": "%E0%B8%88%E0%B8%94%E0%B8%88%E0%B8%B3/1726028179",
+        "spotifyID": "2CjNvED1BSLPG1jYENA0QS"
     },
     {
         "ranking": "37",
@@ -277,21 +292,26 @@
         "title": "Moonlit Floor",
         "artist": "LISA",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7c/83/fb/7c83fbdf-27c1-39d5-dfb6-b8d6e2cd8dad/196872478501.jpg/80x80bb.webp",
-        "appleID": "moonlit-floor/1771466815"
+        "appleID": "moonlit-floor/1771466815",
+        "youtubeID": "pxGM_TOgHuM"
     },
     {
         "ranking": "41",
         "title": "blue",
         "artist": "yung kai",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/33/62/62/33626226-0cf3-ff64-3296-b2355de71fac/0748777703419.jpg/80x80bb.webp",
-        "appleID": "blue/1776246888"
+        "appleID": "blue/1776246888",
+        "youtubeID": "98zHKN-xSHk",
+        "spotifyID": "3be9ACTxtcL6Zm4vJRUiPG"
     },
     {
         "ranking": "42",
         "title": "Die With A Smile",
         "artist": "Lady Gaga",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/11/ae/f2/11aef294-f57c-bab9-c9fc-529162984e62/24UMGIM85348.rgb.jpg/80x80bb.webp",
-        "appleID": "die-with-a-smile/1762656732"
+        "appleID": "die-with-a-smile/1762656732",
+        "youtubeID": "kPa7bsKwL-c",
+        "spotifyID": "2plbrEY59IikOBgBGLjaoe"
     },
     {
         "ranking": "43",
@@ -319,7 +339,8 @@
         "title": "Kiss Me More (feat. SZA)",
         "artist": "Doja Cat",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/2d/fe/76/2dfe76da-e6bd-3a2c-d798-5b8a901a67bd/886449410538.jpg/80x80bb.webp",
-        "appleID": "kiss-me-more-feat-sza/1574004703"
+        "appleID": "kiss-me-more-feat-sza/1574004703",
+        "youtubeID": "0EVVKs6DQLo"
     },
     {
         "ranking": "47",
@@ -368,14 +389,16 @@
         "title": "WILDFLOWER",
         "artist": "Billie Eilish",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
-        "appleID": "wildflower/1739659144"
+        "appleID": "wildflower/1739659144",
+        "youtubeID": "IWKyykQBRKo",
+        "spotifyID": "3QaPy1KgI7nu9FJEQUgn6h"
     },
     {
         "ranking": "54",
         "title": "Die For You",
         "artist": "The Weeknd",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/e2/61/f8/e261f8c1-73db-9a7a-c89e-1068f19970e0/16UMGIM67863.rgb.jpg/80x80bb.webp",
-        "appleID": "die-for-you/1440872304"
+        "appleID": "die-for-you/1677006158"
     },
     {
         "ranking": "55",
@@ -389,7 +412,9 @@
         "title": "Mantra",
         "artist": "JENNIE",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5d/9a/4c/5d9a4c5f-1c34-1265-0fa5-860dc8f0e802/196872495263.jpg/80x80bb.webp",
-        "appleID": "mantra/1772759719"
+        "appleID": "mantra/1772759719",
+        "youtubeID": "bB3-CUMERIU",
+        "spotifyID": "2CspwnypzT7rcWI9RfsoSb"
     },
     {
         "ranking": "57",
@@ -438,7 +463,8 @@
         "title": "Tip Toe",
         "artist": "HYBS",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/79/aa/aa/79aaaa95-f1c2-4409-1e3b-826e77b78d13/cover.jpg/80x80bb.webp",
-        "appleID": "tip-toe/1688539331"
+        "appleID": "tip-toe/1688539331",
+        "spotifyID": "0MJ5wKsPEeihONNfugHGy7"
     },
     {
         "ranking": "64",
@@ -466,14 +492,16 @@
         "title": "Always",
         "artist": "Daniel Caesar",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/36/e3/8e/36e38e7e-94ec-dbcd-f23c-0890e1a9518f/22UM1IM44821.rgb.jpg/80x80bb.webp",
-        "appleID": "always/1681323048"
+        "appleID": "always/1681323048",
+        "spotifyID": "2LlOeW5rVcvl3QcPNPcDus"
     },
     {
         "ranking": "68",
         "title": "Dancing In The Flames",
         "artist": "The Weeknd",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/26/ae/7c/26ae7c91-3ea9-a3d4-444b-93fb563b3d48/24UM1IM01029.rgb.jpg/80x80bb.webp",
-        "appleID": "dancing-in-the-flames/1768635695"
+        "appleID": "dancing-in-the-flames/1767511513",
+        "youtubeID": "gu0_ixJMx5U"
     },
     {
         "ranking": "69",
@@ -494,7 +522,7 @@
         "title": "ส่วนต่าง (do it without me)",
         "artist": "BOWKYLION",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b0/19/59/b0195906-1eb0-2f36-0fa8-445a4f82a3e0/25UMGIM83408.rgb.jpg/80x80bb.webp",
-        "appleID": "%E0%B8%AA-%E0%B8%A7%E0%B8%99%E0%B8%95-%E0%B8%B2%E0%B8%87-do-it-without-me/1829232509"
+        "appleID": "%E0%B8%AA-%E0%B8%A7%E0%B8%99%E0%B8%95-%E0%B8%B2%E0%B8%87/1742503315"
     },
     {
         "ranking": "72",
@@ -529,7 +557,7 @@
         "title": "เธอทำให้ฉันเสียใจ",
         "artist": "Cocktail",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/02/02/9c/02029cc9-d5b3-5b76-8532-497b82463bc7/888332970747.jpg/80x80bb.webp",
-        "appleID": "%E0%B9%80%E0%B8%98%E0%B8%AD%E0%B8%97%E0%B8%B3%E0%B9%83%E0%B8%AB-%E0%B8%89-%E0%B8%99%E0%B9%80%E0%B8%AA-%E0%B8%A2%E0%B9%83%E0%B8%88/1792748254"
+        "appleID": "%E0%B9%80%E0%B8%98%E0%B8%AD%E0%B8%97%E0%B8%B3%E0%B9%83%E0%B8%AB-%E0%B8%89-%E0%B8%99%E0%B9%80%E0%B8%AA-%E0%B8%A2%E0%B9%83%E0%B8%88/705719148"
     },
     {
         "ranking": "77",
@@ -557,7 +585,8 @@
         "title": "Hurt",
         "artist": "NewJeans",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/4e/64/34/4e64344b-3ac6-c503-2c41-257a15401416/192641873096_Cover.jpg/80x80bb.webp",
-        "appleID": "hurt/1635470002"
+        "appleID": "hurt/1635470002",
+        "youtubeID": "tVIXY14aJms"
     },
     {
         "ranking": "81",
@@ -571,7 +600,8 @@
         "title": "Save Your Tears",
         "artist": "The Weeknd",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/6f/bc/e6/6fbce6c4-c38c-72d8-4fd0-66cfff32f679/20UMGIM12176.rgb.jpg/80x80bb.webp",
-        "appleID": "save-your-tears/1499378613"
+        "appleID": "save-your-tears/1499378613",
+        "youtubeID": "XXYlFuWEuKI"
     },
     {
         "ranking": "83",
@@ -599,7 +629,8 @@
         "title": "Perfect",
         "artist": "Ed Sheeran",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/15/e6/e8/15e6e8a4-4190-6a8b-86c3-ab4a51b88288/190295851286.jpg/80x80bb.webp",
-        "appleID": "perfect/1193701400"
+        "appleID": "perfect/1193701400",
+        "youtubeID": "2Vv-BfVoq4g"
     },
     {
         "ranking": "87",
@@ -613,7 +644,8 @@
         "title": "Rockstar",
         "artist": "LISA",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/04/84/a5/0484a536-1a52-4e86-f9c6-e1b7a223a877/196872223392.jpg/80x80bb.webp",
-        "appleID": "rockstar/1752761265"
+        "appleID": "rockstar/1752761265",
+        "youtubeID": "hbcGx4MGUMg"
     },
     {
         "ranking": "89",
@@ -648,7 +680,8 @@
         "title": "New Jeans",
         "artist": "NewJeans",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/63/e5/e2/63e5e2e4-829b-924d-a1dc-8058a1d69bd4/196922462702_Cover.jpg/80x80bb.webp",
-        "appleID": "new-jeans/1692686265"
+        "appleID": "new-jeans/1692686265",
+        "youtubeID": "kcelgrGY1h8"
     },
     {
         "ranking": "94",
