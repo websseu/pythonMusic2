@@ -200,7 +200,8 @@
         "title": "Ungukuphila",
         "artist": "Xolly Mncwango",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/62/ef/48/62ef4827-2918-3966-f444-8a5b19ed54cc/20UMGIM85001.rgb.jpg/80x80bb.webp",
-        "appleID": "ungukuphila/1535816932"
+        "appleID": "ungukuphila/1535816932",
+        "spotifyID": "53wwaMp15eGyE12Cm7sxLa"
     },
     {
         "ranking": "30",
@@ -438,7 +439,9 @@
         "title": "Snooze",
         "artist": "SZA",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/bd/3b/a9/bd3ba9fb-9609-144f-bcfe-ead67b5f6ab3/196589564931.jpg/80x80bb.webp",
-        "appleID": "snooze/1657869492"
+        "appleID": "snooze/1657869492",
+        "youtubeID": "LDY_XyxBu8A",
+        "spotifyID": "4iZ4pt7kvcaH6Yo8UoZ4s2"
     },
     {
         "ranking": "64",
@@ -487,7 +490,9 @@
         "title": "WILDFLOWER",
         "artist": "Billie Eilish",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
-        "appleID": "wildflower/1739659144"
+        "appleID": "wildflower/1739659144",
+        "youtubeID": "IWKyykQBRKo",
+        "spotifyID": "3QaPy1KgI7nu9FJEQUgn6h"
     },
     {
         "ranking": "71",

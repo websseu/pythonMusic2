@@ -39,7 +39,8 @@
         "title": "Her Nerdeysen",
         "artist": "Ati242",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/fa/f9/55/faf95520-f2d0-42f2-69f0-31a5fedbaffa/198846424330.jpg/80x80bb.webp",
-        "appleID": "her-nerdeysen/1771701685"
+        "appleID": "her-nerdeysen/1771701685",
+        "spotifyID": "65txmqjijZoGYs1irX6tBU"
     },
     {
         "ranking": "7",
@@ -151,7 +152,9 @@
         "title": "ParisLove",
         "artist": "FORTUNA 812",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/fe/45/c8/fe45c82f-c075-d2e8-d2c9-dbece6ec8440/cover.jpg/80x80bb.webp",
-        "appleID": "parislove/1777698230"
+        "appleID": "parislove/1777698230",
+        "youtubeID": "-q68__Slg-8",
+        "spotifyID": "6zECxDYlNtEybq8hZ9Tp12"
     },
     {
         "ranking": "23",
@@ -235,7 +238,9 @@
         "title": "Die With A Smile",
         "artist": "Lady Gaga",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/11/ae/f2/11aef294-f57c-bab9-c9fc-529162984e62/24UMGIM85348.rgb.jpg/80x80bb.webp",
-        "appleID": "die-with-a-smile/1762656732"
+        "appleID": "die-with-a-smile/1762656732",
+        "youtubeID": "kPa7bsKwL-c",
+        "spotifyID": "2plbrEY59IikOBgBGLjaoe"
     },
     {
         "ranking": "35",
@@ -270,7 +275,8 @@
         "title": "ESC*BAR",
         "artist": "BLOK3",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/30/a9/ce/30a9cef3-76e2-b972-6820-cae4d64ca6e7/cover.jpg/80x80bb.webp",
-        "appleID": "esc-bar/1754994788"
+        "appleID": "esc-bar/1754994788",
+        "spotifyID": "7JVUP1J9urt49OdiFbWGeZ"
     },
     {
         "ranking": "40",
@@ -319,7 +325,8 @@
         "title": "Shape of You",
         "artist": "Ed Sheeran",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/15/e6/e8/15e6e8a4-4190-6a8b-86c3-ab4a51b88288/190295851286.jpg/80x80bb.webp",
-        "appleID": "shape-of-you/1193701392"
+        "appleID": "shape-of-you/1193701392",
+        "youtubeID": "JGwWNGJdvx8"
     },
     {
         "ranking": "47",
@@ -522,7 +529,9 @@
         "title": "Good Luck, Babe!",
         "artist": "Chappell Roan",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/29/a7/c4/29a7c478-351d-25eb-a116-3e68118cdab8/24UMGIM31246.rgb.jpg/80x80bb.webp",
-        "appleID": "good-luck-babe/1737497080"
+        "appleID": "good-luck-babe/1737497080",
+        "youtubeID": "1RKqOmSkGgM",
+        "spotifyID": "0WbMK4wrZ1wFSty9F7FCgu"
     },
     {
         "ranking": "76",
@@ -627,7 +636,8 @@
         "title": "Timeless",
         "artist": "The Weeknd",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/40/77/cb/4077cbd1-b6a0-d8df-b9d3-e9a339dbc0ea/24UM1IM04061.rgb.jpg/80x80bb.webp",
-        "appleID": "timeless/1770380890"
+        "appleID": "timeless/1770380890",
+        "youtubeID": "5EpyN_6dqyk"
     },
     {
         "ranking": "91",
