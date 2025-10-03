@@ -39,7 +39,8 @@
         "title": "Commas",
         "artist": "Ayra Starr",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/fa/d4/c4/fad4c4ce-2b3f-0304-8965-3c618987824e/24UMGIM51453.rgb.jpg/80x80bb.webp",
-        "appleID": "commas/1745016096"
+        "appleID": "commas/1759261970",
+        "youtubeID": "EhyzYPSHRQU"
     },
     {
         "ranking": "7",
@@ -60,7 +61,8 @@
         "title": "Faded",
         "artist": "Alan Walker",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/0d/a3/1a/0da31af7-d0ff-9bee-c427-1b6d0336f6fc/886446321981.jpg/80x80bb.webp",
-        "appleID": "faded/1196294581"
+        "appleID": "faded/1196294581",
+        "youtubeID": "60ItHLz5WEA"
     },
     {
         "ranking": "10",
@@ -158,7 +160,8 @@
         "title": "Rush",
         "artist": "Ayra Starr",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/b5/4a/3d/b54a3d1a-f493-7a9b-1807-a73f01709053/5059449090122.png/80x80bb.webp",
-        "appleID": "rush/1642898573"
+        "appleID": "rush/1642898573",
+        "youtubeID": "crtQSTYWtqE"
     },
     {
         "ranking": "24",
@@ -221,7 +224,7 @@
         "title": "Bloody Samaritan (Remix)",
         "artist": "Ayra Starr",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/b5/4a/3d/b54a3d1a-f493-7a9b-1807-a73f01709053/5059449090122.png/80x80bb.webp",
-        "appleID": "bloody-samaritan-remix/1642898375"
+        "appleID": "bloody-samaritan/1576666667"
     },
     {
         "ranking": "33",
@@ -256,7 +259,8 @@
         "title": "Rush (Apple Music Home Session)",
         "artist": "Ayra Starr",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/f0/aa/63/f0aa6351-22a3-e4c2-db07-861a70e30bc7/5059449117188.png/80x80bb.webp",
-        "appleID": "rush-apple-music-home-session/1676069975"
+        "appleID": "rush/1642898573",
+        "youtubeID": "crtQSTYWtqE"
     },
     {
         "ranking": "38",
@@ -305,7 +309,8 @@
         "title": "People",
         "artist": "Libianca",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/c6/8c/ca/c68ccacb-cdd5-b765-53e1-eeca394770ac/196589735607.jpg/80x80bb.webp",
-        "appleID": "people/1658390607"
+        "appleID": "people/1658390607",
+        "youtubeID": "rJWdfDPZ9Ck"
     },
     {
         "ranking": "45",
@@ -431,7 +436,8 @@
         "title": "Saturn",
         "artist": "SZA",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/0f/90/a8/0f90a856-0447-d846-fa7b-b9c937e72310/196871881180.jpg/80x80bb.webp",
-        "appleID": "saturn/1732348414"
+        "appleID": "saturn/1732348414",
+        "spotifyID": "1bjeWoagtHmUKputLVyDxQ"
     },
     {
         "ranking": "63",
@@ -641,7 +647,9 @@
         "title": "Hawái",
         "artist": "Maluma",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/6f/4a/ab/6f4aab37-196a-3df8-a584-baf24772ed59/886448614913.jpg/80x80bb.webp",
-        "appleID": "haw%C3%A1i/1523698843"
+        "appleID": "haw%C3%A1i/1523698843",
+        "youtubeID": "pK060iUFWXg",
+        "spotifyID": "1yoMvmasuxZfqHEipJhRbp"
     },
     {
         "ranking": "93",
@@ -697,6 +705,7 @@
         "title": "Just a Dream",
         "artist": "Nelly",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/31/c7/94/31c79432-0791-aab8-b1a0-085e5f5af7d9/10UMGIM28495.rgb.jpg/80x80bb.webp",
-        "appleID": "just-a-dream/1440749038"
+        "appleID": "just-a-dream/1440749038",
+        "youtubeID": "N6O2ncUKvlg"
     }
 ]
