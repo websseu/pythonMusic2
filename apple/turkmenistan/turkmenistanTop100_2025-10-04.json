@@ -102,7 +102,9 @@
         "title": "Good Luck, Babe!",
         "artist": "Chappell Roan",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/29/a7/c4/29a7c478-351d-25eb-a116-3e68118cdab8/24UMGIM31246.rgb.jpg/80x80bb.webp",
-        "appleID": "good-luck-babe/1737497080"
+        "appleID": "good-luck-babe/1737497080",
+        "youtubeID": "1RKqOmSkGgM",
+        "spotifyID": "0WbMK4wrZ1wFSty9F7FCgu"
     },
     {
         "ranking": "16",
@@ -326,7 +328,9 @@
         "title": "APT.",
         "artist": "ROSÉ",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2d/1a/7d/2d1a7d91-587e-0ceb-d434-327bd66d9e86/075679628312.jpg/80x80bb.webp",
-        "appleID": "apt/1773452221"
+        "appleID": "apt/1773452221",
+        "youtubeID": "ekr2nIex040",
+        "spotifyID": "4wJ5Qq0jBN4ajy7ouZIV1c"
     },
     {
         "ranking": "48",
@@ -354,7 +358,8 @@
         "title": "25",
         "artist": "Ati242",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/00/ba/03/00ba03f7-d659-af10-84ce-826d460dcb96/196626897442.jpg/80x80bb.webp",
-        "appleID": "25/1621315548"
+        "appleID": "25/1621315548",
+        "spotifyID": "4HuB9A0O1XwmwTVtTgODm8"
     },
     {
         "ranking": "52",
@@ -690,7 +695,9 @@
         "title": "ParisLove",
         "artist": "FORTUNA 812",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/fe/45/c8/fe45c82f-c075-d2e8-d2c9-dbece6ec8440/cover.jpg/80x80bb.webp",
-        "appleID": "parislove/1777698230"
+        "appleID": "parislove/1777698230",
+        "youtubeID": "-q68__Slg-8",
+        "spotifyID": "6zECxDYlNtEybq8hZ9Tp12"
     },
     {
         "ranking": "100",
