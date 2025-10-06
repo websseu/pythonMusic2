@@ -95,7 +95,9 @@
         "title": "Wavy",
         "artist": "Karan Aujla",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cd/df/5a/cddf5a8c-464e-3958-cf4a-7fac9e490aa5/5063616597178_cover.jpg/80x80bb.webp",
-        "appleID": "wavy/1779786209"
+        "appleID": "wavy/1779786209",
+        "youtubeID": "XTp5jaRU3Ws",
+        "spotifyID": "4d2jV5fmX6hbRwaRbY39dt"
     },
     {
         "ranking": "15",
@@ -263,7 +265,9 @@
         "title": "Sifar Safar",
         "artist": "Karan Aujla",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b5/a1/5f/b5a15f57-7184-47a6-564e-272d515b4810/5063616203642_cover.jpg/80x80bb.webp",
-        "appleID": "sifar-safar/1773799678"
+        "appleID": "sifar-safar/1773799678",
+        "youtubeID": "TU1HQnU_9ME",
+        "spotifyID": "3lQPwCmD918SyoiIkw1zqx"
     },
     {
         "ranking": "39",
@@ -515,7 +519,8 @@
         "title": "Cheques",
         "artist": "Shubh",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/dc/46/a9/dc46a9c9-794e-2d7a-1afb-97eb4ae0fff6/197188915704.jpg/80x80bb.webp",
-        "appleID": "cheques/1687649562"
+        "appleID": "cheques/1687649562",
+        "spotifyID": "4eBvRhTJ2AcxCsbfTUjoRp"
     },
     {
         "ranking": "75",
@@ -529,7 +534,8 @@
         "title": "G.O.A.T.",
         "artist": "Diljit Dosanjh",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/d2/89/ac/d289ac98-749e-3822-6b6e-b06aa4815715/859740651597_cover.jpg/80x80bb.webp",
-        "appleID": "g-o-a-t/1523521149"
+        "appleID": "g-o-a-t/1523521149",
+        "spotifyID": "46QbY78ha62aiu6gBgC7lS"
     },
     {
         "ranking": "77",
@@ -543,7 +549,8 @@
         "title": "Timeless",
         "artist": "The Weeknd",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/40/77/cb/4077cbd1-b6a0-d8df-b9d3-e9a339dbc0ea/24UM1IM04061.rgb.jpg/80x80bb.webp",
-        "appleID": "timeless/1770380890"
+        "appleID": "timeless/1770380890",
+        "youtubeID": "5EpyN_6dqyk"
     },
     {
         "ranking": "79",
@@ -606,7 +613,9 @@
         "title": "Jo Tum Mere Ho",
         "artist": "Anuv Jain",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cd/df/37/cddf37f9-9794-175e-d68f-272c8a3853b2/24UMGIM79558.rgb.jpg/80x80bb.webp",
-        "appleID": "jo-tum-mere-ho/1758669726"
+        "appleID": "jo-tum-mere-ho/1758669726",
+        "youtubeID": "ilNt2bikxDI",
+        "spotifyID": "0eCajpR75pDW0r64U6hP2x"
     },
     {
         "ranking": "88",
@@ -620,7 +629,8 @@
         "title": "Pehle Bhi Main",
         "artist": "Vishal Mishra",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/db/ad/5e/dbad5e8b-0bee-d962-92d4-021c90e375ac/8902894362092_cover.jpg/80x80bb.webp",
-        "appleID": "pehle-bhi-main/1718278234"
+        "appleID": "pehle-bhi-main/1718278234",
+        "youtubeID": "lwv_0SEJ4NQ"
     },
     {
         "ranking": "90",
@@ -690,13 +700,15 @@
         "title": "One Love",
         "artist": "Shubh",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/48/4f/3c/484f3c19-fdab-1fa8-fdb4-c7de79852d12/197189603969.jpg/80x80bb.webp",
-        "appleID": "one-love/1700735404"
+        "appleID": "one-love/1700735404",
+        "spotifyID": "5ZLkihi6DVsHwDL3B8ym1t"
     },
     {
         "ranking": "100",
         "title": "Husn",
         "artist": "Anuv Jain",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/b6/3d/12/b63d1218-7bc1-f4f2-5fdd-5d1909abda1c/23UM1IM56437.rgb.jpg/80x80bb.webp",
-        "appleID": "husn/1717140552"
+        "appleID": "husn/1717140552",
+        "spotifyID": "0TL0LFcwIBF5eX7arDIKxY"
     }
 ]
