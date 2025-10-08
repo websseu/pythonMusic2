@@ -340,7 +340,8 @@
         "title": "Diva",
         "artist": "Beyoncé",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/35/0f/55/350f55da-2104-162a-5872-cb35fef30410/mzi.morbeoaw.jpg/80x80bb.webp",
-        "appleID": "diva/296016901"
+        "appleID": "diva/296016901",
+        "youtubeID": "rNM5HW13_O8"
     },
     {
         "ranking": "50",
@@ -375,7 +376,8 @@
         "title": "Not Like Us",
         "artist": "Kendrick Lamar",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d0/ef/b6/d0efb685-73be-fdee-58c9-be655f4cd4fd/24UMGIM51924.rgb.jpg/80x80bb.webp",
-        "appleID": "not-like-us/1744776167"
+        "appleID": "not-like-us/1744776167",
+        "youtubeID": "H58vbez_m4E"
     },
     {
         "ranking": "55",
@@ -389,7 +391,7 @@
         "title": "Камин",
         "artist": "EMIN",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/18/af/1d/18af1d8e-d684-3c0c-487a-f29c7453f174/3616404669582.jpg/80x80bb.webp",
-        "appleID": "%D0%BA%D0%B0%D0%BC%D0%B8%D0%BD/1570267744"
+        "appleID": "%D0%BA%D0%B0%D0%BC%D0%B8%D0%BD/1719165204"
     },
     {
         "ranking": "57",
@@ -473,7 +475,8 @@
         "title": "I Love You So",
         "artist": "The Walters",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/95/a5/14/95a514ab-1f06-81dd-8a60-f7ca13a172ce/054391911063.jpg/80x80bb.webp",
-        "appleID": "i-love-you-so/1591338975"
+        "appleID": "i-love-you-so/1591338975",
+        "spotifyID": "4SqWKzw0CbA05TGszDgMlc"
     },
     {
         "ranking": "69",
@@ -627,7 +630,8 @@
         "title": "ESC*BAR",
         "artist": "BLOK3",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/30/a9/ce/30a9cef3-76e2-b972-6820-cae4d64ca6e7/cover.jpg/80x80bb.webp",
-        "appleID": "esc-bar/1754994788"
+        "appleID": "esc-bar/1754994788",
+        "spotifyID": "7JVUP1J9urt49OdiFbWGeZ"
     },
     {
         "ranking": "91",
@@ -690,7 +694,8 @@
         "title": "Love Story",
         "artist": "Indila",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/49/58/30/49583018-308b-431d-c691-4a28e78be8cd/14UMGIM01109.rgb.jpg/80x80bb.webp",
-        "appleID": "love-story/1440830558"
+        "appleID": "love-story/1440830558",
+        "youtubeID": "DF3XjEhJ40Y"
     },
     {
         "ranking": "100",
