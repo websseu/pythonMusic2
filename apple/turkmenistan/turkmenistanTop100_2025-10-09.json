@@ -305,7 +305,8 @@
         "title": "Not Like Us",
         "artist": "Kendrick Lamar",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d0/ef/b6/d0efb685-73be-fdee-58c9-be655f4cd4fd/24UMGIM51924.rgb.jpg/80x80bb.webp",
-        "appleID": "not-like-us/1744776167"
+        "appleID": "not-like-us/1744776167",
+        "youtubeID": "H58vbez_m4E"
     },
     {
         "ranking": "45",
@@ -382,7 +383,9 @@
         "title": "CHIHIRO",
         "artist": "Billie Eilish",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
-        "appleID": "chihiro/1739659141"
+        "appleID": "chihiro/1739659141",
+        "youtubeID": "BY_XwvKogC8",
+        "spotifyID": "7BRD7x5pt8Lqa1eGYC4dzj"
     },
     {
         "ranking": "56",
@@ -410,7 +413,8 @@
         "title": "Топит",
         "artist": "ANNA ASTI",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2f/6a/aa/2f6aaa18-faea-8a41-119e-2d15f6b4daa1/cover.png/80x80bb.webp",
-        "appleID": "%D1%82%D0%BE%D0%BF%D0%B8%D1%82/1772880762"
+        "appleID": "%D1%82%D0%BE%D0%BF%D0%B8%D1%82/1772880762",
+        "youtubeID": "6cYfrYngRRI"
     },
     {
         "ranking": "60",
@@ -564,7 +568,7 @@
         "title": "Sweet but Psycho (Paul Morrell Remix)",
         "artist": "Ava Max",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/66/a9/ce/66a9ce68-36ff-2862-23c7-6000bb515f9f/075679855152.jpg/80x80bb.webp",
-        "appleID": "sweet-but-psycho-paul-morrell-remix/1449718911"
+        "appleID": "sweet-but-psycho/1538214889"
     },
     {
         "ranking": "82",
@@ -599,7 +603,8 @@
         "title": "Diva",
         "artist": "Beyoncé",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/35/0f/55/350f55da-2104-162a-5872-cb35fef30410/mzi.morbeoaw.jpg/80x80bb.webp",
-        "appleID": "diva/296016901"
+        "appleID": "diva/296016901",
+        "youtubeID": "rNM5HW13_O8"
     },
     {
         "ranking": "87",
@@ -634,7 +639,8 @@
         "title": "Set Fire to the Rain",
         "artist": "Adele",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/d8/e3/f9/d8e3f9ea-d6fe-9a1b-9f13-109983d3062e/191404113868.png/80x80bb.webp",
-        "appleID": "set-fire-to-the-rain/1544491988"
+        "appleID": "set-fire-to-the-rain/1544491988",
+        "spotifyID": "7j4OmvkjRz0PrjFADlHfQx"
     },
     {
         "ranking": "92",
