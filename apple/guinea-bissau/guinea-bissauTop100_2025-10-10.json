@@ -284,7 +284,9 @@
         "title": "Snooze",
         "artist": "SZA",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/bd/3b/a9/bd3ba9fb-9609-144f-bcfe-ead67b5f6ab3/196589564931.jpg/80x80bb.webp",
-        "appleID": "snooze/1657869492"
+        "appleID": "snooze/1657869492",
+        "youtubeID": "LDY_XyxBu8A",
+        "spotifyID": "4iZ4pt7kvcaH6Yo8UoZ4s2"
     },
     {
         "ranking": "42",
@@ -319,7 +321,8 @@
         "title": "Saturn",
         "artist": "SZA",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/0f/90/a8/0f90a856-0447-d846-fa7b-b9c937e72310/196871881180.jpg/80x80bb.webp",
-        "appleID": "saturn/1732348414"
+        "appleID": "saturn/1732348414",
+        "spotifyID": "1bjeWoagtHmUKputLVyDxQ"
     },
     {
         "ranking": "47",
@@ -690,7 +693,8 @@
         "title": "You & Me",
         "artist": "JENNIE",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/2e/2a/4c/2e2a4c59-62ac-25a3-9d91-5e680b4ba806/23UM1IM15529.rgb.jpg/80x80bb.webp",
-        "appleID": "you-me/1710020675"
+        "appleID": "you-me/1710020675",
+        "youtubeID": "eQNHDV7lKgE"
     },
     {
         "ranking": "100",
