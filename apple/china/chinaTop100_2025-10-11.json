@@ -81,7 +81,8 @@
         "title": "明明就",
         "artist": "Jay Chou",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/48/95/d0/4895d0c4-c8e3-277b-9616-f878bae55c96/23UM1IM59189.rgb.jpg/80x80bb.webp",
-        "appleID": "%E6%98%8E%E6%98%8E%E5%B0%B1/1721467034"
+        "appleID": "%E6%98%8E%E6%98%8E%E5%B0%B1/1721467034",
+        "spotifyID": "2zB7NKVnzRh7xSUSPLErFr"
     },
     {
         "ranking": "13",
@@ -193,7 +194,8 @@
         "title": "半島鐵盒",
         "artist": "Jay Chou",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/96/c8/a1/96c8a1d8-8077-b8a7-8600-80b2abf1fe20/JAY.jpg/80x80bb.webp",
-        "appleID": "https://music.apple.com/us/artist/jay-chou/300117743"
+        "appleID": "https://music.apple.com/us/artist/jay-chou/300117743",
+        "spotifyID": "24F4oxC8oUBbRvpEOGjwPj"
     },
     {
         "ranking": "29",
@@ -354,7 +356,7 @@
         "title": "If Only",
         "artist": "JJ Lin",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/57/5a/1b/575a1bc9-ca86-7549-e873-b55663ba6276/4711508105925.jpg/80x80bb.webp",
-        "appleID": "if-only/1788007696"
+        "appleID": "if-only/945738655"
     },
     {
         "ranking": "52",
@@ -557,7 +559,8 @@
         "title": "Whiplash",
         "artist": "aespa",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d5/c1/f5/d5c1f505-f588-775f-df05-c672a8ec22e9/888735949562_Cover.jpg/80x80bb.webp",
-        "appleID": "whiplash/1772214981"
+        "appleID": "whiplash/1772214981",
+        "youtubeID": "jWQx2f-CErU"
     },
     {
         "ranking": "81",

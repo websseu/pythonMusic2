@@ -53,7 +53,8 @@
         "title": "luther",
         "artist": "Kendrick Lamar",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/50/c2/cc/50c2cc95-3658-9417-0d4b-831abde44ba1/24UM1IM28978.rgb.jpg/80x80bb.webp",
-        "appleID": "luther/1781270323"
+        "appleID": "luther/1781270323",
+        "youtubeID": "4_taypLmSMU"
     },
     {
         "ranking": "9",
@@ -102,7 +103,8 @@
         "title": "tv off (feat. Lefty Gunplay)",
         "artist": "Kendrick Lamar",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/50/c2/cc/50c2cc95-3658-9417-0d4b-831abde44ba1/24UM1IM28978.rgb.jpg/80x80bb.webp",
-        "appleID": "tv-off-feat-lefty-gunplay/1781270540"
+        "appleID": "tv-off-feat-lefty-gunplay/1781270540",
+        "youtubeID": "U8F5G5wR1mk"
     },
     {
         "ranking": "16",
@@ -165,7 +167,9 @@
         "title": "Lose Control",
         "artist": "Teddy Swims",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/36/19/66/36196640-1561-dc5e-c6bc-1e5f4befa583/093624856771.jpg/80x80bb.webp",
-        "appleID": "lose-control/1691699836"
+        "appleID": "lose-control/1691699836",
+        "youtubeID": "GZ3zL7kT6_c",
+        "spotifyID": "17phhZDn6oGtzMe56NuWvj"
     },
     {
         "ranking": "25",
@@ -200,7 +204,8 @@
         "title": "Blinding Lights",
         "artist": "The Weeknd",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/a6/6e/bf/a66ebf79-5008-8948-b352-a790fc87446b/19UM1IM04638.rgb.jpg/80x80bb.webp",
-        "appleID": "blinding-lights/1488408568"
+        "appleID": "blinding-lights/1488408568",
+        "spotifyID": "0VjIjW4GlUZAMYd2vXMi3b"
     },
     {
         "ranking": "30",
@@ -242,7 +247,8 @@
         "title": "Water",
         "artist": "Tyla",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/1e/c9/5b/1ec95bbc-a56f-cbef-070c-ddec9f4fdd3c/196871296205.jpg/80x80bb.webp",
-        "appleID": "water/1699082734"
+        "appleID": "water/1699082734",
+        "spotifyID": "5aIVCx5tnk0ntmdiinnYvw"
     },
     {
         "ranking": "36",
@@ -424,7 +430,7 @@
         "title": "In A Minute",
         "artist": "Lil Baby",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/9f/c0/99/9fc09958-180d-e66a-bbf7-9462289435f6/22UM1IM13098.rgb.jpg/80x80bb.webp",
-        "appleID": "in-a-minute/1648587330"
+        "appleID": "in-a-minute/1618285316"
     },
     {
         "ranking": "62",
@@ -592,7 +598,8 @@
         "title": "Every Night Every Morning",
         "artist": "Maoli",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/db/73/4f/db734ffc-785c-9999-be7c-f0c54458690a/0.jpg/80x80bb.webp",
-        "appleID": "every-night-every-morning/1761629618"
+        "appleID": "every-night-every-morning/1761629618",
+        "youtubeID": "20k90wvdLco"
     },
     {
         "ranking": "86",
@@ -606,7 +613,8 @@
         "title": "WHATCHU KNO ABOUT ME",
         "artist": "GloRilla",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/28/af/7e/28af7e54-74d1-dad1-c103-71f5951e83aa/24UM1IM01471.rgb.jpg/80x80bb.webp",
-        "appleID": "whatchu-kno-about-me/1769454783"
+        "appleID": "whatchu-kno-about-me/1769454783",
+        "youtubeID": "Py9S2bD0RZQ"
     },
     {
         "ranking": "88",
