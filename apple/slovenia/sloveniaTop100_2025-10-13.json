@@ -256,7 +256,8 @@
         "title": "Forza",
         "artist": "Grše",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/62/ec/18/62ec1883-aac6-1a1b-8808-c8a79fab5201/cover.jpg/80x80bb.webp",
-        "appleID": "forza/1751269959"
+        "appleID": "forza/1751269959",
+        "youtubeID": "-w55SIKYZxc"
     },
     {
         "ranking": "38",
@@ -270,7 +271,7 @@
         "title": "Padam",
         "artist": "Jala Brat",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f7/85/80/f7858045-ca37-17f7-3521-aada3b963592/2539.jpg/80x80bb.webp",
-        "appleID": "padam/1782150947"
+        "appleID": "padam/1782159798"
     },
     {
         "ranking": "40",
@@ -424,7 +425,7 @@
         "title": "Djerdan",
         "artist": "Nucci",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/f8/7e/68/f87e6879-4542-436c-a913-cc5cb3e6e6a7/cover.jpg/80x80bb.webp",
-        "appleID": "https://music.apple.com/us/artist/nucci/312439342"
+        "appleID": "djerdan/1657017712"
     },
     {
         "ranking": "62",
@@ -543,7 +544,7 @@
         "title": "Bez Koda",
         "artist": "Jala Brat",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/96/42/75/96427505-7355-66ad-3ca6-c346dc3cc379/1078.jpg/80x80bb.webp",
-        "appleID": "bez-koda/1782139510"
+        "appleID": "bez-koda/1753830403"
     },
     {
         "ranking": "79",
@@ -634,7 +635,9 @@
         "title": "That’s So True",
         "artist": "Gracie Abrams",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/26/78/81/26788143-5e5f-0813-2480-ecf4280ef221/24UM1IM07082.rgb.jpg/80x80bb.webp",
-        "appleID": "thats-so-true/1773474483"
+        "appleID": "thats-so-true/1773474483",
+        "youtubeID": "BDHM8cyJQa8",
+        "spotifyID": "7ne4VBA60CxGM75vw0EYad"
     },
     {
         "ranking": "92",
@@ -683,7 +686,9 @@
         "title": "WILDFLOWER",
         "artist": "Billie Eilish",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
-        "appleID": "wildflower/1739659144"
+        "appleID": "wildflower/1739659144",
+        "youtubeID": "IWKyykQBRKo",
+        "spotifyID": "3QaPy1KgI7nu9FJEQUgn6h"
     },
     {
         "ranking": "99",
