@@ -221,7 +221,9 @@
         "title": "Taikuri",
         "artist": "Turisti",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/15/af/b9/15afb991-2b1c-c5c0-ad4e-2a95c6b9740d/5021732487315.jpg/80x80bb.webp",
-        "appleID": "taikuri/1768755250"
+        "appleID": "taikuri/1768755250",
+        "youtubeID": "t3EgO8j_wS0",
+        "spotifyID": "7fdNCtxfZArtOZK3hLqqm3"
     },
     {
         "ranking": "33",
@@ -354,7 +356,8 @@
         "title": "On / Off",
         "artist": "Averagekidluke",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cc/5e/a2/cc5ea230-31c8-7b45-4ea0-4e9386068b6a/5021732466440.jpg/80x80bb.webp",
-        "appleID": "on-off/1762680743"
+        "appleID": "on-off/1762680743",
+        "spotifyID": "6jRJ1RAvdNxC1TG03VRFVg"
     },
     {
         "ranking": "52",
@@ -375,7 +378,9 @@
         "title": "Timanttei",
         "artist": "Mirella",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/0d/55/be/0d55bef3-3606-8c34-6615-7587a7e51335/23UM1IM65059.rgb.jpg/80x80bb.webp",
-        "appleID": "timanttei/1721431952"
+        "appleID": "timanttei/1721431952",
+        "youtubeID": "I4hrPA2a9RI",
+        "spotifyID": "36lT6tdND08VVvv3HwbhZD"
     },
     {
         "ranking": "55",
@@ -417,7 +422,9 @@
         "title": "Diva",
         "artist": "Averagekidluke",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/80/d9/20/80d92029-9721-67be-3fe7-d748f47a07a9/5021732542021.jpg/80x80bb.webp",
-        "appleID": "diva/1777810477"
+        "appleID": "diva/1777810477",
+        "youtubeID": "LJ0GFkS5RZw",
+        "spotifyID": "6zLzNEyVqtyZoohE75maSy"
     },
     {
         "ranking": "61",
@@ -690,7 +697,9 @@
         "title": "Kaikki päättyy kyyneliin",
         "artist": "Haloo Helsinki!",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/48/d0/84/48d0848a-ae83-6897-0bc2-e60420c55d79/196872578362.jpg/80x80bb.webp",
-        "appleID": "kaikki-p%C3%A4%C3%A4ttyy-kyyneliin/1778262204"
+        "appleID": "kaikki-p%C3%A4%C3%A4ttyy-kyyneliin/1778262204",
+        "youtubeID": "RcqM5rkUytc",
+        "spotifyID": "2Mmbr6ghVhs16JmvzP6TDa"
     },
     {
         "ranking": "100",
