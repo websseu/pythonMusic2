@@ -137,7 +137,7 @@
         "title": "Top Boy",
         "artist": "Himra",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/39/e1/fc/39e1fc3b-ee9b-3f8e-b032-952805107701/199066910078.jpg/80x80bb.webp",
-        "appleID": "top-boy/1799728023"
+        "appleID": "top-boy/1717665285"
     },
     {
         "ranking": "21",
@@ -396,7 +396,9 @@
         "title": "La vie qu'on mène",
         "artist": "Ninho",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/ab/c5/ea/abc5eab6-1a33-3910-6f96-3954d76c5815/190295460259.jpg/80x80bb.webp",
-        "appleID": "la-vie-quon-m%C3%A8ne/1453399179"
+        "appleID": "la-vie-quon-m%C3%A8ne/1453399179",
+        "youtubeID": "BJwovrr6XzI",
+        "spotifyID": "0Jh6iWjna1wk5le0Ahn7No"
     },
     {
         "ranking": "58",
@@ -473,7 +475,8 @@
         "title": "Timeless",
         "artist": "The Weeknd",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/40/77/cb/4077cbd1-b6a0-d8df-b9d3-e9a339dbc0ea/24UM1IM04061.rgb.jpg/80x80bb.webp",
-        "appleID": "timeless/1770380890"
+        "appleID": "timeless/1770380890",
+        "youtubeID": "5EpyN_6dqyk"
     },
     {
         "ranking": "69",
@@ -578,7 +581,7 @@
         "title": "Last Last",
         "artist": "Burna Boy",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/fd/08/8c/fd088c72-75fc-0306-3c69-1ef4448ff3cf/075679688477.jpg/80x80bb.webp",
-        "appleID": "last-last/1749166881"
+        "appleID": "last-last/1623677811"
     },
     {
         "ranking": "84",
@@ -662,7 +665,9 @@
         "title": "CARTIER SANTOS",
         "artist": "SDM",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/64/46/95/64469515-0230-b26c-69cf-5db61f5ea879/24UMGIM72197.rgb.jpg/80x80bb.webp",
-        "appleID": "cartier-santos/1757803302"
+        "appleID": "cartier-santos/1757803302",
+        "youtubeID": "3nGdVePdlT4",
+        "spotifyID": "1Mzg6bu3hkCwJKEf7v49MN"
     },
     {
         "ranking": "96",
