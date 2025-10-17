@@ -571,7 +571,8 @@
         "title": "Stíny",
         "artist": "Viktor Sheen",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/cb/e9/51/cbe95142-24c3-3071-93b7-2be155ae20d4/190296350849.jpg/80x80bb.webp",
-        "appleID": "st%C3%ADny/1594405608"
+        "appleID": "st%C3%ADny/1594405608",
+        "spotifyID": "0J3SIAOndpL1MS2Vq2RMQ9"
     },
     {
         "ranking": "83",
@@ -627,7 +628,8 @@
         "title": "Timeless",
         "artist": "The Weeknd",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/40/77/cb/4077cbd1-b6a0-d8df-b9d3-e9a339dbc0ea/24UM1IM04061.rgb.jpg/80x80bb.webp",
-        "appleID": "timeless/1770380890"
+        "appleID": "timeless/1770380890",
+        "youtubeID": "5EpyN_6dqyk"
     },
     {
         "ranking": "91",
@@ -655,7 +657,9 @@
         "title": "GHETTO ROMANTIKA",
         "artist": "Hard Rico",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a8/ea/57/a8ea57d2-427a-4b6b-e3b0-6f0fa4530ca3/24UM1IM09553.rgb.jpg/80x80bb.webp",
-        "appleID": "ghetto-romantika/1772881944"
+        "appleID": "ghetto-romantika/1772881944",
+        "youtubeID": "Fhu43WnAGUY",
+        "spotifyID": "5uyUYBf12MoDctqYKEUFti"
     },
     {
         "ranking": "95",
