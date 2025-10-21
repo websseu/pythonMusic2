@@ -417,7 +417,8 @@
         "title": "Timeless",
         "artist": "The Weeknd",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/40/77/cb/4077cbd1-b6a0-d8df-b9d3-e9a339dbc0ea/24UM1IM04061.rgb.jpg/80x80bb.webp",
-        "appleID": "timeless/1770380890"
+        "appleID": "timeless/1770380890",
+        "youtubeID": "5EpyN_6dqyk"
     },
     {
         "ranking": "61",
@@ -585,7 +586,8 @@
         "title": "leekiv armastus",
         "artist": "villemdrillem",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/96/ff/ae/96ffae5f-1a9c-168d-9211-41f3f3861b23/23UMGIM65873.rgb.jpg/80x80bb.webp",
-        "appleID": "leekiv-armastus/1691689273"
+        "appleID": "leekiv-armastus/1691689273",
+        "spotifyID": "00hNKV1irlhbazTD3p7Uea"
     },
     {
         "ranking": "85",
@@ -620,7 +622,8 @@
         "title": "Espresso Macchiato",
         "artist": "Tommy Cash",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7f/b0/03/7fb003a0-3073-f573-3d3b-d24f904297a2/cover.jpg/80x80bb.webp",
-        "appleID": "espresso-macchiato/1783135861"
+        "appleID": "espresso-macchiato/1783135861",
+        "spotifyID": "3gWBWLw3J3XTy3QTo36GqJ"
     },
     {
         "ranking": "90",
@@ -634,7 +637,8 @@
         "title": "BIRDS OF A FEATHER",
         "artist": "Billie Eilish",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
-        "appleID": "birds-of-a-feather/1739659142"
+        "appleID": "birds-of-a-feather/1739659142",
+        "youtubeID": "V9PVRfjEBTI"
     },
     {
         "ranking": "92",
@@ -697,6 +701,7 @@
         "title": "Creep",
         "artist": "Radiohead",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/78/a4/ec/78a4ec7b-c6d6-c9c8-441b-660486e56a89/634904077969.png/80x80bb.webp",
-        "appleID": "creep/1097862231"
+        "appleID": "creep/1097862231",
+        "youtubeID": "XFkzRNyygfk"
     }
 ]
