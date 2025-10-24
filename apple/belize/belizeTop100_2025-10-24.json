@@ -67,7 +67,9 @@
         "title": "Moscow Mule",
         "artist": "Bad Bunny",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/3e/04/eb/3e04ebf6-370f-f59d-ec84-2c2643db92f1/196626945068.jpg/80x80bb.webp",
-        "appleID": "moscow-mule/1622045625"
+        "appleID": "moscow-mule/1622045625",
+        "youtubeID": "p38WgakuYDo",
+        "spotifyID": "6Xom58OOXk2SoU711L2IXO"
     },
     {
         "ranking": "11",
@@ -81,7 +83,8 @@
         "title": "Cocoa Tea",
         "artist": "Kes",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f6/57/69/f65769d6-86f9-dde2-56c1-2580a73805d8/198937079722_cover.jpg/80x80bb.webp",
-        "appleID": "cocoa-tea/1778350176"
+        "appleID": "cocoa-tea/1778350176",
+        "youtubeID": "GiKDPyAADeM"
     },
     {
         "ranking": "13",
@@ -158,7 +161,9 @@
         "title": "WILDFLOWER",
         "artist": "Billie Eilish",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
-        "appleID": "wildflower/1739659144"
+        "appleID": "wildflower/1739659144",
+        "youtubeID": "IWKyykQBRKo",
+        "spotifyID": "3QaPy1KgI7nu9FJEQUgn6h"
     },
     {
         "ranking": "24",
@@ -291,7 +296,9 @@
         "title": "Lose Control",
         "artist": "Teddy Swims",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/36/19/66/36196640-1561-dc5e-c6bc-1e5f4befa583/093624856771.jpg/80x80bb.webp",
-        "appleID": "lose-control/1691699836"
+        "appleID": "lose-control/1691699836",
+        "youtubeID": "GZ3zL7kT6_c",
+        "spotifyID": "17phhZDn6oGtzMe56NuWvj"
     },
     {
         "ranking": "43",
@@ -361,14 +368,18 @@
         "title": "CHIHIRO",
         "artist": "Billie Eilish",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
-        "appleID": "chihiro/1739659141"
+        "appleID": "chihiro/1739659141",
+        "youtubeID": "BY_XwvKogC8",
+        "spotifyID": "7BRD7x5pt8Lqa1eGYC4dzj"
     },
     {
         "ranking": "53",
         "title": "Die With A Smile",
         "artist": "Lady Gaga",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/11/ae/f2/11aef294-f57c-bab9-c9fc-529162984e62/24UMGIM85348.rgb.jpg/80x80bb.webp",
-        "appleID": "die-with-a-smile/1762656732"
+        "appleID": "die-with-a-smile/1762656732",
+        "youtubeID": "kPa7bsKwL-c",
+        "spotifyID": "2plbrEY59IikOBgBGLjaoe"
     },
     {
         "ranking": "54",
@@ -396,7 +407,8 @@
         "title": "luther",
         "artist": "Kendrick Lamar",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/50/c2/cc/50c2cc95-3658-9417-0d4b-831abde44ba1/24UM1IM28978.rgb.jpg/80x80bb.webp",
-        "appleID": "luther/1781270323"
+        "appleID": "luther/1781270323",
+        "youtubeID": "4_taypLmSMU"
     },
     {
         "ranking": "58",
@@ -445,21 +457,25 @@
         "title": "Si Antes Te Hubiera Conocido",
         "artist": "KAROL G",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a0/60/94/a060947c-54d8-0fad-c558-eed12600224c/24UMGIM62705.rgb.jpg/80x80bb.webp",
-        "appleID": "si-antes-te-hubiera-conocido/1752031539"
+        "appleID": "si-antes-te-hubiera-conocido/1752031539",
+        "youtubeID": "QCZZwZQ4qNs",
+        "spotifyID": "6WatFBLVB0x077xWeoVc2k"
     },
     {
         "ranking": "65",
         "title": "Timeless",
         "artist": "The Weeknd",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/40/77/cb/4077cbd1-b6a0-d8df-b9d3-e9a339dbc0ea/24UM1IM04061.rgb.jpg/80x80bb.webp",
-        "appleID": "timeless/1770380890"
+        "appleID": "timeless/1770380890",
+        "youtubeID": "5EpyN_6dqyk"
     },
     {
         "ranking": "66",
         "title": "Pain (feat. Popcaan)",
         "artist": "Masicka",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/c5/83/a4/c583a46e-286a-6590-6b21-ea2c29f10744/0.jpg/80x80bb.webp",
-        "appleID": "pain-feat-popcaan/1591960131"
+        "appleID": "pain-feat-popcaan/1591960131",
+        "youtubeID": "XEAaf_Na36Q"
     },
     {
         "ranking": "67",
@@ -473,7 +489,8 @@
         "title": "BIRDS OF A FEATHER",
         "artist": "Billie Eilish",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
-        "appleID": "birds-of-a-feather/1739659142"
+        "appleID": "birds-of-a-feather/1739659142",
+        "youtubeID": "V9PVRfjEBTI"
     },
     {
         "ranking": "69",
@@ -487,7 +504,9 @@
         "title": "NEL",
         "artist": "Fuerza Regida",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/24/95/0f/24950f19-f5dd-696b-8295-df4f780a0d9a/196872326017.jpg/80x80bb.webp",
-        "appleID": "nel/1759045296"
+        "appleID": "nel/1759045296",
+        "youtubeID": "fZcrCrHnYBw",
+        "spotifyID": "5AH31dDNgxCMGDdxubNNn4"
     },
     {
         "ranking": "71",
@@ -508,7 +527,9 @@
         "title": "Snooze",
         "artist": "SZA",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/bd/3b/a9/bd3ba9fb-9609-144f-bcfe-ead67b5f6ab3/196589564931.jpg/80x80bb.webp",
-        "appleID": "snooze/1657869492"
+        "appleID": "snooze/1657869492",
+        "youtubeID": "LDY_XyxBu8A",
+        "spotifyID": "4iZ4pt7kvcaH6Yo8UoZ4s2"
     },
     {
         "ranking": "74",
@@ -564,7 +585,9 @@
         "title": "EL CLúB",
         "artist": "Bad Bunny",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/90/5e/7e/905e7ed5-a8fa-a8f3-cd06-0028fdf3afaa/199066342442.jpg/80x80bb.webp",
-        "appleID": "el-cl%C3%BAb/1787023008"
+        "appleID": "el-cl%C3%BAb/1783419694",
+        "youtubeID": "7f6SxWMOpdU",
+        "spotifyID": "3zOgFY5kpQ6p2cwPIquZks"
     },
     {
         "ranking": "82",
@@ -655,21 +678,24 @@
         "title": "AMARGURA",
         "artist": "KAROL G",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/9b/01/44/9b0144e6-21ae-b53f-2b25-ef6c594b18a3/22UM1IM38716.rgb.jpg/80x80bb.webp",
-        "appleID": "amargura/1670246089"
+        "appleID": "amargura/1670246089",
+        "spotifyID": "505v13epFXodT9fVAJ6h8k"
     },
     {
         "ranking": "95",
         "title": "7:00 (Raw)",
         "artist": "Malie Donn",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9b/2b/41/9b2b41f6-5f4d-e5da-9e82-8054ed4adb88/10307.jpg/80x80bb.webp",
-        "appleID": "7-00-raw/1802270718"
+        "appleID": "7-00-raw/1802270718",
+        "youtubeID": "PdoPIpKdsPI"
     },
     {
         "ranking": "96",
         "title": "Tyrant",
         "artist": "Masicka",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/df/d8/9a/dfd89a6c-a372-eb5e-5d99-209d0708d0a3/23UMGIM54147.rgb.jpg/80x80bb.webp",
-        "appleID": "tyrant/1687575941"
+        "appleID": "tyrant/1687575941",
+        "youtubeID": "AGonQbpNooU"
     },
     {
         "ranking": "97",
@@ -690,7 +716,8 @@
         "title": "Expensive",
         "artist": "Valiant",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/67/ef/ba/67efba92-a95d-8a3e-f26e-7751657948f4/197188257088.jpg/80x80bb.webp",
-        "appleID": "expensive/1674670010"
+        "appleID": "expensive/1674670010",
+        "youtubeID": "nuMKdd_JkHo"
     },
     {
         "ranking": "100",

@@ -522,7 +522,9 @@
         "title": "WILDFLOWER",
         "artist": "Billie Eilish",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
-        "appleID": "wildflower/1739659144"
+        "appleID": "wildflower/1739659144",
+        "youtubeID": "IWKyykQBRKo",
+        "spotifyID": "3QaPy1KgI7nu9FJEQUgn6h"
     },
     {
         "ranking": "76",
@@ -613,7 +615,8 @@
         "title": "Stíny",
         "artist": "Viktor Sheen",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/cb/e9/51/cbe95142-24c3-3071-93b7-2be155ae20d4/190296350849.jpg/80x80bb.webp",
-        "appleID": "st%C3%ADny/1594405608"
+        "appleID": "st%C3%ADny/1594405608",
+        "spotifyID": "0J3SIAOndpL1MS2Vq2RMQ9"
     },
     {
         "ranking": "89",
@@ -655,7 +658,9 @@
         "title": "CHIHIRO",
         "artist": "Billie Eilish",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
-        "appleID": "chihiro/1739659141"
+        "appleID": "chihiro/1739659141",
+        "youtubeID": "BY_XwvKogC8",
+        "spotifyID": "7BRD7x5pt8Lqa1eGYC4dzj"
     },
     {
         "ranking": "95",

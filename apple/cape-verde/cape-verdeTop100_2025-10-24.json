@@ -53,7 +53,9 @@
         "title": "4 Kampé",
         "artist": "Joé Dwèt Filé",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/05/32/0a/05320ae3-1eef-3cd6-8f19-9ad9f078fa25/cover.jpg/80x80bb.webp",
-        "appleID": "4-kamp%C3%A9/1773819412"
+        "appleID": "4-kamp%C3%A9/1773819412",
+        "youtubeID": "Srvt_6up-0o",
+        "spotifyID": "7dzuYJwwtNnfcptmbD58aJ"
     },
     {
         "ranking": "9",
@@ -242,7 +244,8 @@
         "title": "Not Like Us",
         "artist": "Kendrick Lamar",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d0/ef/b6/d0efb685-73be-fdee-58c9-be655f4cd4fd/24UMGIM51924.rgb.jpg/80x80bb.webp",
-        "appleID": "not-like-us/1744776167"
+        "appleID": "not-like-us/1744776167",
+        "youtubeID": "H58vbez_m4E"
     },
     {
         "ranking": "36",
@@ -319,7 +322,8 @@
         "title": "Timeless",
         "artist": "The Weeknd",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/40/77/cb/4077cbd1-b6a0-d8df-b9d3-e9a339dbc0ea/24UM1IM04061.rgb.jpg/80x80bb.webp",
-        "appleID": "timeless/1770380890"
+        "appleID": "timeless/1770380890",
+        "youtubeID": "5EpyN_6dqyk"
     },
     {
         "ranking": "47",
@@ -452,14 +456,15 @@
         "title": "him all along",
         "artist": "Gunna",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a0/68/12/a06812aa-110a-77b7-723f-662f5e977480/075679628237.jpg/80x80bb.webp",
-        "appleID": "him-all-along/1774073509"
+        "appleID": "him-all-along/1774072933",
+        "youtubeID": "w7Wf0h1Q8a4"
     },
     {
         "ranking": "66",
         "title": "Hero",
         "artist": "Nelson Freitas",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/1e/e1/2e/1ee12e5f-e612-b83f-8551-197d35f43fff/197189904165.jpg/80x80bb.webp",
-        "appleID": "hero/1707362285"
+        "appleID": "hero/1726487366"
     },
     {
         "ranking": "67",
@@ -487,7 +492,8 @@
         "title": "luther",
         "artist": "Kendrick Lamar",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/50/c2/cc/50c2cc95-3658-9417-0d4b-831abde44ba1/24UM1IM28978.rgb.jpg/80x80bb.webp",
-        "appleID": "luther/1781270323"
+        "appleID": "luther/1781270323",
+        "youtubeID": "4_taypLmSMU"
     },
     {
         "ranking": "71",
@@ -599,7 +605,8 @@
         "title": "Without Me",
         "artist": "Halsey",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/68/3e/71/683e71a2-da8b-039b-91e5-b8d8c9899dad/19UMGIM75011.rgb.jpg/80x80bb.webp",
-        "appleID": "without-me/1533014937"
+        "appleID": "without-me/1533014937",
+        "youtubeID": "ZAfAud_M_mg"
     },
     {
         "ranking": "87",
@@ -648,7 +655,9 @@
         "title": "Snooze",
         "artist": "SZA",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/bd/3b/a9/bd3ba9fb-9609-144f-bcfe-ead67b5f6ab3/196589564931.jpg/80x80bb.webp",
-        "appleID": "snooze/1657869492"
+        "appleID": "snooze/1657869492",
+        "youtubeID": "LDY_XyxBu8A",
+        "spotifyID": "4iZ4pt7kvcaH6Yo8UoZ4s2"
     },
     {
         "ranking": "94",

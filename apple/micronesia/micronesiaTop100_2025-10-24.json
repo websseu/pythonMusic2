@@ -116,7 +116,8 @@
         "title": "luther",
         "artist": "Kendrick Lamar",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/50/c2/cc/50c2cc95-3658-9417-0d4b-831abde44ba1/24UM1IM28978.rgb.jpg/80x80bb.webp",
-        "appleID": "luther/1781270323"
+        "appleID": "luther/1781270323",
+        "youtubeID": "4_taypLmSMU"
     },
     {
         "ranking": "18",
@@ -200,7 +201,8 @@
         "title": "Every Night Every Morning",
         "artist": "Maoli",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/db/73/4f/db734ffc-785c-9999-be7c-f0c54458690a/0.jpg/80x80bb.webp",
-        "appleID": "every-night-every-morning/1761629618"
+        "appleID": "every-night-every-morning/1761629618",
+        "youtubeID": "20k90wvdLco"
     },
     {
         "ranking": "30",
@@ -305,7 +307,8 @@
         "title": "I Had Some Help (feat. Morgan Wallen)",
         "artist": "Post Malone",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e1/b7/09/e1b7098f-d6e1-2b18-fd6f-8390110908eb/24UMGIM50612.rgb.jpg/80x80bb.webp",
-        "appleID": "i-had-some-help-feat-morgan-wallen/1744439049"
+        "appleID": "i-had-some-help-feat-morgan-wallen/1744439049",
+        "youtubeID": "4QIZE708gJ4"
     },
     {
         "ranking": "45",
@@ -340,7 +343,8 @@
         "title": "A Bar Song (Tipsy)",
         "artist": "Shaboozey",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/97/b5/bc/97b5bca2-6238-2421-4f0d-1f7a39d5d9d4/197342550925_cover.jpg/80x80bb.webp",
-        "appleID": "a-bar-song-tipsy/1737085899"
+        "appleID": "a-bar-song-tipsy/1737085899",
+        "youtubeID": "t7bQwwqW-Hc"
     },
     {
         "ranking": "50",
@@ -410,7 +414,9 @@
         "title": "Ransom",
         "artist": "Lil Tecca",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/0c/35/21/0c3521be-e646-db60-7fd4-847c12c033de/19UMGIM50641.rgb.jpg/80x80bb.webp",
-        "appleID": "ransom/1466839702"
+        "appleID": "ransom/1466839702",
+        "youtubeID": "1XzY2ij_vL4",
+        "spotifyID": "1lOe9qE0vR9zwWQAOk6CoO"
     },
     {
         "ranking": "60",
@@ -690,7 +696,8 @@
         "title": "Riptide",
         "artist": "Vance Joy",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/7a/1c/65/7a1c6571-34e9-bb77-32be-90c72ba003c0/075679920355.jpg/80x80bb.webp",
-        "appleID": "riptide/1022164261"
+        "appleID": "riptide/1022164261",
+        "spotifyID": "2uXlHCUbq9OMUwx3hrk06o"
     },
     {
         "ranking": "100",
