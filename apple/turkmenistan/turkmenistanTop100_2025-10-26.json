@@ -39,7 +39,7 @@
         "title": "Камин",
         "artist": "EMIN",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/18/af/1d/18af1d8e-d684-3c0c-487a-f29c7453f174/3616404669582.jpg/80x80bb.webp",
-        "appleID": "%D0%BA%D0%B0%D0%BC%D0%B8%D0%BD/1570267744"
+        "appleID": "%D0%BA%D0%B0%D0%BC%D0%B8%D0%BD/1719165204"
     },
     {
         "ranking": "7",
@@ -291,7 +291,8 @@
         "title": "Billie Jean",
         "artist": "Michael Jackson",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/32/4f/fd/324ffda2-9e51-8f6a-0c2d-c6fd2b41ac55/074643811224.jpg/80x80bb.webp",
-        "appleID": "billie-jean/269573364"
+        "appleID": "billie-jean/269573364",
+        "youtubeID": "Zi_XLOBDo_Y"
     },
     {
         "ranking": "43",
@@ -319,7 +320,8 @@
         "title": "Я это ты (Ты это я)",
         "artist": "Murat Nasyrov",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/a6/7a/75/a67a75bb-7425-f431-d6bf-a1287d24f6da/cover.jpg/80x80bb.webp",
-        "appleID": "%D1%8F-%D1%8D%D1%82%D0%BE-%D1%82%D1%8B-%D1%82%D1%8B-%D1%8D%D1%82%D0%BE-%D1%8F/1088340050"
+        "appleID": "%D1%8F-%D1%8D%D1%82%D0%BE-%D1%82%D1%8B-%D1%82%D1%8B-%D1%8D%D1%82%D0%BE-%D1%8F/1088340050",
+        "youtubeID": "lbHGzZX85_s"
     },
     {
         "ranking": "47",
@@ -340,7 +342,8 @@
         "title": "Aiga qarap",
         "artist": "Sadraddin",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/5e/2b/c8/5e2bc833-d6cd-f096-cdbd-c47714747192/cover.jpg/80x80bb.webp",
-        "appleID": "aiga-qarap/1700912887"
+        "appleID": "aiga-qarap/1700912887",
+        "spotifyID": "0Wq7dV7Oi0cGJQ2xG1qdux"
     },
     {
         "ranking": "50",
@@ -368,7 +371,9 @@
         "title": "SEVMEYİ DENEMEDİN",
         "artist": "BLOK3",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c9/16/59/c91659c0-c1c1-9bd3-a6ee-a935ef58b5f7/cover.jpg/80x80bb.webp",
-        "appleID": "sevmeyi-denemedi-n/1767437103"
+        "appleID": "sevmeyi-denemedi-n/1767437103",
+        "youtubeID": "n7iuaTlGbd4",
+        "spotifyID": "3ff93VTp2DBbNnDEsAW8Cm"
     },
     {
         "ranking": "54",
@@ -494,14 +499,15 @@
         "title": "Born to Die",
         "artist": "Lana Del Rey",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/c5/df/dd/c5dfdd9c-24f2-de01-246c-fcc5e028f705/12UMGIM53864.rgb.jpg/80x80bb.webp",
-        "appleID": "born-to-die/1442452466"
+        "appleID": "born-to-die/1440854125"
     },
     {
         "ranking": "72",
         "title": "Lose Yourself (From \"8 Mile\")",
         "artist": "Eminem",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/a7/06/99/a70699f9-2f5a-9198-fe70-6236b534738f/06UMGIM16683.rgb.jpg/80x80bb.webp",
-        "appleID": "lose-yourself-from-8-mile/1445727316"
+        "appleID": "lose-yourself-from-8-mile/1445727316",
+        "youtubeID": "xFYQQPAOz7Y"
     },
     {
         "ranking": "73",
@@ -529,7 +535,8 @@
         "title": "double take",
         "artist": "Dhruv",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/5f/ea/71/5fea71a9-7dbd-9a0c-fb8a-9f151f506f52/5056271652788.jpg/80x80bb.webp",
-        "appleID": "double-take/1591684356"
+        "appleID": "double-take/1591684356",
+        "spotifyID": "0QzuaeCEEOV40Pn7IvKEny"
     },
     {
         "ranking": "77",
@@ -641,7 +648,7 @@
         "title": "Radio",
         "artist": "Lana Del Rey",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/c5/df/dd/c5dfdd9c-24f2-de01-246c-fcc5e028f705/12UMGIM53864.rgb.jpg/80x80bb.webp",
-        "appleID": "radio/1442452480"
+        "appleID": "radio/1440854449"
     },
     {
         "ranking": "93",
@@ -655,7 +662,9 @@
         "title": "Without Me",
         "artist": "Eminem",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/b4/13/e9/b413e91d-40aa-a1a8-b8e3-2bacc3b3e222/00606949329020.rgb.jpg/80x80bb.webp",
-        "appleID": "without-me/1440903693"
+        "appleID": "without-me/1440903693",
+        "youtubeID": "YVkUvmDQ3HY",
+        "spotifyID": "7lQ8MOhq6IN2w8EYcFNSUk"
     },
     {
         "ranking": "95",
