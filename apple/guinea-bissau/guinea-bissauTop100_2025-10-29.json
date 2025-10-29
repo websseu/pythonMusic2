@@ -4,7 +4,7 @@
         "title": "Камин",
         "artist": "EMIN",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/18/af/1d/18af1d8e-d684-3c0c-487a-f29c7453f174/3616404669582.jpg/80x80bb.webp",
-        "appleID": "%D0%BA%D0%B0%D0%BC%D0%B8%D0%BD/1570267744"
+        "appleID": "%D0%BA%D0%B0%D0%BC%D0%B8%D0%BD/1719165204"
     },
     {
         "ranking": "2",
@@ -186,7 +186,8 @@
         "title": "Rush",
         "artist": "Ayra Starr",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/b5/4a/3d/b54a3d1a-f493-7a9b-1807-a73f01709053/5059449090122.png/80x80bb.webp",
-        "appleID": "rush/1642898573"
+        "appleID": "rush/1642898573",
+        "youtubeID": "crtQSTYWtqE"
     },
     {
         "ranking": "28",
@@ -277,14 +278,15 @@
         "title": "Die For You",
         "artist": "The Weeknd",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/e2/61/f8/e261f8c1-73db-9a7a-c89e-1068f19970e0/16UMGIM67863.rgb.jpg/80x80bb.webp",
-        "appleID": "die-for-you/1440872304"
+        "appleID": "die-for-you/1677006158"
     },
     {
         "ranking": "41",
         "title": "Faded",
         "artist": "Alan Walker",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/0d/a3/1a/0da31af7-d0ff-9bee-c427-1b6d0336f6fc/886446321981.jpg/80x80bb.webp",
-        "appleID": "faded/1196294581"
+        "appleID": "faded/1196294581",
+        "youtubeID": "60ItHLz5WEA"
     },
     {
         "ranking": "42",
@@ -389,7 +391,8 @@
         "title": "Blinding Lights",
         "artist": "The Weeknd",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/a6/6e/bf/a66ebf79-5008-8948-b352-a790fc87446b/19UM1IM04638.rgb.jpg/80x80bb.webp",
-        "appleID": "blinding-lights/1488408568"
+        "appleID": "blinding-lights/1488408568",
+        "spotifyID": "0VjIjW4GlUZAMYd2vXMi3b"
     },
     {
         "ranking": "57",
@@ -564,7 +567,9 @@
         "title": "Hawái",
         "artist": "Maluma",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/6f/4a/ab/6f4aab37-196a-3df8-a584-baf24772ed59/886448614913.jpg/80x80bb.webp",
-        "appleID": "haw%C3%A1i/1523698843"
+        "appleID": "haw%C3%A1i/1523698843",
+        "youtubeID": "pK060iUFWXg",
+        "spotifyID": "1yoMvmasuxZfqHEipJhRbp"
     },
     {
         "ranking": "82",

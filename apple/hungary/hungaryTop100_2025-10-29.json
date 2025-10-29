@@ -186,7 +186,8 @@
         "title": "Passport",
         "artist": "BSW",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/58/40/07/584007f3-cc79-ca41-77f1-d3577382b425/cover.jpg/80x80bb.webp",
-        "appleID": "passport/1782905128"
+        "appleID": "passport/1782905128",
+        "spotifyID": "1tI1LGUz4fZg8es7toVK6K"
     },
     {
         "ranking": "28",
@@ -326,14 +327,17 @@
         "title": "introvertált dal",
         "artist": "Azahriah",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/94/50/2d/94502db3-e9a3-351b-d97e-1d5a3a0e7239/cover.jpg/80x80bb.webp",
-        "appleID": "introvert%C3%A1lt-dal/1671944290"
+        "appleID": "introvert%C3%A1lt-dal/1671944290",
+        "spotifyID": "2EAvOY1uymm5ZAd0ZbnnPW"
     },
     {
         "ranking": "48",
         "title": "Tiara",
         "artist": "Manuel",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/c7/02/f7/c702f76b-8b8f-5253-9223-645d97e6086a/cover.jpg/80x80bb.webp",
-        "appleID": "tiara/1731350805"
+        "appleID": "tiara/1731350805",
+        "youtubeID": "jTvzTFpx0wc",
+        "spotifyID": "0nI4wU2023g1mFho21Vddr"
     },
     {
         "ranking": "49",
@@ -361,7 +365,9 @@
         "title": "Úgy Hiszem",
         "artist": "Pogány Induló",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/60/00/54/60005417-d7ff-aa0a-e00f-26a19f318008/0747973884175_cover.jpg/80x80bb.webp",
-        "appleID": "%C3%BAgy-hiszem/1728901610"
+        "appleID": "%C3%BAgy-hiszem/1728901610",
+        "youtubeID": "1SbBcw84Pkw",
+        "spotifyID": "2zIijzos3rNY6DkvX2ZYDX"
     },
     {
         "ranking": "53",
@@ -396,7 +402,9 @@
         "title": "Mámor",
         "artist": "Pogány Induló",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/60/00/54/60005417-d7ff-aa0a-e00f-26a19f318008/0747973884175_cover.jpg/80x80bb.webp",
-        "appleID": "m%C3%A1mor/1728901619"
+        "appleID": "m%C3%A1mor/1728901619",
+        "youtubeID": "hV3nS59kMO8",
+        "spotifyID": "1zWdoNRmxhBaAJiJI2SI7j"
     },
     {
         "ranking": "58",
@@ -424,7 +432,9 @@
         "title": "Strawberry",
         "artist": "Desh",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e9/75/1f/e9751f4a-d77a-e81a-1783-489ac5d91584/cover.jpg/80x80bb.webp",
-        "appleID": "strawberry/1743731871"
+        "appleID": "strawberry/1743731871",
+        "youtubeID": "qTMLQIRMn4o",
+        "spotifyID": "6DmpM21b070AdtXm7Lc370"
     },
     {
         "ranking": "62",
@@ -459,7 +469,8 @@
         "title": "3korty",
         "artist": "Azahriah",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/5d/33/26/5d33260b-3982-477c-0adf-b0090f5a09b3/cover.jpg/80x80bb.webp",
-        "appleID": "3korty/1682295650"
+        "appleID": "3korty/1682295650",
+        "spotifyID": "5ZY255MSISgMrvHmRZux1E"
     },
     {
         "ranking": "67",
@@ -648,7 +659,9 @@
         "title": "Oy Lele",
         "artist": "VZS",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c7/ca/c5/c7cac59b-51f5-cdf4-fe57-97b357bbe280/cover.jpg/80x80bb.webp",
-        "appleID": "oy-lele/1772280651"
+        "appleID": "oy-lele/1772280651",
+        "youtubeID": "nQJ9wtT2HEo",
+        "spotifyID": "7nnTebRqWMU92pbdF1hpk5"
     },
     {
         "ranking": "94",
