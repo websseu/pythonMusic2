@@ -46,7 +46,8 @@
         "title": "Drowning",
         "artist": "WOODZ",
         "image": "https://image.bugsm.co.kr/album/images/50/40839/4083984.jpg?version=20250318143138",
-        "album": "OO-LI"
+        "album": "OO-LI",
+        "youtubeID": "tiKFuzpX-NA"
     },
     {
         "ranking": "8",
@@ -67,7 +68,10 @@
         "title": "toxic till the end",
         "artist": "로제(ROSÉ)",
         "image": "https://image.bugsm.co.kr/album/images/50/41113/4111311.jpg?version=20250319100710",
-        "album": "rosie"
+        "album": "rosie",
+        "appleID": "toxic-till-the-end/1771105929",
+        "youtubeID": "eA0lHNZ1KCA",
+        "spotifyID": "1z5ebC9238uGoBgzYyvGpQ"
     },
     {
         "ranking": "11",
@@ -116,14 +120,16 @@
         "title": "HAPPY",
         "artist": "DAY6 (데이식스)",
         "image": "https://image.bugsm.co.kr/album/images/50/206298/20629850.jpg?version=20250104012829",
-        "album": "Fourever"
+        "album": "Fourever",
+        "youtubeID": "sWXGbkM0tBI"
     },
     {
         "ranking": "18",
         "title": "Whiplash",
         "artist": "aespa",
         "image": "https://image.bugsm.co.kr/album/images/50/41087/4108755.jpg?version=20241126004739",
-        "album": "Whiplash - The 5th Mini Album"
+        "album": "Whiplash - The 5th Mini Album",
+        "youtubeID": "jWQx2f-CErU"
     },
     {
         "ranking": "19",
@@ -144,7 +150,8 @@
         "title": "한 페이지가 될 수 있게",
         "artist": "DAY6 (데이식스)",
         "image": "https://image.bugsm.co.kr/album/images/50/202657/20265759.jpg?version=20211119004415",
-        "album": "The Book of Us : Gravity"
+        "album": "The Book of Us : Gravity",
+        "youtubeID": "vnS_jn2uibs"
     },
     {
         "ranking": "22",
@@ -158,7 +165,8 @@
         "title": "나는 반딧불",
         "artist": "황가람",
         "image": "https://image.bugsm.co.kr/album/images/50/41087/4108756.jpg?version=20241023010353",
-        "album": "나는 반딧불"
+        "album": "나는 반딧불",
+        "youtubeID": "x9Jz2OueIGY"
     },
     {
         "ranking": "24",
@@ -179,14 +187,18 @@
         "title": "APT.",
         "artist": "로제(ROSÉ)",
         "image": "https://image.bugsm.co.kr/album/images/50/41086/4108664.jpg?version=20241206010201",
-        "album": "APT."
+        "album": "APT.",
+        "appleID": "apt/1773452221",
+        "youtubeID": "ekr2nIex040",
+        "spotifyID": "4wJ5Qq0jBN4ajy7ouZIV1c"
     },
     {
         "ranking": "27",
         "title": "내게 사랑이 뭐냐고 물어본다면",
         "artist": "로이킴",
         "image": "https://image.bugsm.co.kr/album/images/50/206771/20677117.jpg?version=20241019015204",
-        "album": "내게 사랑이 뭐냐고 물어본다면"
+        "album": "내게 사랑이 뭐냐고 물어본다면",
+        "youtubeID": "5ly8tAU-n_w"
     },
     {
         "ranking": "28",
@@ -214,7 +226,10 @@
         "title": "Die With A Smile",
         "artist": "Lady Gaga(레이디 가가)",
         "image": "https://image.bugsm.co.kr/album/images/50/356136/35613643.jpg?version=20250701002559",
-        "album": "Die With A Smile"
+        "album": "Die With A Smile",
+        "appleID": "die-with-a-smile/1762656732",
+        "youtubeID": "kPa7bsKwL-c",
+        "spotifyID": "2plbrEY59IikOBgBGLjaoe"
     },
     {
         "ranking": "32",
@@ -228,7 +243,8 @@
         "title": "청춘만화",
         "artist": "이무진",
         "image": "https://image.bugsm.co.kr/album/images/50/41081/4108180.jpg?version=20250318024429",
-        "album": "만화 (滿花)"
+        "album": "만화 (滿花)",
+        "youtubeID": "qLJq2muxhWc"
     },
     {
         "ranking": "34",
@@ -270,7 +286,8 @@
         "title": "Welcome to the Show",
         "artist": "DAY6 (데이식스)",
         "image": "https://image.bugsm.co.kr/album/images/50/206298/20629850.jpg?version=20250104012829",
-        "album": "Fourever"
+        "album": "Fourever",
+        "youtubeID": "RowlrvmyFEk"
     },
     {
         "ranking": "40",
@@ -284,21 +301,24 @@
         "title": "천상연",
         "artist": "이창섭",
         "image": "https://image.bugsm.co.kr/album/images/50/40963/4096392.jpg?version=20240222064728",
-        "album": "천상연 (웹툰 '선녀외전' X 이창섭 (LEE CHANGSUB))"
+        "album": "천상연 (웹툰 '선녀외전' X 이창섭 (LEE CHANGSUB))",
+        "youtubeID": "fQ84rvbfa08"
     },
     {
         "ranking": "42",
         "title": "HOME SWEET HOME (feat. 태양, 대성)",
         "artist": "G-DRAGON",
         "image": "https://image.bugsm.co.kr/album/images/50/41106/4110623.jpg?version=20241128002601",
-        "album": "HOME SWEET HOME (feat. 태양, 대성)"
+        "album": "HOME SWEET HOME (feat. 태양, 대성)",
+        "youtubeID": "fLi0EJfi_vg"
     },
     {
         "ranking": "43",
         "title": "I AM",
         "artist": "IVE (아이브)",
         "image": "https://image.bugsm.co.kr/album/images/50/40849/4084947.jpg?version=20240810012634",
-        "album": "I've IVE"
+        "album": "I've IVE",
+        "youtubeID": "2gyJW3AiPYY"
     },
     {
         "ranking": "44",
@@ -319,14 +339,16 @@
         "title": "Congratulations",
         "artist": "DAY6 (데이식스)",
         "image": "https://image.bugsm.co.kr/album/images/50/5297/529710.jpg?version=20190719114948",
-        "album": "The Day"
+        "album": "The Day",
+        "youtubeID": "x3sFsHrUyLQ"
     },
     {
         "ranking": "47",
         "title": "주저하는 연인들을 위해",
         "artist": "잔나비",
         "image": "https://image.bugsm.co.kr/album/images/50/202371/20237198.jpg?version=20210421045158",
-        "album": "전설"
+        "album": "전설",
+        "youtubeID": "t8P-zdkoeJA"
     },
     {
         "ranking": "48",
@@ -340,7 +362,8 @@
         "title": "어떻게 이별까지 사랑하겠어, 널 사랑하는 거지",
         "artist": "AKMU(악뮤)",
         "image": "https://image.bugsm.co.kr/album/images/50/202788/20278851.jpg?version=20210727012601",
-        "album": "항해"
+        "album": "항해",
+        "youtubeID": "m3DZsBw5bnE"
     },
     {
         "ranking": "50",
@@ -354,14 +377,18 @@
         "title": "모든 날, 모든 순간 (Every day, Every Moment)",
         "artist": "폴킴(Paul Kim)",
         "image": "https://image.bugsm.co.kr/album/images/50/201547/20154722.jpg?version=20230601001519",
-        "album": "'키스 먼저 할까요?' OST Part.3"
+        "album": "'키스 먼저 할까요?' OST Part.3",
+        "youtubeID": "1q_t6RNuH8c"
     },
     {
         "ranking": "52",
         "title": "number one girl",
         "artist": "로제(ROSÉ)",
         "image": "https://image.bugsm.co.kr/album/images/50/41106/4110641.jpg?version=20241123003542",
-        "album": "number one girl"
+        "album": "number one girl",
+        "appleID": "number-one-girl/1771105923",
+        "youtubeID": "pZ1NdE69VTs",
+        "spotifyID": "1lcBt7LoEikqYmhUoa2cez"
     },
     {
         "ranking": "53",
@@ -389,21 +416,24 @@
         "title": "Supernova",
         "artist": "aespa",
         "image": "https://image.bugsm.co.kr/album/images/50/41011/4101141.jpg?version=20241102010939",
-        "album": "Armageddon - The 1st Album"
+        "album": "Armageddon - The 1st Album",
+        "youtubeID": "phuiiNCxRMg"
     },
     {
         "ranking": "57",
         "title": "고민중독",
         "artist": "QWER",
         "image": "https://image.bugsm.co.kr/album/images/50/40996/4099653.jpg?version=20240402065258",
-        "album": "1st Mini Album 'MANITO'"
+        "album": "1st Mini Album 'MANITO'",
+        "youtubeID": "ImuWa3SJulY"
     },
     {
         "ranking": "58",
         "title": "Hype Boy",
         "artist": "NewJeans",
         "image": "https://image.bugsm.co.kr/album/images/50/40780/4078016.jpg?version=20221014011218",
-        "album": "NewJeans 1st EP 'New Jeans'"
+        "album": "NewJeans 1st EP 'New Jeans'",
+        "youtubeID": "11cta61wi0g"
     },
     {
         "ranking": "59",
@@ -438,7 +468,8 @@
         "title": "에피소드",
         "artist": "이무진",
         "image": "https://image.bugsm.co.kr/album/images/50/40941/4094127.jpg?version=20250101001125",
-        "album": "에피소드"
+        "album": "에피소드",
+        "youtubeID": "gH1rVdXUlpo"
     },
     {
         "ranking": "64",
@@ -466,35 +497,40 @@
         "title": "그대만 있다면 (여름날 우리 X 너드커넥션 (Nerd Connection))",
         "artist": "너드커넥션(Nerd Connection)",
         "image": "https://image.bugsm.co.kr/album/images/50/40901/4090168.jpg?version=20240209005514",
-        "album": "그대만 있다면 (여름날 우리 X 너드커넥션 (Nerd Connection))"
+        "album": "그대만 있다면 (여름날 우리 X 너드커넥션 (Nerd Connection))",
+        "youtubeID": "IMWT6937uUs"
     },
     {
         "ranking": "68",
         "title": "사랑인가 봐",
         "artist": "멜로망스(MeloMance)",
         "image": "https://image.bugsm.co.kr/album/images/50/40713/4071363.jpg?version=20220330120007",
-        "album": "사랑인가 봐 (사내맞선 OST 스페셜 트랙)"
+        "album": "사랑인가 봐 (사내맞선 OST 스페셜 트랙)",
+        "youtubeID": "McidaTgrQB0"
     },
     {
         "ranking": "69",
         "title": "Cruel Summer",
         "artist": "Taylor Swift(테일러 스위프트)",
         "image": "https://image.bugsm.co.kr/album/images/50/9228/922832.jpg?version=20250307141321",
-        "album": "Lover"
+        "album": "Lover",
+        "youtubeID": "ic8j13piAhQ"
     },
     {
         "ranking": "70",
         "title": "Love me or Leave me",
         "artist": "DAY6 (데이식스)",
         "image": "https://image.bugsm.co.kr/album/images/50/203237/20323788.jpg?version=20241114011724",
-        "album": "The Book of Us : The Demon"
+        "album": "The Book of Us : The Demon",
+        "youtubeID": "0JxcsbPcEpU"
     },
     {
         "ranking": "71",
         "title": "내 이름 맑음",
         "artist": "QWER",
         "image": "https://image.bugsm.co.kr/album/images/50/41065/4106548.jpg?version=20250107004107",
-        "album": "2nd Mini Album 'Algorithm's Blossom'"
+        "album": "2nd Mini Album 'Algorithm's Blossom'",
+        "youtubeID": "9yfrVqCcrS0"
     },
     {
         "ranking": "72",
@@ -508,14 +544,18 @@
         "title": "첫 만남은 계획대로 되지 않아",
         "artist": "TWS (투어스)",
         "image": "https://image.bugsm.co.kr/album/images/50/40947/4094730.jpg?version=20250923013257",
-        "album": "TWS 1st Mini Album ‘Sparkling Blue’"
+        "album": "TWS 1st Mini Album ‘Sparkling Blue’",
+        "youtubeID": "hVAc1Vf2ITU"
     },
     {
         "ranking": "74",
         "title": "Magnetic",
         "artist": "아일릿(ILLIT)",
         "image": "https://image.bugsm.co.kr/album/images/50/206323/20632324.jpg?version=20250812014256",
-        "album": "SUPER REAL ME"
+        "album": "SUPER REAL ME",
+        "appleID": "magnetic/1734500896",
+        "youtubeID": "Vk5-c_v4gMU",
+        "spotifyID": "1aKvZDoLGkNMxoRYgkckZG"
     },
     {
         "ranking": "75",
@@ -529,14 +569,16 @@
         "title": "Ditto",
         "artist": "NewJeans",
         "image": "https://image.bugsm.co.kr/album/images/50/40824/4082425.jpg?version=20231215003716",
-        "album": "NewJeans 'OMG'"
+        "album": "NewJeans 'OMG'",
+        "youtubeID": "Km71Rr9K-Bw"
     },
     {
         "ranking": "77",
         "title": "Attention",
         "artist": "NewJeans",
         "image": "https://image.bugsm.co.kr/album/images/50/40780/4078016.jpg?version=20221014011218",
-        "album": "NewJeans 1st EP 'New Jeans'"
+        "album": "NewJeans 1st EP 'New Jeans'",
+        "youtubeID": "js1CtxSY38I"
     },
     {
         "ranking": "78",
@@ -557,42 +599,51 @@
         "title": "DRIP",
         "artist": "BABYMONSTER",
         "image": "https://image.bugsm.co.kr/album/images/50/41091/4109194.jpg?version=20250118015053",
-        "album": "DRIP"
+        "album": "DRIP",
+        "youtubeID": "Zp-Jhuhq0bQ"
     },
     {
         "ranking": "81",
         "title": "Mantra",
         "artist": "제니 (JENNIE)",
         "image": "https://image.bugsm.co.kr/album/images/50/41083/4108354.jpg?version=20241017004618",
-        "album": "Mantra"
+        "album": "Mantra",
+        "appleID": "mantra/1772759719",
+        "youtubeID": "bB3-CUMERIU",
+        "spotifyID": "2CspwnypzT7rcWI9RfsoSb"
     },
     {
         "ranking": "82",
         "title": "Supernatural",
         "artist": "NewJeans",
         "image": "https://image.bugsm.co.kr/album/images/50/41027/4102781.jpg?version=20250207012050",
-        "album": "Supernatural"
+        "album": "Supernatural",
+        "youtubeID": "ZncbtRo7RXs"
     },
     {
         "ranking": "83",
         "title": "How Sweet",
         "artist": "NewJeans",
         "image": "https://image.bugsm.co.kr/album/images/50/41006/4100628.jpg?version=20250107004601",
-        "album": "How Sweet"
+        "album": "How Sweet",
+        "youtubeID": "Q3K0TOvTOno"
     },
     {
         "ranking": "84",
         "title": "Love wins all",
         "artist": "아이유(IU)",
         "image": "https://image.bugsm.co.kr/album/images/50/40955/4095501.jpg?version=20250326042636",
-        "album": "The Winning"
+        "album": "The Winning",
+        "appleID": "love-wins-all/1726888402",
+        "youtubeID": "JleoAppaxi0"
     },
     {
         "ranking": "85",
         "title": "소나기",
         "artist": "이클립스 (ECLIPSE)",
         "image": "https://image.bugsm.co.kr/album/images/50/206352/20635260.jpg?version=20250107022155",
-        "album": "선재 업고 튀어 OST Part 1"
+        "album": "선재 업고 튀어 OST Part 1",
+        "youtubeID": "fBB4MaBybyg"
     },
     {
         "ranking": "86",
@@ -606,7 +657,8 @@
         "title": "예뻤어",
         "artist": "DAY6 (데이식스)",
         "image": "https://image.bugsm.co.kr/album/images/50/200804/20080494.jpg?version=20240805121438",
-        "album": "Every DAY6 February"
+        "album": "Every DAY6 February",
+        "youtubeID": "BS7tz2rAOSA"
     },
     {
         "ranking": "88",
@@ -634,7 +686,8 @@
         "title": "After LIKE",
         "artist": "IVE (아이브)",
         "image": "https://image.bugsm.co.kr/album/images/50/40789/4078936.jpg?version=20220824005434",
-        "album": "After LIKE"
+        "album": "After LIKE",
+        "youtubeID": "F0B7HDiY-10"
     },
     {
         "ranking": "92",
