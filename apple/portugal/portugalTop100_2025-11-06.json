@@ -74,7 +74,8 @@
         "title": "Interestelar",
         "artist": "Plutónio",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/60/6f/c7/606fc790-537e-d55a-f5a8-17ce0387f585/196872557992.jpg/80x80bb.webp",
-        "appleID": "interestelar/1775412754"
+        "appleID": "interestelar/1775412754",
+        "youtubeID": "lsBmNKMTrtw"
     },
     {
         "ranking": "12",
@@ -130,7 +131,9 @@
         "title": "WILDFLOWER",
         "artist": "Billie Eilish",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
-        "appleID": "wildflower/1739659144"
+        "appleID": "wildflower/1739659144",
+        "youtubeID": "IWKyykQBRKo",
+        "spotifyID": "3QaPy1KgI7nu9FJEQUgn6h"
     },
     {
         "ranking": "20",
@@ -151,7 +154,9 @@
         "title": "Amar Pela Metade",
         "artist": "Calema",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ee/a1/49/eea149db-f385-8981-0b82-4a8aece641bc/24UMGIM96558.rgb.jpg/80x80bb.webp",
-        "appleID": "amar-pela-metade/1767438349"
+        "appleID": "amar-pela-metade/1767438349",
+        "youtubeID": "TvIlfpOL6No",
+        "spotifyID": "1UQvRmRhbX3WxSLW3NbUIU"
     },
     {
         "ranking": "23",
@@ -263,14 +268,16 @@
         "title": "Not Like Us",
         "artist": "Kendrick Lamar",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d0/ef/b6/d0efb685-73be-fdee-58c9-be655f4cd4fd/24UMGIM51924.rgb.jpg/80x80bb.webp",
-        "appleID": "not-like-us/1744776167"
+        "appleID": "not-like-us/1744776167",
+        "youtubeID": "H58vbez_m4E"
     },
     {
         "ranking": "39",
         "title": "País das Maravilhas",
         "artist": "Plutónio",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7d/b5/42/7db54276-a783-c308-bbc4-c75f5efef89f/196872557923.jpg/80x80bb.webp",
-        "appleID": "pa%C3%ADs-das-maravilhas/1776657471"
+        "appleID": "pa%C3%ADs-das-maravilhas/1776657471",
+        "youtubeID": "JolO6Y7TkRQ"
     },
     {
         "ranking": "40",
@@ -284,14 +291,17 @@
         "title": "Die With A Smile",
         "artist": "Lady Gaga",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/11/ae/f2/11aef294-f57c-bab9-c9fc-529162984e62/24UMGIM85348.rgb.jpg/80x80bb.webp",
-        "appleID": "die-with-a-smile/1762656732"
+        "appleID": "die-with-a-smile/1762656732",
+        "youtubeID": "kPa7bsKwL-c",
+        "spotifyID": "2plbrEY59IikOBgBGLjaoe"
     },
     {
         "ranking": "42",
         "title": "Beautiful Things",
         "artist": "Benson Boone",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/54/f4/92/54f49210-e260-b519-ebbd-f4f40ee710cd/054391342751.jpg/80x80bb.webp",
-        "appleID": "beautiful-things/1724488124"
+        "appleID": "beautiful-things/1724488124",
+        "youtubeID": "Oa_RSwwpPaA"
     },
     {
         "ranking": "43",
@@ -333,7 +343,8 @@
         "title": "Luxemburgo",
         "artist": "Plutónio",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5f/2d/74/5f2d74b1-50da-1049-3176-30b12cc340ff/196872500530.jpg/80x80bb.webp",
-        "appleID": "luxemburgo/1770301542"
+        "appleID": "luxemburgo/1770301542",
+        "youtubeID": "sWOr4a95Go4"
     },
     {
         "ranking": "49",
@@ -347,14 +358,17 @@
         "title": "BIRDS OF A FEATHER",
         "artist": "Billie Eilish",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
-        "appleID": "birds-of-a-feather/1739659142"
+        "appleID": "birds-of-a-feather/1739659142",
+        "youtubeID": "V9PVRfjEBTI"
     },
     {
         "ranking": "51",
         "title": "CHIHIRO",
         "artist": "Billie Eilish",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
-        "appleID": "chihiro/1739659141"
+        "appleID": "chihiro/1739659141",
+        "youtubeID": "BY_XwvKogC8",
+        "spotifyID": "7BRD7x5pt8Lqa1eGYC4dzj"
     },
     {
         "ranking": "52",
@@ -368,7 +382,9 @@
         "title": "That’s So True",
         "artist": "Gracie Abrams",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/26/78/81/26788143-5e5f-0813-2480-ecf4280ef221/24UM1IM07082.rgb.jpg/80x80bb.webp",
-        "appleID": "thats-so-true/1773474483"
+        "appleID": "thats-so-true/1773474483",
+        "youtubeID": "BDHM8cyJQa8",
+        "spotifyID": "7ne4VBA60CxGM75vw0EYad"
     },
     {
         "ranking": "54",
@@ -396,7 +412,8 @@
         "title": "Deja Vu",
         "artist": "Plutónio",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/73/10/b8/7310b8d3-3521-ceb7-e4b4-def50bd2565b/196872597929.jpg/80x80bb.webp",
-        "appleID": "https://music.apple.com/us/artist/plut%C3%B3nio/402172353"
+        "appleID": "https://music.apple.com/us/artist/plut%C3%B3nio/402172353",
+        "youtubeID": "GFjrAryvXAY"
     },
     {
         "ranking": "58",
@@ -417,21 +434,25 @@
         "title": "Si Antes Te Hubiera Conocido",
         "artist": "KAROL G",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a0/60/94/a060947c-54d8-0fad-c558-eed12600224c/24UMGIM62705.rgb.jpg/80x80bb.webp",
-        "appleID": "si-antes-te-hubiera-conocido/1752031539"
+        "appleID": "si-antes-te-hubiera-conocido/1752031539",
+        "youtubeID": "QCZZwZQ4qNs",
+        "spotifyID": "6WatFBLVB0x077xWeoVc2k"
     },
     {
         "ranking": "61",
         "title": "Timeless",
         "artist": "The Weeknd",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/40/77/cb/4077cbd1-b6a0-d8df-b9d3-e9a339dbc0ea/24UM1IM04061.rgb.jpg/80x80bb.webp",
-        "appleID": "timeless/1770380890"
+        "appleID": "timeless/1770380890",
+        "youtubeID": "5EpyN_6dqyk"
     },
     {
         "ranking": "62",
         "title": "Devia Ir",
         "artist": "Wet Bed Gang",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/8c/f0/c5/8cf0c5d1-06dd-db23-d83a-82eed4f19363/196871109284.jpg/80x80bb.webp",
-        "appleID": "devia-ir/1685981604"
+        "appleID": "devia-ir/1685981604",
+        "spotifyID": "5KZJORKMEkrsNRD4dfBw1X"
     },
     {
         "ranking": "63",
@@ -445,7 +466,8 @@
         "title": "Creep",
         "artist": "Radiohead",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/78/a4/ec/78a4ec7b-c6d6-c9c8-441b-660486e56a89/634904077969.png/80x80bb.webp",
-        "appleID": "creep/1097862231"
+        "appleID": "creep/1097862231",
+        "youtubeID": "XFkzRNyygfk"
     },
     {
         "ranking": "65",
@@ -459,7 +481,9 @@
         "title": "goosebumps",
         "artist": "Travis Scott",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/50/f7/a3/50f7a39d-3bd5-28e9-0264-532f08b5b810/886446074726.jpg/80x80bb.webp",
-        "appleID": "goosebumps/1150135924"
+        "appleID": "goosebumps/1150135924",
+        "youtubeID": "Dst9gZkq1a8",
+        "spotifyID": "6gBFPUFcJLzWGx4lenP6h2"
     },
     {
         "ranking": "67",
@@ -487,7 +511,9 @@
         "title": "Lose Control",
         "artist": "Teddy Swims",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/36/19/66/36196640-1561-dc5e-c6bc-1e5f4befa583/093624856771.jpg/80x80bb.webp",
-        "appleID": "lose-control/1691699836"
+        "appleID": "lose-control/1691699836",
+        "youtubeID": "GZ3zL7kT6_c",
+        "spotifyID": "17phhZDn6oGtzMe56NuWvj"
     },
     {
         "ranking": "71",
@@ -501,7 +527,8 @@
         "title": "Sala de Audiências",
         "artist": "Plutónio",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/73/10/b8/7310b8d3-3521-ceb7-e4b4-def50bd2565b/196872597929.jpg/80x80bb.webp",
-        "appleID": "https://music.apple.com/us/artist/plut%C3%B3nio/402172353"
+        "appleID": "https://music.apple.com/us/artist/plut%C3%B3nio/402172353",
+        "youtubeID": "cTT1sDZFmks"
     },
     {
         "ranking": "73",
@@ -536,7 +563,9 @@
         "title": "Iris",
         "artist": "The Goo Goo Dolls",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music/b4/0c/98/mzi.vhowcacb.jpg/80x80bb.webp",
-        "appleID": "iris/267537169"
+        "appleID": "iris/267537169",
+        "youtubeID": "NdYWuo9OFAw",
+        "spotifyID": "6Qyc6fS4DsZjB2mRW9DsQs"
     },
     {
         "ranking": "78",
@@ -550,7 +579,8 @@
         "title": "HIGHEST IN THE ROOM",
         "artist": "Travis Scott",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/30/5f/c4/305fc4b4-155d-8e67-7c7a-8eb35032fbcb/886448042792.jpg/80x80bb.webp",
-        "appleID": "highest-in-the-room/1481874619"
+        "appleID": "highest-in-the-room/1481874619",
+        "spotifyID": "3eekarcy7kvN4yt5ZFzltW"
     },
     {
         "ranking": "80",
@@ -585,14 +615,17 @@
         "title": "Moscow Mule",
         "artist": "Bad Bunny",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/3e/04/eb/3e04ebf6-370f-f59d-ec84-2c2643db92f1/196626945068.jpg/80x80bb.webp",
-        "appleID": "moscow-mule/1622045625"
+        "appleID": "moscow-mule/1622045625",
+        "youtubeID": "p38WgakuYDo",
+        "spotifyID": "6Xom58OOXk2SoU711L2IXO"
     },
     {
         "ranking": "85",
         "title": "Mo Boy",
         "artist": "Dillaz",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/12/25/e1/1225e1da-0187-b379-62cd-b9000884dba2/8429006409907.jpg/80x80bb.webp",
-        "appleID": "mo-boy/1466231643"
+        "appleID": "mo-boy/1466231643",
+        "spotifyID": "4zww0H1u0yYvyBGixrRCb9"
     },
     {
         "ranking": "86",
@@ -634,14 +667,16 @@
         "title": "greedy",
         "artist": "Tate McRae",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/23/07/92/23079247-25be-3098-ef53-78e7d0fe7406/196871341653.jpg/80x80bb.webp",
-        "appleID": "greedy/1706381103"
+        "appleID": "greedy/1706381103",
+        "spotifyID": "3rUGC1vUpkDG9CZFHMur1t"
     },
     {
         "ranking": "92",
         "title": "A Nossa Dança",
         "artist": "Calema",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/9e/15/b7/9e15b79c-8f20-9b78-f27e-853436eef2e1/23UMGIM31987.rgb.jpg/80x80bb.webp",
-        "appleID": "a-nossa-dan%C3%A7a/1678804203"
+        "appleID": "a-nossa-dan%C3%A7a/1678804203",
+        "spotifyID": "0xKBEEJwpjaLn1QhCdyKcf"
     },
     {
         "ranking": "93",
@@ -655,7 +690,8 @@
         "title": "Tata",
         "artist": "Slow J",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/7a/02/38/7a0238c7-5888-46aa-72c7-8f4236a890de/196871619080.jpg/80x80bb.webp",
-        "appleID": "tata/1715327089"
+        "appleID": "tata/1715327089",
+        "spotifyID": "0fPOFtS7ZylYKcC9b64cSj"
     },
     {
         "ranking": "95",
@@ -676,7 +712,8 @@
         "title": "Espresso",
         "artist": "Sabrina Carpenter",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cb/64/8c/cb648cf7-e7bb-bd00-efe0-d744312c29a8/24UMGIM32304.rgb.jpg/80x80bb.webp",
-        "appleID": "espresso/1740212434"
+        "appleID": "espresso/1740212434",
+        "youtubeID": "eVli-tstM5E"
     },
     {
         "ranking": "98",
