@@ -221,7 +221,7 @@
         "title": "Камин",
         "artist": "EMIN",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/18/af/1d/18af1d8e-d684-3c0c-487a-f29c7453f174/3616404669582.jpg/80x80bb.webp",
-        "appleID": "%D0%BA%D0%B0%D0%BC%D0%B8%D0%BD/1570267744"
+        "appleID": "%D0%BA%D0%B0%D0%BC%D0%B8%D0%BD/1719165204"
     },
     {
         "ranking": "33",
@@ -298,7 +298,8 @@
         "title": "Flowers",
         "artist": "Miley Cyrus",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/c4/40/d8/c440d88a-2bcd-5d10-e814-e482271134f4/196871387361.jpg/80x80bb.webp",
-        "appleID": "flowers/1702906535"
+        "appleID": "flowers/1702906535",
+        "youtubeID": "G7KNmW9a75Y"
     },
     {
         "ranking": "44",
@@ -368,7 +369,9 @@
         "title": "PİŞT",
         "artist": "Era7capone",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/20/5b/3f/205b3f24-52e1-498e-7632-84e3104d39c8/198846479705.jpg/80x80bb.webp",
-        "appleID": "pi-%C5%9Ft/1771467712"
+        "appleID": "pi-%C5%9Ft/1771467712",
+        "youtubeID": "YxUlqj3rtk8",
+        "spotifyID": "2ugG3itPOpM9IANApt473B"
     },
     {
         "ranking": "54",
@@ -403,7 +406,8 @@
         "title": "Shape of You",
         "artist": "Ed Sheeran",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/15/e6/e8/15e6e8a4-4190-6a8b-86c3-ab4a51b88288/190295851286.jpg/80x80bb.webp",
-        "appleID": "shape-of-you/1193701392"
+        "appleID": "shape-of-you/1193701392",
+        "youtubeID": "JGwWNGJdvx8"
     },
     {
         "ranking": "59",
@@ -473,7 +477,8 @@
         "title": "Where's My Love (Acoustic)",
         "artist": "SYML",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7a/19/9a/7a199a72-16ba-4416-896d-110d14c8172c/067003072465.png/80x80bb.webp",
-        "appleID": "wheres-my-love-acoustic/1606587580"
+        "appleID": "wheres-my-love-acoustic/1606587580",
+        "spotifyID": "1B62o4CbdL9ckGvwsz2cgn"
     },
     {
         "ranking": "69",
@@ -627,7 +632,9 @@
         "title": "SEVMEYİ DENEMEDİN",
         "artist": "BLOK3",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c9/16/59/c91659c0-c1c1-9bd3-a6ee-a935ef58b5f7/cover.jpg/80x80bb.webp",
-        "appleID": "sevmeyi-denemedi-n/1767437103"
+        "appleID": "sevmeyi-denemedi-n/1767437103",
+        "youtubeID": "n7iuaTlGbd4",
+        "spotifyID": "3ff93VTp2DBbNnDEsAW8Cm"
     },
     {
         "ranking": "91",
