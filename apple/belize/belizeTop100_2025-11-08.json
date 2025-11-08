@@ -53,7 +53,8 @@
         "title": "Cocoa Tea",
         "artist": "Kes",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f6/57/69/f65769d6-86f9-dde2-56c1-2580a73805d8/198937079722_cover.jpg/80x80bb.webp",
-        "appleID": "cocoa-tea/1778350176"
+        "appleID": "cocoa-tea/1778350176",
+        "youtubeID": "GiKDPyAADeM"
     },
     {
         "ranking": "9",
@@ -151,7 +152,9 @@
         "title": "Die With A Smile",
         "artist": "Lady Gaga",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/11/ae/f2/11aef294-f57c-bab9-c9fc-529162984e62/24UMGIM85348.rgb.jpg/80x80bb.webp",
-        "appleID": "die-with-a-smile/1762656732"
+        "appleID": "die-with-a-smile/1762656732",
+        "youtubeID": "kPa7bsKwL-c",
+        "spotifyID": "2plbrEY59IikOBgBGLjaoe"
     },
     {
         "ranking": "23",
@@ -172,7 +175,9 @@
         "title": "Moscow Mule",
         "artist": "Bad Bunny",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/3e/04/eb/3e04ebf6-370f-f59d-ec84-2c2643db92f1/196626945068.jpg/80x80bb.webp",
-        "appleID": "moscow-mule/1622045625"
+        "appleID": "moscow-mule/1622045625",
+        "youtubeID": "p38WgakuYDo",
+        "spotifyID": "6Xom58OOXk2SoU711L2IXO"
     },
     {
         "ranking": "26",
@@ -200,7 +205,9 @@
         "title": "Lose Control",
         "artist": "Teddy Swims",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/36/19/66/36196640-1561-dc5e-c6bc-1e5f4befa583/093624856771.jpg/80x80bb.webp",
-        "appleID": "lose-control/1691699836"
+        "appleID": "lose-control/1691699836",
+        "youtubeID": "GZ3zL7kT6_c",
+        "spotifyID": "17phhZDn6oGtzMe56NuWvj"
     },
     {
         "ranking": "30",
@@ -235,7 +242,9 @@
         "title": "Si Antes Te Hubiera Conocido",
         "artist": "KAROL G",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a0/60/94/a060947c-54d8-0fad-c558-eed12600224c/24UMGIM62705.rgb.jpg/80x80bb.webp",
-        "appleID": "si-antes-te-hubiera-conocido/1752031539"
+        "appleID": "si-antes-te-hubiera-conocido/1752031539",
+        "youtubeID": "QCZZwZQ4qNs",
+        "spotifyID": "6WatFBLVB0x077xWeoVc2k"
     },
     {
         "ranking": "35",
@@ -256,7 +265,8 @@
         "title": "7:00 (Raw)",
         "artist": "Malie Donn",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9b/2b/41/9b2b41f6-5f4d-e5da-9e82-8054ed4adb88/10307.jpg/80x80bb.webp",
-        "appleID": "7-00-raw/1802270718"
+        "appleID": "7-00-raw/1802270718",
+        "youtubeID": "PdoPIpKdsPI"
     },
     {
         "ranking": "38",
@@ -291,7 +301,8 @@
         "title": "luther",
         "artist": "Kendrick Lamar",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/50/c2/cc/50c2cc95-3658-9417-0d4b-831abde44ba1/24UM1IM28978.rgb.jpg/80x80bb.webp",
-        "appleID": "luther/1781270323"
+        "appleID": "luther/1781270323",
+        "youtubeID": "4_taypLmSMU"
     },
     {
         "ranking": "43",
@@ -333,7 +344,8 @@
         "title": "Haad (Fiesta)",
         "artist": "Armanii",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/17/24/03/1724039c-5812-653e-bca3-ec7b5c9882fa/0.jpg/80x80bb.webp",
-        "appleID": "haad-fiesta/1743242740"
+        "appleID": "haad-fiesta/1743242740",
+        "youtubeID": "-HdnnXfPUvs"
     },
     {
         "ranking": "49",
@@ -361,7 +373,8 @@
         "title": "Tyrant",
         "artist": "Masicka",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/df/d8/9a/dfd89a6c-a372-eb5e-5d99-209d0708d0a3/23UMGIM54147.rgb.jpg/80x80bb.webp",
-        "appleID": "tyrant/1687575941"
+        "appleID": "tyrant/1687575941",
+        "youtubeID": "AGonQbpNooU"
     },
     {
         "ranking": "53",
@@ -424,7 +437,8 @@
         "title": "BIRDS OF A FEATHER",
         "artist": "Billie Eilish",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
-        "appleID": "birds-of-a-feather/1739659142"
+        "appleID": "birds-of-a-feather/1739659142",
+        "youtubeID": "V9PVRfjEBTI"
     },
     {
         "ranking": "62",
@@ -466,7 +480,8 @@
         "title": "A Bar Song (Tipsy)",
         "artist": "Shaboozey",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/97/b5/bc/97b5bca2-6238-2421-4f0d-1f7a39d5d9d4/197342550925_cover.jpg/80x80bb.webp",
-        "appleID": "a-bar-song-tipsy/1737085899"
+        "appleID": "a-bar-song-tipsy/1737085899",
+        "youtubeID": "t7bQwwqW-Hc"
     },
     {
         "ranking": "68",
@@ -529,7 +544,8 @@
         "title": "Cups Up",
         "artist": "Malie Donn",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/23/49/26/2349266a-4fd1-4c96-8ddd-8a21cfe23227/197189042348.jpg/80x80bb.webp",
-        "appleID": "cups-up/1691201515"
+        "appleID": "cups-up/1691201515",
+        "youtubeID": "_7OrZfivZqE"
     },
     {
         "ranking": "77",
@@ -550,7 +566,8 @@
         "title": "All I Want for Christmas Is You",
         "artist": "Mariah Carey",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/c6/b7/27/c6b727f7-3a32-6b43-cee2-05bb71daf1cf/dj.itfmdeif.jpg/80x80bb.webp",
-        "appleID": "all-i-want-for-christmas-is-you/585972803"
+        "appleID": "all-i-want-for-christmas-is-you/585972803",
+        "youtubeID": "aAkMkVFwAoo"
     },
     {
         "ranking": "80",
@@ -592,7 +609,8 @@
         "title": "Espresso",
         "artist": "Sabrina Carpenter",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cb/64/8c/cb648cf7-e7bb-bd00-efe0-d744312c29a8/24UMGIM32304.rgb.jpg/80x80bb.webp",
-        "appleID": "espresso/1740212434"
+        "appleID": "espresso/1740212434",
+        "youtubeID": "eVli-tstM5E"
     },
     {
         "ranking": "86",
@@ -606,7 +624,9 @@
         "title": "NEL",
         "artist": "Fuerza Regida",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/24/95/0f/24950f19-f5dd-696b-8295-df4f780a0d9a/196872326017.jpg/80x80bb.webp",
-        "appleID": "nel/1759045296"
+        "appleID": "nel/1759045296",
+        "youtubeID": "fZcrCrHnYBw",
+        "spotifyID": "5AH31dDNgxCMGDdxubNNn4"
     },
     {
         "ranking": "88",
@@ -620,7 +640,8 @@
         "title": "Expensive",
         "artist": "Valiant",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/67/ef/ba/67efba92-a95d-8a3e-f26e-7751657948f4/197188257088.jpg/80x80bb.webp",
-        "appleID": "expensive/1674670010"
+        "appleID": "expensive/1674670010",
+        "youtubeID": "nuMKdd_JkHo"
     },
     {
         "ranking": "90",
@@ -634,7 +655,8 @@
         "title": "Not Like Us",
         "artist": "Kendrick Lamar",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d0/ef/b6/d0efb685-73be-fdee-58c9-be655f4cd4fd/24UMGIM51924.rgb.jpg/80x80bb.webp",
-        "appleID": "not-like-us/1744776167"
+        "appleID": "not-like-us/1744776167",
+        "youtubeID": "H58vbez_m4E"
     },
     {
         "ranking": "92",
@@ -648,7 +670,9 @@
         "title": "UWAIE",
         "artist": "Kapo",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4d/e8/03/4de80347-86da-bed6-47c4-1478b3aa46fa/196872367263.jpg/80x80bb.webp",
-        "appleID": "uwaie/1761902101"
+        "appleID": "uwaie/1761902101",
+        "youtubeID": "spbagny8OjM",
+        "spotifyID": "5QjmUqgpPQgXgg4606DqZF"
     },
     {
         "ranking": "94",
@@ -669,7 +693,8 @@
         "title": "Good Days",
         "artist": "SZA",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/ef/09/cf/ef09cf1f-a057-6039-00d3-7b5d14c7eba1/886449006717.jpg/80x80bb.webp",
-        "appleID": "good-days/1546390051"
+        "appleID": "good-days/1546390051",
+        "youtubeID": "0BdlKkvjEgA"
     },
     {
         "ranking": "97",

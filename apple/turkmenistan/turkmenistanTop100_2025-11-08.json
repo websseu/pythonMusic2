@@ -263,7 +263,8 @@
         "title": "Impossible",
         "artist": "James Arthur",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/8d/8d/c5/8d8dc562-7f43-40d8-e37d-7ea6bc49d5ca/886443782167.jpg/80x80bb.webp",
-        "appleID": "impossible/589034898"
+        "appleID": "impossible/589034898",
+        "spotifyID": "6skGMlljk0s5yeBKZ7sN5n"
     },
     {
         "ranking": "39",
@@ -389,7 +390,7 @@
         "title": "Камин",
         "artist": "EMIN",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/18/af/1d/18af1d8e-d684-3c0c-487a-f29c7453f174/3616404669582.jpg/80x80bb.webp",
-        "appleID": "%D0%BA%D0%B0%D0%BC%D0%B8%D0%BD/1570267744"
+        "appleID": "%D0%BA%D0%B0%D0%BC%D0%B8%D0%BD/1719165204"
     },
     {
         "ranking": "57",
@@ -480,7 +481,8 @@
         "title": "Shape of You",
         "artist": "Ed Sheeran",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/15/e6/e8/15e6e8a4-4190-6a8b-86c3-ab4a51b88288/190295851286.jpg/80x80bb.webp",
-        "appleID": "shape-of-you/1193701392"
+        "appleID": "shape-of-you/1193701392",
+        "youtubeID": "JGwWNGJdvx8"
     },
     {
         "ranking": "70",
@@ -697,6 +699,7 @@
         "title": "25",
         "artist": "Ati242",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/00/ba/03/00ba03f7-d659-af10-84ce-826d460dcb96/196626897442.jpg/80x80bb.webp",
-        "appleID": "25/1621315548"
+        "appleID": "25/1621315548",
+        "spotifyID": "4HuB9A0O1XwmwTVtTgODm8"
     }
 ]
