@@ -165,7 +165,9 @@
         "title": "Taikuri",
         "artist": "Turisti",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/15/af/b9/15afb991-2b1c-c5c0-ad4e-2a95c6b9740d/5021732487315.jpg/80x80bb.webp",
-        "appleID": "taikuri/1768755250"
+        "appleID": "taikuri/1768755250",
+        "youtubeID": "t3EgO8j_wS0",
+        "spotifyID": "7fdNCtxfZArtOZK3hLqqm3"
     },
     {
         "ranking": "25",
@@ -242,14 +244,17 @@
         "title": "On / Off",
         "artist": "Averagekidluke",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cc/5e/a2/cc5ea230-31c8-7b45-4ea0-4e9386068b6a/5021732466440.jpg/80x80bb.webp",
-        "appleID": "on-off/1762680743"
+        "appleID": "on-off/1762680743",
+        "spotifyID": "6jRJ1RAvdNxC1TG03VRFVg"
     },
     {
         "ranking": "36",
         "title": "Timanttei",
         "artist": "Mirella",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/0d/55/be/0d55bef3-3606-8c34-6615-7587a7e51335/23UM1IM65059.rgb.jpg/80x80bb.webp",
-        "appleID": "timanttei/1721431952"
+        "appleID": "timanttei/1721431952",
+        "youtubeID": "I4hrPA2a9RI",
+        "spotifyID": "36lT6tdND08VVvv3HwbhZD"
     },
     {
         "ranking": "37",
@@ -305,7 +310,9 @@
         "title": "Diva",
         "artist": "Averagekidluke",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/80/d9/20/80d92029-9721-67be-3fe7-d748f47a07a9/5021732542021.jpg/80x80bb.webp",
-        "appleID": "diva/1777810477"
+        "appleID": "diva/1777810477",
+        "youtubeID": "LJ0GFkS5RZw",
+        "spotifyID": "6zLzNEyVqtyZoohE75maSy"
     },
     {
         "ranking": "45",
@@ -340,7 +347,9 @@
         "title": "WILDFLOWER",
         "artist": "Billie Eilish",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
-        "appleID": "wildflower/1739659144"
+        "appleID": "wildflower/1739659144",
+        "youtubeID": "IWKyykQBRKo",
+        "spotifyID": "3QaPy1KgI7nu9FJEQUgn6h"
     },
     {
         "ranking": "50",
@@ -452,7 +461,8 @@
         "title": "All I Want for Christmas Is You",
         "artist": "Mariah Carey",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/c6/b7/27/c6b727f7-3a32-6b43-cee2-05bb71daf1cf/dj.itfmdeif.jpg/80x80bb.webp",
-        "appleID": "all-i-want-for-christmas-is-you/585972803"
+        "appleID": "all-i-want-for-christmas-is-you/585972803",
+        "youtubeID": "aAkMkVFwAoo"
     },
     {
         "ranking": "66",
@@ -529,7 +539,8 @@
         "title": "Ylivoimainen",
         "artist": "Kuumaa",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/7d/93/e6/7d93e60d-598a-c3b2-a479-11b1593f27e8/22UM1IM45021.rgb.jpg/80x80bb.webp",
-        "appleID": "ylivoimainen/1661437152"
+        "appleID": "ylivoimainen/1661437152",
+        "spotifyID": "4TXoHT9YxXfczvs2ccf5MK"
     },
     {
         "ranking": "77",
@@ -613,7 +624,9 @@
         "title": "Marraskuu",
         "artist": "ibe",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/49/56/3f/49563f47-07bc-d265-0002-bf276ab824ff/392.jpg/80x80bb.webp",
-        "appleID": "marraskuu/1775139472"
+        "appleID": "marraskuu/1775139472",
+        "youtubeID": "6K1KDVK8dO8",
+        "spotifyID": "5A5sHRQoeJHzMULQGPLoOV"
     },
     {
         "ranking": "89",
@@ -648,7 +661,8 @@
         "title": "Timeless",
         "artist": "The Weeknd",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/40/77/cb/4077cbd1-b6a0-d8df-b9d3-e9a339dbc0ea/24UM1IM04061.rgb.jpg/80x80bb.webp",
-        "appleID": "timeless/1770380890"
+        "appleID": "timeless/1770380890",
+        "youtubeID": "5EpyN_6dqyk"
     },
     {
         "ranking": "94",
