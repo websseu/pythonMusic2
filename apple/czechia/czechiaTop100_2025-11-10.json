@@ -116,7 +116,8 @@
         "title": "Stíny",
         "artist": "Viktor Sheen",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/cb/e9/51/cbe95142-24c3-3071-93b7-2be155ae20d4/190296350849.jpg/80x80bb.webp",
-        "appleID": "st%C3%ADny/1594405608"
+        "appleID": "st%C3%ADny/1594405608",
+        "spotifyID": "0J3SIAOndpL1MS2Vq2RMQ9"
     },
     {
         "ranking": "18",
@@ -228,14 +229,18 @@
         "title": "Pátky",
         "artist": "Viktor Sheen",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2c/ab/92/2cab92a4-bcac-5da9-89e2-18a52a39e77e/5021732523303.jpg/80x80bb.webp",
-        "appleID": "p%C3%A1tky/1774287811"
+        "appleID": "p%C3%A1tky/1774287811",
+        "youtubeID": "INbE2ZVZy6c",
+        "spotifyID": "1nwKq6t4wpKLK2bWkDVm3e"
     },
     {
         "ranking": "34",
         "title": "Syndrom",
         "artist": "Viktor Sheen",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2c/ab/92/2cab92a4-bcac-5da9-89e2-18a52a39e77e/5021732523303.jpg/80x80bb.webp",
-        "appleID": "syndrom/1774287814"
+        "appleID": "syndrom/1774287814",
+        "youtubeID": "paVhbn5YtrI",
+        "spotifyID": "6gj6FXx7jZXOOdLX4aNaSK"
     },
     {
         "ranking": "35",
@@ -256,7 +261,8 @@
         "title": "Beautiful Things",
         "artist": "Benson Boone",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/54/f4/92/54f49210-e260-b519-ebbd-f4f40ee710cd/054391342751.jpg/80x80bb.webp",
-        "appleID": "beautiful-things/1724488124"
+        "appleID": "beautiful-things/1724488124",
+        "youtubeID": "Oa_RSwwpPaA"
     },
     {
         "ranking": "38",
@@ -277,7 +283,9 @@
         "title": "APT.",
         "artist": "ROSÉ",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2d/1a/7d/2d1a7d91-587e-0ceb-d434-327bd66d9e86/075679628312.jpg/80x80bb.webp",
-        "appleID": "apt/1773452221"
+        "appleID": "apt/1773452221",
+        "youtubeID": "ekr2nIex040",
+        "spotifyID": "4wJ5Qq0jBN4ajy7ouZIV1c"
     },
     {
         "ranking": "41",
@@ -305,7 +313,9 @@
         "title": "That’s So True",
         "artist": "Gracie Abrams",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/26/78/81/26788143-5e5f-0813-2480-ecf4280ef221/24UM1IM07082.rgb.jpg/80x80bb.webp",
-        "appleID": "thats-so-true/1773474483"
+        "appleID": "thats-so-true/1773474483",
+        "youtubeID": "BDHM8cyJQa8",
+        "spotifyID": "7ne4VBA60CxGM75vw0EYad"
     },
     {
         "ranking": "45",
@@ -326,7 +336,9 @@
         "title": "Die With A Smile",
         "artist": "Lady Gaga",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/11/ae/f2/11aef294-f57c-bab9-c9fc-529162984e62/24UMGIM85348.rgb.jpg/80x80bb.webp",
-        "appleID": "die-with-a-smile/1762656732"
+        "appleID": "die-with-a-smile/1762656732",
+        "youtubeID": "kPa7bsKwL-c",
+        "spotifyID": "2plbrEY59IikOBgBGLjaoe"
     },
     {
         "ranking": "48",
@@ -347,7 +359,9 @@
         "title": "Iris",
         "artist": "The Goo Goo Dolls",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music/b4/0c/98/mzi.vhowcacb.jpg/80x80bb.webp",
-        "appleID": "iris/267537169"
+        "appleID": "iris/267537169",
+        "youtubeID": "NdYWuo9OFAw",
+        "spotifyID": "6Qyc6fS4DsZjB2mRW9DsQs"
     },
     {
         "ranking": "51",
@@ -368,7 +382,8 @@
         "title": "Dopamin",
         "artist": "Viktor Sheen",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/1a/20/c8/1a20c887-27de-2a60-d3f0-d8bf51bb7ca2/5054197842733.jpg/80x80bb.webp",
-        "appleID": "dopamin/1711135982"
+        "appleID": "dopamin/1711135982",
+        "spotifyID": "6AMZm12a1B2kpgN7qOA7Cy"
     },
     {
         "ranking": "54",
@@ -382,7 +397,9 @@
         "title": "The Emptiness Machine",
         "artist": "LINKIN PARK",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/69/21/cf/6921cff3-7074-118a-ece2-4012450e6c75/093624839811.jpg/80x80bb.webp",
-        "appleID": "the-emptiness-machine/1766137051"
+        "appleID": "the-emptiness-machine/1766137051",
+        "youtubeID": "SRXH9AbT280",
+        "spotifyID": "1EDPVGbyPKJPeGqATwXZvN"
     },
     {
         "ranking": "56",
@@ -431,7 +448,9 @@
         "title": "WILDFLOWER",
         "artist": "Billie Eilish",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
-        "appleID": "wildflower/1739659144"
+        "appleID": "wildflower/1739659144",
+        "youtubeID": "IWKyykQBRKo",
+        "spotifyID": "3QaPy1KgI7nu9FJEQUgn6h"
     },
     {
         "ranking": "63",
@@ -445,7 +464,8 @@
         "title": "Shape of You",
         "artist": "Ed Sheeran",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/15/e6/e8/15e6e8a4-4190-6a8b-86c3-ab4a51b88288/190295851286.jpg/80x80bb.webp",
-        "appleID": "shape-of-you/1193701392"
+        "appleID": "shape-of-you/1193701392",
+        "youtubeID": "JGwWNGJdvx8"
     },
     {
         "ranking": "65",
@@ -466,7 +486,8 @@
         "title": "Sweater Weather",
         "artist": "The Neighbourhood",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/28/71/00/287100fb-5c31-0195-5343-e6b3625886d0/886443969834.jpg/80x80bb.webp",
-        "appleID": "sweater-weather/635016640"
+        "appleID": "sweater-weather/635016640",
+        "spotifyID": "0cQVqPuHQP4KEwc7ZUQmj6"
     },
     {
         "ranking": "68",
@@ -487,7 +508,8 @@
         "title": "Another Love",
         "artist": "Tom Odell",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/3d/80/6e/3d806e1d-106c-7483-2024-032042519ab3/886443996779.jpg/80x80bb.webp",
-        "appleID": "another-love/1308605492"
+        "appleID": "another-love/1308605492",
+        "spotifyID": "7jtQIBanIiJOMS6RyCx6jZ"
     },
     {
         "ranking": "71",
@@ -515,14 +537,17 @@
         "title": "Roleplay",
         "artist": "Viktor Sheen",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2c/ab/92/2cab92a4-bcac-5da9-89e2-18a52a39e77e/5021732523303.jpg/80x80bb.webp",
-        "appleID": "roleplay/1774287812"
+        "appleID": "roleplay/1774287812",
+        "spotifyID": "7jAC1Ifo1Qpsf8pKW02ata"
     },
     {
         "ranking": "75",
         "title": "Lose Control",
         "artist": "Teddy Swims",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/36/19/66/36196640-1561-dc5e-c6bc-1e5f4befa583/093624856771.jpg/80x80bb.webp",
-        "appleID": "lose-control/1691699836"
+        "appleID": "lose-control/1691699836",
+        "youtubeID": "GZ3zL7kT6_c",
+        "spotifyID": "17phhZDn6oGtzMe56NuWvj"
     },
     {
         "ranking": "76",
@@ -550,7 +575,8 @@
         "title": "In the End",
         "artist": "LINKIN PARK",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/53/a7/7f/53a77fab-c54c-a57b-8130-248fc12d0c80/093624948995.jpg/80x80bb.webp",
-        "appleID": "in-the-end/590431785"
+        "appleID": "in-the-end/590431785",
+        "spotifyID": "60a0Rd6pjrkxjPbaKzXjfq"
     },
     {
         "ranking": "80",
@@ -585,7 +611,8 @@
         "title": "Praha/Vídeň",
         "artist": "Calin",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/24/2f/fa/242ffa76-02b9-e260-7c8b-b2da486dde1a/190296444753.jpg/80x80bb.webp",
-        "appleID": "praha-v%C3%ADde%C5%88/1585673430"
+        "appleID": "praha-v%C3%ADde%C5%88/1585673430",
+        "youtubeID": "5ReZTJRciXw"
     },
     {
         "ranking": "85",
@@ -620,7 +647,8 @@
         "title": "Perfect",
         "artist": "Ed Sheeran",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/15/e6/e8/15e6e8a4-4190-6a8b-86c3-ab4a51b88288/190295851286.jpg/80x80bb.webp",
-        "appleID": "perfect/1193701400"
+        "appleID": "perfect/1193701400",
+        "youtubeID": "2Vv-BfVoq4g"
     },
     {
         "ranking": "90",
@@ -662,7 +690,9 @@
         "title": "CHIHIRO",
         "artist": "Billie Eilish",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
-        "appleID": "chihiro/1739659141"
+        "appleID": "chihiro/1739659141",
+        "youtubeID": "BY_XwvKogC8",
+        "spotifyID": "7BRD7x5pt8Lqa1eGYC4dzj"
     },
     {
         "ranking": "96",
@@ -676,7 +706,8 @@
         "title": "All I Want for Christmas Is You",
         "artist": "Mariah Carey",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/c6/b7/27/c6b727f7-3a32-6b43-cee2-05bb71daf1cf/dj.itfmdeif.jpg/80x80bb.webp",
-        "appleID": "all-i-want-for-christmas-is-you/585972803"
+        "appleID": "all-i-want-for-christmas-is-you/585972803",
+        "youtubeID": "aAkMkVFwAoo"
     },
     {
         "ranking": "98",
