@@ -53,7 +53,9 @@
         "title": "WILDFLOWER",
         "artist": "Billie Eilish",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
-        "appleID": "wildflower/1739659144"
+        "appleID": "wildflower/1739659144",
+        "youtubeID": "IWKyykQBRKo",
+        "spotifyID": "3QaPy1KgI7nu9FJEQUgn6h"
     },
     {
         "ranking": "9",
@@ -137,7 +139,8 @@
         "title": "Nina",
         "artist": ".Feast",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f1/28/34/f12834cb-932f-cca6-58d7-3b5a790d83c2/cover.jpg/80x80bb.webp",
-        "appleID": "nina/1749943602"
+        "appleID": "nina/1749943602",
+        "youtubeID": "CtRIsakAgjQ"
     },
     {
         "ranking": "21",
@@ -193,7 +196,8 @@
         "title": "BIRDS OF A FEATHER",
         "artist": "Billie Eilish",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
-        "appleID": "birds-of-a-feather/1739659142"
+        "appleID": "birds-of-a-feather/1739659142",
+        "youtubeID": "V9PVRfjEBTI"
     },
     {
         "ranking": "29",
@@ -270,7 +274,8 @@
         "title": "Lampu Kuning",
         "artist": "Juicy Luicy",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/26/0c/be/260cbe21-9d2d-a2ab-3391-f8fde6ad6840/198704005169_Cover.jpg/80x80bb.webp",
-        "appleID": "lampu-kuning/1749498368"
+        "appleID": "lampu-kuning/1749498368",
+        "youtubeID": "YCLJz0TANaA"
     },
     {
         "ranking": "40",
@@ -305,7 +310,8 @@
         "title": "About You",
         "artist": "The 1975",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1f/c7/98/1fc7988e-0a39-5724-1390-e45246250e24/198704825934_Cover.jpg/80x80bb.webp",
-        "appleID": "about-you/1850019038"
+        "appleID": "about-you/1632479847",
+        "youtubeID": "tGv7CUutzqU"
     },
     {
         "ranking": "45",
@@ -340,14 +346,17 @@
         "title": "Bawa Dia Kembali",
         "artist": "Mahalini",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music1/v4/3b/f2/d6/3bf2d632-27fb-86d1-bc4a-06112b5e66bb/cover.jpg/80x80bb.webp",
-        "appleID": "bawa-dia-kembali/968040028"
+        "appleID": "bawa-dia-kembali/968040028",
+        "youtubeID": "dq2i49uwEJg",
+        "spotifyID": "25M9piWxSsq0xLcjQW5yz6"
     },
     {
         "ranking": "50",
         "title": "Backburner",
         "artist": "NIKI",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/19/b6/51/19b6510e-4edb-1bc5-1aff-9d21c889cdae/190296084300.jpg/80x80bb.webp",
-        "appleID": "backburner/1766383338"
+        "appleID": "backburner/1766383338",
+        "spotifyID": "4x2PkqSLtuwv53hLqq4GiY"
     },
     {
         "ranking": "51",
@@ -368,7 +377,9 @@
         "title": "Die With A Smile",
         "artist": "Lady Gaga",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/11/ae/f2/11aef294-f57c-bab9-c9fc-529162984e62/24UMGIM85348.rgb.jpg/80x80bb.webp",
-        "appleID": "die-with-a-smile/1762656732"
+        "appleID": "die-with-a-smile/1762656732",
+        "youtubeID": "kPa7bsKwL-c",
+        "spotifyID": "2plbrEY59IikOBgBGLjaoe"
     },
     {
         "ranking": "54",
@@ -417,7 +428,8 @@
         "title": "Tak Ada Ujungnya",
         "artist": "Rony Parulian",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/67/7a/b8/677ab8f8-cd9c-2e9b-3133-ef00f59bbb49/24UM1IM17368.rgb.jpg/80x80bb.webp",
-        "appleID": "tak-ada-ujungnya/1776810807"
+        "appleID": "tak-ada-ujungnya/1776810807",
+        "youtubeID": "R1zjcsKfZAg"
     },
     {
         "ranking": "61",
@@ -473,7 +485,9 @@
         "title": "toxic till the end",
         "artist": "ROSÉ",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2d/14/66/2d14661b-345b-d0f3-4e86-56ef626e68aa/075679629203.jpg/80x80bb.webp",
-        "appleID": "toxic-till-the-end/1771105929"
+        "appleID": "toxic-till-the-end/1771105929",
+        "youtubeID": "eA0lHNZ1KCA",
+        "spotifyID": "1z5ebC9238uGoBgzYyvGpQ"
     },
     {
         "ranking": "69",
@@ -487,7 +501,8 @@
         "title": "Aku Milikmu",
         "artist": "Dewa 19",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/fc/58/c3/fc58c343-0dbc-b9db-7777-658f9df01ee8/Dewa_19_Format_Masa_Depan.jpg/80x80bb.webp",
-        "appleID": "aku-milikmu/534882587"
+        "appleID": "aku-milikmu/534882587",
+        "youtubeID": "lHC_pKJKKg8"
     },
     {
         "ranking": "71",
@@ -501,7 +516,8 @@
         "title": "Pesan Terakhir",
         "artist": "Lyodra",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/5f/4f/68/5f4f6824-86e0-0efa-a2c9-9fbd104b0470/21UMGIM62551.rgb.jpg/80x80bb.webp",
-        "appleID": "pesan-terakhir/1575730129"
+        "appleID": "pesan-terakhir/1575730129",
+        "spotifyID": "3FwQ3RYYEekzjEeL3jdpUZ"
     },
     {
         "ranking": "73",
@@ -515,7 +531,8 @@
         "title": "Perfect",
         "artist": "Ed Sheeran",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/15/e6/e8/15e6e8a4-4190-6a8b-86c3-ab4a51b88288/190295851286.jpg/80x80bb.webp",
-        "appleID": "perfect/1193701400"
+        "appleID": "perfect/1193701400",
+        "youtubeID": "2Vv-BfVoq4g"
     },
     {
         "ranking": "75",
@@ -536,7 +553,9 @@
         "title": "That’s So True",
         "artist": "Gracie Abrams",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/26/78/81/26788143-5e5f-0813-2480-ecf4280ef221/24UM1IM07082.rgb.jpg/80x80bb.webp",
-        "appleID": "thats-so-true/1773474483"
+        "appleID": "thats-so-true/1773474483",
+        "youtubeID": "BDHM8cyJQa8",
+        "spotifyID": "7ne4VBA60CxGM75vw0EYad"
     },
     {
         "ranking": "78",
@@ -564,7 +583,9 @@
         "title": "Satu Bulan",
         "artist": "Bernadya",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/d8/bb/8c/d8bb8c81-ddb9-e427-a18b-c385afae12c2/23UMGIM65225.rgb.jpg/80x80bb.webp",
-        "appleID": "satu-bulan/1692125490"
+        "appleID": "satu-bulan/1692125490",
+        "youtubeID": "yjnSX_iUFVo",
+        "spotifyID": "7zOVh5fGpEwSbZd0g9z80B"
     },
     {
         "ranking": "82",
@@ -592,7 +613,9 @@
         "title": "number one girl",
         "artist": "ROSÉ",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2d/14/66/2d14661b-345b-d0f3-4e86-56ef626e68aa/075679629203.jpg/80x80bb.webp",
-        "appleID": "number-one-girl/1771105923"
+        "appleID": "number-one-girl/1771105923",
+        "youtubeID": "pZ1NdE69VTs",
+        "spotifyID": "1lcBt7LoEikqYmhUoa2cez"
     },
     {
         "ranking": "86",
@@ -634,7 +657,8 @@
         "title": "Bunga Maaf",
         "artist": "The Lantis",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4b/8b/94/4b8b9447-9525-74ef-44cd-f5409151a778/5021732545244.jpg/80x80bb.webp",
-        "appleID": "bunga-maaf/1778455708"
+        "appleID": "bunga-maaf/1778455708",
+        "spotifyID": "26KhLgFuPymkm1uiZkc6Rv"
     },
     {
         "ranking": "92",
@@ -648,7 +672,8 @@
         "title": "Anugerah Terindah",
         "artist": "Andmesh",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/55/99/d0/5599d05f-7c00-ff28-8a3b-2e6c6f8f4b74/cover.jpg/80x80bb.webp",
-        "appleID": "anugerah-terindah/1674118304"
+        "appleID": "anugerah-terindah/1674118304",
+        "youtubeID": "o25_Tn8BnFM"
     },
     {
         "ranking": "94",
@@ -662,28 +687,34 @@
         "title": "Always",
         "artist": "Daniel Caesar",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/36/e3/8e/36e38e7e-94ec-dbcd-f23c-0890e1a9518f/22UM1IM44821.rgb.jpg/80x80bb.webp",
-        "appleID": "always/1681323048"
+        "appleID": "always/1681323048",
+        "spotifyID": "2LlOeW5rVcvl3QcPNPcDus"
     },
     {
         "ranking": "96",
         "title": "Untungnya, Hidup Harus Tetap Berjalan",
         "artist": "Bernadya",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9c/9f/80/9c9f80d1-cb53-db64-9bca-03f06cd1000c/24UMGIM57224.rgb.jpg/80x80bb.webp",
-        "appleID": "untungnya-hidup-harus-tetap-berjalan/1749877048"
+        "appleID": "untungnya-hidup-harus-tetap-berjalan/1749877048",
+        "youtubeID": "HB8vftGxsIc",
+        "spotifyID": "2gcMYiZzzmzoF8PPAfL3IO"
     },
     {
         "ranking": "97",
         "title": "luther",
         "artist": "Kendrick Lamar",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/50/c2/cc/50c2cc95-3658-9417-0d4b-831abde44ba1/24UM1IM28978.rgb.jpg/80x80bb.webp",
-        "appleID": "luther/1781270323"
+        "appleID": "luther/1781270323",
+        "youtubeID": "4_taypLmSMU"
     },
     {
         "ranking": "98",
         "title": "APT.",
         "artist": "ROSÉ",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2d/1a/7d/2d1a7d91-587e-0ceb-d434-327bd66d9e86/075679628312.jpg/80x80bb.webp",
-        "appleID": "apt/1773452221"
+        "appleID": "apt/1773452221",
+        "youtubeID": "ekr2nIex040",
+        "spotifyID": "4wJ5Qq0jBN4ajy7ouZIV1c"
     },
     {
         "ranking": "99",
