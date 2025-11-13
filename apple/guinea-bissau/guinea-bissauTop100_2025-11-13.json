@@ -235,7 +235,9 @@
         "title": "Mantra",
         "artist": "JENNIE",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5d/9a/4c/5d9a4c5f-1c34-1265-0fa5-860dc8f0e802/196872495263.jpg/80x80bb.webp",
-        "appleID": "mantra/1772759719"
+        "appleID": "mantra/1772759719",
+        "youtubeID": "bB3-CUMERIU",
+        "spotifyID": "2CspwnypzT7rcWI9RfsoSb"
     },
     {
         "ranking": "35",
@@ -284,7 +286,8 @@
         "title": "Rush",
         "artist": "Ayra Starr",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/b5/4a/3d/b54a3d1a-f493-7a9b-1807-a73f01709053/5059449090122.png/80x80bb.webp",
-        "appleID": "rush/1642898573"
+        "appleID": "rush/1642898573",
+        "youtubeID": "crtQSTYWtqE"
     },
     {
         "ranking": "42",
@@ -466,7 +469,8 @@
         "title": "Common Person",
         "artist": "Burna Boy",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/fd/08/8c/fd088c72-75fc-0306-3c69-1ef4448ff3cf/075679688477.jpg/80x80bb.webp",
-        "appleID": "common-person/1749167348"
+        "appleID": "common-person/1749167348",
+        "youtubeID": "8560CAdA0Ys"
     },
     {
         "ranking": "68",
@@ -550,7 +554,8 @@
         "title": "Apocalypse",
         "artist": "Cigarettes After Sex",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b3/5e/0f/b35e0fbe-2370-fc48-0f0c-977525e93bf2/720841214601_Cover.jpg/80x80bb.webp",
-        "appleID": "apocalypse/1217977755"
+        "appleID": "apocalypse/1215409245",
+        "spotifyID": "0yc6Gst2xkRu0eMLeRMGCX"
     },
     {
         "ranking": "80",
@@ -655,7 +660,8 @@
         "title": "Sunsetz",
         "artist": "Cigarettes After Sex",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b3/5e/0f/b35e0fbe-2370-fc48-0f0c-977525e93bf2/720841214601_Cover.jpg/80x80bb.webp",
-        "appleID": "sunsetz/1217977722"
+        "appleID": "sunsetz/1217977722",
+        "spotifyID": "0SpkyS1Q4MD8GaVcP5YjT4"
     },
     {
         "ranking": "95",
@@ -683,7 +689,7 @@
         "title": "Mama",
         "artist": "Kizz Daniel",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/56/12/64/56126475-5a72-f262-f227-a8666dce10a7/739042.jpg/80x80bb.webp",
-        "appleID": "mama/1817530412"
+        "appleID": "mama/1302463460"
     },
     {
         "ranking": "99",
