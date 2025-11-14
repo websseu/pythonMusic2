@@ -88,7 +88,8 @@
         "title": "Not Like Us",
         "artist": "Kendrick Lamar",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d0/ef/b6/d0efb685-73be-fdee-58c9-be655f4cd4fd/24UMGIM51924.rgb.jpg/80x80bb.webp",
-        "appleID": "not-like-us/1744776167"
+        "appleID": "not-like-us/1744776167",
+        "youtubeID": "H58vbez_m4E"
     },
     {
         "ranking": "14",
@@ -137,14 +138,17 @@
         "title": "4 Kampé",
         "artist": "Joé Dwèt Filé",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/05/32/0a/05320ae3-1eef-3cd6-8f19-9ad9f078fa25/cover.jpg/80x80bb.webp",
-        "appleID": "4-kamp%C3%A9/1773819412"
+        "appleID": "4-kamp%C3%A9/1773819412",
+        "youtubeID": "Srvt_6up-0o",
+        "spotifyID": "7dzuYJwwtNnfcptmbD58aJ"
     },
     {
         "ranking": "21",
         "title": "Freestyle",
         "artist": "Lil Baby",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/93/e7/aa/93e7aa59-da8b-15bc-2992-5803f70fe8fa/17UM1IM55478.rgb.jpg/80x80bb.webp",
-        "appleID": "freestyle/1440929293"
+        "appleID": "freestyle/1440929293",
+        "youtubeID": "MHryuYVyHhk"
     },
     {
         "ranking": "22",
@@ -186,7 +190,7 @@
         "title": "KORPU VIOLA",
         "artist": "Alyrio",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/46/45/91/46459177-b91a-15cc-3b70-3709d797ac65/artwork.jpg/80x80bb.webp",
-        "appleID": "korpu-viola/1810285389"
+        "appleID": "korpu-viola/1777711341"
     },
     {
         "ranking": "28",
@@ -214,7 +218,9 @@
         "title": "Lose Control",
         "artist": "Teddy Swims",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/36/19/66/36196640-1561-dc5e-c6bc-1e5f4befa583/093624856771.jpg/80x80bb.webp",
-        "appleID": "lose-control/1691699836"
+        "appleID": "lose-control/1691699836",
+        "youtubeID": "GZ3zL7kT6_c",
+        "spotifyID": "17phhZDn6oGtzMe56NuWvj"
     },
     {
         "ranking": "32",
@@ -319,7 +325,8 @@
         "title": "Timeless",
         "artist": "The Weeknd",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/40/77/cb/4077cbd1-b6a0-d8df-b9d3-e9a339dbc0ea/24UM1IM04061.rgb.jpg/80x80bb.webp",
-        "appleID": "timeless/1770380890"
+        "appleID": "timeless/1770380890",
+        "youtubeID": "5EpyN_6dqyk"
     },
     {
         "ranking": "47",
@@ -403,7 +410,8 @@
         "title": "luther",
         "artist": "Kendrick Lamar",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/50/c2/cc/50c2cc95-3658-9417-0d4b-831abde44ba1/24UM1IM28978.rgb.jpg/80x80bb.webp",
-        "appleID": "luther/1781270323"
+        "appleID": "luther/1781270323",
+        "youtubeID": "4_taypLmSMU"
     },
     {
         "ranking": "59",
@@ -494,7 +502,8 @@
         "title": "Wants and Needs (feat. Lil Baby)",
         "artist": "Drake",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/63/2a/34/632a3488-d104-3ff1-dc02-4ed86f58ed05/21UMGIM18577.rgb.jpg/80x80bb.webp",
-        "appleID": "wants-and-needs-feat-lil-baby/1556670532"
+        "appleID": "wants-and-needs-feat-lil-baby/1556670532",
+        "youtubeID": "0oBeEnY2CAQ"
     },
     {
         "ranking": "72",
@@ -648,7 +657,8 @@
         "title": "Devia Ir",
         "artist": "Wet Bed Gang",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/8c/f0/c5/8cf0c5d1-06dd-db23-d83a-82eed4f19363/196871109284.jpg/80x80bb.webp",
-        "appleID": "devia-ir/1685981604"
+        "appleID": "devia-ir/1685981604",
+        "spotifyID": "5KZJORKMEkrsNRD4dfBw1X"
     },
     {
         "ranking": "94",
@@ -662,7 +672,9 @@
         "title": "CHIHIRO",
         "artist": "Billie Eilish",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
-        "appleID": "chihiro/1739659141"
+        "appleID": "chihiro/1739659141",
+        "youtubeID": "BY_XwvKogC8",
+        "spotifyID": "7BRD7x5pt8Lqa1eGYC4dzj"
     },
     {
         "ranking": "96",
