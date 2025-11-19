@@ -4,7 +4,8 @@
         "title": "2AM",
         "artist": "BigXthaPlug",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0e/87/3e/0e873e63-acef-c677-b27f-620afd4b74d8/198748813195.png/80x80bb.webp",
-        "appleID": "2am/1771890370"
+        "appleID": "2am/1771890370",
+        "youtubeID": "xA59TgXyuX0"
     },
     {
         "ranking": "2",
@@ -39,14 +40,16 @@
         "title": "Sexual Healing",
         "artist": "Marvin Gaye",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music/ad/de/3b/mzi.kkeuawzv.jpg/80x80bb.webp",
-        "appleID": "sexual-healing/205881936"
+        "appleID": "sexual-healing/205881936",
+        "spotifyID": "3VZmChrnVW8JK6ano4gSED"
     },
     {
         "ranking": "7",
         "title": "Strategy",
         "artist": "TWICE",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e1/15/42/e1154273-8ecd-5702-e6e6-597f28001681/25UMGIM82363.rgb.jpg/80x80bb.webp",
-        "appleID": "strategy/1820264153"
+        "appleID": "strategy/1820264153",
+        "youtubeID": "LcV0eAgCSgw"
     },
     {
         "ranking": "8",
@@ -165,7 +168,8 @@
         "title": "luther",
         "artist": "Kendrick Lamar",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/50/c2/cc/50c2cc95-3658-9417-0d4b-831abde44ba1/24UM1IM28978.rgb.jpg/80x80bb.webp",
-        "appleID": "luther/1781270323"
+        "appleID": "luther/1781270323",
+        "youtubeID": "4_taypLmSMU"
     },
     {
         "ranking": "25",
@@ -179,7 +183,8 @@
         "title": "When It Rains It Pours",
         "artist": "Luke Combs",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/3c/83/bf/3c83bf3e-bf4a-7e69-5668-d55f5a8e38e0/886446460840.jpg/80x80bb.webp",
-        "appleID": "when-it-rains-it-pours/1228888143"
+        "appleID": "when-it-rains-it-pours/1228888143",
+        "spotifyID": "1mMLMZYXkMueg65jRRWG1l"
     },
     {
         "ranking": "27",
@@ -263,7 +268,8 @@
         "title": "Your Love",
         "artist": "The Outfield",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/af/35/d3/af35d339-a9c0-a565-712d-a31dd9e42a4b/mzi.jyzejvil.jpg/80x80bb.webp",
-        "appleID": "your-love/186346150"
+        "appleID": "your-love/186346150",
+        "youtubeID": "4N1iwQxiHrs"
     },
     {
         "ranking": "39",
@@ -305,7 +311,8 @@
         "title": "Fast Car",
         "artist": "Luke Combs",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/7d/24/14/7d241439-671a-d957-9613-2f738f43a064/196589485991.jpg/80x80bb.webp",
-        "appleID": "fast-car/1666738585"
+        "appleID": "fast-car/1666738585",
+        "spotifyID": "1Lo0QY9cvc8sUB2vnIOxDT"
     },
     {
         "ranking": "45",
@@ -333,7 +340,8 @@
         "title": "Carry My Heart",
         "artist": "Myshaan",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/84/56/18/845618ab-f06d-a5d3-ceda-b1080520425e/10288.jpg/80x80bb.webp",
-        "appleID": "carry-my-heart/1779243427"
+        "appleID": "carry-my-heart/1779243427",
+        "youtubeID": "N9Welk1i-XM"
     },
     {
         "ranking": "49",
@@ -487,7 +495,8 @@
         "title": "I Love You So",
         "artist": "The Walters",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/95/a5/14/95a514ab-1f06-81dd-8a60-f7ca13a172ce/054391911063.jpg/80x80bb.webp",
-        "appleID": "i-love-you-so/1591338975"
+        "appleID": "i-love-you-so/1591338975",
+        "spotifyID": "4SqWKzw0CbA05TGszDgMlc"
     },
     {
         "ranking": "71",
@@ -690,7 +699,8 @@
         "title": "Dreams",
         "artist": "Fleetwood Mac",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/d2/48/f4/d248f4ae-a7e4-a48e-1588-6617de3e8d76/mzi.izeorbmm.jpg/80x80bb.webp",
-        "appleID": "dreams/202272624"
+        "appleID": "dreams/202272624",
+        "youtubeID": "Y3ywicffOj4"
     },
     {
         "ranking": "100",
