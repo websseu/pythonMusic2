@@ -270,7 +270,8 @@
         "title": "Impossible",
         "artist": "James Arthur",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/8d/8d/c5/8d8dc562-7f43-40d8-e37d-7ea6bc49d5ca/886443782167.jpg/80x80bb.webp",
-        "appleID": "impossible/589034898"
+        "appleID": "impossible/589034898",
+        "spotifyID": "6skGMlljk0s5yeBKZ7sN5n"
     },
     {
         "ranking": "40",
@@ -305,7 +306,9 @@
         "title": "The Door",
         "artist": "Teddy Swims",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/36/19/66/36196640-1561-dc5e-c6bc-1e5f4befa583/093624856771.jpg/80x80bb.webp",
-        "appleID": "the-door/1691699849"
+        "appleID": "the-door/1691699849",
+        "youtubeID": "VSXT4a2kRHA",
+        "spotifyID": "3dj4wgM3cPeuLwMNHDuBon"
     },
     {
         "ranking": "45",
@@ -438,14 +441,16 @@
         "title": "Sweater Weather",
         "artist": "The Neighbourhood",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/28/71/00/287100fb-5c31-0195-5343-e6b3625886d0/886443969834.jpg/80x80bb.webp",
-        "appleID": "sweater-weather/635016640"
+        "appleID": "sweater-weather/635016640",
+        "spotifyID": "0cQVqPuHQP4KEwc7ZUQmj6"
     },
     {
         "ranking": "64",
         "title": "Pretty Savage (Japan Version)",
         "artist": "BLACKPINK",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/9d/4d/1e/9d4d1e18-ca6a-d3cb-c5a0-f0b23ab88d1e/21UMGIM51687.rgb.jpg/80x80bb.webp",
-        "appleID": "pretty-savage-japan-version/1577281171"
+        "appleID": "pretty-savage-japan-version/1577281171",
+        "youtubeID": "F8c8f2nK82w"
     },
     {
         "ranking": "65",
@@ -487,7 +492,7 @@
         "title": "Камин",
         "artist": "EMIN",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/18/af/1d/18af1d8e-d684-3c0c-487a-f29c7453f174/3616404669582.jpg/80x80bb.webp",
-        "appleID": "%D0%BA%D0%B0%D0%BC%D0%B8%D0%BD/1570267744"
+        "appleID": "%D0%BA%D0%B0%D0%BC%D0%B8%D0%BD/1719165204"
     },
     {
         "ranking": "71",
@@ -592,7 +597,9 @@
         "title": "SEVMEYİ DENEMEDİN",
         "artist": "BLOK3",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c9/16/59/c91659c0-c1c1-9bd3-a6ee-a935ef58b5f7/cover.jpg/80x80bb.webp",
-        "appleID": "sevmeyi-denemedi-n/1767437103"
+        "appleID": "sevmeyi-denemedi-n/1767437103",
+        "youtubeID": "n7iuaTlGbd4",
+        "spotifyID": "3ff93VTp2DBbNnDEsAW8Cm"
     },
     {
         "ranking": "86",
