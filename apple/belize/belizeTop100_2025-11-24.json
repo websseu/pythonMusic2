@@ -46,7 +46,9 @@
         "title": "Moscow Mule",
         "artist": "Bad Bunny",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/3e/04/eb/3e04ebf6-370f-f59d-ec84-2c2643db92f1/196626945068.jpg/80x80bb.webp",
-        "appleID": "moscow-mule/1622045625"
+        "appleID": "moscow-mule/1622045625",
+        "youtubeID": "p38WgakuYDo",
+        "spotifyID": "6Xom58OOXk2SoU711L2IXO"
     },
     {
         "ranking": "8",
@@ -186,7 +188,8 @@
         "title": "Cocoa Tea",
         "artist": "Kes",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f6/57/69/f65769d6-86f9-dde2-56c1-2580a73805d8/198937079722_cover.jpg/80x80bb.webp",
-        "appleID": "cocoa-tea/1778350176"
+        "appleID": "cocoa-tea/1778350176",
+        "youtubeID": "GiKDPyAADeM"
     },
     {
         "ranking": "28",
@@ -305,21 +308,26 @@
         "title": "All I Want for Christmas Is You",
         "artist": "Mariah Carey",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/c6/b7/27/c6b727f7-3a32-6b43-cee2-05bb71daf1cf/dj.itfmdeif.jpg/80x80bb.webp",
-        "appleID": "all-i-want-for-christmas-is-you/585972803"
+        "appleID": "all-i-want-for-christmas-is-you/585972803",
+        "youtubeID": "aAkMkVFwAoo"
     },
     {
         "ranking": "45",
         "title": "Die With A Smile",
         "artist": "Lady Gaga",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/11/ae/f2/11aef294-f57c-bab9-c9fc-529162984e62/24UMGIM85348.rgb.jpg/80x80bb.webp",
-        "appleID": "die-with-a-smile/1762656732"
+        "appleID": "die-with-a-smile/1762656732",
+        "youtubeID": "kPa7bsKwL-c",
+        "spotifyID": "2plbrEY59IikOBgBGLjaoe"
     },
     {
         "ranking": "46",
         "title": "Jingle Bell Rock",
         "artist": "Bobby Helms",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/e8/18/6b/e8186bf9-5696-e721-b273-a5f173caf8c1/18UMGIM07062.rgb.jpg/80x80bb.webp",
-        "appleID": "jingle-bell-rock/1358462132"
+        "appleID": "jingle-bell-rock/1358462132",
+        "youtubeID": "Z0ajuTaHBtM",
+        "spotifyID": "7vQbuQcyTflfCIOu3Uzzya"
     },
     {
         "ranking": "47",
@@ -396,7 +404,8 @@
         "title": "luther",
         "artist": "Kendrick Lamar",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/50/c2/cc/50c2cc95-3658-9417-0d4b-831abde44ba1/24UM1IM28978.rgb.jpg/80x80bb.webp",
-        "appleID": "luther/1781270323"
+        "appleID": "luther/1781270323",
+        "youtubeID": "4_taypLmSMU"
     },
     {
         "ranking": "58",
@@ -410,7 +419,9 @@
         "title": "Si Antes Te Hubiera Conocido",
         "artist": "KAROL G",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a0/60/94/a060947c-54d8-0fad-c558-eed12600224c/24UMGIM62705.rgb.jpg/80x80bb.webp",
-        "appleID": "si-antes-te-hubiera-conocido/1752031539"
+        "appleID": "si-antes-te-hubiera-conocido/1752031539",
+        "youtubeID": "QCZZwZQ4qNs",
+        "spotifyID": "6WatFBLVB0x077xWeoVc2k"
     },
     {
         "ranking": "60",
@@ -466,21 +477,26 @@
         "title": "Haad (Fiesta)",
         "artist": "Armanii",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/17/24/03/1724039c-5812-653e-bca3-ec7b5c9882fa/0.jpg/80x80bb.webp",
-        "appleID": "haad-fiesta/1743242740"
+        "appleID": "haad-fiesta/1743242740",
+        "youtubeID": "-HdnnXfPUvs"
     },
     {
         "ranking": "68",
         "title": "Iris",
         "artist": "The Goo Goo Dolls",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music/b4/0c/98/mzi.vhowcacb.jpg/80x80bb.webp",
-        "appleID": "iris/267537169"
+        "appleID": "iris/267537169",
+        "youtubeID": "NdYWuo9OFAw",
+        "spotifyID": "6Qyc6fS4DsZjB2mRW9DsQs"
     },
     {
         "ranking": "69",
         "title": "PIÉNSALO",
         "artist": "Junior H",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/d3/13/2c/d3132c40-fb9c-e02e-50d8-cd66c24f4020/5054197834332.jpg/80x80bb.webp",
-        "appleID": "pi%C3%A9nsalo/1709356909"
+        "appleID": "pi%C3%A9nsalo/1709356909",
+        "youtubeID": "p-jvK8SOoF8",
+        "spotifyID": "4ZOkfHC38nxSeSqzGE5HFr"
     },
     {
         "ranking": "70",
@@ -501,21 +517,25 @@
         "title": "Expensive",
         "artist": "Valiant",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/67/ef/ba/67efba92-a95d-8a3e-f26e-7751657948f4/197188257088.jpg/80x80bb.webp",
-        "appleID": "expensive/1674670010"
+        "appleID": "expensive/1674670010",
+        "youtubeID": "nuMKdd_JkHo"
     },
     {
         "ranking": "73",
         "title": "AMARGURA",
         "artist": "KAROL G",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/9b/01/44/9b0144e6-21ae-b53f-2b25-ef6c594b18a3/22UM1IM38716.rgb.jpg/80x80bb.webp",
-        "appleID": "amargura/1670246089"
+        "appleID": "amargura/1670246089",
+        "spotifyID": "505v13epFXodT9fVAJ6h8k"
     },
     {
         "ranking": "74",
         "title": "Snooze",
         "artist": "SZA",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/bd/3b/a9/bd3ba9fb-9609-144f-bcfe-ead67b5f6ab3/196589564931.jpg/80x80bb.webp",
-        "appleID": "snooze/1657869492"
+        "appleID": "snooze/1657869492",
+        "youtubeID": "LDY_XyxBu8A",
+        "spotifyID": "4iZ4pt7kvcaH6Yo8UoZ4s2"
     },
     {
         "ranking": "75",
@@ -599,7 +619,8 @@
         "title": "IKATION",
         "artist": "Kraff Gad",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/04/2d/12/042d12ae-f11e-7b1b-09a2-3050bbf4f07f/198888697495.jpg/80x80bb.webp",
-        "appleID": "ikation/1799051543"
+        "appleID": "ikation/1768079373",
+        "youtubeID": "W7Ymf9DiBJA"
     },
     {
         "ranking": "87",
@@ -613,14 +634,17 @@
         "title": "Whites",
         "artist": "Masicka",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/26/01/27/260127e0-4a19-a2ce-f778-6263789a148d/0.jpg/80x80bb.webp",
-        "appleID": "whites/1777116735"
+        "appleID": "whites/1777116735",
+        "youtubeID": "2C0mGEfQnt4"
     },
     {
         "ranking": "89",
         "title": "Khé?",
         "artist": "Rauw Alejandro",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ab/e8/09/abe8092d-ef44-61b9-6b50-ab7efb78ca51/196872401516.jpg/80x80bb.webp",
-        "appleID": "kh%C3%A9/1775463293"
+        "appleID": "kh%C3%A9/1775463293",
+        "youtubeID": "7SNycTMOF74",
+        "spotifyID": "1YYfyJ2yCvGFCxwjsIqEK9"
     },
     {
         "ranking": "90",
@@ -641,7 +665,8 @@
         "title": "7:00 (Raw)",
         "artist": "Malie Donn",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9b/2b/41/9b2b41f6-5f4d-e5da-9e82-8054ed4adb88/10307.jpg/80x80bb.webp",
-        "appleID": "7-00-raw/1802270718"
+        "appleID": "7-00-raw/1802270718",
+        "youtubeID": "PdoPIpKdsPI"
     },
     {
         "ranking": "93",
@@ -655,7 +680,9 @@
         "title": "NEL",
         "artist": "Fuerza Regida",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/24/95/0f/24950f19-f5dd-696b-8295-df4f780a0d9a/196872326017.jpg/80x80bb.webp",
-        "appleID": "nel/1759045296"
+        "appleID": "nel/1759045296",
+        "youtubeID": "fZcrCrHnYBw",
+        "spotifyID": "5AH31dDNgxCMGDdxubNNn4"
     },
     {
         "ranking": "95",
@@ -676,7 +703,9 @@
         "title": "Qué Pasaría...",
         "artist": "Rauw Alejandro",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ab/e8/09/abe8092d-ef44-61b9-6b50-ab7efb78ca51/196872401516.jpg/80x80bb.webp",
-        "appleID": "qu%C3%A9-pasar%C3%ADa/1775462855"
+        "appleID": "qu%C3%A9-pasar%C3%ADa/1775462855",
+        "youtubeID": "g08y_x83d5E",
+        "spotifyID": "0l0vcZMU7AOeQmUIREoI2U"
     },
     {
         "ranking": "98",

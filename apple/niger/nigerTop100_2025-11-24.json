@@ -333,7 +333,7 @@
         "title": "Last Last",
         "artist": "Burna Boy",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/fd/08/8c/fd088c72-75fc-0306-3c69-1ef4448ff3cf/075679688477.jpg/80x80bb.webp",
-        "appleID": "last-last/1749166881"
+        "appleID": "last-last/1623677811"
     },
     {
         "ranking": "49",
@@ -347,7 +347,9 @@
         "title": "Monaco",
         "artist": "Guy2Bezbar",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8b/3d/d9/8b3dd98a-d961-72a2-161f-cc099c4b5689/196872257809.jpg/80x80bb.webp",
-        "appleID": "monaco/1755200186"
+        "appleID": "monaco/1755200186",
+        "youtubeID": "m3IqAolevVc",
+        "spotifyID": "2iEXkEB32esmNExcEyKjKc"
     },
     {
         "ranking": "51",
@@ -473,7 +475,9 @@
         "title": "NANANI NANANA",
         "artist": "Gazo",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/01/5e/2a/015e2a71-e1bf-bd50-02ae-06e03bea3ff9/196872618525.jpg/80x80bb.webp",
-        "appleID": "nanani-nanana/1780778119"
+        "appleID": "nanani-nanana/1780778119",
+        "youtubeID": "8Bkgi6yB6P8",
+        "spotifyID": "0qlYaRFGvgR6afy1f4BBwD"
     },
     {
         "ranking": "69",
@@ -641,7 +645,9 @@
         "title": "4 Kampé",
         "artist": "Joé Dwèt Filé",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/05/32/0a/05320ae3-1eef-3cd6-8f19-9ad9f078fa25/cover.jpg/80x80bb.webp",
-        "appleID": "4-kamp%C3%A9/1773819412"
+        "appleID": "4-kamp%C3%A9/1773819412",
+        "youtubeID": "Srvt_6up-0o",
+        "spotifyID": "7dzuYJwwtNnfcptmbD58aJ"
     },
     {
         "ranking": "93",
@@ -697,6 +703,7 @@
         "title": "DIE",
         "artist": "Gazo",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/93/c7/e1/93c7e142-99a9-cfc5-620b-cb8c8a2719b9/dj.zyrjnfhd.jpg/80x80bb.webp",
-        "appleID": "die/1630765531"
+        "appleID": "die/1630765531",
+        "youtubeID": "MwaUav_YV5c"
     }
 ]
