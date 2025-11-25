@@ -32,28 +32,35 @@
         "title": "BIRDS OF A FEATHER",
         "artist": "Billie Eilish",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
-        "appleID": "birds-of-a-feather/1739659142"
+        "appleID": "birds-of-a-feather/1739659142",
+        "youtubeID": "V9PVRfjEBTI"
     },
     {
         "ranking": "6",
         "title": "number one girl",
         "artist": "ROSÉ",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2d/14/66/2d14661b-345b-d0f3-4e86-56ef626e68aa/075679629203.jpg/80x80bb.webp",
-        "appleID": "number-one-girl/1771105923"
+        "appleID": "number-one-girl/1771105923",
+        "youtubeID": "pZ1NdE69VTs",
+        "spotifyID": "1lcBt7LoEikqYmhUoa2cez"
     },
     {
         "ranking": "7",
         "title": "toxic till the end",
         "artist": "ROSÉ",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2d/14/66/2d14661b-345b-d0f3-4e86-56ef626e68aa/075679629203.jpg/80x80bb.webp",
-        "appleID": "toxic-till-the-end/1771105929"
+        "appleID": "toxic-till-the-end/1771105929",
+        "youtubeID": "eA0lHNZ1KCA",
+        "spotifyID": "1z5ebC9238uGoBgzYyvGpQ"
     },
     {
         "ranking": "8",
         "title": "Die With A Smile",
         "artist": "Lady Gaga",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/11/ae/f2/11aef294-f57c-bab9-c9fc-529162984e62/24UMGIM85348.rgb.jpg/80x80bb.webp",
-        "appleID": "die-with-a-smile/1762656732"
+        "appleID": "die-with-a-smile/1762656732",
+        "youtubeID": "kPa7bsKwL-c",
+        "spotifyID": "2plbrEY59IikOBgBGLjaoe"
     },
     {
         "ranking": "9",
@@ -81,7 +88,9 @@
         "title": "WILDFLOWER",
         "artist": "Billie Eilish",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
-        "appleID": "wildflower/1739659144"
+        "appleID": "wildflower/1739659144",
+        "youtubeID": "IWKyykQBRKo",
+        "spotifyID": "3QaPy1KgI7nu9FJEQUgn6h"
     },
     {
         "ranking": "13",
@@ -102,7 +111,8 @@
         "title": "Timeless",
         "artist": "The Weeknd",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/40/77/cb/4077cbd1-b6a0-d8df-b9d3-e9a339dbc0ea/24UM1IM04061.rgb.jpg/80x80bb.webp",
-        "appleID": "timeless/1770380890"
+        "appleID": "timeless/1770380890",
+        "youtubeID": "5EpyN_6dqyk"
     },
     {
         "ranking": "16",
@@ -123,7 +133,8 @@
         "title": "Dancing In The Flames",
         "artist": "The Weeknd",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/26/ae/7c/26ae7c91-3ea9-a3d4-444b-93fb563b3d48/24UM1IM01029.rgb.jpg/80x80bb.webp",
-        "appleID": "dancing-in-the-flames/1768635695"
+        "appleID": "dancing-in-the-flames/1767511513",
+        "youtubeID": "gu0_ixJMx5U"
     },
     {
         "ranking": "19",
@@ -151,7 +162,8 @@
         "title": "Always",
         "artist": "Daniel Caesar",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/36/e3/8e/36e38e7e-94ec-dbcd-f23c-0890e1a9518f/22UM1IM44821.rgb.jpg/80x80bb.webp",
-        "appleID": "always/1681323048"
+        "appleID": "always/1681323048",
+        "spotifyID": "2LlOeW5rVcvl3QcPNPcDus"
     },
     {
         "ranking": "23",
@@ -186,7 +198,9 @@
         "title": "Snooze",
         "artist": "SZA",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/bd/3b/a9/bd3ba9fb-9609-144f-bcfe-ead67b5f6ab3/196589564931.jpg/80x80bb.webp",
-        "appleID": "snooze/1657869492"
+        "appleID": "snooze/1657869492",
+        "youtubeID": "LDY_XyxBu8A",
+        "spotifyID": "4iZ4pt7kvcaH6Yo8UoZ4s2"
     },
     {
         "ranking": "28",
@@ -207,7 +221,9 @@
         "title": "two years",
         "artist": "ROSÉ",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2d/14/66/2d14661b-345b-d0f3-4e86-56ef626e68aa/075679629203.jpg/80x80bb.webp",
-        "appleID": "two-years/1771105927"
+        "appleID": "two-years/1771105927",
+        "youtubeID": "lktucPDH5IY",
+        "spotifyID": "4HxGH28DitgAuuKpEVrLzN"
     },
     {
         "ranking": "31",
@@ -235,7 +251,8 @@
         "title": "luther",
         "artist": "Kendrick Lamar",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/50/c2/cc/50c2cc95-3658-9417-0d4b-831abde44ba1/24UM1IM28978.rgb.jpg/80x80bb.webp",
-        "appleID": "luther/1781270323"
+        "appleID": "luther/1781270323",
+        "youtubeID": "4_taypLmSMU"
     },
     {
         "ranking": "35",
@@ -256,7 +273,9 @@
         "title": "APT.",
         "artist": "ROSÉ",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2d/1a/7d/2d1a7d91-587e-0ceb-d434-327bd66d9e86/075679628312.jpg/80x80bb.webp",
-        "appleID": "apt/1773452221"
+        "appleID": "apt/1773452221",
+        "youtubeID": "ekr2nIex040",
+        "spotifyID": "4wJ5Qq0jBN4ajy7ouZIV1c"
     },
     {
         "ranking": "38",
@@ -270,7 +289,7 @@
         "title": "ถ้าเธอรักฉันจริง",
         "artist": "Three Man Down",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/67/17/78/67177823-eea6-843e-2fd6-1cb45da0fa62/888332917599.jpg/80x80bb.webp",
-        "appleID": "%E0%B8%96-%E0%B8%B2%E0%B9%80%E0%B8%98%E0%B8%AD%E0%B8%A3-%E0%B8%81%E0%B8%89-%E0%B8%99%E0%B8%88%E0%B8%A3-%E0%B8%87/1792752621"
+        "appleID": "%E0%B8%96-%E0%B8%B2%E0%B9%80%E0%B8%98%E0%B8%AD%E0%B8%A3-%E0%B8%81%E0%B8%89-%E0%B8%99%E0%B8%88%E0%B8%A3-%E0%B8%87/1542919098"
     },
     {
         "ranking": "40",
@@ -305,7 +324,8 @@
         "title": "When I Was Your Man",
         "artist": "Bruno Mars",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/e0/a4/7c/e0a47c6f-005a-9f9f-ce29-8e858e2bcfcb/075679957283.jpg/80x80bb.webp",
-        "appleID": "when-i-was-your-man/573962555"
+        "appleID": "when-i-was-your-man/573962555",
+        "youtubeID": "ekzHIouo8Q4"
     },
     {
         "ranking": "45",
@@ -319,7 +339,8 @@
         "title": "ที่เดิม",
         "artist": "PUN",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8b/38/86/8b388697-fefd-1fa8-04e4-a518c8761442/24UMGIM96529.rgb.jpg/80x80bb.webp",
-        "appleID": "%E0%B8%97-%E0%B9%80%E0%B8%94-%E0%B8%A1/1767346217"
+        "appleID": "%E0%B8%97-%E0%B9%80%E0%B8%94-%E0%B8%A1/1767346217",
+        "spotifyID": "4KZRjuldIGTS7AQUPbUvbs"
     },
     {
         "ranking": "47",
@@ -354,14 +375,16 @@
         "title": "About You",
         "artist": "The 1975",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1f/c7/98/1fc7988e-0a39-5724-1390-e45246250e24/198704825934_Cover.jpg/80x80bb.webp",
-        "appleID": "about-you/1850019038"
+        "appleID": "about-you/1632479847",
+        "youtubeID": "tGv7CUutzqU"
     },
     {
         "ranking": "52",
         "title": "เพลงรัก",
         "artist": "Three Man Down",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/71/cd/0b/71cd0bbd-8072-2055-9c91-f3877f0f4e24/888332895279.jpg/80x80bb.webp",
-        "appleID": "%E0%B9%80%E0%B8%9E%E0%B8%A5%E0%B8%87%E0%B8%A3-%E0%B8%81/1792753683"
+        "appleID": "%E0%B9%80%E0%B8%9E%E0%B8%A5%E0%B8%87%E0%B8%A3-%E0%B8%81/1772114065",
+        "spotifyID": "1THWgXia63L6sds6dIMlI9"
     },
     {
         "ranking": "53",
@@ -375,7 +398,7 @@
         "title": "PLEASE",
         "artist": "Atom Chanakan",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d5/51/48/d55148c8-79be-394c-94e7-6375ea2e206c/888332937771.jpg/80x80bb.webp",
-        "appleID": "please/1792752613"
+        "appleID": "please/1318647466"
     },
     {
         "ranking": "55",
@@ -389,14 +412,16 @@
         "title": "Kiss Me More (feat. SZA)",
         "artist": "Doja Cat",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/2d/fe/76/2dfe76da-e6bd-3a2c-d798-5b8a901a67bd/886449410538.jpg/80x80bb.webp",
-        "appleID": "kiss-me-more-feat-sza/1574004703"
+        "appleID": "kiss-me-more-feat-sza/1574004703",
+        "youtubeID": "0EVVKs6DQLo"
     },
     {
         "ranking": "57",
         "title": "Espresso",
         "artist": "Sabrina Carpenter",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cb/64/8c/cb648cf7-e7bb-bd00-efe0-d744312c29a8/24UMGIM32304.rgb.jpg/80x80bb.webp",
-        "appleID": "espresso/1740212434"
+        "appleID": "espresso/1740212434",
+        "youtubeID": "eVli-tstM5E"
     },
     {
         "ranking": "58",
@@ -417,14 +442,16 @@
         "title": "Juno",
         "artist": "Sabrina Carpenter",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f6/15/d0/f615d0ab-e0c4-575d-907e-1cc084642357/24UMGIM61704.rgb.jpg/80x80bb.webp",
-        "appleID": "juno/1750307372"
+        "appleID": "juno/1750307372",
+        "spotifyID": "21B4gaTWnTkuSh77iWEXdS"
     },
     {
         "ranking": "61",
         "title": "จดจำ",
         "artist": "Only Monday",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6f/eb/e3/6febe347-eca8-8dce-e070-77cb43317534/888332899802.jpg/80x80bb.webp",
-        "appleID": "%E0%B8%88%E0%B8%94%E0%B8%88%E0%B8%B3/1793461885"
+        "appleID": "%E0%B8%88%E0%B8%94%E0%B8%88%E0%B8%B3/1726028179",
+        "spotifyID": "2CjNvED1BSLPG1jYENA0QS"
     },
     {
         "ranking": "62",
@@ -459,7 +486,8 @@
         "title": "I Just Wanna Know",
         "artist": "PUN",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8b/38/86/8b388697-fefd-1fa8-04e4-a518c8761442/24UMGIM96529.rgb.jpg/80x80bb.webp",
-        "appleID": "i-just-wanna-know/1767346201"
+        "appleID": "i-just-wanna-know/1767346201",
+        "spotifyID": "2a78JDp7YVCyEydtRiHOn7"
     },
     {
         "ranking": "67",
@@ -480,14 +508,17 @@
         "title": "ท้ายปี",
         "artist": "Only Monday",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6b/bf/56/6bbf5613-5215-5513-9af4-c3470f5396b1/888332892667.jpg/80x80bb.webp",
-        "appleID": "%E0%B8%97-%E0%B8%B2%E0%B8%A2%E0%B8%9B/1792753650"
+        "appleID": "%E0%B8%97-%E0%B8%B2%E0%B8%A2%E0%B8%9B/1779552467",
+        "spotifyID": "6NnDhBn93o2CxGkwrtKVMG"
     },
     {
         "ranking": "70",
         "title": "That’s So True",
         "artist": "Gracie Abrams",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/26/78/81/26788143-5e5f-0813-2480-ecf4280ef221/24UM1IM07082.rgb.jpg/80x80bb.webp",
-        "appleID": "thats-so-true/1773474483"
+        "appleID": "thats-so-true/1773474483",
+        "youtubeID": "BDHM8cyJQa8",
+        "spotifyID": "7ne4VBA60CxGM75vw0EYad"
     },
     {
         "ranking": "71",
@@ -529,14 +560,17 @@
         "title": "Apocalypse",
         "artist": "Cigarettes After Sex",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b3/5e/0f/b35e0fbe-2370-fc48-0f0c-977525e93bf2/720841214601_Cover.jpg/80x80bb.webp",
-        "appleID": "apocalypse/1217977755"
+        "appleID": "apocalypse/1215409245",
+        "spotifyID": "0yc6Gst2xkRu0eMLeRMGCX"
     },
     {
         "ranking": "77",
         "title": "stay a little longer",
         "artist": "ROSÉ",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2d/14/66/2d14661b-345b-d0f3-4e86-56ef626e68aa/075679629203.jpg/80x80bb.webp",
-        "appleID": "stay-a-little-longer/1771106121"
+        "appleID": "stay-a-little-longer/1771106121",
+        "youtubeID": "vHvOYQ0hbBA",
+        "spotifyID": "5OdI6v2L7Aez4cclpbojiZ"
     },
     {
         "ranking": "78",
@@ -571,7 +605,9 @@
         "title": "Last Christmas (Single Version)",
         "artist": "Wham!",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/eb/4a/f9/eb4af984-fc68-56ab-7b89-1d070c04e1dd/5099765318524.jpg/80x80bb.webp",
-        "appleID": "last-christmas-single-version/202117984"
+        "appleID": "last-christmas/282658482",
+        "youtubeID": "E8gmARGvPlI",
+        "spotifyID": "2FRnf9qhLbvw8fu4IBXx78"
     },
     {
         "ranking": "83",
@@ -634,14 +670,14 @@
         "title": "ทิ้งไป",
         "artist": "Only Monday",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/37/21/f7/3721f715-89ea-32cc-f3d5-05b7aaeff973/888332908559.jpg/80x80bb.webp",
-        "appleID": "%E0%B8%97-%E0%B8%87%E0%B9%84%E0%B8%9B/1792751230"
+        "appleID": "%E0%B8%97-%E0%B8%87%E0%B9%84%E0%B8%9B/1631812140"
     },
     {
         "ranking": "92",
         "title": "เธอทำให้ฉันเสียใจ",
         "artist": "Cocktail",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/02/02/9c/02029cc9-d5b3-5b76-8532-497b82463bc7/888332970747.jpg/80x80bb.webp",
-        "appleID": "%E0%B9%80%E0%B8%98%E0%B8%AD%E0%B8%97%E0%B8%B3%E0%B9%83%E0%B8%AB-%E0%B8%89-%E0%B8%99%E0%B9%80%E0%B8%AA-%E0%B8%A2%E0%B9%83%E0%B8%88/1792748254"
+        "appleID": "%E0%B9%80%E0%B8%98%E0%B8%AD%E0%B8%97%E0%B8%B3%E0%B9%83%E0%B8%AB-%E0%B8%89-%E0%B8%99%E0%B9%80%E0%B8%AA-%E0%B8%A2%E0%B9%83%E0%B8%88/705719148"
     },
     {
         "ranking": "93",
@@ -669,14 +705,18 @@
         "title": "Bed Chem",
         "artist": "Sabrina Carpenter",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f6/15/d0/f615d0ab-e0c4-575d-907e-1cc084642357/24UMGIM61704.rgb.jpg/80x80bb.webp",
-        "appleID": "bed-chem/1750307088"
+        "appleID": "bed-chem/1750307088",
+        "youtubeID": "x8VkB8ap_FQ",
+        "spotifyID": "1UHS8Rf6h5Ar3CDWRd3wjF"
     },
     {
         "ranking": "97",
         "title": "drinks or coffee",
         "artist": "ROSÉ",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2d/14/66/2d14661b-345b-d0f3-4e86-56ef626e68aa/075679629203.jpg/80x80bb.webp",
-        "appleID": "drinks-or-coffee/1771105933"
+        "appleID": "drinks-or-coffee/1771105933",
+        "youtubeID": "PFDO5OZO61Y",
+        "spotifyID": "3fpWkbEZMP1BgOOfymwoaS"
     },
     {
         "ranking": "98",
@@ -690,7 +730,8 @@
         "title": "Saturn",
         "artist": "SZA",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/0f/90/a8/0f90a856-0447-d846-fa7b-b9c937e72310/196871881180.jpg/80x80bb.webp",
-        "appleID": "saturn/1732348414"
+        "appleID": "saturn/1732348414",
+        "spotifyID": "1bjeWoagtHmUKputLVyDxQ"
     },
     {
         "ranking": "100",
