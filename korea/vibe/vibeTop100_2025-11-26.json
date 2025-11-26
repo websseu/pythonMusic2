@@ -32,7 +32,8 @@
         "title": "Drowning",
         "artist": "WOODZ",
         "album": "OO-LI",
-        "image": "https://musicmeta-phinf.pstatic.net/album/009/113/9113175.jpg?type=r120Fll&v=20250318143210"
+        "image": "https://musicmeta-phinf.pstatic.net/album/009/113/9113175.jpg?type=r120Fll&v=20250318143210",
+        "youtubeID": "tiKFuzpX-NA"
     },
     {
         "ranking": "6",
@@ -102,7 +103,8 @@
         "title": "나는 반딧불",
         "artist": "황가람",
         "album": "나는 반딧불",
-        "image": "https://musicmeta-phinf.pstatic.net/album/032/223/32223565.jpg?type=r120Fll&v=20241021184120"
+        "image": "https://musicmeta-phinf.pstatic.net/album/032/223/32223565.jpg?type=r120Fll&v=20241021184120",
+        "youtubeID": "x9Jz2OueIGY"
     },
     {
         "ranking": "16",
@@ -123,7 +125,8 @@
         "title": "Whiplash",
         "artist": "aespa",
         "album": "Whiplash - The 5th Mini Album",
-        "image": "https://musicmeta-phinf.pstatic.net/album/032/223/32223740.jpg?type=r120Fll&v=20251023102055"
+        "image": "https://musicmeta-phinf.pstatic.net/album/032/223/32223740.jpg?type=r120Fll&v=20251023102055",
+        "youtubeID": "jWQx2f-CErU"
     },
     {
         "ranking": "19",
@@ -172,7 +175,8 @@
         "title": "HOME SWEET HOME (feat. 태양, 대성)",
         "artist": "G-DRAGON",
         "album": "HOME SWEET HOME (feat. 태양, 대성)",
-        "image": "https://musicmeta-phinf.pstatic.net/album/032/312/32312776.jpg?type=r120Fll&v=20241127165131"
+        "image": "https://musicmeta-phinf.pstatic.net/album/032/312/32312776.jpg?type=r120Fll&v=20241127165131",
+        "youtubeID": "fLi0EJfi_vg"
     },
     {
         "ranking": "26",
@@ -193,7 +197,8 @@
         "title": "내게 사랑이 뭐냐고 물어본다면",
         "artist": "로이킴",
         "album": "내게 사랑이 뭐냐고 물어본다면",
-        "image": "https://musicmeta-phinf.pstatic.net/album/032/208/32208455.jpg?type=r120Fll&v=20241017182358"
+        "image": "https://musicmeta-phinf.pstatic.net/album/032/208/32208455.jpg?type=r120Fll&v=20241017182358",
+        "youtubeID": "5ly8tAU-n_w"
     },
     {
         "ranking": "29",
@@ -207,7 +212,10 @@
         "title": "APT.",
         "artist": "로제 (ROSÉ)",
         "album": "APT.",
-        "image": "https://musicmeta-phinf.pstatic.net/album/032/218/32218786.jpg?type=r120Fll&v=20241122104456"
+        "image": "https://musicmeta-phinf.pstatic.net/album/032/218/32218786.jpg?type=r120Fll&v=20241122104456",
+        "appleID": "apt/1773452221",
+        "youtubeID": "ekr2nIex040",
+        "spotifyID": "4wJ5Qq0jBN4ajy7ouZIV1c"
     },
     {
         "ranking": "31",
@@ -221,7 +229,8 @@
         "title": "한 페이지가 될 수 있게",
         "artist": "DAY6(데이식스)",
         "album": "The Book of Us : Gravity",
-        "image": "https://musicmeta-phinf.pstatic.net/album/003/117/3117381.jpg?type=r120Fll&v=20230331153414"
+        "image": "https://musicmeta-phinf.pstatic.net/album/003/117/3117381.jpg?type=r120Fll&v=20230331153414",
+        "youtubeID": "vnS_jn2uibs"
     },
     {
         "ranking": "33",
@@ -235,21 +244,24 @@
         "title": "청춘만화",
         "artist": "이무진",
         "album": "만화 (滿花)",
-        "image": "https://musicmeta-phinf.pstatic.net/album/032/173/32173325.jpg?type=r120Fll&v=20250205163526"
+        "image": "https://musicmeta-phinf.pstatic.net/album/032/173/32173325.jpg?type=r120Fll&v=20250205163526",
+        "youtubeID": "qLJq2muxhWc"
     },
     {
         "ranking": "35",
         "title": "어떻게 이별까지 사랑하겠어, 널 사랑하는 거지",
         "artist": "AKMU(악뮤)",
         "album": "항해",
-        "image": "https://musicmeta-phinf.pstatic.net/album/003/199/3199865.jpg?type=r120Fll&v=20230307022055"
+        "image": "https://musicmeta-phinf.pstatic.net/album/003/199/3199865.jpg?type=r120Fll&v=20230307022055",
+        "youtubeID": "m3DZsBw5bnE"
     },
     {
         "ranking": "36",
         "title": "HAPPY",
         "artist": "DAY6(데이식스)",
         "album": "Fourever",
-        "image": "https://musicmeta-phinf.pstatic.net/album/031/043/31043036.jpg?type=r120Fll&v=20240402145726"
+        "image": "https://musicmeta-phinf.pstatic.net/album/031/043/31043036.jpg?type=r120Fll&v=20240402145726",
+        "youtubeID": "sWXGbkM0tBI"
     },
     {
         "ranking": "37",
@@ -277,7 +289,8 @@
         "title": "그대만 있다면 (여름날 우리 X 너드커넥션 (Nerd Connection))",
         "artist": "너드커넥션(Nerd Connection)",
         "album": "그대만 있다면 (여름날 우리 X 너드커넥션 (Nerd Connection))",
-        "image": "https://musicmeta-phinf.pstatic.net/album/010/174/10174038.jpg?type=r120Fll&v=20240516111050"
+        "image": "https://musicmeta-phinf.pstatic.net/album/010/174/10174038.jpg?type=r120Fll&v=20240516111050",
+        "youtubeID": "IMWT6937uUs"
     },
     {
         "ranking": "41",
@@ -298,7 +311,10 @@
         "title": "toxic till the end",
         "artist": "로제 (ROSÉ)",
         "album": "rosie",
-        "image": "https://musicmeta-phinf.pstatic.net/album/032/400/32400568.jpg?type=r120Fll&v=20250319100625"
+        "image": "https://musicmeta-phinf.pstatic.net/album/032/400/32400568.jpg?type=r120Fll&v=20250319100625",
+        "appleID": "toxic-till-the-end/1771105929",
+        "youtubeID": "eA0lHNZ1KCA",
+        "spotifyID": "1z5ebC9238uGoBgzYyvGpQ"
     },
     {
         "ranking": "44",
@@ -312,7 +328,10 @@
         "title": "Die With A Smile",
         "artist": "Lady Gaga",
         "album": "Die With A Smile",
-        "image": "https://musicmeta-phinf.pstatic.net/album/032/002/32002405.jpg?type=r120Fll&v=20240816150503"
+        "image": "https://musicmeta-phinf.pstatic.net/album/032/002/32002405.jpg?type=r120Fll&v=20240816150503",
+        "appleID": "die-with-a-smile/1762656732",
+        "youtubeID": "kPa7bsKwL-c",
+        "spotifyID": "2plbrEY59IikOBgBGLjaoe"
     },
     {
         "ranking": "46",
@@ -333,7 +352,8 @@
         "title": "슬픈 초대장",
         "artist": "순순희(지환)",
         "album": "슬픈 초대장",
-        "image": "https://musicmeta-phinf.pstatic.net/album/030/559/30559604.jpg?type=r120Fll&v=20250205161023"
+        "image": "https://musicmeta-phinf.pstatic.net/album/030/559/30559604.jpg?type=r120Fll&v=20250205161023",
+        "youtubeID": "hkROGL9id6Y"
     },
     {
         "ranking": "49",
@@ -347,7 +367,8 @@
         "title": "비의 랩소디",
         "artist": "임재현",
         "album": "비의 랩소디",
-        "image": "https://musicmeta-phinf.pstatic.net/album/030/416/30416945.jpg?type=r120Fll&v=20231206102040"
+        "image": "https://musicmeta-phinf.pstatic.net/album/030/416/30416945.jpg?type=r120Fll&v=20231206102040",
+        "youtubeID": "OL2f3vzgE7M"
     },
     {
         "ranking": "51",
@@ -382,14 +403,16 @@
         "title": "Welcome to the Show",
         "artist": "DAY6(데이식스)",
         "album": "Fourever",
-        "image": "https://musicmeta-phinf.pstatic.net/album/031/043/31043036.jpg?type=r120Fll&v=20240402145726"
+        "image": "https://musicmeta-phinf.pstatic.net/album/031/043/31043036.jpg?type=r120Fll&v=20240402145726",
+        "youtubeID": "RowlrvmyFEk"
     },
     {
         "ranking": "56",
         "title": "인사",
         "artist": "범진",
         "album": "인사",
-        "image": "https://musicmeta-phinf.pstatic.net/album/006/747/6747334.jpg?type=r120Fll&v=20231211112557"
+        "image": "https://musicmeta-phinf.pstatic.net/album/006/747/6747334.jpg?type=r120Fll&v=20231211112557",
+        "youtubeID": "H0lQwJPdoBU"
     },
     {
         "ranking": "57",
@@ -403,7 +426,9 @@
         "title": "Love wins all",
         "artist": "아이유(IU)",
         "album": "The Winning",
-        "image": "https://musicmeta-phinf.pstatic.net/album/030/796/30796788.jpg?type=r120Fll&v=20240223101020"
+        "image": "https://musicmeta-phinf.pstatic.net/album/030/796/30796788.jpg?type=r120Fll&v=20240223101020",
+        "appleID": "love-wins-all/1726888402",
+        "youtubeID": "JleoAppaxi0"
     },
     {
         "ranking": "59",
@@ -424,14 +449,16 @@
         "title": "고민중독",
         "artist": "QWER",
         "album": "1st Mini Album 'MANITO'",
-        "image": "https://musicmeta-phinf.pstatic.net/album/031/194/31194405.jpg?type=r120Fll&v=20250725150952"
+        "image": "https://musicmeta-phinf.pstatic.net/album/031/194/31194405.jpg?type=r120Fll&v=20250725150952",
+        "youtubeID": "ImuWa3SJulY"
     },
     {
         "ranking": "62",
         "title": "주저하는 연인들을 위해",
         "artist": "잔나비",
         "album": "전설",
-        "image": "https://musicmeta-phinf.pstatic.net/album/002/923/2923941.jpg?type=r120Fll&v=20240507111145"
+        "image": "https://musicmeta-phinf.pstatic.net/album/002/923/2923941.jpg?type=r120Fll&v=20240507111145",
+        "youtubeID": "t8P-zdkoeJA"
     },
     {
         "ranking": "63",
@@ -452,21 +479,24 @@
         "title": "헤어지자 말해요",
         "artist": "박재정",
         "album": "1집 Alone",
-        "image": "https://musicmeta-phinf.pstatic.net/album/009/494/9494325.jpg?type=r120Fll&v=20230419175019"
+        "image": "https://musicmeta-phinf.pstatic.net/album/009/494/9494325.jpg?type=r120Fll&v=20230419175019",
+        "youtubeID": "yFlxYHjHYAw"
     },
     {
         "ranking": "66",
         "title": "너의 모든 순간",
         "artist": "성시경",
         "album": "별에서 온 그대 OST Part 7",
-        "image": "https://musicmeta-phinf.pstatic.net/album/000/416/416823.jpg?type=r120Fll&v=20240127054540"
+        "image": "https://musicmeta-phinf.pstatic.net/album/000/416/416823.jpg?type=r120Fll&v=20240127054540",
+        "youtubeID": "Dbxzh078jr4"
     },
     {
         "ranking": "67",
         "title": "에피소드",
         "artist": "이무진",
         "album": "에피소드",
-        "image": "https://musicmeta-phinf.pstatic.net/album/030/483/30483267.jpg?type=r120Fll&v=20250205163525"
+        "image": "https://musicmeta-phinf.pstatic.net/album/030/483/30483267.jpg?type=r120Fll&v=20250205163525",
+        "youtubeID": "gH1rVdXUlpo"
     },
     {
         "ranking": "68",
@@ -487,7 +517,8 @@
         "title": "Supernova",
         "artist": "aespa",
         "album": "Armageddon - The 1st Album",
-        "image": "https://musicmeta-phinf.pstatic.net/album/031/577/31577945.jpg?type=r120Fll&v=20251023102056"
+        "image": "https://musicmeta-phinf.pstatic.net/album/031/577/31577945.jpg?type=r120Fll&v=20251023102056",
+        "youtubeID": "phuiiNCxRMg"
     },
     {
         "ranking": "71",
@@ -508,28 +539,34 @@
         "title": "I AM",
         "artist": "IVE(아이브)",
         "album": "I've IVE",
-        "image": "https://musicmeta-phinf.pstatic.net/album/009/334/9334427.jpg?type=r120Fll&v=20250822164627"
+        "image": "https://musicmeta-phinf.pstatic.net/album/009/334/9334427.jpg?type=r120Fll&v=20250822164627",
+        "youtubeID": "2gyJW3AiPYY"
     },
     {
         "ranking": "74",
         "title": "Magnetic",
         "artist": "아일릿(ILLIT)",
         "album": "SUPER REAL ME",
-        "image": "https://musicmeta-phinf.pstatic.net/album/031/069/31069538.jpg?type=r120Fll&v=20250806143552"
+        "image": "https://musicmeta-phinf.pstatic.net/album/031/069/31069538.jpg?type=r120Fll&v=20250806143552",
+        "appleID": "magnetic/1734500896",
+        "youtubeID": "Vk5-c_v4gMU",
+        "spotifyID": "1aKvZDoLGkNMxoRYgkckZG"
     },
     {
         "ranking": "75",
         "title": "예뻤어",
         "artist": "DAY6(데이식스)",
         "album": "Every DAY6 February",
-        "image": "https://musicmeta-phinf.pstatic.net/album/001/779/1779662.jpg?type=r120Fll&v=20240129085632"
+        "image": "https://musicmeta-phinf.pstatic.net/album/001/779/1779662.jpg?type=r120Fll&v=20240129085632",
+        "youtubeID": "BS7tz2rAOSA"
     },
     {
         "ranking": "76",
         "title": "첫눈처럼 너에게 가겠다",
         "artist": "에일리(Ailee)",
         "album": "도깨비 OST Part 9",
-        "image": "https://musicmeta-phinf.pstatic.net/album/001/773/1773336.jpg?type=r120Fll&v=20250820130309"
+        "image": "https://musicmeta-phinf.pstatic.net/album/001/773/1773336.jpg?type=r120Fll&v=20250820130309",
+        "youtubeID": "6rS7OUGXUik"
     },
     {
         "ranking": "77",
@@ -543,7 +580,8 @@
         "title": "천상연",
         "artist": "이창섭",
         "album": "천상연 (웹툰 '선녀외전' X 이창섭 (LEE CHANGSUB))",
-        "image": "https://musicmeta-phinf.pstatic.net/album/030/878/30878664.jpg?type=r120Fll&v=20240220123436"
+        "image": "https://musicmeta-phinf.pstatic.net/album/030/878/30878664.jpg?type=r120Fll&v=20240220123436",
+        "youtubeID": "fQ84rvbfa08"
     },
     {
         "ranking": "79",
@@ -557,14 +595,16 @@
         "title": "소나기",
         "artist": "이클립스(ECLIPSE)",
         "album": "선재 업고 튀어 OST Part 1",
-        "image": "https://musicmeta-phinf.pstatic.net/album/031/359/31359951.jpg?type=r120Fll&v=20240729140740"
+        "image": "https://musicmeta-phinf.pstatic.net/album/031/359/31359951.jpg?type=r120Fll&v=20240729140740",
+        "youtubeID": "fBB4MaBybyg"
     },
     {
         "ranking": "81",
         "title": "첫 만남은 계획대로 되지 않아",
         "artist": "TWS(투어스)",
         "album": "TWS 1st Mini Album 'Sparkling Blue'",
-        "image": "https://musicmeta-phinf.pstatic.net/album/030/624/30624437.jpg?type=r120Fll&v=20250922180002"
+        "image": "https://musicmeta-phinf.pstatic.net/album/030/624/30624437.jpg?type=r120Fll&v=20250922180002",
+        "youtubeID": "hVAc1Vf2ITU"
     },
     {
         "ranking": "82",
@@ -592,14 +632,16 @@
         "title": "사랑할 수밖에",
         "artist": "볼빨간사춘기",
         "album": "Merry Go Round",
-        "image": "https://musicmeta-phinf.pstatic.net/album/030/451/30451566.jpg?type=r120Fll&v=20240227160510"
+        "image": "https://musicmeta-phinf.pstatic.net/album/030/451/30451566.jpg?type=r120Fll&v=20240227160510",
+        "youtubeID": "cMB4cQHJt6Y"
     },
     {
         "ranking": "86",
         "title": "다정히 내 이름을 부르면",
         "artist": "경서예지",
         "album": "다정히 내 이름을 부르면 (경서예지 x 전건호)",
-        "image": "https://musicmeta-phinf.pstatic.net/album/005/880/5880633.jpg?type=r120Fll&v=20240216232008"
+        "image": "https://musicmeta-phinf.pstatic.net/album/005/880/5880633.jpg?type=r120Fll&v=20240216232008",
+        "youtubeID": "z127C11tKsg"
     },
     {
         "ranking": "87",
@@ -634,14 +676,16 @@
         "title": "DRIP",
         "artist": "BABYMONSTER",
         "album": "DRIP",
-        "image": "https://musicmeta-phinf.pstatic.net/album/032/243/32243530.jpg?type=r120Fll&v=20250825151056"
+        "image": "https://musicmeta-phinf.pstatic.net/album/032/243/32243530.jpg?type=r120Fll&v=20250825151056",
+        "youtubeID": "Zp-Jhuhq0bQ"
     },
     {
         "ranking": "92",
         "title": "내 이름 맑음",
         "artist": "QWER",
         "album": "2nd Mini Album 'Algorithm's Blossom",
-        "image": "https://musicmeta-phinf.pstatic.net/album/032/057/32057155.jpg?type=r120Fll&v=20250725150951"
+        "image": "https://musicmeta-phinf.pstatic.net/album/032/057/32057155.jpg?type=r120Fll&v=20250725150951",
+        "youtubeID": "9yfrVqCcrS0"
     },
     {
         "ranking": "93",
@@ -662,7 +706,8 @@
         "title": "How Sweet",
         "artist": "NewJeans",
         "album": "How Sweet",
-        "image": "https://musicmeta-phinf.pstatic.net/album/031/512/31512201.jpg?type=r120Fll&v=20240524110922"
+        "image": "https://musicmeta-phinf.pstatic.net/album/031/512/31512201.jpg?type=r120Fll&v=20240524110922",
+        "youtubeID": "Q3K0TOvTOno"
     },
     {
         "ranking": "96",
