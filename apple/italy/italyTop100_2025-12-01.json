@@ -60,7 +60,9 @@
         "title": "Last Christmas (Single Version)",
         "artist": "Wham!",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/eb/4a/f9/eb4af984-fc68-56ab-7b89-1d070c04e1dd/5099765318524.jpg/80x80bb.webp",
-        "appleID": "last-christmas-single-version/202117984"
+        "appleID": "last-christmas/282658482",
+        "youtubeID": "E8gmARGvPlI",
+        "spotifyID": "2FRnf9qhLbvw8fu4IBXx78"
     },
     {
         "ranking": "10",
@@ -74,7 +76,8 @@
         "title": "All I Want for Christmas Is You",
         "artist": "Mariah Carey",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/c6/b7/27/c6b727f7-3a32-6b43-cee2-05bb71daf1cf/dj.itfmdeif.jpg/80x80bb.webp",
-        "appleID": "all-i-want-for-christmas-is-you/585972803"
+        "appleID": "all-i-want-for-christmas-is-you/585972803",
+        "youtubeID": "aAkMkVFwAoo"
     },
     {
         "ranking": "12",
@@ -207,7 +210,9 @@
         "title": "Ora che non ho più te",
         "artist": "Cesare Cremonini",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c5/75/66/c575666d-2103-7c5d-0532-a511eb8e6c2b/24UMGIM82146.rgb.jpg/80x80bb.webp",
-        "appleID": "ora-che-non-ho-pi%C3%B9-te/1765021052"
+        "appleID": "ora-che-non-ho-pi%C3%B9-te/1765021052",
+        "youtubeID": "LESn4LFOfes",
+        "spotifyID": "2L16IuIQgLL1HupWGN4F4t"
     },
     {
         "ranking": "31",
@@ -221,14 +226,18 @@
         "title": "It's the Most Wonderful Time of the Year",
         "artist": "Andy Williams",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/d9/84/16/d98416a4-d960-4602-8f2c-4f03165d434d/mzi.hohpjzfa.jpg/80x80bb.webp",
-        "appleID": "its-the-most-wonderful-time-of-the-year/171434594"
+        "appleID": "its-the-most-wonderful-time-of-the-year/171434594",
+        "youtubeID": "cbZTfrhcamA",
+        "spotifyID": "1IcR6RlgvDczfvoWJSSY2A"
     },
     {
         "ranking": "33",
         "title": "Feliz Navidad",
         "artist": "José Feliciano",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/cf/a7/f8/cfa7f807-e9a6-758d-97e0-f1cd843b5a20/mzi.vcbwvmqu.jpg/80x80bb.webp",
-        "appleID": "feliz-navidad/255615879"
+        "appleID": "feliz-navidad/255615879",
+        "youtubeID": "N8NcQzMQN_U",
+        "spotifyID": "3qCeq0rWK67SoBDgFd2sId"
     },
     {
         "ranking": "34",
@@ -291,7 +300,8 @@
         "title": "Bottiglie Vuote (feat. Max Pezzali)",
         "artist": "Pinguini Tattici Nucleari",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7e/ba/58/7eba5844-be5a-fb8f-5707-8a982d2c997b/196873002705.jpg/80x80bb.webp",
-        "appleID": "bottiglie-vuote-feat-max-pezzali/1805607040"
+        "appleID": "bottiglie-vuote/1779696077",
+        "spotifyID": "2XHtcL8ya4GQ0QE2eyVre9"
     },
     {
         "ranking": "43",
@@ -515,14 +525,15 @@
         "title": "100 MESSAGGI",
         "artist": "Lazza",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/1a/b6/6f/1ab66f83-0924-7769-4356-d4be1b69e1c8/24UMGIM16868.rgb.jpg/80x80bb.webp",
-        "appleID": "100-messaggi/1732402688"
+        "appleID": "100-messaggi/1732402688",
+        "youtubeID": "F7katA08VeA"
     },
     {
         "ranking": "75",
         "title": "CANZONE D'ODIO",
         "artist": "Lazza",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/0a/9d/b7/0a9db781-3829-8817-acf4-0df13c3c6e8c/24UMGIM94964.rgb.jpg/80x80bb.webp",
-        "appleID": "canzone-dodio/1817383958"
+        "appleID": "canzone-dodio/1780757780"
     },
     {
         "ranking": "76",
@@ -543,7 +554,8 @@
         "title": "BUIO DAVANTI",
         "artist": "Lazza",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/0a/9d/b7/0a9db781-3829-8817-acf4-0df13c3c6e8c/24UMGIM94964.rgb.jpg/80x80bb.webp",
-        "appleID": "buio-davanti/1817383975"
+        "appleID": "buio-davanti/1780757799",
+        "spotifyID": "5MJc4IVIt17xEt6angtZcq"
     },
     {
         "ranking": "79",
@@ -648,7 +660,8 @@
         "title": "Holly Jolly Christmas",
         "artist": "Michael Bublé",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b5/64/30/b56430c1-aafb-4af5-0f29-f278c02d2093/093624826903.jpg/80x80bb.webp",
-        "appleID": "holly-jolly-christmas/1831874220"
+        "appleID": "holly-jolly-christmas/1782947597",
+        "spotifyID": "67mgz7S5y7hnCE63YBjfO6"
     },
     {
         "ranking": "94",
@@ -690,7 +703,8 @@
         "title": "Amaro",
         "artist": "Pinguini Tattici Nucleari",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/0e/ba/12/0eba12d4-c9d3-f098-4b55-41adfaa51d17/196873024653.jpg/80x80bb.webp",
-        "appleID": "amaro/1807114810"
+        "appleID": "amaro/1779696066",
+        "spotifyID": "3OewdIjWctx4TH6jswXRrc"
     },
     {
         "ranking": "100",
