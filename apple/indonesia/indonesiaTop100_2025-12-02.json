@@ -137,7 +137,9 @@
         "title": "WILDFLOWER",
         "artist": "Billie Eilish",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
-        "appleID": "wildflower/1739659144"
+        "appleID": "wildflower/1739659144",
+        "youtubeID": "IWKyykQBRKo",
+        "spotifyID": "3QaPy1KgI7nu9FJEQUgn6h"
     },
     {
         "ranking": "21",
@@ -200,7 +202,8 @@
         "title": "Nina",
         "artist": ".Feast",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f1/28/34/f12834cb-932f-cca6-58d7-3b5a790d83c2/cover.jpg/80x80bb.webp",
-        "appleID": "nina/1749943602"
+        "appleID": "nina/1749943602",
+        "youtubeID": "CtRIsakAgjQ"
     },
     {
         "ranking": "30",
@@ -256,7 +259,8 @@
         "title": "About You",
         "artist": "The 1975",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1f/c7/98/1fc7988e-0a39-5724-1390-e45246250e24/198704825934_Cover.jpg/80x80bb.webp",
-        "appleID": "about-you/1850019038"
+        "appleID": "about-you/1632479847",
+        "youtubeID": "tGv7CUutzqU"
     },
     {
         "ranking": "38",
@@ -291,14 +295,16 @@
         "title": "Lampu Kuning",
         "artist": "Juicy Luicy",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/26/0c/be/260cbe21-9d2d-a2ab-3391-f8fde6ad6840/198704005169_Cover.jpg/80x80bb.webp",
-        "appleID": "lampu-kuning/1749498368"
+        "appleID": "lampu-kuning/1749498368",
+        "youtubeID": "YCLJz0TANaA"
     },
     {
         "ranking": "43",
         "title": "BIRDS OF A FEATHER",
         "artist": "Billie Eilish",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
-        "appleID": "birds-of-a-feather/1739659142"
+        "appleID": "birds-of-a-feather/1739659142",
+        "youtubeID": "V9PVRfjEBTI"
     },
     {
         "ranking": "44",
@@ -354,7 +360,9 @@
         "title": "Bawa Dia Kembali",
         "artist": "Mahalini",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music1/v4/3b/f2/d6/3bf2d632-27fb-86d1-bc4a-06112b5e66bb/cover.jpg/80x80bb.webp",
-        "appleID": "bawa-dia-kembali/968040028"
+        "appleID": "bawa-dia-kembali/968040028",
+        "youtubeID": "dq2i49uwEJg",
+        "spotifyID": "25M9piWxSsq0xLcjQW5yz6"
     },
     {
         "ranking": "52",
@@ -389,7 +397,8 @@
         "title": "Backburner",
         "artist": "NIKI",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/19/b6/51/19b6510e-4edb-1bc5-1aff-9d21c889cdae/190296084300.jpg/80x80bb.webp",
-        "appleID": "backburner/1766383338"
+        "appleID": "backburner/1766383338",
+        "spotifyID": "4x2PkqSLtuwv53hLqq4GiY"
     },
     {
         "ranking": "57",
@@ -473,21 +482,24 @@
         "title": "Aku Milikmu",
         "artist": "Dewa 19",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/fc/58/c3/fc58c343-0dbc-b9db-7777-658f9df01ee8/Dewa_19_Format_Masa_Depan.jpg/80x80bb.webp",
-        "appleID": "aku-milikmu/534882587"
+        "appleID": "aku-milikmu/534882587",
+        "youtubeID": "lHC_pKJKKg8"
     },
     {
         "ranking": "69",
         "title": "December",
         "artist": "Neck Deep",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/3f/3c/96/3f3c9687-26bc-4c7e-e55a-ca3e322bf52d/3273.jpg/80x80bb.webp",
-        "appleID": "december/1716631805"
+        "appleID": "december/1716631805",
+        "youtubeID": "8NnQs3EtoqU"
     },
     {
         "ranking": "70",
         "title": "Pesan Terakhir",
         "artist": "Lyodra",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/5f/4f/68/5f4f6824-86e0-0efa-a2c9-9fbd104b0470/21UMGIM62551.rgb.jpg/80x80bb.webp",
-        "appleID": "pesan-terakhir/1575730129"
+        "appleID": "pesan-terakhir/1575730129",
+        "spotifyID": "3FwQ3RYYEekzjEeL3jdpUZ"
     },
     {
         "ranking": "71",
@@ -501,7 +513,9 @@
         "title": "Die With A Smile",
         "artist": "Lady Gaga",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/11/ae/f2/11aef294-f57c-bab9-c9fc-529162984e62/24UMGIM85348.rgb.jpg/80x80bb.webp",
-        "appleID": "die-with-a-smile/1762656732"
+        "appleID": "die-with-a-smile/1762656732",
+        "youtubeID": "kPa7bsKwL-c",
+        "spotifyID": "2plbrEY59IikOBgBGLjaoe"
     },
     {
         "ranking": "73",
@@ -536,21 +550,24 @@
         "title": "Perfect",
         "artist": "Ed Sheeran",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/15/e6/e8/15e6e8a4-4190-6a8b-86c3-ab4a51b88288/190295851286.jpg/80x80bb.webp",
-        "appleID": "perfect/1193701400"
+        "appleID": "perfect/1193701400",
+        "youtubeID": "2Vv-BfVoq4g"
     },
     {
         "ranking": "78",
         "title": "Always",
         "artist": "Daniel Caesar",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/36/e3/8e/36e38e7e-94ec-dbcd-f23c-0890e1a9518f/22UM1IM44821.rgb.jpg/80x80bb.webp",
-        "appleID": "always/1681323048"
+        "appleID": "always/1681323048",
+        "spotifyID": "2LlOeW5rVcvl3QcPNPcDus"
     },
     {
         "ranking": "79",
         "title": "The Man Who Can't Be Moved",
         "artist": "The Script",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/2d/c6/72/2dc6728e-fe24-c7b3-970c-a24d8af1e4b6/dj.tjxgsvhv.jpg/80x80bb.webp",
-        "appleID": "the-man-who-cant-be-moved/289076746"
+        "appleID": "the-man-who-cant-be-moved/289076746",
+        "spotifyID": "3nqqDo8CcCLke3ZoTgiOKf"
     },
     {
         "ranking": "80",
@@ -592,7 +609,9 @@
         "title": "That’s So True",
         "artist": "Gracie Abrams",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/26/78/81/26788143-5e5f-0813-2480-ecf4280ef221/24UM1IM07082.rgb.jpg/80x80bb.webp",
-        "appleID": "thats-so-true/1773474483"
+        "appleID": "thats-so-true/1773474483",
+        "youtubeID": "BDHM8cyJQa8",
+        "spotifyID": "7ne4VBA60CxGM75vw0EYad"
     },
     {
         "ranking": "86",
@@ -606,14 +625,17 @@
         "title": "Satu Bulan",
         "artist": "Bernadya",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/d8/bb/8c/d8bb8c81-ddb9-e427-a18b-c385afae12c2/23UMGIM65225.rgb.jpg/80x80bb.webp",
-        "appleID": "satu-bulan/1692125490"
+        "appleID": "satu-bulan/1692125490",
+        "youtubeID": "yjnSX_iUFVo",
+        "spotifyID": "7zOVh5fGpEwSbZd0g9z80B"
     },
     {
         "ranking": "88",
         "title": "Cruel Summer",
         "artist": "Taylor Swift",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/49/3d/ab/493dab54-f920-9043-6181-80993b8116c9/19UMGIM53909.rgb.jpg/80x80bb.webp",
-        "appleID": "cruel-summer/1468058171"
+        "appleID": "cruel-summer/1468058171",
+        "youtubeID": "ic8j13piAhQ"
     },
     {
         "ranking": "89",
@@ -662,7 +684,8 @@
         "title": "Good Days",
         "artist": "SZA",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/ef/09/cf/ef09cf1f-a057-6039-00d3-7b5d14c7eba1/886449006717.jpg/80x80bb.webp",
-        "appleID": "good-days/1546390051"
+        "appleID": "good-days/1546390051",
+        "youtubeID": "0BdlKkvjEgA"
     },
     {
         "ranking": "96",
@@ -676,7 +699,9 @@
         "title": "Snooze",
         "artist": "SZA",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/bd/3b/a9/bd3ba9fb-9609-144f-bcfe-ead67b5f6ab3/196589564931.jpg/80x80bb.webp",
-        "appleID": "snooze/1657869492"
+        "appleID": "snooze/1657869492",
+        "youtubeID": "LDY_XyxBu8A",
+        "spotifyID": "4iZ4pt7kvcaH6Yo8UoZ4s2"
     },
     {
         "ranking": "98",
@@ -697,6 +722,6 @@
         "title": "no tears left to cry",
         "artist": "Ariana Grande",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/9e/71/a4/9e71a47f-c290-a542-07fd-a3aed41eefa7/18UMGIM36924.rgb.jpg/80x80bb.webp",
-        "appleID": "no-tears-left-to-cry/1544324124"
+        "appleID": "no-tears-left-to-cry/1399204228"
     }
 ]
