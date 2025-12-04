@@ -67,7 +67,7 @@
         "title": "Любовь как сон",
         "artist": "Ulukmanapo",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1d/02/22/1d02224c-3898-1bd7-2f51-08e2edf16fa7/3617224049714.png/80x80bb.webp",
-        "appleID": "%D0%BB%D1%8E%D0%B1%D0%BE%D0%B2%D1%8C-%D0%BA%D0%B0%D0%BA-%D1%81%D0%BE%D0%BD/1835876741"
+        "appleID": "%D0%BB%D1%8E%D0%B1%D0%BE%D0%B2%D1%8C-%D0%BA%D0%B0%D0%BA-%D1%81%D0%BE%D0%BD/1694998284"
     },
     {
         "ranking": "11",
@@ -123,7 +123,7 @@
         "title": "Расстояние",
         "artist": "Ulukmanapo",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/3c/d4/f3/3cd4f3ac-e94f-d7a9-081c-0746799f619d/3616846816421.png/80x80bb.webp",
-        "appleID": "%D1%80%D0%B0%D1%81%D1%81%D1%82%D0%BE%D1%8F%D0%BD%D0%B8%D0%B5/1835878587"
+        "appleID": "%D1%80%D0%B0%D1%81%D1%81%D1%82%D0%BE%D1%8F%D0%BD%D0%B8%D0%B5/1621366381"
     },
     {
         "ranking": "19",
@@ -144,14 +144,15 @@
         "title": "Байландым",
         "artist": "FreeMan996",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/83/89/0c/83890ca6-1915-a478-6102-f0e74dd631fa/3617051872097.png/80x80bb.webp",
-        "appleID": "%D0%B1%D0%B0%D0%B9%D0%BB%D0%B0%D0%BD%D0%B4%D1%8B%D0%BC/1835880200"
+        "appleID": "%D0%B1%D0%B0%D0%B9%D0%BB%D0%B0%D0%BD%D0%B4%D1%8B%D0%BC/1648318714"
     },
     {
         "ranking": "22",
         "title": "Timeless",
         "artist": "The Weeknd",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/40/77/cb/4077cbd1-b6a0-d8df-b9d3-e9a339dbc0ea/24UM1IM04061.rgb.jpg/80x80bb.webp",
-        "appleID": "timeless/1770380890"
+        "appleID": "timeless/1770380890",
+        "youtubeID": "5EpyN_6dqyk"
     },
     {
         "ranking": "23",
@@ -242,7 +243,8 @@
         "title": "Капкан",
         "artist": "МОТ",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music69/v4/f6/55/4d/f6554d6a-dd86-c5e3-b47a-9befb8fc564f/cover.jpg/80x80bb.webp",
-        "appleID": "%D0%BA%D0%B0%D0%BF%D0%BA%D0%B0%D0%BD/1079308769"
+        "appleID": "%D0%BA%D0%B0%D0%BF%D0%BA%D0%B0%D0%BD/1079308769",
+        "spotifyID": "551l3WSPbohzxQGHhTVm0q"
     },
     {
         "ranking": "36",
@@ -263,7 +265,9 @@
         "title": "Die With A Smile",
         "artist": "Lady Gaga",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/11/ae/f2/11aef294-f57c-bab9-c9fc-529162984e62/24UMGIM85348.rgb.jpg/80x80bb.webp",
-        "appleID": "die-with-a-smile/1762656732"
+        "appleID": "die-with-a-smile/1762656732",
+        "youtubeID": "kPa7bsKwL-c",
+        "spotifyID": "2plbrEY59IikOBgBGLjaoe"
     },
     {
         "ranking": "39",
@@ -354,7 +358,9 @@
         "title": "WILDFLOWER",
         "artist": "Billie Eilish",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
-        "appleID": "wildflower/1739659144"
+        "appleID": "wildflower/1739659144",
+        "youtubeID": "IWKyykQBRKo",
+        "spotifyID": "3QaPy1KgI7nu9FJEQUgn6h"
     },
     {
         "ranking": "52",
@@ -382,7 +388,8 @@
         "title": "Not Like Us",
         "artist": "Kendrick Lamar",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d0/ef/b6/d0efb685-73be-fdee-58c9-be655f4cd4fd/24UMGIM51924.rgb.jpg/80x80bb.webp",
-        "appleID": "not-like-us/1744776167"
+        "appleID": "not-like-us/1744776167",
+        "youtubeID": "H58vbez_m4E"
     },
     {
         "ranking": "56",
@@ -424,7 +431,8 @@
         "title": "Denzel W.",
         "artist": "Ulukmanapo",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/59/4e/37/594e37f5-f4d5-0da2-832e-52125f36208c/3616409194720.png/80x80bb.webp",
-        "appleID": "denzel-w/1836759101"
+        "appleID": "denzel-w/1533702518",
+        "spotifyID": "7swhbSGivOfNLT75O2P1lz"
     },
     {
         "ranking": "62",
@@ -452,7 +460,8 @@
         "title": "Ойлорумда",
         "artist": "Bakr",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/ea/8c/56/ea8c5683-174f-c8bd-e5a0-214699b870ed/cover.jpg/80x80bb.webp",
-        "appleID": "%D0%BE%D0%B9%D0%BB%D0%BE%D1%80%D1%83%D0%BC%D0%B4%D0%B0/1552905349"
+        "appleID": "%D0%BE%D0%B9%D0%BB%D0%BE%D1%80%D1%83%D0%BC%D0%B4%D0%B0/1552905349",
+        "spotifyID": "4V6xeXI8PvKDj9y9E6QWJY"
     },
     {
         "ranking": "66",
@@ -494,7 +503,9 @@
         "title": "CHIHIRO",
         "artist": "Billie Eilish",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
-        "appleID": "chihiro/1739659141"
+        "appleID": "chihiro/1739659141",
+        "youtubeID": "BY_XwvKogC8",
+        "spotifyID": "7BRD7x5pt8Lqa1eGYC4dzj"
     },
     {
         "ranking": "72",
@@ -564,14 +575,16 @@
         "title": "Про любовь",
         "artist": "Xcho",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8c/99/94/8c99947e-fb6e-dac2-5117-ad2784ac00ce/cover.jpg/80x80bb.webp",
-        "appleID": "%D0%BF%D1%80%D0%BE-%D0%BB%D1%8E%D0%B1%D0%BE%D0%B2%D1%8C/1804969518"
+        "appleID": "%D0%BF%D1%80%D0%BE-%D0%BB%D1%8E%D0%B1%D0%BE%D0%B2%D1%8C/1632654882",
+        "spotifyID": "1iBDgZDBkV8LTjFbNDcvOO"
     },
     {
         "ranking": "82",
         "title": "Дома",
         "artist": "LUCAVEROS",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/fd/9c/67/fd9c676a-88b0-c889-9793-153eaecbf436/cover.jpg/80x80bb.webp",
-        "appleID": "%D0%B4%D0%BE%D0%BC%D0%B0/1269143960"
+        "appleID": "%D0%B4%D0%BE%D0%BC%D0%B0/1269143960",
+        "spotifyID": "7pMxLK5v1PLtqZqYRtnqqK"
     },
     {
         "ranking": "83",
@@ -613,7 +626,8 @@
         "title": "FE!N (feat. Playboi Carti)",
         "artist": "Travis Scott",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/09/7d/b0/097db06f-8403-3cf7-7510-139e570ca66b/196871341882.jpg/80x80bb.webp",
-        "appleID": "fe-n-feat-playboi-carti/1699712651"
+        "appleID": "fe-n-feat-playboi-carti/1699712651",
+        "youtubeID": "B9synWjqBn8"
     },
     {
         "ranking": "89",
@@ -634,14 +648,16 @@
         "title": "Привет",
         "artist": "Bakr",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/ab/cf/96/abcf9600-fa11-5822-3ac1-77b624bb4c00/cover.jpg/80x80bb.webp",
-        "appleID": "%D0%BF%D1%80%D0%B8%D0%B2%D0%B5%D1%82/1704322071"
+        "appleID": "%D0%BF%D1%80%D0%B8%D0%B2%D0%B5%D1%82/1704322071",
+        "spotifyID": "6hvPHIYi04pKv1vvTeVF9j"
     },
     {
         "ranking": "92",
         "title": "Вредина",
         "artist": "Bakr",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/03/03/63/0303639b-997a-ab72-c72e-2ed9b6d5a5fe/cover.jpg/80x80bb.webp",
-        "appleID": "%D0%B2%D1%80%D0%B5%D0%B4%D0%B8%D0%BD%D0%B0/1630843910"
+        "appleID": "%D0%B2%D1%80%D0%B5%D0%B4%D0%B8%D0%BD%D0%B0/1630843910",
+        "spotifyID": "6z3RBRZVdV34ZjFKgjmDXA"
     },
     {
         "ranking": "93",
