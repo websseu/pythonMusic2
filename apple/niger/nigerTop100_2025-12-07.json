@@ -179,7 +179,9 @@
         "title": "La vie qu'on mène",
         "artist": "Ninho",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/ab/c5/ea/abc5eab6-1a33-3910-6f96-3954d76c5815/190295460259.jpg/80x80bb.webp",
-        "appleID": "la-vie-quon-m%C3%A8ne/1453399179"
+        "appleID": "la-vie-quon-m%C3%A8ne/1453399179",
+        "youtubeID": "BJwovrr6XzI",
+        "spotifyID": "0Jh6iWjna1wk5le0Ahn7No"
     },
     {
         "ranking": "27",
@@ -347,7 +349,9 @@
         "title": "4 Kampé",
         "artist": "Joé Dwèt Filé",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/05/32/0a/05320ae3-1eef-3cd6-8f19-9ad9f078fa25/cover.jpg/80x80bb.webp",
-        "appleID": "4-kamp%C3%A9/1773819412"
+        "appleID": "4-kamp%C3%A9/1773819412",
+        "youtubeID": "Srvt_6up-0o",
+        "spotifyID": "7dzuYJwwtNnfcptmbD58aJ"
     },
     {
         "ranking": "51",
@@ -389,14 +393,16 @@
         "title": "Laboratoire",
         "artist": "Werenoi",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9f/a9/84/9fa984bb-ad87-63b3-e34d-b6febc47e920/cover.jpg/80x80bb.webp",
-        "appleID": "laboratoire/1768971934"
+        "appleID": "laboratoire/1768971934",
+        "spotifyID": "7wOgZ1otoKYDvKyQKP1sNZ"
     },
     {
         "ranking": "57",
         "title": "Tu connais",
         "artist": "Werenoi",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/0e/08/86/0e0886d9-8d0b-1f89-43c6-3a00f6572d25/dj.qqadwfea.jpg/80x80bb.webp",
-        "appleID": "tu-connais/1707807608"
+        "appleID": "tu-connais/1707807608",
+        "spotifyID": "3rIX5DA9rUk89KUOZdGFaN"
     },
     {
         "ranking": "58",
@@ -508,7 +514,9 @@
         "title": "CARTIER SANTOS",
         "artist": "SDM",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/64/46/95/64469515-0230-b26c-69cf-5db61f5ea879/24UMGIM72197.rgb.jpg/80x80bb.webp",
-        "appleID": "cartier-santos/1757803302"
+        "appleID": "cartier-santos/1757803302",
+        "youtubeID": "3nGdVePdlT4",
+        "spotifyID": "1Mzg6bu3hkCwJKEf7v49MN"
     },
     {
         "ranking": "74",
@@ -627,7 +635,8 @@
         "title": "Rush",
         "artist": "Ayra Starr",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/93/c1/9293c1af-2881-bcb7-439f-99a516e5d715/5059449090122.png/80x80bb.webp",
-        "appleID": "rush/1642898573"
+        "appleID": "rush/1642898573",
+        "youtubeID": "crtQSTYWtqE"
     },
     {
         "ranking": "91",
@@ -655,7 +664,7 @@
         "title": "Hit & Run",
         "artist": "Shenseea",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4d/42/ed/4d42edf6-6a14-5e74-9a02-a01fe9bff99c/23UM1IM07501.rgb.jpg/80x80bb.webp",
-        "appleID": "hit-run/1743522372"
+        "appleID": "hit-run/1727264203"
     },
     {
         "ranking": "95",
@@ -669,7 +678,9 @@
         "title": "Monaco",
         "artist": "Guy2Bezbar",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8b/3d/d9/8b3dd98a-d961-72a2-161f-cc099c4b5689/196872257809.jpg/80x80bb.webp",
-        "appleID": "monaco/1755200186"
+        "appleID": "monaco/1755200186",
+        "youtubeID": "m3IqAolevVc",
+        "spotifyID": "2iEXkEB32esmNExcEyKjKc"
     },
     {
         "ranking": "97",

@@ -60,7 +60,9 @@
         "title": "Without Me",
         "artist": "Eminem",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/b4/13/e9/b413e91d-40aa-a1a8-b8e3-2bacc3b3e222/00606949329020.rgb.jpg/80x80bb.webp",
-        "appleID": "without-me/1440903693"
+        "appleID": "without-me/1440903693",
+        "youtubeID": "YVkUvmDQ3HY",
+        "spotifyID": "7lQ8MOhq6IN2w8EYcFNSUk"
     },
     {
         "ranking": "10",
@@ -200,7 +202,8 @@
         "title": "In the End",
         "artist": "LINKIN PARK",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/53/a7/7f/53a77fab-c54c-a57b-8130-248fc12d0c80/093624948995.jpg/80x80bb.webp",
-        "appleID": "in-the-end/590431785"
+        "appleID": "in-the-end/590431785",
+        "spotifyID": "60a0Rd6pjrkxjPbaKzXjfq"
     },
     {
         "ranking": "30",
@@ -571,7 +574,8 @@
         "title": "Bring Me to Life",
         "artist": "Evanescence",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/10/4c/21/104c21e6-9ef0-4d3a-d1bd-d47167f121e5/00601501406300.rgb.jpg/80x80bb.webp",
-        "appleID": "bring-me-to-life/1440666111"
+        "appleID": "bring-me-to-life/1440666111",
+        "youtubeID": "3YxaaGgTQYM"
     },
     {
         "ranking": "83",
