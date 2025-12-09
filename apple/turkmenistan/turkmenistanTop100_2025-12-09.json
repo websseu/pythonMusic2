@@ -60,7 +60,8 @@
         "title": "Vlone",
         "artist": "FACE",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/8e/c6/54/8ec65463-ca87-b653-8cf1-2b2b6322632f/cover.jpg/80x80bb.webp",
-        "appleID": "vlone/1426370878"
+        "appleID": "vlone/1426370878",
+        "spotifyID": "6qZra71fzsZOgmCPwzBKLt"
     },
     {
         "ranking": "10",
@@ -172,7 +173,8 @@
         "title": "All I Want for Christmas Is You",
         "artist": "Mariah Carey",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/c6/b7/27/c6b727f7-3a32-6b43-cee2-05bb71daf1cf/dj.itfmdeif.jpg/80x80bb.webp",
-        "appleID": "all-i-want-for-christmas-is-you/585972803"
+        "appleID": "all-i-want-for-christmas-is-you/585972803",
+        "youtubeID": "aAkMkVFwAoo"
     },
     {
         "ranking": "26",
@@ -291,7 +293,9 @@
         "title": "WILDFLOWER",
         "artist": "Billie Eilish",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
-        "appleID": "wildflower/1739659144"
+        "appleID": "wildflower/1739659144",
+        "youtubeID": "IWKyykQBRKo",
+        "spotifyID": "3QaPy1KgI7nu9FJEQUgn6h"
     },
     {
         "ranking": "43",
@@ -319,7 +323,8 @@
         "title": "Flowers",
         "artist": "Miley Cyrus",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/c4/40/d8/c440d88a-2bcd-5d10-e814-e482271134f4/196871387361.jpg/80x80bb.webp",
-        "appleID": "flowers/1702906535"
+        "appleID": "flowers/1702906535",
+        "youtubeID": "G7KNmW9a75Y"
     },
     {
         "ranking": "47",
@@ -333,14 +338,16 @@
         "title": "Not Like Us",
         "artist": "Kendrick Lamar",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d0/ef/b6/d0efb685-73be-fdee-58c9-be655f4cd4fd/24UMGIM51924.rgb.jpg/80x80bb.webp",
-        "appleID": "not-like-us/1744776167"
+        "appleID": "not-like-us/1744776167",
+        "youtubeID": "H58vbez_m4E"
     },
     {
         "ranking": "49",
         "title": "Дорога дальняя",
         "artist": "Jakone",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/78/ca/13/78ca13c3-f53a-fbc0-1e13-c29c3a5cb1c9/cover.jpg/80x80bb.webp",
-        "appleID": "%D0%B4%D0%BE%D1%80%D0%BE%D0%B3%D0%B0-%D0%B4%D0%B0%D0%BB%D1%8C%D0%BD%D1%8F%D1%8F/1732289498"
+        "appleID": "%D0%B4%D0%BE%D1%80%D0%BE%D0%B3%D0%B0-%D0%B4%D0%B0%D0%BB%D1%8C%D0%BD%D1%8F%D1%8F/1732289498",
+        "youtubeID": "eIzuT2RNdnk"
     },
     {
         "ranking": "50",
@@ -641,7 +648,8 @@
         "title": "Sweater Weather",
         "artist": "The Neighbourhood",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/28/71/00/287100fb-5c31-0195-5343-e6b3625886d0/886443969834.jpg/80x80bb.webp",
-        "appleID": "sweater-weather/635016640"
+        "appleID": "sweater-weather/635016640",
+        "spotifyID": "0cQVqPuHQP4KEwc7ZUQmj6"
     },
     {
         "ranking": "93",
@@ -662,7 +670,9 @@
         "title": "Jingle Bell Rock",
         "artist": "Bobby Helms",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/e8/18/6b/e8186bf9-5696-e721-b273-a5f173caf8c1/18UMGIM07062.rgb.jpg/80x80bb.webp",
-        "appleID": "jingle-bell-rock/1358462132"
+        "appleID": "jingle-bell-rock/1358462132",
+        "youtubeID": "Z0ajuTaHBtM",
+        "spotifyID": "7vQbuQcyTflfCIOu3Uzzya"
     },
     {
         "ranking": "96",

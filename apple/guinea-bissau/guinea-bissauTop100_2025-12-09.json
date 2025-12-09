@@ -39,7 +39,8 @@
         "title": "Montanha",
         "artist": "Plutónio",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/73/10/b8/7310b8d3-3521-ceb7-e4b4-def50bd2565b/196872597929.jpg/80x80bb.webp",
-        "appleID": "https://music.apple.com/us/artist/plut%C3%B3nio/402172353"
+        "appleID": "https://music.apple.com/us/artist/plut%C3%B3nio/402172353",
+        "youtubeID": "KK9ie8zOM0w"
     },
     {
         "ranking": "7",
@@ -53,7 +54,8 @@
         "title": "País das Maravilhas",
         "artist": "Plutónio",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7d/b5/42/7db54276-a783-c308-bbc4-c75f5efef89f/196872557923.jpg/80x80bb.webp",
-        "appleID": "pa%C3%ADs-das-maravilhas/1776657471"
+        "appleID": "pa%C3%ADs-das-maravilhas/1776657471",
+        "youtubeID": "JolO6Y7TkRQ"
     },
     {
         "ranking": "9",
@@ -137,7 +139,8 @@
         "title": "Lose Yourself (From \"8 Mile\")",
         "artist": "Eminem",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/a7/06/99/a70699f9-2f5a-9198-fe70-6236b534738f/06UMGIM16683.rgb.jpg/80x80bb.webp",
-        "appleID": "lose-yourself-from-8-mile/1445727316"
+        "appleID": "lose-yourself-from-8-mile/1445727316",
+        "youtubeID": "xFYQQPAOz7Y"
     },
     {
         "ranking": "21",
@@ -648,7 +651,8 @@
         "title": "In the End",
         "artist": "LINKIN PARK",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/53/a7/7f/53a77fab-c54c-a57b-8130-248fc12d0c80/093624948995.jpg/80x80bb.webp",
-        "appleID": "in-the-end/590431785"
+        "appleID": "in-the-end/590431785",
+        "spotifyID": "60a0Rd6pjrkxjPbaKzXjfq"
     },
     {
         "ranking": "94",
