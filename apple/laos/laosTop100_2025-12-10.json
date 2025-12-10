@@ -74,7 +74,8 @@
         "title": "BIRDS OF A FEATHER",
         "artist": "Billie Eilish",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
-        "appleID": "birds-of-a-feather/1739659142"
+        "appleID": "birds-of-a-feather/1739659142",
+        "youtubeID": "V9PVRfjEBTI"
     },
     {
         "ranking": "12",
@@ -88,7 +89,8 @@
         "title": "Timeless",
         "artist": "The Weeknd",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/40/77/cb/4077cbd1-b6a0-d8df-b9d3-e9a339dbc0ea/24UM1IM04061.rgb.jpg/80x80bb.webp",
-        "appleID": "timeless/1770380890"
+        "appleID": "timeless/1770380890",
+        "youtubeID": "5EpyN_6dqyk"
     },
     {
         "ranking": "14",
@@ -102,7 +104,8 @@
         "title": "เพลงรัก",
         "artist": "Three Man Down",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/71/cd/0b/71cd0bbd-8072-2055-9c91-f3877f0f4e24/888332895279.jpg/80x80bb.webp",
-        "appleID": "%E0%B9%80%E0%B8%9E%E0%B8%A5%E0%B8%87%E0%B8%A3-%E0%B8%81/1792753683"
+        "appleID": "%E0%B9%80%E0%B8%9E%E0%B8%A5%E0%B8%87%E0%B8%A3-%E0%B8%81/1772114065",
+        "spotifyID": "1THWgXia63L6sds6dIMlI9"
     },
     {
         "ranking": "16",
@@ -137,7 +140,9 @@
         "title": "WILDFLOWER",
         "artist": "Billie Eilish",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
-        "appleID": "wildflower/1739659144"
+        "appleID": "wildflower/1739659144",
+        "youtubeID": "IWKyykQBRKo",
+        "spotifyID": "3QaPy1KgI7nu9FJEQUgn6h"
     },
     {
         "ranking": "21",
@@ -151,14 +156,17 @@
         "title": "luther",
         "artist": "Kendrick Lamar",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/50/c2/cc/50c2cc95-3658-9417-0d4b-831abde44ba1/24UM1IM28978.rgb.jpg/80x80bb.webp",
-        "appleID": "luther/1781270323"
+        "appleID": "luther/1781270323",
+        "youtubeID": "4_taypLmSMU"
     },
     {
         "ranking": "23",
         "title": "number one girl",
         "artist": "ROSÉ",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2d/14/66/2d14661b-345b-d0f3-4e86-56ef626e68aa/075679629203.jpg/80x80bb.webp",
-        "appleID": "number-one-girl/1771105923"
+        "appleID": "number-one-girl/1771105923",
+        "youtubeID": "pZ1NdE69VTs",
+        "spotifyID": "1lcBt7LoEikqYmhUoa2cez"
     },
     {
         "ranking": "24",
@@ -207,7 +215,8 @@
         "title": "About You",
         "artist": "The 1975",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1f/c7/98/1fc7988e-0a39-5724-1390-e45246250e24/198704825934_Cover.jpg/80x80bb.webp",
-        "appleID": "about-you/1850019038"
+        "appleID": "about-you/1632479847",
+        "youtubeID": "tGv7CUutzqU"
     },
     {
         "ranking": "31",
@@ -228,7 +237,7 @@
         "title": "ฝันถึงแฟนเก่า",
         "artist": "Three Man Down",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a1/32/f9/a132f91c-ad0e-a6c0-eb86-ff65dbe01fc0/888332920254.jpg/80x80bb.webp",
-        "appleID": "%E0%B8%9D-%E0%B8%99%E0%B8%96-%E0%B8%87%E0%B9%81%E0%B8%9F%E0%B8%99%E0%B9%80%E0%B8%81-%E0%B8%B2/1792762838"
+        "appleID": "%E0%B8%9D-%E0%B8%99%E0%B8%96-%E0%B8%87%E0%B9%81%E0%B8%9F%E0%B8%99%E0%B9%80%E0%B8%81-%E0%B8%B2/1517277898"
     },
     {
         "ranking": "34",
@@ -263,7 +272,9 @@
         "title": "toxic till the end",
         "artist": "ROSÉ",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2d/14/66/2d14661b-345b-d0f3-4e86-56ef626e68aa/075679629203.jpg/80x80bb.webp",
-        "appleID": "toxic-till-the-end/1771105929"
+        "appleID": "toxic-till-the-end/1771105929",
+        "youtubeID": "eA0lHNZ1KCA",
+        "spotifyID": "1z5ebC9238uGoBgzYyvGpQ"
     },
     {
         "ranking": "39",
@@ -347,14 +358,17 @@
         "title": "Snooze",
         "artist": "SZA",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/bd/3b/a9/bd3ba9fb-9609-144f-bcfe-ead67b5f6ab3/196589564931.jpg/80x80bb.webp",
-        "appleID": "snooze/1657869492"
+        "appleID": "snooze/1657869492",
+        "youtubeID": "LDY_XyxBu8A",
+        "spotifyID": "4iZ4pt7kvcaH6Yo8UoZ4s2"
     },
     {
         "ranking": "51",
         "title": "แค่คุณ",
         "artist": "Musketeers",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/74/59/b0/7459b064-30ad-b59e-ef94-f2f89a8906f6/cover.jpg/80x80bb.webp",
-        "appleID": "%E0%B9%81%E0%B8%84-%E0%B8%84-%E0%B8%93/1066211448"
+        "appleID": "%E0%B9%81%E0%B8%84-%E0%B8%84-%E0%B8%93/1066211448",
+        "spotifyID": "5u8iqPNTa3ryOqeiNdgi6o"
     },
     {
         "ranking": "52",
@@ -368,7 +382,7 @@
         "title": "ถ้าเธอรักฉันจริง",
         "artist": "Three Man Down",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/67/17/78/67177823-eea6-843e-2fd6-1cb45da0fa62/888332917599.jpg/80x80bb.webp",
-        "appleID": "%E0%B8%96-%E0%B8%B2%E0%B9%80%E0%B8%98%E0%B8%AD%E0%B8%A3-%E0%B8%81%E0%B8%89-%E0%B8%99%E0%B8%88%E0%B8%A3-%E0%B8%87/1792752621"
+        "appleID": "%E0%B8%96-%E0%B8%B2%E0%B9%80%E0%B8%98%E0%B8%AD%E0%B8%A3-%E0%B8%81%E0%B8%89-%E0%B8%99%E0%B8%88%E0%B8%A3-%E0%B8%87/1542919098"
     },
     {
         "ranking": "54",
@@ -410,7 +424,9 @@
         "title": "Die With A Smile",
         "artist": "Lady Gaga",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/11/ae/f2/11aef294-f57c-bab9-c9fc-529162984e62/24UMGIM85348.rgb.jpg/80x80bb.webp",
-        "appleID": "die-with-a-smile/1762656732"
+        "appleID": "die-with-a-smile/1762656732",
+        "youtubeID": "kPa7bsKwL-c",
+        "spotifyID": "2plbrEY59IikOBgBGLjaoe"
     },
     {
         "ranking": "60",
@@ -445,7 +461,7 @@
         "title": "คู่ชีวิต",
         "artist": "Cocktail",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9d/40/33/9d40332f-9fa7-cc6e-c1de-e2e7cb6f6e05/888332997744.jpg/80x80bb.webp",
-        "appleID": "%E0%B8%84-%E0%B8%8A-%E0%B8%A7-%E0%B8%95/1792752169"
+        "appleID": "%E0%B8%84-%E0%B8%8A-%E0%B8%A7-%E0%B8%95/916738120"
     },
     {
         "ranking": "65",
@@ -466,7 +482,8 @@
         "title": "Not Like Us",
         "artist": "Kendrick Lamar",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d0/ef/b6/d0efb685-73be-fdee-58c9-be655f4cd4fd/24UMGIM51924.rgb.jpg/80x80bb.webp",
-        "appleID": "not-like-us/1744776167"
+        "appleID": "not-like-us/1744776167",
+        "youtubeID": "H58vbez_m4E"
     },
     {
         "ranking": "68",
@@ -480,7 +497,8 @@
         "title": "Always",
         "artist": "Daniel Caesar",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/36/e3/8e/36e38e7e-94ec-dbcd-f23c-0890e1a9518f/22UM1IM44821.rgb.jpg/80x80bb.webp",
-        "appleID": "always/1681323048"
+        "appleID": "always/1681323048",
+        "spotifyID": "2LlOeW5rVcvl3QcPNPcDus"
     },
     {
         "ranking": "70",
@@ -508,7 +526,7 @@
         "title": "PLEASE",
         "artist": "Atom Chanakan",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d5/51/48/d55148c8-79be-394c-94e7-6375ea2e206c/888332937771.jpg/80x80bb.webp",
-        "appleID": "please/1792752613"
+        "appleID": "please/1318647466"
     },
     {
         "ranking": "74",
@@ -522,7 +540,8 @@
         "title": "DAY ONE",
         "artist": "PUN",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8b/38/86/8b388697-fefd-1fa8-04e4-a518c8761442/24UMGIM96529.rgb.jpg/80x80bb.webp",
-        "appleID": "day-one/1767346214"
+        "appleID": "day-one/1748093799",
+        "spotifyID": "5QxNmQBXpLPemzpDvsuiLM"
     },
     {
         "ranking": "76",
@@ -536,14 +555,16 @@
         "title": "Cruel Summer",
         "artist": "Taylor Swift",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/49/3d/ab/493dab54-f920-9043-6181-80993b8116c9/19UMGIM53909.rgb.jpg/80x80bb.webp",
-        "appleID": "cruel-summer/1468058171"
+        "appleID": "cruel-summer/1468058171",
+        "youtubeID": "ic8j13piAhQ"
     },
     {
         "ranking": "78",
         "title": "When I Was Your Man",
         "artist": "Bruno Mars",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/e0/a4/7c/e0a47c6f-005a-9f9f-ce29-8e858e2bcfcb/075679957283.jpg/80x80bb.webp",
-        "appleID": "when-i-was-your-man/573962555"
+        "appleID": "when-i-was-your-man/573962555",
+        "youtubeID": "ekzHIouo8Q4"
     },
     {
         "ranking": "79",
@@ -564,7 +585,8 @@
         "title": "ไม่ให้ไป",
         "artist": "Three Man Down",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2a/2b/21/2a2b2187-c515-5fe1-368c-36bfa3c8e79c/888332897808.jpg/80x80bb.webp",
-        "appleID": "%E0%B9%84%E0%B8%A1-%E0%B9%83%E0%B8%AB-%E0%B9%84%E0%B8%9B/1792747238"
+        "appleID": "%E0%B9%84%E0%B8%A1-%E0%B9%83%E0%B8%AB-%E0%B9%84%E0%B8%9B/1792747238",
+        "spotifyID": "0zLFNFvbnPmWZfDewtyaVg"
     },
     {
         "ranking": "82",
@@ -578,7 +600,8 @@
         "title": "ความทรงจำ",
         "artist": "Musketeers",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/0d/67/37/0d673744-de94-55ec-e5d5-06b3277620f9/cover.jpg/80x80bb.webp",
-        "appleID": "%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%97%E0%B8%A3%E0%B8%87%E0%B8%88%E0%B8%B3/1066766950"
+        "appleID": "%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%97%E0%B8%A3%E0%B8%87%E0%B8%88%E0%B8%B3/1066766950",
+        "spotifyID": "24VfUtHxbkCrscWC00toom"
     },
     {
         "ranking": "84",
@@ -592,21 +615,26 @@
         "title": "two years",
         "artist": "ROSÉ",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2d/14/66/2d14661b-345b-d0f3-4e86-56ef626e68aa/075679629203.jpg/80x80bb.webp",
-        "appleID": "two-years/1771105927"
+        "appleID": "two-years/1771105927",
+        "youtubeID": "lktucPDH5IY",
+        "spotifyID": "4HxGH28DitgAuuKpEVrLzN"
     },
     {
         "ranking": "86",
         "title": "blue",
         "artist": "yung kai",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/33/62/62/33626226-0cf3-ff64-3296-b2355de71fac/0748777703419.jpg/80x80bb.webp",
-        "appleID": "blue/1776246888"
+        "appleID": "blue/1776246888",
+        "youtubeID": "98zHKN-xSHk",
+        "spotifyID": "3be9ACTxtcL6Zm4vJRUiPG"
     },
     {
         "ranking": "87",
         "title": "I Just Wanna Know",
         "artist": "PUN",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8b/38/86/8b388697-fefd-1fa8-04e4-a518c8761442/24UMGIM96529.rgb.jpg/80x80bb.webp",
-        "appleID": "i-just-wanna-know/1767346201"
+        "appleID": "i-just-wanna-know/1767346201",
+        "spotifyID": "2a78JDp7YVCyEydtRiHOn7"
     },
     {
         "ranking": "88",
@@ -648,7 +676,8 @@
         "title": "Espresso",
         "artist": "Sabrina Carpenter",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cb/64/8c/cb648cf7-e7bb-bd00-efe0-d744312c29a8/24UMGIM32304.rgb.jpg/80x80bb.webp",
-        "appleID": "espresso/1740212434"
+        "appleID": "espresso/1740212434",
+        "youtubeID": "eVli-tstM5E"
     },
     {
         "ranking": "94",
