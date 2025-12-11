@@ -39,7 +39,8 @@
         "title": "All I Want for Christmas Is You",
         "artist": "Mariah Carey",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/c6/b7/27/c6b727f7-3a32-6b43-cee2-05bb71daf1cf/dj.itfmdeif.jpg/80x80bb.webp",
-        "appleID": "all-i-want-for-christmas-is-you/585972803"
+        "appleID": "all-i-want-for-christmas-is-you/585972803",
+        "youtubeID": "aAkMkVFwAoo"
     },
     {
         "ranking": "7",
@@ -53,7 +54,8 @@
         "title": "Vánoce Na Míru",
         "artist": "Ewa Farna",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/14/8f/bb/148fbbe7-4739-c408-3095-0d670b4e0c24/190295710545.jpg/80x80bb.webp",
-        "appleID": "v%C3%A1noce-na-m%C3%ADru/1304581952"
+        "appleID": "v%C3%A1noce-na-m%C3%ADru/1304581952",
+        "spotifyID": "3j30Y6jVypcZxFiWATyZ4Y"
     },
     {
         "ranking": "9",
@@ -165,7 +167,8 @@
         "title": "Půlnoční",
         "artist": "Václav Neckář",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/9c/4b/98/9c4b9804-690f-cc55-d064-d45307db144b/cover.jpg/80x80bb.webp",
-        "appleID": "p%C5%AFlno%C4%8Dn%C3%AD/1385992419"
+        "appleID": "p%C5%AFlno%C4%8Dn%C3%AD/1385992419",
+        "spotifyID": "5Thza83zbkoIupxDHf9kmq"
     },
     {
         "ranking": "25",
@@ -200,14 +203,17 @@
         "title": "Stíny",
         "artist": "Viktor Sheen",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/cb/e9/51/cbe95142-24c3-3071-93b7-2be155ae20d4/190296350849.jpg/80x80bb.webp",
-        "appleID": "st%C3%ADny/1594405608"
+        "appleID": "st%C3%ADny/1594405608",
+        "spotifyID": "0J3SIAOndpL1MS2Vq2RMQ9"
     },
     {
         "ranking": "30",
         "title": "Last Christmas (Single Version)",
         "artist": "Wham!",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/eb/4a/f9/eb4af984-fc68-56ab-7b89-1d070c04e1dd/5099765318524.jpg/80x80bb.webp",
-        "appleID": "last-christmas-single-version/202117984"
+        "appleID": "last-christmas/282658482",
+        "youtubeID": "E8gmARGvPlI",
+        "spotifyID": "2FRnf9qhLbvw8fu4IBXx78"
     },
     {
         "ranking": "31",
@@ -235,7 +241,9 @@
         "title": "Jingle Bell Rock",
         "artist": "Bobby Helms",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/e8/18/6b/e8186bf9-5696-e721-b273-a5f173caf8c1/18UMGIM07062.rgb.jpg/80x80bb.webp",
-        "appleID": "jingle-bell-rock/1358462132"
+        "appleID": "jingle-bell-rock/1358462132",
+        "youtubeID": "Z0ajuTaHBtM",
+        "spotifyID": "7vQbuQcyTflfCIOu3Uzzya"
     },
     {
         "ranking": "35",
@@ -263,7 +271,8 @@
         "title": "Snowman",
         "artist": "Sia",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/85/c3/21/85c32113-1c4c-571c-7602-88f568d8081c/075679861016.jpg/80x80bb.webp",
-        "appleID": "snowman/1440098017"
+        "appleID": "snowman/1440098017",
+        "youtubeID": "gset79KMmt0"
     },
     {
         "ranking": "39",
@@ -284,7 +293,8 @@
         "title": "Underneath the Tree",
         "artist": "Kelly Clarkson",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/d8/e3/a5/d8e3a5f3-9296-07cc-9714-26069c01fd44/886448741190.jpg/80x80bb.webp",
-        "appleID": "underneath-the-tree/1537216368"
+        "appleID": "underneath-the-tree/1537216368",
+        "youtubeID": "EM2Fnp_qnE8"
     },
     {
         "ranking": "42",
@@ -298,7 +308,9 @@
         "title": "Let It Snow! Let It Snow! Let It Snow!",
         "artist": "Dean Martin",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/87/ee/3a/87ee3ae8-dc96-e287-6f1e-2332d4ae4c1d/13UAEIM07388.rgb.jpg/80x80bb.webp",
-        "appleID": "let-it-snow-let-it-snow-let-it-snow/1440830243"
+        "appleID": "let-it-snow-let-it-snow-let-it-snow/1440830243",
+        "youtubeID": "2TA3IKH8Y5c",
+        "spotifyID": "2uFaJJtFpPDc5Pa95XzTvg"
     },
     {
         "ranking": "44",
@@ -312,7 +324,9 @@
         "title": "End of Beginning",
         "artist": "Djo",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/e5/94/31/e59431de-7591-58e6-c4d4-105b6373ad6a/5056494917336_1.jpg/80x80bb.webp",
-        "appleID": "end-of-beginning/1632448108"
+        "appleID": "end-of-beginning/1632448108",
+        "youtubeID": "oXSw8DGjf5E",
+        "spotifyID": "3qhlB30KknSejmIvZZLjOD"
     },
     {
         "ranking": "46",
@@ -354,7 +368,8 @@
         "title": "Dopamin",
         "artist": "Viktor Sheen",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/1a/20/c8/1a20c887-27de-2a60-d3f0-d8bf51bb7ca2/5054197842733.jpg/80x80bb.webp",
-        "appleID": "dopamin/1711135982"
+        "appleID": "dopamin/1711135982",
+        "spotifyID": "6AMZm12a1B2kpgN7qOA7Cy"
     },
     {
         "ranking": "52",
@@ -417,21 +432,24 @@
         "title": "Praha/Vídeň",
         "artist": "Calin",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/24/2f/fa/242ffa76-02b9-e260-7c8b-b2da486dde1a/190296444753.jpg/80x80bb.webp",
-        "appleID": "praha-v%C3%ADde%C5%88/1585673430"
+        "appleID": "praha-v%C3%ADde%C5%88/1585673430",
+        "youtubeID": "5ReZTJRciXw"
     },
     {
         "ranking": "61",
         "title": "Sliby Se Maj Plnit O Vánocích",
         "artist": "Janek Ledecký",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/62/a8/26/62a826eb-e4df-e2a2-5fb5-eea0b040eb6d/cover.jpg/80x80bb.webp",
-        "appleID": "sliby-se-maj-plnit-o-v%C3%A1noc%C3%ADch/1384919956"
+        "appleID": "sliby-se-maj-plnit-o-v%C3%A1noc%C3%ADch/1384919956",
+        "youtubeID": "YLbgajaQ_U8"
     },
     {
         "ranking": "62",
         "title": "Santa Tell Me",
         "artist": "Ariana Grande",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/60/c8/2b/60c82b22-cd58-cdcd-5b51-6fad7a8b7055/14UMGIM55455.rgb.jpg/80x80bb.webp",
-        "appleID": "santa-tell-me/1444319982"
+        "appleID": "santa-tell-me/1444319982",
+        "youtubeID": "nlR0MkrRklg"
     },
     {
         "ranking": "63",
@@ -452,7 +470,9 @@
         "title": "Syndrom",
         "artist": "Viktor Sheen",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2c/ab/92/2cab92a4-bcac-5da9-89e2-18a52a39e77e/5021732523303.jpg/80x80bb.webp",
-        "appleID": "syndrom/1774287814"
+        "appleID": "syndrom/1774287814",
+        "youtubeID": "paVhbn5YtrI",
+        "spotifyID": "6gj6FXx7jZXOOdLX4aNaSK"
     },
     {
         "ranking": "66",
@@ -473,7 +493,9 @@
         "title": "Pátky",
         "artist": "Viktor Sheen",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2c/ab/92/2cab92a4-bcac-5da9-89e2-18a52a39e77e/5021732523303.jpg/80x80bb.webp",
-        "appleID": "p%C3%A1tky/1774287811"
+        "appleID": "p%C3%A1tky/1774287811",
+        "youtubeID": "INbE2ZVZy6c",
+        "spotifyID": "1nwKq6t4wpKLK2bWkDVm3e"
     },
     {
         "ranking": "69",
@@ -494,7 +516,9 @@
         "title": "Sleigh Ride",
         "artist": "The Ronettes",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/2e/92/5f/2e925fa4-6a4e-a15e-7cfc-bb3f13f053e1/mzi.ermvbetx.jpg/80x80bb.webp",
-        "appleID": "sleigh-ride/336037282"
+        "appleID": "sleigh-ride/336037282",
+        "youtubeID": "DkXIJe8CaIc",
+        "spotifyID": "7fUYUcWy853HS8YJn0b3Sr"
     },
     {
         "ranking": "72",
@@ -508,7 +532,9 @@
         "title": "Last Christmas",
         "artist": "Wham!",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/47/55/0c/47550cd6-7ef5-bf86-c194-c7695d63c759/dj.xuditatj.jpg/80x80bb.webp",
-        "appleID": "last-christmas/282658482"
+        "appleID": "last-christmas/282658482",
+        "youtubeID": "E8gmARGvPlI",
+        "spotifyID": "2FRnf9qhLbvw8fu4IBXx78"
     },
     {
         "ranking": "74",
@@ -522,14 +548,18 @@
         "title": "It's Beginning To Look a Lot Like Christmas",
         "artist": "Michael Bublé",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/37/2d/6e/372d6e16-7a32-91f0-1a03-0f2d9dbe389e/093624942788.jpg/80x80bb.webp",
-        "appleID": "its-beginning-to-look-a-lot-like-christmas/669854831"
+        "appleID": "its-beginning-to-look-a-lot-like-christmas/1592740089",
+        "youtubeID": "QJ5DOWPGxwg",
+        "spotifyID": "1rv46mRwDqMEhOBZ7vODg3"
     },
     {
         "ranking": "76",
         "title": "The Emptiness Machine",
         "artist": "LINKIN PARK",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/69/21/cf/6921cff3-7074-118a-ece2-4012450e6c75/093624839811.jpg/80x80bb.webp",
-        "appleID": "the-emptiness-machine/1766137051"
+        "appleID": "the-emptiness-machine/1766137051",
+        "youtubeID": "SRXH9AbT280",
+        "spotifyID": "1EDPVGbyPKJPeGqATwXZvN"
     },
     {
         "ranking": "77",
@@ -585,14 +615,17 @@
         "title": "It's the Most Wonderful Time of the Year",
         "artist": "Andy Williams",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/d9/84/16/d98416a4-d960-4602-8f2c-4f03165d434d/mzi.hohpjzfa.jpg/80x80bb.webp",
-        "appleID": "its-the-most-wonderful-time-of-the-year/171434594"
+        "appleID": "its-the-most-wonderful-time-of-the-year/171434594",
+        "youtubeID": "cbZTfrhcamA",
+        "spotifyID": "1IcR6RlgvDczfvoWJSSY2A"
     },
     {
         "ranking": "85",
         "title": "Beautiful Things",
         "artist": "Benson Boone",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/54/f4/92/54f49210-e260-b519-ebbd-f4f40ee710cd/054391342751.jpg/80x80bb.webp",
-        "appleID": "beautiful-things/1724488124"
+        "appleID": "beautiful-things/1724488124",
+        "youtubeID": "Oa_RSwwpPaA"
     },
     {
         "ranking": "86",
@@ -606,7 +639,8 @@
         "title": "Ryba Rybě",
         "artist": "Janek Ledecký",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/62/a8/26/62a826eb-e4df-e2a2-5fb5-eea0b040eb6d/cover.jpg/80x80bb.webp",
-        "appleID": "ryba-ryb%C4%9B/1384919960"
+        "appleID": "ryba-ryb%C4%9B/1384919960",
+        "youtubeID": "az9TApXbD5U"
     },
     {
         "ranking": "88",
@@ -627,7 +661,9 @@
         "title": "Merry Christmas",
         "artist": "Ed Sheeran",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/f4/22/23/f42223bc-9636-239d-83ba-95313f0c3f8a/190296347870.jpg/80x80bb.webp",
-        "appleID": "merry-christmas/1597450885"
+        "appleID": "merry-christmas/1597450885",
+        "youtubeID": "Q_yuO8UNGmY",
+        "spotifyID": "0hz5PNF2wejwUKCMpesQWt"
     },
     {
         "ranking": "91",
@@ -641,7 +677,9 @@
         "title": "That’s So True",
         "artist": "Gracie Abrams",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/26/78/81/26788143-5e5f-0813-2480-ecf4280ef221/24UM1IM07082.rgb.jpg/80x80bb.webp",
-        "appleID": "thats-so-true/1773474483"
+        "appleID": "thats-so-true/1773474483",
+        "youtubeID": "BDHM8cyJQa8",
+        "spotifyID": "7ne4VBA60CxGM75vw0EYad"
     },
     {
         "ranking": "93",
@@ -655,7 +693,9 @@
         "title": "Pro štěstí",
         "artist": "Ektor",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/6a/b4/cf/6ab4cf88-d092-b1d8-7bbf-cad4630b961f/24UM1IM22640.rgb.jpg/80x80bb.webp",
-        "appleID": "pro-%C5%A1t%C4%9Bst%C3%AD/1777009967"
+        "appleID": "pro-%C5%A1t%C4%9Bst%C3%AD/1777009967",
+        "youtubeID": "zAc4P6fgx2s",
+        "spotifyID": "0fGiTi5MT5MN2UgHYj9YK2"
     },
     {
         "ranking": "95",
@@ -690,7 +730,9 @@
         "title": "Rockin' Around the Christmas Tree (Single)",
         "artist": "Brenda Lee",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/d4/ea/6b/d4ea6b89-f9ac-f476-270d-66931315bc4c/06UMGIM02727.rgb.jpg/80x80bb.webp",
-        "appleID": "rockin-around-the-christmas-tree-single/1444032015"
+        "appleID": "rockin-around-the-christmas-tree-single/1444032015",
+        "youtubeID": "TFsZy9t-qDc",
+        "spotifyID": "2EjXfH91m7f8HiJN1yQg97"
     },
     {
         "ranking": "100",
