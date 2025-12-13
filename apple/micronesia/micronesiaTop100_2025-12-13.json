@@ -25,7 +25,8 @@
         "title": "Saturn",
         "artist": "SZA",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/0f/90/a8/0f90a856-0447-d846-fa7b-b9c937e72310/196871881180.jpg/80x80bb.webp",
-        "appleID": "saturn/1732348414"
+        "appleID": "saturn/1732348414",
+        "spotifyID": "1bjeWoagtHmUKputLVyDxQ"
     },
     {
         "ranking": "5",
@@ -39,7 +40,8 @@
         "title": "Beautiful Things",
         "artist": "Benson Boone",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/54/f4/92/54f49210-e260-b519-ebbd-f4f40ee710cd/054391342751.jpg/80x80bb.webp",
-        "appleID": "beautiful-things/1724488124"
+        "appleID": "beautiful-things/1724488124",
+        "youtubeID": "Oa_RSwwpPaA"
     },
     {
         "ranking": "7",
@@ -249,21 +251,24 @@
         "title": "Carry My Heart",
         "artist": "Myshaan",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/84/56/18/845618ab-f06d-a5d3-ceda-b1080520425e/10288.jpg/80x80bb.webp",
-        "appleID": "carry-my-heart/1779243427"
+        "appleID": "carry-my-heart/1779243427",
+        "youtubeID": "N9Welk1i-XM"
     },
     {
         "ranking": "37",
         "title": "Dreamin",
         "artist": "PARTYNEXTDOOR",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b9/d9/61/b9d961e2-44e7-52cf-eda8-d671a650f649/47085.jpg/80x80bb.webp",
-        "appleID": "dreamin/1777722381"
+        "appleID": "dreamin/1777722381",
+        "spotifyID": "35sZOqVnTQNIGWGURrFdLh"
     },
     {
         "ranking": "38",
         "title": "Dreams",
         "artist": "Fleetwood Mac",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/d2/48/f4/d248f4ae-a7e4-a48e-1588-6617de3e8d76/mzi.izeorbmm.jpg/80x80bb.webp",
-        "appleID": "dreams/202272624"
+        "appleID": "dreams/202272624",
+        "youtubeID": "Y3ywicffOj4"
     },
     {
         "ranking": "39",
@@ -326,7 +331,8 @@
         "title": "Good Days",
         "artist": "SZA",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/ef/09/cf/ef09cf1f-a057-6039-00d3-7b5d14c7eba1/886449006717.jpg/80x80bb.webp",
-        "appleID": "good-days/1546390051"
+        "appleID": "good-days/1546390051",
+        "youtubeID": "0BdlKkvjEgA"
     },
     {
         "ranking": "48",
@@ -550,7 +556,8 @@
         "title": "Nothing Else Matters",
         "artist": "Metallica",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/9e/80/1b/9e801b06-67fa-0990-2d15-85480ad3cd46/850007452025.png/80x80bb.webp",
-        "appleID": "nothing-else-matters/1572046444"
+        "appleID": "nothing-else-matters/1572046444",
+        "youtubeID": "tAGnKpE4NCI"
     },
     {
         "ranking": "80",
@@ -683,7 +690,8 @@
         "title": "luther",
         "artist": "Kendrick Lamar",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/50/c2/cc/50c2cc95-3658-9417-0d4b-831abde44ba1/24UM1IM28978.rgb.jpg/80x80bb.webp",
-        "appleID": "luther/1781270323"
+        "appleID": "luther/1781270323",
+        "youtubeID": "4_taypLmSMU"
     },
     {
         "ranking": "99",

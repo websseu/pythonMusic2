@@ -53,7 +53,8 @@
         "title": "All I Want for Christmas Is You",
         "artist": "Mariah Carey",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/c6/b7/27/c6b727f7-3a32-6b43-cee2-05bb71daf1cf/dj.itfmdeif.jpg/80x80bb.webp",
-        "appleID": "all-i-want-for-christmas-is-you/585972803"
+        "appleID": "all-i-want-for-christmas-is-you/585972803",
+        "youtubeID": "aAkMkVFwAoo"
     },
     {
         "ranking": "9",
@@ -382,7 +383,8 @@
         "title": "Santa Tell Me",
         "artist": "Ariana Grande",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/60/c8/2b/60c82b22-cd58-cdcd-5b51-6fad7a8b7055/14UMGIM55455.rgb.jpg/80x80bb.webp",
-        "appleID": "santa-tell-me/1444319982"
+        "appleID": "santa-tell-me/1444319982",
+        "youtubeID": "nlR0MkrRklg"
     },
     {
         "ranking": "56",
@@ -410,7 +412,8 @@
         "title": "Good Days",
         "artist": "SZA",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/ef/09/cf/ef09cf1f-a057-6039-00d3-7b5d14c7eba1/886449006717.jpg/80x80bb.webp",
-        "appleID": "good-days/1546390051"
+        "appleID": "good-days/1546390051",
+        "youtubeID": "0BdlKkvjEgA"
     },
     {
         "ranking": "60",
@@ -487,14 +490,16 @@
         "title": "Malele",
         "artist": "Liz Vamarasi",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/87/2f/0f/872f0fa8-fa93-bee1-e292-70a91491f36c/0.jpg/80x80bb.webp",
-        "appleID": "malele/1802834722"
+        "appleID": "malele/1751186235"
     },
     {
         "ranking": "71",
         "title": "Last Christmas",
         "artist": "Wham!",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/47/55/0c/47550cd6-7ef5-bf86-c194-c7695d63c759/dj.xuditatj.jpg/80x80bb.webp",
-        "appleID": "last-christmas/282658482"
+        "appleID": "last-christmas/282658482",
+        "youtubeID": "E8gmARGvPlI",
+        "spotifyID": "2FRnf9qhLbvw8fu4IBXx78"
     },
     {
         "ranking": "72",
@@ -522,7 +527,8 @@
         "title": "Girlfriend",
         "artist": "Ruger",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/78/68/ce/7868ce23-2ce0-0cfd-7ce3-3eb1196f1d96/196589221094_Cover.jpg/80x80bb.webp",
-        "appleID": "girlfriend/1709394555"
+        "appleID": "girlfriend/1709394555",
+        "youtubeID": "7M2Gps9xR8g"
     },
     {
         "ranking": "76",
@@ -536,7 +542,8 @@
         "title": "Dreams",
         "artist": "Fleetwood Mac",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/d2/48/f4/d248f4ae-a7e4-a48e-1588-6617de3e8d76/mzi.izeorbmm.jpg/80x80bb.webp",
-        "appleID": "dreams/202272624"
+        "appleID": "dreams/202272624",
+        "youtubeID": "Y3ywicffOj4"
     },
     {
         "ranking": "78",
@@ -585,7 +592,9 @@
         "title": "Night Changes",
         "artist": "One Direction",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/14/e4/98/14e49846-57a9-dc8d-6fa3-5e03ccf3606c/dj.ljogvxod.jpg/80x80bb.webp",
-        "appleID": "night-changes/914556579"
+        "appleID": "night-changes/914556579",
+        "youtubeID": "syFZfO_wfMQ",
+        "spotifyID": "5O2P9iiztwhomNh8xkR9lJ"
     },
     {
         "ranking": "85",
@@ -662,7 +671,9 @@
         "title": "Mistletoe",
         "artist": "Justin Bieber",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/71/b9/49/71b9493c-57d3-c2dc-0ef0-d38417d7e937/11UMGIM34123.rgb.jpg/80x80bb.webp",
-        "appleID": "mistletoe/1440640717"
+        "appleID": "mistletoe/1440640717",
+        "youtubeID": "LUjn3RpkcKY",
+        "spotifyID": "7xapw9Oy21WpfEcib2ErSA"
     },
     {
         "ranking": "96",
