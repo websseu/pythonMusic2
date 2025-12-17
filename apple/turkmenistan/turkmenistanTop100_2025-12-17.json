@@ -60,7 +60,8 @@
         "title": "Another Love",
         "artist": "Tom Odell",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/3d/80/6e/3d806e1d-106c-7483-2024-032042519ab3/886443996779.jpg/80x80bb.webp",
-        "appleID": "another-love/1308605492"
+        "appleID": "another-love/1308605492",
+        "spotifyID": "7jtQIBanIiJOMS6RyCx6jZ"
     },
     {
         "ranking": "10",
@@ -242,7 +243,8 @@
         "title": "Дорога дальняя",
         "artist": "Jakone",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/78/ca/13/78ca13c3-f53a-fbc0-1e13-c29c3a5cb1c9/cover.jpg/80x80bb.webp",
-        "appleID": "%D0%B4%D0%BE%D1%80%D0%BE%D0%B3%D0%B0-%D0%B4%D0%B0%D0%BB%D1%8C%D0%BD%D1%8F%D1%8F/1732289498"
+        "appleID": "%D0%B4%D0%BE%D1%80%D0%BE%D0%B3%D0%B0-%D0%B4%D0%B0%D0%BB%D1%8C%D0%BD%D1%8F%D1%8F/1732289498",
+        "youtubeID": "eIzuT2RNdnk"
     },
     {
         "ranking": "36",
@@ -270,7 +272,8 @@
         "title": "Snowman",
         "artist": "Sia",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/85/c3/21/85c32113-1c4c-571c-7602-88f568d8081c/075679861016.jpg/80x80bb.webp",
-        "appleID": "snowman/1440098017"
+        "appleID": "snowman/1440098017",
+        "youtubeID": "gset79KMmt0"
     },
     {
         "ranking": "40",
@@ -284,7 +287,7 @@
         "title": "Камин",
         "artist": "EMIN",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/18/af/1d/18af1d8e-d684-3c0c-487a-f29c7453f174/3616404669582.jpg/80x80bb.webp",
-        "appleID": "%D0%BA%D0%B0%D0%BC%D0%B8%D0%BD/1570267744"
+        "appleID": "%D0%BA%D0%B0%D0%BC%D0%B8%D0%BD/1719165204"
     },
     {
         "ranking": "42",
@@ -375,7 +378,8 @@
         "title": "All I Want for Christmas Is You",
         "artist": "Mariah Carey",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/c6/b7/27/c6b727f7-3a32-6b43-cee2-05bb71daf1cf/dj.itfmdeif.jpg/80x80bb.webp",
-        "appleID": "all-i-want-for-christmas-is-you/585972803"
+        "appleID": "all-i-want-for-christmas-is-you/585972803",
+        "youtubeID": "aAkMkVFwAoo"
     },
     {
         "ranking": "55",
@@ -515,14 +519,17 @@
         "title": "Ransom (Remix)",
         "artist": "Lil Tecca",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/59/bf/f6/59bff6c7-a3af-1b08-5f0c-afaf32527c0f/19UMGIM74762.rgb.jpg/80x80bb.webp",
-        "appleID": "ransom-remix/1476606546"
+        "appleID": "ransom-remix/1476606546",
+        "youtubeID": "1XzY2ij_vL4",
+        "spotifyID": "1lOe9qE0vR9zwWQAOk6CoO"
     },
     {
         "ranking": "75",
         "title": "BIRDS OF A FEATHER",
         "artist": "Billie Eilish",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
-        "appleID": "birds-of-a-feather/1739659142"
+        "appleID": "birds-of-a-feather/1739659142",
+        "youtubeID": "V9PVRfjEBTI"
     },
     {
         "ranking": "76",
@@ -669,7 +676,8 @@
         "title": "Not Like Us",
         "artist": "Kendrick Lamar",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d0/ef/b6/d0efb685-73be-fdee-58c9-be655f4cd4fd/24UMGIM51924.rgb.jpg/80x80bb.webp",
-        "appleID": "not-like-us/1744776167"
+        "appleID": "not-like-us/1744776167",
+        "youtubeID": "H58vbez_m4E"
     },
     {
         "ranking": "97",
@@ -697,6 +705,8 @@
         "title": "Last Christmas (Instrumental)",
         "artist": "Wham!",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/37/8c/a0/378ca010-e348-da02-946d-c6a089318ed0/196872430462.jpg/80x80bb.webp",
-        "appleID": "last-christmas-instrumental/1775741911"
+        "appleID": "last-christmas/282658482",
+        "youtubeID": "E8gmARGvPlI",
+        "spotifyID": "2FRnf9qhLbvw8fu4IBXx78"
     }
 ]
