@@ -88,7 +88,8 @@
         "title": "Cups Up",
         "artist": "Malie Donn",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/23/49/26/2349266a-4fd1-4c96-8ddd-8a21cfe23227/197189042348.jpg/80x80bb.webp",
-        "appleID": "cups-up/1691201515"
+        "appleID": "cups-up/1691201515",
+        "youtubeID": "_7OrZfivZqE"
     },
     {
         "ranking": "14",
@@ -137,7 +138,8 @@
         "title": "Dungeon",
         "artist": "Malie Donn",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/e0/98/07/e09807c9-4e01-c8b0-c950-bf603332eb00/197189683930.jpg/80x80bb.webp",
-        "appleID": "dungeon/1703655702"
+        "appleID": "dungeon/1703655702",
+        "youtubeID": "Q4LoZSRlnfg"
     },
     {
         "ranking": "21",
@@ -151,7 +153,8 @@
         "title": "Freestyle",
         "artist": "Lil Baby",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/93/e7/aa/93e7aa59-da8b-15bc-2992-5803f70fe8fa/17UM1IM55478.rgb.jpg/80x80bb.webp",
-        "appleID": "freestyle/1440929293"
+        "appleID": "freestyle/1440929293",
+        "youtubeID": "MHryuYVyHhk"
     },
     {
         "ranking": "23",
@@ -186,7 +189,9 @@
         "title": "Snooze",
         "artist": "SZA",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/bd/3b/a9/bd3ba9fb-9609-144f-bcfe-ead67b5f6ab3/196589564931.jpg/80x80bb.webp",
-        "appleID": "snooze/1657869492"
+        "appleID": "snooze/1657869492",
+        "youtubeID": "LDY_XyxBu8A",
+        "spotifyID": "4iZ4pt7kvcaH6Yo8UoZ4s2"
     },
     {
         "ranking": "28",
@@ -249,7 +254,8 @@
         "title": "Expensive",
         "artist": "Valiant",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/67/ef/ba/67efba92-a95d-8a3e-f26e-7751657948f4/197188257088.jpg/80x80bb.webp",
-        "appleID": "expensive/1674670010"
+        "appleID": "expensive/1674670010",
+        "youtubeID": "nuMKdd_JkHo"
     },
     {
         "ranking": "37",
@@ -284,7 +290,8 @@
         "title": "7:00 (Raw)",
         "artist": "Malie Donn",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9b/2b/41/9b2b41f6-5f4d-e5da-9e82-8054ed4adb88/10307.jpg/80x80bb.webp",
-        "appleID": "7-00-raw/1802270718"
+        "appleID": "7-00-raw/1802270718",
+        "youtubeID": "PdoPIpKdsPI"
     },
     {
         "ranking": "42",
@@ -347,7 +354,8 @@
         "title": "IKATION",
         "artist": "Kraff Gad",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/04/2d/12/042d12ae-f11e-7b1b-09a2-3050bbf4f07f/198888697495.jpg/80x80bb.webp",
-        "appleID": "ikation/1799051543"
+        "appleID": "ikation/1768079373",
+        "youtubeID": "W7Ymf9DiBJA"
     },
     {
         "ranking": "51",
@@ -368,7 +376,7 @@
         "title": "In A Minute",
         "artist": "Lil Baby",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/9f/c0/99/9fc09958-180d-e66a-bbf7-9462289435f6/22UM1IM13098.rgb.jpg/80x80bb.webp",
-        "appleID": "in-a-minute/1648587330"
+        "appleID": "in-a-minute/1618285316"
     },
     {
         "ranking": "54",
@@ -543,14 +551,16 @@
         "title": "Bad Everyday (feat. Prince Swanny)",
         "artist": "Skillibeng",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/44/18/59/44185945-6345-bf90-12a6-446ea3164ef1/840200501767.jpg/80x80bb.webp",
-        "appleID": "bad-everyday-feat-prince-swanny/1646638403"
+        "appleID": "bad-everyday-feat-prince-swanny/1646638403",
+        "youtubeID": "e2OuC5dP6PM"
     },
     {
         "ranking": "79",
         "title": "Heart Of A Woman",
         "artist": "Summer Walker",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9f/2a/d9/9f2ad9e4-8b12-0759-edbf-962d3064168e/24UM1IM12906.rgb.jpg/80x80bb.webp",
-        "appleID": "heart-of-a-woman/1774543831"
+        "appleID": "heart-of-a-woman/1774543831",
+        "youtubeID": "SFddctbZzw8"
     },
     {
         "ranking": "80",
@@ -606,7 +616,8 @@
         "title": "Pain (feat. Popcaan)",
         "artist": "Masicka",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/c5/83/a4/c583a46e-286a-6590-6b21-ea2c29f10744/0.jpg/80x80bb.webp",
-        "appleID": "pain-feat-popcaan/1591960131"
+        "appleID": "pain-feat-popcaan/1591960131",
+        "youtubeID": "XEAaf_Na36Q"
     },
     {
         "ranking": "88",
@@ -662,7 +673,7 @@
         "title": "Relentless Ztg",
         "artist": "Prince Swanny",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ea/7e/40/ea7e4058-53a2-0094-7ecd-e91790f665a9/702338821875.png/80x80bb.webp",
-        "appleID": "relentless-ztg/1834852794"
+        "appleID": "relentless-ztg/1598437042"
     },
     {
         "ranking": "96",

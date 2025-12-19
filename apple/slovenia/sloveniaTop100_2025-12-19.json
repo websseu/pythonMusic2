@@ -18,21 +18,26 @@
         "title": "All I Want for Christmas Is You",
         "artist": "Mariah Carey",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/c6/b7/27/c6b727f7-3a32-6b43-cee2-05bb71daf1cf/dj.itfmdeif.jpg/80x80bb.webp",
-        "appleID": "all-i-want-for-christmas-is-you/585972803"
+        "appleID": "all-i-want-for-christmas-is-you/585972803",
+        "youtubeID": "aAkMkVFwAoo"
     },
     {
         "ranking": "4",
         "title": "It's Beginning To Look a Lot Like Christmas",
         "artist": "Michael Bublé",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/37/2d/6e/372d6e16-7a32-91f0-1a03-0f2d9dbe389e/093624942788.jpg/80x80bb.webp",
-        "appleID": "its-beginning-to-look-a-lot-like-christmas/669854831"
+        "appleID": "its-beginning-to-look-a-lot-like-christmas/1592740089",
+        "youtubeID": "QJ5DOWPGxwg",
+        "spotifyID": "1rv46mRwDqMEhOBZ7vODg3"
     },
     {
         "ranking": "5",
         "title": "Last Christmas (Single Version)",
         "artist": "Wham!",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/eb/4a/f9/eb4af984-fc68-56ab-7b89-1d070c04e1dd/5099765318524.jpg/80x80bb.webp",
-        "appleID": "last-christmas-single-version/202117984"
+        "appleID": "last-christmas/282658482",
+        "youtubeID": "E8gmARGvPlI",
+        "spotifyID": "2FRnf9qhLbvw8fu4IBXx78"
     },
     {
         "ranking": "6",
@@ -46,14 +51,17 @@
         "title": "Underneath the Tree",
         "artist": "Kelly Clarkson",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/d8/e3/a5/d8e3a5f3-9296-07cc-9714-26069c01fd44/886448741190.jpg/80x80bb.webp",
-        "appleID": "underneath-the-tree/1537216368"
+        "appleID": "underneath-the-tree/1537216368",
+        "youtubeID": "EM2Fnp_qnE8"
     },
     {
         "ranking": "8",
         "title": "Jingle Bell Rock",
         "artist": "Bobby Helms",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/e8/18/6b/e8186bf9-5696-e721-b273-a5f173caf8c1/18UMGIM07062.rgb.jpg/80x80bb.webp",
-        "appleID": "jingle-bell-rock/1358462132"
+        "appleID": "jingle-bell-rock/1358462132",
+        "youtubeID": "Z0ajuTaHBtM",
+        "spotifyID": "7vQbuQcyTflfCIOu3Uzzya"
     },
     {
         "ranking": "9",
@@ -81,7 +89,8 @@
         "title": "Santa Tell Me",
         "artist": "Ariana Grande",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/60/c8/2b/60c82b22-cd58-cdcd-5b51-6fad7a8b7055/14UMGIM55455.rgb.jpg/80x80bb.webp",
-        "appleID": "santa-tell-me/1444319982"
+        "appleID": "santa-tell-me/1444319982",
+        "youtubeID": "nlR0MkrRklg"
     },
     {
         "ranking": "13",
@@ -102,7 +111,9 @@
         "title": "Let It Snow! Let It Snow! Let It Snow!",
         "artist": "Dean Martin",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/87/ee/3a/87ee3ae8-dc96-e287-6f1e-2332d4ae4c1d/13UAEIM07388.rgb.jpg/80x80bb.webp",
-        "appleID": "let-it-snow-let-it-snow-let-it-snow/1440830243"
+        "appleID": "let-it-snow-let-it-snow-let-it-snow/1440830243",
+        "youtubeID": "2TA3IKH8Y5c",
+        "spotifyID": "2uFaJJtFpPDc5Pa95XzTvg"
     },
     {
         "ranking": "16",
@@ -130,7 +141,9 @@
         "title": "Rockin' Around the Christmas Tree (Single Version)",
         "artist": "Brenda Lee",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/4e/6f/7b/4e6f7b88-da9c-bdde-8e9d-5bd3bf3c4653/06UMGIM05568.rgb.jpg/80x80bb.webp",
-        "appleID": "rockin-around-the-christmas-tree-single-version/1434774881"
+        "appleID": "rockin-around-the-christmas-tree-single-version/1434774881",
+        "youtubeID": "TFsZy9t-qDc",
+        "spotifyID": "2EjXfH91m7f8HiJN1yQg97"
     },
     {
         "ranking": "20",
@@ -151,7 +164,9 @@
         "title": "It's the Most Wonderful Time of the Year",
         "artist": "Andy Williams",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/d9/84/16/d98416a4-d960-4602-8f2c-4f03165d434d/mzi.hohpjzfa.jpg/80x80bb.webp",
-        "appleID": "its-the-most-wonderful-time-of-the-year/171434594"
+        "appleID": "its-the-most-wonderful-time-of-the-year/171434594",
+        "youtubeID": "cbZTfrhcamA",
+        "spotifyID": "1IcR6RlgvDczfvoWJSSY2A"
     },
     {
         "ranking": "23",
@@ -235,7 +250,7 @@
         "title": "Padam",
         "artist": "Jala Brat",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f7/85/80/f7858045-ca37-17f7-3521-aada3b963592/2539.jpg/80x80bb.webp",
-        "appleID": "padam/1782150947"
+        "appleID": "padam/1782159798"
     },
     {
         "ranking": "35",
@@ -305,7 +320,9 @@
         "title": "Feliz Navidad",
         "artist": "José Feliciano",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/cf/a7/f8/cfa7f807-e9a6-758d-97e0-f1cd843b5a20/mzi.vcbwvmqu.jpg/80x80bb.webp",
-        "appleID": "feliz-navidad/255615879"
+        "appleID": "feliz-navidad/255615879",
+        "youtubeID": "N8NcQzMQN_U",
+        "spotifyID": "3qCeq0rWK67SoBDgFd2sId"
     },
     {
         "ranking": "45",
@@ -326,7 +343,8 @@
         "title": "Step into Christmas",
         "artist": "Elton John",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/dc/02/ee/dc02ee4a-ff56-75df-64d4-9afcf8c0885d/18UMGIM35649.rgb.jpg/80x80bb.webp",
-        "appleID": "step-into-christmas/1484999360"
+        "appleID": "step-into-christmas/1484999360",
+        "youtubeID": "IbRtGMm96F8"
     },
     {
         "ranking": "48",
@@ -389,7 +407,9 @@
         "title": "Merry Christmas",
         "artist": "Ed Sheeran",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/f4/22/23/f42223bc-9636-239d-83ba-95313f0c3f8a/190296347870.jpg/80x80bb.webp",
-        "appleID": "merry-christmas/1597450885"
+        "appleID": "merry-christmas/1597450885",
+        "youtubeID": "Q_yuO8UNGmY",
+        "spotifyID": "0hz5PNF2wejwUKCMpesQWt"
     },
     {
         "ranking": "57",
@@ -403,7 +423,9 @@
         "title": "Mistletoe",
         "artist": "Justin Bieber",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/71/b9/49/71b9493c-57d3-c2dc-0ef0-d38417d7e937/11UMGIM34123.rgb.jpg/80x80bb.webp",
-        "appleID": "mistletoe/1440640717"
+        "appleID": "mistletoe/1440640717",
+        "youtubeID": "LUjn3RpkcKY",
+        "spotifyID": "7xapw9Oy21WpfEcib2ErSA"
     },
     {
         "ranking": "59",
@@ -417,7 +439,8 @@
         "title": "Forza",
         "artist": "Grše",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/62/ec/18/62ec1883-aac6-1a1b-8808-c8a79fab5201/cover.jpg/80x80bb.webp",
-        "appleID": "forza/1751269959"
+        "appleID": "forza/1751269959",
+        "youtubeID": "-w55SIKYZxc"
     },
     {
         "ranking": "61",
@@ -452,7 +475,8 @@
         "title": "Idi Gade",
         "artist": "SENIDAH",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/04/ac/94/04ac940b-4732-a3dc-c387-040b5bedff07/cover.jpg/80x80bb.webp",
-        "appleID": "idi-gade/1763624684"
+        "appleID": "idi-gade/1763624684",
+        "youtubeID": "NOcwiaCRbVY"
     },
     {
         "ranking": "66",
@@ -529,7 +553,8 @@
         "title": "Santa Claus Is Comin' to Town",
         "artist": "Frank Sinatra",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/07/ec/01/07ec011d-f158-eb3d-f521-b35f5e4189ab/886444694155.jpg/80x80bb.webp",
-        "appleID": "santa-claus-is-comin-to-town/923608497"
+        "appleID": "santa-claus-is-comin-to-town/923608497",
+        "youtubeID": "rHKn6N-1_EY"
     },
     {
         "ranking": "77",
@@ -571,7 +596,7 @@
         "title": "Do They Know It's Christmas? (Original 1984 Version)",
         "artist": "Band Aid",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/52/a8/52/52a8524d-c292-a99a-92db-ae07376cdb09/06UMGIM39644.rgb.jpg/80x80bb.webp",
-        "appleID": "do-they-know-its-christmas-original-1984-version/1445001424"
+        "appleID": "do-they-know-its-christmas/1445001424"
     },
     {
         "ranking": "83",
@@ -585,14 +610,17 @@
         "title": "That’s So True",
         "artist": "Gracie Abrams",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/26/78/81/26788143-5e5f-0813-2480-ecf4280ef221/24UM1IM07082.rgb.jpg/80x80bb.webp",
-        "appleID": "thats-so-true/1773474483"
+        "appleID": "thats-so-true/1773474483",
+        "youtubeID": "BDHM8cyJQa8",
+        "spotifyID": "7ne4VBA60CxGM75vw0EYad"
     },
     {
         "ranking": "85",
         "title": "Snowman",
         "artist": "Sia",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/85/c3/21/85c32113-1c4c-571c-7602-88f568d8081c/075679861016.jpg/80x80bb.webp",
-        "appleID": "snowman/1440098017"
+        "appleID": "snowman/1440098017",
+        "youtubeID": "gset79KMmt0"
     },
     {
         "ranking": "86",
@@ -606,7 +634,7 @@
         "title": "Bez Koda",
         "artist": "Jala Brat",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/96/42/75/96427505-7355-66ad-3ca6-c346dc3cc379/1078.jpg/80x80bb.webp",
-        "appleID": "bez-koda/1782139510"
+        "appleID": "bez-koda/1753830403"
     },
     {
         "ranking": "88",
@@ -648,7 +676,9 @@
         "title": "Like It's Christmas",
         "artist": "Jonas Brothers",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/27/9d/df/279ddfe1-74db-1929-b48e-8faade18e3a1/19UMGIM98457.rgb.jpg/80x80bb.webp",
-        "appleID": "like-its-christmas/1485796558"
+        "appleID": "like-its-christmas/1485796558",
+        "youtubeID": "tIyE3IrC7r0",
+        "spotifyID": "1OjmlSFuzYflWjSMTCyTJv"
     },
     {
         "ranking": "94",
