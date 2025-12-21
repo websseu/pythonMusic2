@@ -284,14 +284,17 @@
         "title": "Tu connais",
         "artist": "Werenoi",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/0e/08/86/0e0886d9-8d0b-1f89-43c6-3a00f6572d25/dj.qqadwfea.jpg/80x80bb.webp",
-        "appleID": "tu-connais/1707807608"
+        "appleID": "tu-connais/1707807608",
+        "spotifyID": "3rIX5DA9rUk89KUOZdGFaN"
     },
     {
         "ranking": "42",
         "title": "CARTIER SANTOS",
         "artist": "SDM",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/64/46/95/64469515-0230-b26c-69cf-5db61f5ea879/24UMGIM72197.rgb.jpg/80x80bb.webp",
-        "appleID": "cartier-santos/1757803302"
+        "appleID": "cartier-santos/1757803302",
+        "youtubeID": "3nGdVePdlT4",
+        "spotifyID": "1Mzg6bu3hkCwJKEf7v49MN"
     },
     {
         "ranking": "43",
@@ -466,7 +469,9 @@
         "title": "NANANI NANANA",
         "artist": "Gazo",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/01/5e/2a/015e2a71-e1bf-bd50-02ae-06e03bea3ff9/196872618525.jpg/80x80bb.webp",
-        "appleID": "nanani-nanana/1780778119"
+        "appleID": "nanani-nanana/1780778119",
+        "youtubeID": "8Bkgi6yB6P8",
+        "spotifyID": "0qlYaRFGvgR6afy1f4BBwD"
     },
     {
         "ranking": "68",
@@ -508,7 +513,9 @@
         "title": "Pétunias",
         "artist": "Werenoi",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/86/cd/96/86cd96df-cb51-3cd4-f9f9-fca95f60ec80/cover.jpg/80x80bb.webp",
-        "appleID": "p%C3%A9tunias/1771382985"
+        "appleID": "p%C3%A9tunias/1771385253",
+        "youtubeID": "n2THLWjJ3Wo",
+        "spotifyID": "3Byu179ofnuChb4zF1fMhu"
     },
     {
         "ranking": "74",
@@ -536,7 +543,9 @@
         "title": "Monaco",
         "artist": "Guy2Bezbar",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8b/3d/d9/8b3dd98a-d961-72a2-161f-cc099c4b5689/196872257809.jpg/80x80bb.webp",
-        "appleID": "monaco/1755200186"
+        "appleID": "monaco/1755200186",
+        "youtubeID": "m3IqAolevVc",
+        "spotifyID": "2iEXkEB32esmNExcEyKjKc"
     },
     {
         "ranking": "78",
@@ -564,7 +573,8 @@
         "title": "Freestyle",
         "artist": "Lil Baby",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/93/e7/aa/93e7aa59-da8b-15bc-2992-5803f70fe8fa/17UM1IM55478.rgb.jpg/80x80bb.webp",
-        "appleID": "freestyle/1440929293"
+        "appleID": "freestyle/1440929293",
+        "youtubeID": "MHryuYVyHhk"
     },
     {
         "ranking": "82",
@@ -606,14 +616,14 @@
         "title": "Sur paname",
         "artist": "Ninho",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/5c/e2/93/5ce2935c-cd63-bcf4-0d47-a948a2923761/5060899072439_cover.jpg/80x80bb.webp",
-        "appleID": "sur-paname/1565402015"
+        "appleID": "sur-paname/1537133461"
     },
     {
         "ranking": "88",
         "title": "Last Last",
         "artist": "Burna Boy",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/fd/08/8c/fd088c72-75fc-0306-3c69-1ef4448ff3cf/075679688477.jpg/80x80bb.webp",
-        "appleID": "last-last/1749166881"
+        "appleID": "last-last/1623677811"
     },
     {
         "ranking": "89",
@@ -655,7 +665,7 @@
         "title": "Top Boy",
         "artist": "Himra",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/39/e1/fc/39e1fc3b-ee9b-3f8e-b032-952805107701/199066910078.jpg/80x80bb.webp",
-        "appleID": "top-boy/1799728023"
+        "appleID": "top-boy/1717665285"
     },
     {
         "ranking": "95",

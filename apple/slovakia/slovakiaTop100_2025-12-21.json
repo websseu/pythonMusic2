@@ -4,49 +4,61 @@
         "title": "All I Want for Christmas Is You",
         "artist": "Mariah Carey",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/c6/b7/27/c6b727f7-3a32-6b43-cee2-05bb71daf1cf/dj.itfmdeif.jpg/80x80bb.webp",
-        "appleID": "all-i-want-for-christmas-is-you/585972803"
+        "appleID": "all-i-want-for-christmas-is-you/585972803",
+        "youtubeID": "aAkMkVFwAoo"
     },
     {
         "ranking": "2",
         "title": "Jingle Bell Rock",
         "artist": "Bobby Helms",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/e8/18/6b/e8186bf9-5696-e721-b273-a5f173caf8c1/18UMGIM07062.rgb.jpg/80x80bb.webp",
-        "appleID": "jingle-bell-rock/1358462132"
+        "appleID": "jingle-bell-rock/1358462132",
+        "youtubeID": "Z0ajuTaHBtM",
+        "spotifyID": "7vQbuQcyTflfCIOu3Uzzya"
     },
     {
         "ranking": "3",
         "title": "Let It Snow! Let It Snow! Let It Snow!",
         "artist": "Dean Martin",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/87/ee/3a/87ee3ae8-dc96-e287-6f1e-2332d4ae4c1d/13UAEIM07388.rgb.jpg/80x80bb.webp",
-        "appleID": "let-it-snow-let-it-snow-let-it-snow/1440830243"
+        "appleID": "let-it-snow-let-it-snow-let-it-snow/1440830243",
+        "youtubeID": "2TA3IKH8Y5c",
+        "spotifyID": "2uFaJJtFpPDc5Pa95XzTvg"
     },
     {
         "ranking": "4",
         "title": "Sleigh Ride",
         "artist": "The Ronettes",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/2e/92/5f/2e925fa4-6a4e-a15e-7cfc-bb3f13f053e1/mzi.ermvbetx.jpg/80x80bb.webp",
-        "appleID": "sleigh-ride/336037282"
+        "appleID": "sleigh-ride/336037282",
+        "youtubeID": "DkXIJe8CaIc",
+        "spotifyID": "7fUYUcWy853HS8YJn0b3Sr"
     },
     {
         "ranking": "5",
         "title": "Underneath the Tree",
         "artist": "Kelly Clarkson",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/d8/e3/a5/d8e3a5f3-9296-07cc-9714-26069c01fd44/886448741190.jpg/80x80bb.webp",
-        "appleID": "underneath-the-tree/1537216368"
+        "appleID": "underneath-the-tree/1537216368",
+        "youtubeID": "EM2Fnp_qnE8"
     },
     {
         "ranking": "6",
         "title": "Last Christmas (Single Version)",
         "artist": "Wham!",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/eb/4a/f9/eb4af984-fc68-56ab-7b89-1d070c04e1dd/5099765318524.jpg/80x80bb.webp",
-        "appleID": "last-christmas-single-version/202117984"
+        "appleID": "last-christmas/282658482",
+        "youtubeID": "E8gmARGvPlI",
+        "spotifyID": "2FRnf9qhLbvw8fu4IBXx78"
     },
     {
         "ranking": "7",
         "title": "Last Christmas",
         "artist": "Wham!",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/47/55/0c/47550cd6-7ef5-bf86-c194-c7695d63c759/dj.xuditatj.jpg/80x80bb.webp",
-        "appleID": "last-christmas/282658482"
+        "appleID": "last-christmas/282658482",
+        "youtubeID": "E8gmARGvPlI",
+        "spotifyID": "2FRnf9qhLbvw8fu4IBXx78"
     },
     {
         "ranking": "8",
@@ -67,21 +79,26 @@
         "title": "It's Beginning To Look a Lot Like Christmas",
         "artist": "Michael Bublé",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/37/2d/6e/372d6e16-7a32-91f0-1a03-0f2d9dbe389e/093624942788.jpg/80x80bb.webp",
-        "appleID": "its-beginning-to-look-a-lot-like-christmas/669854831"
+        "appleID": "its-beginning-to-look-a-lot-like-christmas/1592740089",
+        "youtubeID": "QJ5DOWPGxwg",
+        "spotifyID": "1rv46mRwDqMEhOBZ7vODg3"
     },
     {
         "ranking": "11",
         "title": "Santa Baby",
         "artist": "Eartha Kitt",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a4/4c/02/a44c02d8-1b39-2b9e-525b-b9febd4685dc/196872062465.jpg/80x80bb.webp",
-        "appleID": "santa-baby/1742830149"
+        "appleID": "santa-baby/1742830149",
+        "youtubeID": "HTCFi4l3nkY"
     },
     {
         "ranking": "12",
         "title": "Merry Christmas",
         "artist": "Ed Sheeran",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/f4/22/23/f42223bc-9636-239d-83ba-95313f0c3f8a/190296347870.jpg/80x80bb.webp",
-        "appleID": "merry-christmas/1597450885"
+        "appleID": "merry-christmas/1597450885",
+        "youtubeID": "Q_yuO8UNGmY",
+        "spotifyID": "0hz5PNF2wejwUKCMpesQWt"
     },
     {
         "ranking": "13",
@@ -95,14 +112,18 @@
         "title": "Rockin' Around the Christmas Tree (Single)",
         "artist": "Brenda Lee",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/d4/ea/6b/d4ea6b89-f9ac-f476-270d-66931315bc4c/06UMGIM02727.rgb.jpg/80x80bb.webp",
-        "appleID": "rockin-around-the-christmas-tree-single/1444032015"
+        "appleID": "rockin-around-the-christmas-tree-single/1444032015",
+        "youtubeID": "TFsZy9t-qDc",
+        "spotifyID": "2EjXfH91m7f8HiJN1yQg97"
     },
     {
         "ranking": "15",
         "title": "Feliz Navidad",
         "artist": "José Feliciano",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/cf/a7/f8/cfa7f807-e9a6-758d-97e0-f1cd843b5a20/mzi.vcbwvmqu.jpg/80x80bb.webp",
-        "appleID": "feliz-navidad/255615879"
+        "appleID": "feliz-navidad/255615879",
+        "youtubeID": "N8NcQzMQN_U",
+        "spotifyID": "3qCeq0rWK67SoBDgFd2sId"
     },
     {
         "ranking": "16",
@@ -116,14 +137,18 @@
         "title": "Like It's Christmas",
         "artist": "Jonas Brothers",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/27/9d/df/279ddfe1-74db-1929-b48e-8faade18e3a1/19UMGIM98457.rgb.jpg/80x80bb.webp",
-        "appleID": "like-its-christmas/1485796558"
+        "appleID": "like-its-christmas/1485796558",
+        "youtubeID": "tIyE3IrC7r0",
+        "spotifyID": "1OjmlSFuzYflWjSMTCyTJv"
     },
     {
         "ranking": "18",
         "title": "It's the Most Wonderful Time of the Year",
         "artist": "Andy Williams",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/d9/84/16/d98416a4-d960-4602-8f2c-4f03165d434d/mzi.hohpjzfa.jpg/80x80bb.webp",
-        "appleID": "its-the-most-wonderful-time-of-the-year/171434594"
+        "appleID": "its-the-most-wonderful-time-of-the-year/171434594",
+        "youtubeID": "cbZTfrhcamA",
+        "spotifyID": "1IcR6RlgvDczfvoWJSSY2A"
     },
     {
         "ranking": "19",
@@ -151,7 +176,8 @@
         "title": "Santa Tell Me",
         "artist": "Ariana Grande",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/60/c8/2b/60c82b22-cd58-cdcd-5b51-6fad7a8b7055/14UMGIM55455.rgb.jpg/80x80bb.webp",
-        "appleID": "santa-tell-me/1444319982"
+        "appleID": "santa-tell-me/1444319982",
+        "youtubeID": "nlR0MkrRklg"
     },
     {
         "ranking": "23",
@@ -179,7 +205,8 @@
         "title": "Christmas (Baby Please Come Home)",
         "artist": "Darlene Love",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/2e/92/5f/2e925fa4-6a4e-a15e-7cfc-bb3f13f053e1/mzi.ermvbetx.jpg/80x80bb.webp",
-        "appleID": "christmas-baby-please-come-home/336037344"
+        "appleID": "christmas-baby-please-come-home/336037344",
+        "youtubeID": "vf4ZXBzbAio"
     },
     {
         "ranking": "27",
@@ -193,7 +220,8 @@
         "title": "Snowman",
         "artist": "Sia",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/85/c3/21/85c32113-1c4c-571c-7602-88f568d8081c/075679861016.jpg/80x80bb.webp",
-        "appleID": "snowman/1440098017"
+        "appleID": "snowman/1440098017",
+        "youtubeID": "gset79KMmt0"
     },
     {
         "ranking": "29",
@@ -221,7 +249,9 @@
         "title": "A Holly Jolly Christmas (Single Version)",
         "artist": "Burl Ives",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/17/f1/7b/17f17b40-c8cb-f795-00d3-959dea4872eb/06UMGIM17860.rgb.jpg/80x80bb.webp",
-        "appleID": "a-holly-jolly-christmas-single-version/1444213351"
+        "appleID": "a-holly-jolly-christmas-single-version/1444213351",
+        "youtubeID": "e_AMTbO50vU",
+        "spotifyID": "77khP2fIVhSW23NwxrRluh"
     },
     {
         "ranking": "33",
@@ -249,7 +279,8 @@
         "title": "Christmas Tree Farm",
         "artist": "Taylor Swift",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/ca/55/5a/ca555a0e-c360-26e6-437d-098b0089482a/19UM1IM09492.rgb.jpg/80x80bb.webp",
-        "appleID": "christmas-tree-farm/1490369895"
+        "appleID": "christmas-tree-farm/1490369895",
+        "spotifyID": "2mvabkN1i2gLnGAPUVdwek"
     },
     {
         "ranking": "37",
@@ -270,7 +301,8 @@
         "title": "Cozy Little Christmas",
         "artist": "Katy Perry",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/7e/bb/cc/7ebbcc2c-0f40-aad8-b598-8d4c5d8b38c9/18UMGIM75340.rgb.jpg/80x80bb.webp",
-        "appleID": "cozy-little-christmas/1484609636"
+        "appleID": "cozy-little-christmas/1484609636",
+        "spotifyID": "02FaKXXL7KUtRc7K0k54tL"
     },
     {
         "ranking": "40",
@@ -347,7 +379,8 @@
         "title": "Půlnoční",
         "artist": "Václav Neckář",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/9c/4b/98/9c4b9804-690f-cc55-d064-d45307db144b/cover.jpg/80x80bb.webp",
-        "appleID": "p%C5%AFlno%C4%8Dn%C3%AD/1385992419"
+        "appleID": "p%C5%AFlno%C4%8Dn%C3%AD/1385992419",
+        "spotifyID": "5Thza83zbkoIupxDHf9kmq"
     },
     {
         "ranking": "51",
@@ -361,7 +394,9 @@
         "title": "Mistletoe",
         "artist": "Justin Bieber",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/71/b9/49/71b9493c-57d3-c2dc-0ef0-d38417d7e937/11UMGIM34123.rgb.jpg/80x80bb.webp",
-        "appleID": "mistletoe/1440640717"
+        "appleID": "mistletoe/1440640717",
+        "youtubeID": "LUjn3RpkcKY",
+        "spotifyID": "7xapw9Oy21WpfEcib2ErSA"
     },
     {
         "ranking": "53",
@@ -382,7 +417,8 @@
         "title": "Driving Home for Christmas",
         "artist": "Chris Rea",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/ca/6d/f4/ca6df4b3-133c-5771-2fde-25cfd9a3efd5/190295711870.jpg/80x80bb.webp",
-        "appleID": "driving-home-for-christmas/1309544023"
+        "appleID": "driving-home-for-christmas/1309544023",
+        "youtubeID": "uSjq7x67kzM"
     },
     {
         "ranking": "56",
@@ -403,14 +439,17 @@
         "title": "Wonderful Christmastime (Edited Version)",
         "artist": "Paul McCartney",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/7c/f9/32/7cf932a7-aa32-2532-6e1b-2ed16d930445/14CMGIM01195.rgb.jpg/80x80bb.webp",
-        "appleID": "wonderful-christmastime-edited-version/1440953981"
+        "appleID": "wonderful-christmastime-edited-version/1440953981",
+        "youtubeID": "94Ye-3C1FC8"
     },
     {
         "ranking": "59",
         "title": "Run Rudolph Run",
         "artist": "Chuck Berry",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/3a/7a/1b/3a7a1ba9-cbbb-8c92-11c9-a29934045529/06UMGIM18712.rgb.jpg/80x80bb.webp",
-        "appleID": "run-rudolph-run/1443832242"
+        "appleID": "run-rudolph-run/1443832242",
+        "youtubeID": "YiadNVhaGwk",
+        "spotifyID": "2pnPe4pJtq7689i5ydzvJJ"
     },
     {
         "ranking": "60",
@@ -431,7 +470,8 @@
         "title": "Každý deň budú vraj Vianoce",
         "artist": "Lojzo",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/ad/df/f0/addff0e8-d801-52ad-d20d-ee0b92ae8ce4/8584019235322.jpg/80x80bb.webp",
-        "appleID": "ka%C5%BEd%C3%BD-de%C5%88-bud%C3%BA-vraj-vianoce/1533367065"
+        "appleID": "ka%C5%BEd%C3%BD-de%C5%88-bud%C3%BA-vraj-vianoce/1533367065",
+        "spotifyID": "6dlkr04x93THYt2Cklv91b"
     },
     {
         "ranking": "63",
@@ -494,7 +534,8 @@
         "title": "Step into Christmas",
         "artist": "Elton John",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/dc/02/ee/dc02ee4a-ff56-75df-64d4-9afcf8c0885d/18UMGIM35649.rgb.jpg/80x80bb.webp",
-        "appleID": "step-into-christmas/1484999360"
+        "appleID": "step-into-christmas/1484999360",
+        "youtubeID": "IbRtGMm96F8"
     },
     {
         "ranking": "72",
@@ -571,7 +612,9 @@
         "title": "Little Saint Nick",
         "artist": "The Beach Boys",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/65/0a/39/650a39be-5682-77b8-e98d-7a72285b5602/13UABIM51358.rgb.jpg/80x80bb.webp",
-        "appleID": "little-saint-nick/1440856020"
+        "appleID": "little-saint-nick/1440856020",
+        "youtubeID": "xp9rK8FmYog",
+        "spotifyID": "5xlS0QkVrSH7ssEbBgBzbM"
     },
     {
         "ranking": "83",
@@ -599,7 +642,8 @@
         "title": "Someday At Christmas",
         "artist": "Stevie Wonder",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/48/38/75/4838752f-752a-524a-7621-5011c99c202d/24UMGIM56142.rgb.jpg/80x80bb.webp",
-        "appleID": "someday-at-christmas/1749926250"
+        "appleID": "someday-at-christmas/1749926250",
+        "youtubeID": "MaA7B9cu4kU"
     },
     {
         "ranking": "87",
@@ -627,7 +671,9 @@
         "title": "Please Come Home for Christmas",
         "artist": "Eagles",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music2/v4/b7/b1/5a/b7b15a8e-bf61-11be-4a64-cde4904c5daa/603497214266.jpg/80x80bb.webp",
-        "appleID": "please-come-home-for-christmas/635815759"
+        "appleID": "please-come-home-for-christmas/635815759",
+        "youtubeID": "5LUfDEATQHM",
+        "spotifyID": "3QIoEi8Enr9uHffwInGIsC"
     },
     {
         "ranking": "91",
@@ -648,7 +694,8 @@
         "title": "Najkrajšie Vianoce",
         "artist": "I.M.T. Smile",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/b8/37/50/b83750a8-abd1-d591-c907-9420547db702/20UMGIM42870.rgb.jpg/80x80bb.webp",
-        "appleID": "najkraj%C5%A1ie-vianoce/1517796098"
+        "appleID": "najkraj%C5%A1ie-vianoce/1517796098",
+        "spotifyID": "6FNtYbye5zc3u15hex7H5V"
     },
     {
         "ranking": "94",
@@ -683,7 +730,8 @@
         "title": "Vánoce Na Míru",
         "artist": "Ewa Farna",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/14/8f/bb/148fbbe7-4739-c408-3095-0d670b4e0c24/190295710545.jpg/80x80bb.webp",
-        "appleID": "v%C3%A1noce-na-m%C3%ADru/1304581952"
+        "appleID": "v%C3%A1noce-na-m%C3%ADru/1304581952",
+        "spotifyID": "3j30Y6jVypcZxFiWATyZ4Y"
     },
     {
         "ranking": "99",
