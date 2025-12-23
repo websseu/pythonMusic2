@@ -116,7 +116,8 @@
         "title": "All I Want for Christmas Is You",
         "artist": "Mariah Carey",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/c6/b7/27/c6b727f7-3a32-6b43-cee2-05bb71daf1cf/dj.itfmdeif.jpg/80x80bb.webp",
-        "appleID": "all-i-want-for-christmas-is-you/585972803"
+        "appleID": "all-i-want-for-christmas-is-you/585972803",
+        "youtubeID": "aAkMkVFwAoo"
     },
     {
         "ranking": "18",
@@ -221,7 +222,7 @@
         "title": "Euphoria",
         "artist": "Galena",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e2/9d/70/e29d700a-78b9-4200-fd6b-31e97caef854/3800152334452.jpg/80x80bb.webp",
-        "appleID": "euphoria/1811175679"
+        "appleID": "euphoria/1628800789"
     },
     {
         "ranking": "33",
@@ -277,7 +278,9 @@
         "title": "Jingle Bell Rock",
         "artist": "Bobby Helms",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/e8/18/6b/e8186bf9-5696-e721-b273-a5f173caf8c1/18UMGIM07062.rgb.jpg/80x80bb.webp",
-        "appleID": "jingle-bell-rock/1358462132"
+        "appleID": "jingle-bell-rock/1358462132",
+        "youtubeID": "Z0ajuTaHBtM",
+        "spotifyID": "7vQbuQcyTflfCIOu3Uzzya"
     },
     {
         "ranking": "41",
@@ -305,7 +308,9 @@
         "title": "It's Beginning To Look a Lot Like Christmas",
         "artist": "Michael Bublé",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/37/2d/6e/372d6e16-7a32-91f0-1a03-0f2d9dbe389e/093624942788.jpg/80x80bb.webp",
-        "appleID": "its-beginning-to-look-a-lot-like-christmas/669854831"
+        "appleID": "its-beginning-to-look-a-lot-like-christmas/1592740089",
+        "youtubeID": "QJ5DOWPGxwg",
+        "spotifyID": "1rv46mRwDqMEhOBZ7vODg3"
     },
     {
         "ranking": "45",
@@ -340,14 +345,16 @@
         "title": "Дивана",
         "artist": "Medi",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/af/bd/22/afbd22e4-6d1c-ef4f-9c6d-d2bab6c93218/3800152255290.jpg/80x80bb.webp",
-        "appleID": "%D0%B4%D0%B8%D0%B2%D0%B0%D0%BD%D0%B0/1808043852"
+        "appleID": "%D0%B4%D0%B8%D0%B2%D0%B0%D0%BD%D0%B0/1525999057"
     },
     {
         "ranking": "50",
         "title": "Last Christmas (Single Version)",
         "artist": "Wham!",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/eb/4a/f9/eb4af984-fc68-56ab-7b89-1d070c04e1dd/5099765318524.jpg/80x80bb.webp",
-        "appleID": "last-christmas-single-version/202117984"
+        "appleID": "last-christmas/282658482",
+        "youtubeID": "E8gmARGvPlI",
+        "spotifyID": "2FRnf9qhLbvw8fu4IBXx78"
     },
     {
         "ranking": "51",
@@ -361,7 +368,8 @@
         "title": "Underneath the Tree",
         "artist": "Kelly Clarkson",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/d8/e3/a5/d8e3a5f3-9296-07cc-9714-26069c01fd44/886448741190.jpg/80x80bb.webp",
-        "appleID": "underneath-the-tree/1537216368"
+        "appleID": "underneath-the-tree/1537216368",
+        "youtubeID": "EM2Fnp_qnE8"
     },
     {
         "ranking": "53",
@@ -375,7 +383,7 @@
         "title": "А+Г=ВНЛ",
         "artist": "Galena",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/48/7b/d5/487bd57b-ebb2-0fd3-f91c-d6e248e0d2e4/3800152309559.jpg/80x80bb.webp",
-        "appleID": "%D0%B0-%D0%B3-%D0%B2%D0%BD%D0%BB/1811175687"
+        "appleID": "%D0%B0-%D0%B3-%D0%B2%D0%BD%D0%BB/1599389435"
     },
     {
         "ranking": "55",
@@ -515,7 +523,7 @@
         "title": "Maria",
         "artist": "Medi",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f4/3c/72/f43c7202-582e-5260-a187-5bb23d08534b/3800152319374.jpg/80x80bb.webp",
-        "appleID": "maria/1808045554"
+        "appleID": "maria/1618006239"
     },
     {
         "ranking": "75",
@@ -571,7 +579,8 @@
         "title": "Timeless",
         "artist": "The Weeknd",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/40/77/cb/4077cbd1-b6a0-d8df-b9d3-e9a339dbc0ea/24UM1IM04061.rgb.jpg/80x80bb.webp",
-        "appleID": "timeless/1770380890"
+        "appleID": "timeless/1770380890",
+        "youtubeID": "5EpyN_6dqyk"
     },
     {
         "ranking": "83",
