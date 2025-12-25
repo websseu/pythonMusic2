@@ -11,7 +11,8 @@
         "title": "All I Want for Christmas Is You",
         "artist": "Mariah Carey(머라이어 캐리)",
         "image": "https://image.bugsm.co.kr/album/images/50/8/829.jpg?version=20251217011153",
-        "album": "Merry Christmas (Deluxe Anniversary Edition)"
+        "album": "Merry Christmas (Deluxe Anniversary Edition)",
+        "youtubeID": "aAkMkVFwAoo"
     },
     {
         "ranking": "3",
@@ -25,14 +26,16 @@
         "title": "첫 눈",
         "artist": "EXO",
         "image": "https://image.bugsm.co.kr/album/images/50/4005/400586.jpg?version=20250107030153",
-        "album": "겨울 스페셜 앨범 '12월의 기적 (Miracles in December)’"
+        "album": "겨울 스페셜 앨범 '12월의 기적 (Miracles in December)’",
+        "youtubeID": "h0b4nw7NDhA"
     },
     {
         "ranking": "5",
         "title": "Drowning",
         "artist": "WOODZ",
         "image": "https://image.bugsm.co.kr/album/images/50/40839/4083984.jpg?version=20250318143138",
-        "album": "OO-LI"
+        "album": "OO-LI",
+        "youtubeID": "tiKFuzpX-NA"
     },
     {
         "ranking": "6",
@@ -53,7 +56,8 @@
         "title": "Santa Tell Me",
         "artist": "Ariana Grande(아리아나 그란데)",
         "image": "https://image.bugsm.co.kr/album/images/50/4656/465672.jpg?version=20241212013111",
-        "album": "Santa Tell Me"
+        "album": "Santa Tell Me",
+        "youtubeID": "nlR0MkrRklg"
     },
     {
         "ranking": "9",
@@ -74,7 +78,10 @@
         "title": "toxic till the end",
         "artist": "로제(ROSÉ)",
         "image": "https://image.bugsm.co.kr/album/images/50/41113/4111311.jpg?version=20250319100710",
-        "album": "rosie"
+        "album": "rosie",
+        "appleID": "toxic-till-the-end/1771105929",
+        "youtubeID": "eA0lHNZ1KCA",
+        "spotifyID": "1z5ebC9238uGoBgzYyvGpQ"
     },
     {
         "ranking": "12",
@@ -116,7 +123,8 @@
         "title": "Snowman",
         "artist": "Sia(시아)",
         "image": "https://image.bugsm.co.kr/album/images/50/6803/680332.jpg?version=20251108020318",
-        "album": "Everyday Is Christmas (Snowman Deluxe Edition)"
+        "album": "Everyday Is Christmas (Snowman Deluxe Edition)",
+        "youtubeID": "gset79KMmt0"
     },
     {
         "ranking": "18",
@@ -186,7 +194,8 @@
         "title": "Whiplash",
         "artist": "aespa",
         "image": "https://image.bugsm.co.kr/album/images/50/41087/4108755.jpg?version=20241126004739",
-        "album": "Whiplash - The 5th Mini Album"
+        "album": "Whiplash - The 5th Mini Album",
+        "youtubeID": "jWQx2f-CErU"
     },
     {
         "ranking": "28",
@@ -200,7 +209,8 @@
         "title": "청춘만화",
         "artist": "이무진",
         "image": "https://image.bugsm.co.kr/album/images/50/41081/4108180.jpg?version=20250318024429",
-        "album": "만화 (滿花)"
+        "album": "만화 (滿花)",
+        "youtubeID": "qLJq2muxhWc"
     },
     {
         "ranking": "30",
@@ -249,14 +259,20 @@
         "title": "number one girl",
         "artist": "로제(ROSÉ)",
         "image": "https://image.bugsm.co.kr/album/images/50/41106/4110641.jpg?version=20241123003542",
-        "album": "number one girl"
+        "album": "number one girl",
+        "appleID": "number-one-girl/1771105923",
+        "youtubeID": "pZ1NdE69VTs",
+        "spotifyID": "1lcBt7LoEikqYmhUoa2cez"
     },
     {
         "ranking": "37",
         "title": "APT.",
         "artist": "로제(ROSÉ)",
         "image": "https://image.bugsm.co.kr/album/images/50/41086/4108664.jpg?version=20241206010201",
-        "album": "APT."
+        "album": "APT.",
+        "appleID": "apt/1773452221",
+        "youtubeID": "ekr2nIex040",
+        "spotifyID": "4wJ5Qq0jBN4ajy7ouZIV1c"
     },
     {
         "ranking": "38",
@@ -277,7 +293,10 @@
         "title": "Die With A Smile",
         "artist": "Lady Gaga(레이디 가가)",
         "image": "https://image.bugsm.co.kr/album/images/50/356136/35613643.jpg?version=20250701002559",
-        "album": "Die With A Smile"
+        "album": "Die With A Smile",
+        "appleID": "die-with-a-smile/1762656732",
+        "youtubeID": "kPa7bsKwL-c",
+        "spotifyID": "2plbrEY59IikOBgBGLjaoe"
     },
     {
         "ranking": "41",
@@ -291,14 +310,16 @@
         "title": "천상연",
         "artist": "이창섭",
         "image": "https://image.bugsm.co.kr/album/images/50/40963/4096392.jpg?version=20240222064728",
-        "album": "천상연 (웹툰 '선녀외전' X 이창섭 (LEE CHANGSUB))"
+        "album": "천상연 (웹툰 '선녀외전' X 이창섭 (LEE CHANGSUB))",
+        "youtubeID": "fQ84rvbfa08"
     },
     {
         "ranking": "43",
         "title": "크리스마스니까",
         "artist": "성시경",
         "image": "https://image.bugsm.co.kr/album/images/50/3508/350890.jpg?version=20210421041252",
-        "album": "Jelly Christmas 2012 HEART PROJECT"
+        "album": "Jelly Christmas 2012 HEART PROJECT",
+        "youtubeID": "JkRKxxLiDNI"
     },
     {
         "ranking": "44",
@@ -312,14 +333,16 @@
         "title": "나는 반딧불",
         "artist": "황가람",
         "image": "https://image.bugsm.co.kr/album/images/50/41087/4108756.jpg?version=20241023010353",
-        "album": "나는 반딧불"
+        "album": "나는 반딧불",
+        "youtubeID": "x9Jz2OueIGY"
     },
     {
         "ranking": "46",
         "title": "내게 사랑이 뭐냐고 물어본다면",
         "artist": "로이킴",
         "image": "https://image.bugsm.co.kr/album/images/50/206771/20677117.jpg?version=20251125081353",
-        "album": "내게 사랑이 뭐냐고 물어본다면"
+        "album": "내게 사랑이 뭐냐고 물어본다면",
+        "youtubeID": "5ly8tAU-n_w"
     },
     {
         "ranking": "47",
@@ -340,7 +363,8 @@
         "title": "한 페이지가 될 수 있게",
         "artist": "DAY6 (데이식스)",
         "image": "https://image.bugsm.co.kr/album/images/50/202657/20265759.jpg?version=20211119004415",
-        "album": "The Book of Us : Gravity"
+        "album": "The Book of Us : Gravity",
+        "youtubeID": "vnS_jn2uibs"
     },
     {
         "ranking": "50",
@@ -354,14 +378,16 @@
         "title": "어떻게 이별까지 사랑하겠어, 널 사랑하는 거지",
         "artist": "AKMU(악뮤)",
         "image": "https://image.bugsm.co.kr/album/images/50/202788/20278851.jpg?version=20210727012601",
-        "album": "항해"
+        "album": "항해",
+        "youtubeID": "m3DZsBw5bnE"
     },
     {
         "ranking": "52",
         "title": "주저하는 연인들을 위해",
         "artist": "잔나비",
         "image": "https://image.bugsm.co.kr/album/images/50/202371/20237198.jpg?version=20210421045158",
-        "album": "전설"
+        "album": "전설",
+        "youtubeID": "t8P-zdkoeJA"
     },
     {
         "ranking": "53",
@@ -382,7 +408,8 @@
         "title": "HAPPY",
         "artist": "DAY6 (데이식스)",
         "image": "https://image.bugsm.co.kr/album/images/50/206298/20629850.jpg?version=20250104012829",
-        "album": "Fourever"
+        "album": "Fourever",
+        "youtubeID": "sWXGbkM0tBI"
     },
     {
         "ranking": "56",
@@ -396,14 +423,16 @@
         "title": "에피소드",
         "artist": "이무진",
         "image": "https://image.bugsm.co.kr/album/images/50/40941/4094127.jpg?version=20250101001125",
-        "album": "에피소드"
+        "album": "에피소드",
+        "youtubeID": "gH1rVdXUlpo"
     },
     {
         "ranking": "58",
         "title": "미리 메리 크리스마스 (feat. 천둥 Of MBLAQ)",
         "artist": "아이유(IU)",
         "image": "https://image.bugsm.co.kr/album/images/50/2499/249930.jpg?version=20211216015917",
-        "album": "Real"
+        "album": "Real",
+        "youtubeID": "w14rSMl35ro"
     },
     {
         "ranking": "59",
@@ -417,7 +446,8 @@
         "title": "모든 날, 모든 순간 (Every day, Every Moment)",
         "artist": "폴킴(Paul Kim)",
         "image": "https://image.bugsm.co.kr/album/images/50/201547/20154722.jpg?version=20230601001519",
-        "album": "'키스 먼저 할까요?' OST Part.3"
+        "album": "'키스 먼저 할까요?' OST Part.3",
+        "youtubeID": "1q_t6RNuH8c"
     },
     {
         "ranking": "61",
@@ -431,7 +461,8 @@
         "title": "Make It To Christmas",
         "artist": "Alessia Cara(알레시아 카라)",
         "image": "https://image.bugsm.co.kr/album/images/50/9510/951061.jpg?version=20220618015336",
-        "album": "Make It To Christmas"
+        "album": "Make It To Christmas",
+        "youtubeID": "Lyg-WIsUaO8"
     },
     {
         "ranking": "63",
@@ -445,7 +476,8 @@
         "title": "Congratulations",
         "artist": "DAY6 (데이식스)",
         "image": "https://image.bugsm.co.kr/album/images/50/5297/529710.jpg?version=20190719114948",
-        "album": "The Day"
+        "album": "The Day",
+        "youtubeID": "x3sFsHrUyLQ"
     },
     {
         "ranking": "65",
@@ -473,7 +505,8 @@
         "title": "Supernova",
         "artist": "aespa",
         "image": "https://image.bugsm.co.kr/album/images/50/41011/4101141.jpg?version=20241102010939",
-        "album": "Armageddon - The 1st Album"
+        "album": "Armageddon - The 1st Album",
+        "youtubeID": "phuiiNCxRMg"
     },
     {
         "ranking": "69",
@@ -494,7 +527,8 @@
         "title": "Ditto",
         "artist": "NewJeans",
         "image": "https://image.bugsm.co.kr/album/images/50/40824/4082425.jpg?version=20231215003716",
-        "album": "NewJeans 'OMG'"
+        "album": "NewJeans 'OMG'",
+        "youtubeID": "Km71Rr9K-Bw"
     },
     {
         "ranking": "72",
@@ -529,7 +563,9 @@
         "title": "Christmas Without You",
         "artist": "Ava Max",
         "image": "https://image.bugsm.co.kr/album/images/50/9980/998014.jpg?version=20220107004223",
-        "album": "Christmas Without You"
+        "album": "Christmas Without You",
+        "appleID": "christmas-without-you/1535473482",
+        "spotifyID": "1QLZKzC2pjP4ySf4ALrNhm"
     },
     {
         "ranking": "77",
@@ -557,14 +593,18 @@
         "title": "Magnetic",
         "artist": "아일릿(ILLIT)",
         "image": "https://image.bugsm.co.kr/album/images/50/206323/20632324.jpg?version=20251125080152",
-        "album": "SUPER REAL ME"
+        "album": "SUPER REAL ME",
+        "appleID": "magnetic/1734500896",
+        "youtubeID": "Vk5-c_v4gMU",
+        "spotifyID": "1aKvZDoLGkNMxoRYgkckZG"
     },
     {
         "ranking": "81",
         "title": "Welcome to the Show",
         "artist": "DAY6 (데이식스)",
         "image": "https://image.bugsm.co.kr/album/images/50/206298/20629850.jpg?version=20250104012829",
-        "album": "Fourever"
+        "album": "Fourever",
+        "youtubeID": "RowlrvmyFEk"
     },
     {
         "ranking": "82",
@@ -578,21 +618,26 @@
         "title": "HOME SWEET HOME (feat. 태양, 대성)",
         "artist": "G-DRAGON",
         "image": "https://image.bugsm.co.kr/album/images/50/41106/4110623.jpg?version=20241128002601",
-        "album": "HOME SWEET HOME (feat. 태양, 대성)"
+        "album": "HOME SWEET HOME (feat. 태양, 대성)",
+        "youtubeID": "fLi0EJfi_vg"
     },
     {
         "ranking": "84",
         "title": "Mistletoe",
         "artist": "Justin Bieber(저스틴 비버)",
         "image": "https://image.bugsm.co.kr/album/images/50/3112/311291.jpg?version=20250306164603",
-        "album": "Under The Mistletoe (Deluxe Edition)"
+        "album": "Under The Mistletoe (Deluxe Edition)",
+        "appleID": "mistletoe/1440640717",
+        "youtubeID": "LUjn3RpkcKY",
+        "spotifyID": "7xapw9Oy21WpfEcib2ErSA"
     },
     {
         "ranking": "85",
         "title": "I AM",
         "artist": "IVE (아이브)",
         "image": "https://image.bugsm.co.kr/album/images/50/40849/4084947.jpg?version=20240810012634",
-        "album": "I've IVE"
+        "album": "I've IVE",
+        "youtubeID": "2gyJW3AiPYY"
     },
     {
         "ranking": "86",
@@ -627,7 +672,8 @@
         "title": "고민중독",
         "artist": "QWER",
         "image": "https://image.bugsm.co.kr/album/images/50/40996/4099653.jpg?version=20240402065258",
-        "album": "1st Mini Album 'MANITO'"
+        "album": "1st Mini Album 'MANITO'",
+        "youtubeID": "ImuWa3SJulY"
     },
     {
         "ranking": "91",
@@ -676,7 +722,8 @@
         "title": "Hype Boy",
         "artist": "NewJeans",
         "image": "https://image.bugsm.co.kr/album/images/50/40780/4078016.jpg?version=20221014011218",
-        "album": "NewJeans 1st EP 'New Jeans'"
+        "album": "NewJeans 1st EP 'New Jeans'",
+        "youtubeID": "11cta61wi0g"
     },
     {
         "ranking": "98",
@@ -697,6 +744,7 @@
         "title": "예뻤어",
         "artist": "DAY6 (데이식스)",
         "image": "https://image.bugsm.co.kr/album/images/50/200804/20080494.jpg?version=20240805121438",
-        "album": "Every DAY6 February"
+        "album": "Every DAY6 February",
+        "youtubeID": "BS7tz2rAOSA"
     }
 ]

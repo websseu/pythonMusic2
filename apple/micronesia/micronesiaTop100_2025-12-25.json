@@ -60,7 +60,8 @@
         "title": "Like That",
         "artist": "Future",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4e/9f/7b/4e9f7b71-28ad-a8dc-9b34-da532feb82f6/196871937382.jpg/80x80bb.webp",
-        "appleID": "like-that/1737150439"
+        "appleID": "like-that/1737150439",
+        "youtubeID": "N9bKBAA22Go"
     },
     {
         "ranking": "10",
@@ -102,14 +103,16 @@
         "title": "Every Night Every Morning",
         "artist": "Maoli",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/db/73/4f/db734ffc-785c-9999-be7c-f0c54458690a/0.jpg/80x80bb.webp",
-        "appleID": "every-night-every-morning/1761629618"
+        "appleID": "every-night-every-morning/1761629618",
+        "youtubeID": "20k90wvdLco"
     },
     {
         "ranking": "16",
         "title": "Fast Car",
         "artist": "Luke Combs",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/7d/24/14/7d241439-671a-d957-9613-2f738f43a064/196589485991.jpg/80x80bb.webp",
-        "appleID": "fast-car/1666738585"
+        "appleID": "fast-car/1666738585",
+        "spotifyID": "1Lo0QY9cvc8sUB2vnIOxDT"
     },
     {
         "ranking": "17",
@@ -186,7 +189,8 @@
         "title": "Dreamin",
         "artist": "PARTYNEXTDOOR",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b9/d9/61/b9d961e2-44e7-52cf-eda8-d671a650f649/47085.jpg/80x80bb.webp",
-        "appleID": "dreamin/1777722381"
+        "appleID": "dreamin/1777722381",
+        "spotifyID": "35sZOqVnTQNIGWGURrFdLh"
     },
     {
         "ranking": "28",
@@ -221,7 +225,8 @@
         "title": "him all along",
         "artist": "Gunna",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a0/68/12/a06812aa-110a-77b7-723f-662f5e977480/075679628237.jpg/80x80bb.webp",
-        "appleID": "him-all-along/1774073509"
+        "appleID": "him-all-along/1774072933",
+        "youtubeID": "w7Wf0h1Q8a4"
     },
     {
         "ranking": "33",
@@ -256,21 +261,24 @@
         "title": "Nothing Else Matters",
         "artist": "Metallica",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/9e/80/1b/9e801b06-67fa-0990-2d15-85480ad3cd46/850007452025.png/80x80bb.webp",
-        "appleID": "nothing-else-matters/1572046444"
+        "appleID": "nothing-else-matters/1572046444",
+        "youtubeID": "tAGnKpE4NCI"
     },
     {
         "ranking": "38",
         "title": "Sexual Healing",
         "artist": "Marvin Gaye",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music/ad/de/3b/mzi.kkeuawzv.jpg/80x80bb.webp",
-        "appleID": "sexual-healing/205881936"
+        "appleID": "sexual-healing/205881936",
+        "spotifyID": "3VZmChrnVW8JK6ano4gSED"
     },
     {
         "ranking": "39",
         "title": "Not Like Us",
         "artist": "Kendrick Lamar",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d0/ef/b6/d0efb685-73be-fdee-58c9-be655f4cd4fd/24UMGIM51924.rgb.jpg/80x80bb.webp",
-        "appleID": "not-like-us/1744776167"
+        "appleID": "not-like-us/1744776167",
+        "youtubeID": "H58vbez_m4E"
     },
     {
         "ranking": "40",
@@ -361,7 +369,8 @@
         "title": "Knife Talk (feat. 21 Savage & Project Pat)",
         "artist": "Drake",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/11/36/38/1136384a-eebc-697a-c005-d890e41c0854/21UM1IM07518.rgb.jpg/80x80bb.webp",
-        "appleID": "knife-talk-feat-21-savage-project-pat/1584281787"
+        "appleID": "knife-talk-feat-21-savage-project-pat/1584281787",
+        "youtubeID": "XqpQpt_cmhE"
     },
     {
         "ranking": "53",
@@ -578,7 +587,8 @@
         "title": "Rush",
         "artist": "Ayra Starr",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/93/c1/9293c1af-2881-bcb7-439f-99a516e5d715/5059449090122.png/80x80bb.webp",
-        "appleID": "rush/1642898573"
+        "appleID": "rush/1642898573",
+        "youtubeID": "crtQSTYWtqE"
     },
     {
         "ranking": "84",

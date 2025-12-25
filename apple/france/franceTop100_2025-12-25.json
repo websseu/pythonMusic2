@@ -4,7 +4,8 @@
         "title": "All I Want for Christmas Is You",
         "artist": "Mariah Carey",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/c6/b7/27/c6b727f7-3a32-6b43-cee2-05bb71daf1cf/dj.itfmdeif.jpg/80x80bb.webp",
-        "appleID": "all-i-want-for-christmas-is-you/585972803"
+        "appleID": "all-i-want-for-christmas-is-you/585972803",
+        "youtubeID": "aAkMkVFwAoo"
     },
     {
         "ranking": "2",
@@ -18,7 +19,9 @@
         "title": "Last Christmas (Single Version)",
         "artist": "Wham!",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/eb/4a/f9/eb4af984-fc68-56ab-7b89-1d070c04e1dd/5099765318524.jpg/80x80bb.webp",
-        "appleID": "last-christmas-single-version/202117984"
+        "appleID": "last-christmas/282658482",
+        "youtubeID": "E8gmARGvPlI",
+        "spotifyID": "2FRnf9qhLbvw8fu4IBXx78"
     },
     {
         "ranking": "4",
@@ -32,7 +35,9 @@
         "title": "It's the Most Wonderful Time of the Year",
         "artist": "Andy Williams",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/d9/84/16/d98416a4-d960-4602-8f2c-4f03165d434d/mzi.hohpjzfa.jpg/80x80bb.webp",
-        "appleID": "its-the-most-wonderful-time-of-the-year/171434594"
+        "appleID": "its-the-most-wonderful-time-of-the-year/171434594",
+        "youtubeID": "cbZTfrhcamA",
+        "spotifyID": "1IcR6RlgvDczfvoWJSSY2A"
     },
     {
         "ranking": "6",
@@ -46,7 +51,9 @@
         "title": "Sleigh Ride",
         "artist": "The Ronettes",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/2e/92/5f/2e925fa4-6a4e-a15e-7cfc-bb3f13f053e1/mzi.ermvbetx.jpg/80x80bb.webp",
-        "appleID": "sleigh-ride/336037282"
+        "appleID": "sleigh-ride/336037282",
+        "youtubeID": "DkXIJe8CaIc",
+        "spotifyID": "7fUYUcWy853HS8YJn0b3Sr"
     },
     {
         "ranking": "8",
@@ -60,7 +67,9 @@
         "title": "Feliz Navidad",
         "artist": "José Feliciano",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/cf/a7/f8/cfa7f807-e9a6-758d-97e0-f1cd843b5a20/mzi.vcbwvmqu.jpg/80x80bb.webp",
-        "appleID": "feliz-navidad/255615879"
+        "appleID": "feliz-navidad/255615879",
+        "youtubeID": "N8NcQzMQN_U",
+        "spotifyID": "3qCeq0rWK67SoBDgFd2sId"
     },
     {
         "ranking": "10",
@@ -74,28 +83,34 @@
         "title": "Rockin' Around the Christmas Tree (Single)",
         "artist": "Brenda Lee",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/d4/ea/6b/d4ea6b89-f9ac-f476-270d-66931315bc4c/06UMGIM02727.rgb.jpg/80x80bb.webp",
-        "appleID": "rockin-around-the-christmas-tree-single/1444032015"
+        "appleID": "rockin-around-the-christmas-tree-single/1444032015",
+        "youtubeID": "TFsZy9t-qDc",
+        "spotifyID": "2EjXfH91m7f8HiJN1yQg97"
     },
     {
         "ranking": "12",
         "title": "Snowman",
         "artist": "Sia",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/85/c3/21/85c32113-1c4c-571c-7602-88f568d8081c/075679861016.jpg/80x80bb.webp",
-        "appleID": "snowman/1440098017"
+        "appleID": "snowman/1440098017",
+        "youtubeID": "gset79KMmt0"
     },
     {
         "ranking": "13",
         "title": "Let It Snow! Let It Snow! Let It Snow! (with The B. Swanson Quartet)",
         "artist": "Frank Sinatra",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/bf/94/ee/bf94ee66-ddcd-5c07-79cf-d138136e9381/886448049852.jpg/80x80bb.webp",
-        "appleID": "let-it-snow-let-it-snow-let-it-snow-with-the-b-swanson-quartet/1482686692"
+        "appleID": "let-it-snow-let-it-snow-let-it-snow-with-the-b-swanson-quartet/1482686692",
+        "youtubeID": "Km-Nlo5bgCQ",
+        "spotifyID": "3ra4PQCtSVULClEqj2XXf7"
     },
     {
         "ranking": "14",
         "title": "Underneath the Tree",
         "artist": "Kelly Clarkson",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/d8/e3/a5/d8e3a5f3-9296-07cc-9714-26069c01fd44/886448741190.jpg/80x80bb.webp",
-        "appleID": "underneath-the-tree/1537216368"
+        "appleID": "underneath-the-tree/1537216368",
+        "youtubeID": "EM2Fnp_qnE8"
     },
     {
         "ranking": "15",
@@ -116,7 +131,9 @@
         "title": "CIEL",
         "artist": "GIMS",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7e/4a/df/7e4adfc1-7cf7-7a96-a4cb-2fc338a5b03e/cover.jpg/80x80bb.webp",
-        "appleID": "ciel/1773791057"
+        "appleID": "ciel/1773791057",
+        "youtubeID": "QS0A-CjRdAE",
+        "spotifyID": "1RiCNSkK4AfT1j8ZM4JnVs"
     },
     {
         "ranking": "18",
@@ -144,7 +161,9 @@
         "title": "Let It Snow! Let It Snow! Let It Snow!",
         "artist": "Dean Martin",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/87/ee/3a/87ee3ae8-dc96-e287-6f1e-2332d4ae4c1d/13UAEIM07388.rgb.jpg/80x80bb.webp",
-        "appleID": "let-it-snow-let-it-snow-let-it-snow/1440830243"
+        "appleID": "let-it-snow-let-it-snow-let-it-snow/1440830243",
+        "youtubeID": "2TA3IKH8Y5c",
+        "spotifyID": "2uFaJJtFpPDc5Pa95XzTvg"
     },
     {
         "ranking": "22",
@@ -165,7 +184,9 @@
         "title": "Jingle Bell Rock",
         "artist": "Bobby Helms",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/e8/18/6b/e8186bf9-5696-e721-b273-a5f173caf8c1/18UMGIM07062.rgb.jpg/80x80bb.webp",
-        "appleID": "jingle-bell-rock/1358462132"
+        "appleID": "jingle-bell-rock/1358462132",
+        "youtubeID": "Z0ajuTaHBtM",
+        "spotifyID": "7vQbuQcyTflfCIOu3Uzzya"
     },
     {
         "ranking": "25",
@@ -179,7 +200,7 @@
         "title": "Jingle Bell Rock (Daryl's Version)",
         "artist": "Daryl Hall & John Oates",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music/30/ab/1e/mzi.duucjimr.jpg/80x80bb.webp",
-        "appleID": "jingle-bell-rock-daryls-version/402052858"
+        "appleID": "jingle-bell-rock/1647391542"
     },
     {
         "ranking": "27",
@@ -193,14 +214,16 @@
         "title": "Jingle Bells",
         "artist": "Frank Sinatra",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/b2/dd/ff/b2ddffc3-a222-6046-e40b-ddc154c9020b/13UAAIM05202.rgb.jpg/80x80bb.webp",
-        "appleID": "jingle-bells/1440862184"
+        "appleID": "jingle-bells/1440880353"
     },
     {
         "ranking": "29",
         "title": "It's Beginning To Look a Lot Like Christmas",
         "artist": "Michael Bublé",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/37/2d/6e/372d6e16-7a32-91f0-1a03-0f2d9dbe389e/093624942788.jpg/80x80bb.webp",
-        "appleID": "its-beginning-to-look-a-lot-like-christmas/669854831"
+        "appleID": "its-beginning-to-look-a-lot-like-christmas/1592740089",
+        "youtubeID": "QJ5DOWPGxwg",
+        "spotifyID": "1rv46mRwDqMEhOBZ7vODg3"
     },
     {
         "ranking": "30",
@@ -242,28 +265,34 @@
         "title": "Christmas (Baby Please Come Home)",
         "artist": "Darlene Love",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/2e/92/5f/2e925fa4-6a4e-a15e-7cfc-bb3f13f053e1/mzi.ermvbetx.jpg/80x80bb.webp",
-        "appleID": "christmas-baby-please-come-home/336037344"
+        "appleID": "christmas-baby-please-come-home/336037344",
+        "youtubeID": "vf4ZXBzbAio"
     },
     {
         "ranking": "36",
         "title": "Carol of the Bells",
         "artist": "John Williams",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9c/01/3b/9c013b6d-a316-3119-a94a-c2ef2fbfbefa/886445465518.jpg/80x80bb.webp",
-        "appleID": "carol-of-the-bells/1049529730"
+        "appleID": "carol-of-the-bells/1049529730",
+        "spotifyID": "4tHqQMWSqmL6YjXwsqthDI"
     },
     {
         "ranking": "37",
         "title": "CARTIER SANTOS",
         "artist": "SDM",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/64/46/95/64469515-0230-b26c-69cf-5db61f5ea879/24UMGIM72197.rgb.jpg/80x80bb.webp",
-        "appleID": "cartier-santos/1757803302"
+        "appleID": "cartier-santos/1757803302",
+        "youtubeID": "3nGdVePdlT4",
+        "spotifyID": "1Mzg6bu3hkCwJKEf7v49MN"
     },
     {
         "ranking": "38",
         "title": "Hallelujah",
         "artist": "Pentatonix",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/20/9c/87/209c87ba-7992-8062-0576-758c8550564a/886446670744.jpg/80x80bb.webp",
-        "appleID": "hallelujah/1296455325"
+        "appleID": "hallelujah/1296455325",
+        "youtubeID": "LRP8d7hhpoQ",
+        "spotifyID": "550rQQCGkrTzvp4SfpOPzx"
     },
     {
         "ranking": "39",
@@ -333,7 +362,8 @@
         "title": "Blue Christmas",
         "artist": "Elvis Presley",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/e0/04/02/e0040287-bd23-a030-693b-c48d146de930/886444095303.jpg/80x80bb.webp",
-        "appleID": "blue-christmas/676288368"
+        "appleID": "blue-christmas/676288368",
+        "spotifyID": "3QiAAp20rPC3dcAtKtMaqQ"
     },
     {
         "ranking": "49",
@@ -354,7 +384,7 @@
         "title": "Sur paname",
         "artist": "Ninho",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/5c/e2/93/5ce2935c-cd63-bcf4-0d47-a948a2923761/5060899072439_cover.jpg/80x80bb.webp",
-        "appleID": "sur-paname/1565402015"
+        "appleID": "sur-paname/1537133461"
     },
     {
         "ranking": "52",
@@ -382,7 +412,8 @@
         "title": "Silver Bells",
         "artist": "Dean Martin",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music6/v4/16/7f/9e/167f9e0d-6b8a-f011-2aa6-fbbdcb594cee/886444222402.jpg/80x80bb.webp",
-        "appleID": "silver-bells/708952535"
+        "appleID": "silver-bells/708952535",
+        "spotifyID": "4QX5pZQpQTgVlkqfUTDim0"
     },
     {
         "ranking": "56",
@@ -396,7 +427,8 @@
         "title": "Tu connais",
         "artist": "Werenoi",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/0e/08/86/0e0886d9-8d0b-1f89-43c6-3a00f6572d25/dj.qqadwfea.jpg/80x80bb.webp",
-        "appleID": "tu-connais/1707807608"
+        "appleID": "tu-connais/1707807608",
+        "spotifyID": "3rIX5DA9rUk89KUOZdGFaN"
     },
     {
         "ranking": "58",
@@ -424,7 +456,9 @@
         "title": "Let It Snow! Let It Snow! Let It Snow! (with The B. Swanson Quartet)",
         "artist": "Frank Sinatra",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/07/ec/01/07ec011d-f158-eb3d-f521-b35f5e4189ab/886444694155.jpg/80x80bb.webp",
-        "appleID": "let-it-snow-let-it-snow-let-it-snow-with-the-b-swanson-quartet/923608498"
+        "appleID": "let-it-snow-let-it-snow-let-it-snow-with-the-b-swanson-quartet/923608498",
+        "youtubeID": "Km-Nlo5bgCQ",
+        "spotifyID": "3ra4PQCtSVULClEqj2XXf7"
     },
     {
         "ranking": "62",
@@ -438,7 +472,9 @@
         "title": "Let It Snow! Let It Snow! Let It Snow!",
         "artist": "Dean Martin",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music6/v4/16/7f/9e/167f9e0d-6b8a-f011-2aa6-fbbdcb594cee/886444222402.jpg/80x80bb.webp",
-        "appleID": "let-it-snow-let-it-snow-let-it-snow/708952533"
+        "appleID": "let-it-snow-let-it-snow-let-it-snow/1440830243",
+        "youtubeID": "2TA3IKH8Y5c",
+        "spotifyID": "2uFaJJtFpPDc5Pa95XzTvg"
     },
     {
         "ranking": "64",
@@ -466,7 +502,7 @@
         "title": "Dis-moi que tu m'aimes",
         "artist": "Ninho",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/2e/31/63/2e316368-53ec-7021-fa5f-719cc36de925/190295937270.jpg/80x80bb.webp",
-        "appleID": "dis-moi-que-tu-maimes/1157195547"
+        "appleID": "https://music.apple.com/us/artist/ninho/320366644"
     },
     {
         "ranking": "68",
@@ -564,14 +600,17 @@
         "title": "Merry Christmas",
         "artist": "Ed Sheeran",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/f4/22/23/f42223bc-9636-239d-83ba-95313f0c3f8a/190296347870.jpg/80x80bb.webp",
-        "appleID": "merry-christmas/1597450885"
+        "appleID": "merry-christmas/1597450885",
+        "youtubeID": "Q_yuO8UNGmY",
+        "spotifyID": "0hz5PNF2wejwUKCMpesQWt"
     },
     {
         "ranking": "82",
         "title": "O Holy Night",
         "artist": "Mariah Carey",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/c6/b7/27/c6b727f7-3a32-6b43-cee2-05bb71daf1cf/dj.itfmdeif.jpg/80x80bb.webp",
-        "appleID": "o-holy-night/585972805"
+        "appleID": "o-holy-night/585972805",
+        "youtubeID": "TgmGmy4KbCI"
     },
     {
         "ranking": "83",
@@ -613,7 +652,8 @@
         "title": "Laboratoire",
         "artist": "Werenoi",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9f/a9/84/9fa984bb-ad87-63b3-e34d-b6febc47e920/cover.jpg/80x80bb.webp",
-        "appleID": "laboratoire/1768971934"
+        "appleID": "laboratoire/1768971934",
+        "spotifyID": "7wOgZ1otoKYDvKyQKP1sNZ"
     },
     {
         "ranking": "89",
