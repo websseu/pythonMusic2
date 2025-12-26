@@ -4,14 +4,17 @@
         "title": "Last Christmas (Single Version)",
         "artist": "Wham!",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/eb/4a/f9/eb4af984-fc68-56ab-7b89-1d070c04e1dd/5099765318524.jpg/80x80bb.webp",
-        "appleID": "last-christmas-single-version/202117984"
+        "appleID": "last-christmas/282658482",
+        "youtubeID": "E8gmARGvPlI",
+        "spotifyID": "2FRnf9qhLbvw8fu4IBXx78"
     },
     {
         "ranking": "2",
         "title": "All I Want for Christmas Is You",
         "artist": "Mariah Carey",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/c6/b7/27/c6b727f7-3a32-6b43-cee2-05bb71daf1cf/dj.itfmdeif.jpg/80x80bb.webp",
-        "appleID": "all-i-want-for-christmas-is-you/585972803"
+        "appleID": "all-i-want-for-christmas-is-you/585972803",
+        "youtubeID": "aAkMkVFwAoo"
     },
     {
         "ranking": "3",
@@ -25,7 +28,9 @@
         "title": "It's Beginning To Look a Lot Like Christmas",
         "artist": "Michael Bublé",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/37/2d/6e/372d6e16-7a32-91f0-1a03-0f2d9dbe389e/093624942788.jpg/80x80bb.webp",
-        "appleID": "its-beginning-to-look-a-lot-like-christmas/669854831"
+        "appleID": "its-beginning-to-look-a-lot-like-christmas/1592740089",
+        "youtubeID": "QJ5DOWPGxwg",
+        "spotifyID": "1rv46mRwDqMEhOBZ7vODg3"
     },
     {
         "ranking": "5",
@@ -46,14 +51,17 @@
         "title": "Jingle Bell Rock",
         "artist": "Bobby Helms",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/e8/18/6b/e8186bf9-5696-e721-b273-a5f173caf8c1/18UMGIM07062.rgb.jpg/80x80bb.webp",
-        "appleID": "jingle-bell-rock/1358462132"
+        "appleID": "jingle-bell-rock/1358462132",
+        "youtubeID": "Z0ajuTaHBtM",
+        "spotifyID": "7vQbuQcyTflfCIOu3Uzzya"
     },
     {
         "ranking": "8",
         "title": "Snowman",
         "artist": "Sia",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/85/c3/21/85c32113-1c4c-571c-7602-88f568d8081c/075679861016.jpg/80x80bb.webp",
-        "appleID": "snowman/1440098017"
+        "appleID": "snowman/1440098017",
+        "youtubeID": "gset79KMmt0"
     },
     {
         "ranking": "9",
@@ -67,14 +75,18 @@
         "title": "It's the Most Wonderful Time of the Year",
         "artist": "Andy Williams",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/d9/84/16/d98416a4-d960-4602-8f2c-4f03165d434d/mzi.hohpjzfa.jpg/80x80bb.webp",
-        "appleID": "its-the-most-wonderful-time-of-the-year/171434594"
+        "appleID": "its-the-most-wonderful-time-of-the-year/171434594",
+        "youtubeID": "cbZTfrhcamA",
+        "spotifyID": "1IcR6RlgvDczfvoWJSSY2A"
     },
     {
         "ranking": "11",
         "title": "Let It Snow! Let It Snow! Let It Snow!",
         "artist": "Dean Martin",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/87/ee/3a/87ee3ae8-dc96-e287-6f1e-2332d4ae4c1d/13UAEIM07388.rgb.jpg/80x80bb.webp",
-        "appleID": "let-it-snow-let-it-snow-let-it-snow/1440830243"
+        "appleID": "let-it-snow-let-it-snow-let-it-snow/1440830243",
+        "youtubeID": "2TA3IKH8Y5c",
+        "spotifyID": "2uFaJJtFpPDc5Pa95XzTvg"
     },
     {
         "ranking": "12",
@@ -144,14 +156,16 @@
         "title": "Driving Home for Christmas",
         "artist": "Chris Rea",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/ca/6d/f4/ca6df4b3-133c-5771-2fde-25cfd9a3efd5/190295711870.jpg/80x80bb.webp",
-        "appleID": "driving-home-for-christmas/1309544023"
+        "appleID": "driving-home-for-christmas/1309544023",
+        "youtubeID": "uSjq7x67kzM"
     },
     {
         "ranking": "22",
         "title": "White Christmas",
         "artist": "Michael Bublé",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b5/64/30/b56430c1-aafb-4af5-0f29-f278c02d2093/093624826903.jpg/80x80bb.webp",
-        "appleID": "white-christmas/1831874692"
+        "appleID": "white-christmas/1831874692",
+        "spotifyID": "4buHBCFNm5WvttEDevaj9C"
     },
     {
         "ranking": "23",
@@ -179,7 +193,8 @@
         "title": "Santa Tell Me",
         "artist": "Ariana Grande",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/60/c8/2b/60c82b22-cd58-cdcd-5b51-6fad7a8b7055/14UMGIM55455.rgb.jpg/80x80bb.webp",
-        "appleID": "santa-tell-me/1444319982"
+        "appleID": "santa-tell-me/1444319982",
+        "youtubeID": "nlR0MkrRklg"
     },
     {
         "ranking": "27",
@@ -228,7 +243,9 @@
         "title": "Feliz Navidad",
         "artist": "José Feliciano",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/cf/a7/f8/cfa7f807-e9a6-758d-97e0-f1cd843b5a20/mzi.vcbwvmqu.jpg/80x80bb.webp",
-        "appleID": "feliz-navidad/255615879"
+        "appleID": "feliz-navidad/255615879",
+        "youtubeID": "N8NcQzMQN_U",
+        "spotifyID": "3qCeq0rWK67SoBDgFd2sId"
     },
     {
         "ranking": "34",
@@ -249,7 +266,9 @@
         "title": "Merry Christmas Everyone",
         "artist": "Shakin' Stevens",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music/1a/fc/7f/mzi.znxgldzx.jpg/80x80bb.webp",
-        "appleID": "merry-christmas-everyone/347010852"
+        "appleID": "merry-christmas-everyone/347010852",
+        "youtubeID": "ZeyHl1tQeaQ",
+        "spotifyID": "2TE4xW3ImvpltVU0cPcKUn"
     },
     {
         "ranking": "37",
@@ -284,7 +303,8 @@
         "title": "Blue Christmas",
         "artist": "Elvis Presley",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/e0/04/02/e0040287-bd23-a030-693b-c48d146de930/886444095303.jpg/80x80bb.webp",
-        "appleID": "blue-christmas/676288368"
+        "appleID": "blue-christmas/676288368",
+        "spotifyID": "3QiAAp20rPC3dcAtKtMaqQ"
     },
     {
         "ranking": "42",
@@ -354,7 +374,8 @@
         "title": "Timeless",
         "artist": "The Weeknd",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/40/77/cb/4077cbd1-b6a0-d8df-b9d3-e9a339dbc0ea/24UM1IM04061.rgb.jpg/80x80bb.webp",
-        "appleID": "timeless/1770380890"
+        "appleID": "timeless/1770380890",
+        "youtubeID": "5EpyN_6dqyk"
     },
     {
         "ranking": "52",
@@ -396,7 +417,8 @@
         "title": "Ia-ma Du-ma",
         "artist": "Babasha",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/ad/a4/aa/ada4aa6e-d170-6810-a695-3a24bc2f871b/cover.jpg/80x80bb.webp",
-        "appleID": "ia-ma-du-ma/1701178945"
+        "appleID": "ia-ma-du-ma/1701178945",
+        "spotifyID": "7dpjndI7KXtTVAERTplKMw"
     },
     {
         "ranking": "58",
@@ -473,7 +495,9 @@
         "title": "Mistletoe",
         "artist": "Justin Bieber",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/71/b9/49/71b9493c-57d3-c2dc-0ef0-d38417d7e937/11UMGIM34123.rgb.jpg/80x80bb.webp",
-        "appleID": "mistletoe/1440640717"
+        "appleID": "mistletoe/1440640717",
+        "youtubeID": "LUjn3RpkcKY",
+        "spotifyID": "7xapw9Oy21WpfEcib2ErSA"
     },
     {
         "ranking": "69",
@@ -501,7 +525,9 @@
         "title": "goosebumps",
         "artist": "Travis Scott",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/50/f7/a3/50f7a39d-3bd5-28e9-0264-532f08b5b810/886446074726.jpg/80x80bb.webp",
-        "appleID": "goosebumps/1150135924"
+        "appleID": "goosebumps/1150135924",
+        "youtubeID": "Dst9gZkq1a8",
+        "spotifyID": "6gBFPUFcJLzWGx4lenP6h2"
     },
     {
         "ranking": "73",
@@ -655,7 +681,8 @@
         "title": "Christmas Lights",
         "artist": "Coldplay",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/51/a3/c6/51a3c6b0-e243-7330-b27b-67bd625ff4ec/5099907194658.jpg/80x80bb.webp",
-        "appleID": "christmas-lights/693526009"
+        "appleID": "christmas-lights/693526009",
+        "spotifyID": "4fzyvSu73BhGvi96p2zwjL"
     },
     {
         "ranking": "95",

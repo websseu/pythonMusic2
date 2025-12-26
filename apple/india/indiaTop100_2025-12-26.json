@@ -116,7 +116,8 @@
         "title": "Antidote",
         "artist": "Karan Aujla",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c2/ce/a0/c2cea088-dbde-43db-346f-e536058fdcfb/5063483978438_cover.jpg/80x80bb.webp",
-        "appleID": "antidote/1753101077"
+        "appleID": "antidote/1753101077",
+        "spotifyID": "7KmCQLSSde0UX5OqCgvGN9"
     },
     {
         "ranking": "18",
@@ -158,7 +159,9 @@
         "title": "Wavy",
         "artist": "Karan Aujla",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cd/df/5a/cddf5a8c-464e-3958-cf4a-7fac9e490aa5/5063616597178_cover.jpg/80x80bb.webp",
-        "appleID": "wavy/1779786209"
+        "appleID": "wavy/1779786209",
+        "youtubeID": "XTp5jaRU3Ws",
+        "spotifyID": "4d2jV5fmX6hbRwaRbY39dt"
     },
     {
         "ranking": "24",
@@ -319,7 +322,9 @@
         "title": "Last Christmas (Single Version)",
         "artist": "Wham!",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/eb/4a/f9/eb4af984-fc68-56ab-7b89-1d070c04e1dd/5099765318524.jpg/80x80bb.webp",
-        "appleID": "last-christmas-single-version/202117984"
+        "appleID": "last-christmas/282658482",
+        "youtubeID": "E8gmARGvPlI",
+        "spotifyID": "2FRnf9qhLbvw8fu4IBXx78"
     },
     {
         "ranking": "47",
@@ -403,7 +408,7 @@
         "title": "52 Bars",
         "artist": "Karan Aujla",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/fc/bc/64/fcbc6417-8a88-7b5e-4490-8f53e537ffb0/859770181552_cover.jpg/80x80bb.webp",
-        "appleID": "52-bars/1859550748"
+        "appleID": "52-bars/1668647123"
     },
     {
         "ranking": "59",
@@ -501,14 +506,16 @@
         "title": "Timeless",
         "artist": "The Weeknd",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/40/77/cb/4077cbd1-b6a0-d8df-b9d3-e9a339dbc0ea/24UM1IM04061.rgb.jpg/80x80bb.webp",
-        "appleID": "timeless/1770380890"
+        "appleID": "timeless/1770380890",
+        "youtubeID": "5EpyN_6dqyk"
     },
     {
         "ranking": "73",
         "title": "Cheques",
         "artist": "Shubh",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/dc/46/a9/dc46a9c9-794e-2d7a-1afb-97eb4ae0fff6/197188915704.jpg/80x80bb.webp",
-        "appleID": "cheques/1687649562"
+        "appleID": "cheques/1687649562",
+        "spotifyID": "4eBvRhTJ2AcxCsbfTUjoRp"
     },
     {
         "ranking": "74",
@@ -669,7 +676,9 @@
         "title": "Jo Tum Mere Ho",
         "artist": "Anuv Jain",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cd/df/37/cddf37f9-9794-175e-d68f-272c8a3853b2/24UMGIM79558.rgb.jpg/80x80bb.webp",
-        "appleID": "jo-tum-mere-ho/1758669726"
+        "appleID": "jo-tum-mere-ho/1758669726",
+        "youtubeID": "ilNt2bikxDI",
+        "spotifyID": "0eCajpR75pDW0r64U6hP2x"
     },
     {
         "ranking": "97",

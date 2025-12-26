@@ -74,14 +74,17 @@
         "title": "Timeless",
         "artist": "The Weeknd",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/40/77/cb/4077cbd1-b6a0-d8df-b9d3-e9a339dbc0ea/24UM1IM04061.rgb.jpg/80x80bb.webp",
-        "appleID": "timeless/1770380890"
+        "appleID": "timeless/1770380890",
+        "youtubeID": "5EpyN_6dqyk"
     },
     {
         "ranking": "12",
         "title": "Bad Dreams",
         "artist": "Teddy Swims",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/cd/5d/64/cd5d64c2-338b-00c9-52d6-578a0f19d826/054391245908.jpg/80x80bb.webp",
-        "appleID": "bad-dreams/1765799904"
+        "appleID": "bad-dreams/1765799904",
+        "youtubeID": "Qh8QwVYOSVU",
+        "spotifyID": "3nHuKdFJZm78CoeBnDcFKe"
     },
     {
         "ranking": "13",
@@ -116,21 +119,23 @@
         "title": "All I Want for Christmas Is You",
         "artist": "Mariah Carey",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/c6/b7/27/c6b727f7-3a32-6b43-cee2-05bb71daf1cf/dj.itfmdeif.jpg/80x80bb.webp",
-        "appleID": "all-i-want-for-christmas-is-you/585972803"
+        "appleID": "all-i-want-for-christmas-is-you/585972803",
+        "youtubeID": "aAkMkVFwAoo"
     },
     {
         "ranking": "18",
         "title": "Капкан",
         "artist": "МОТ",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music69/v4/f6/55/4d/f6554d6a-dd86-c5e3-b47a-9befb8fc564f/cover.jpg/80x80bb.webp",
-        "appleID": "%D0%BA%D0%B0%D0%BF%D0%BA%D0%B0%D0%BD/1079308769"
+        "appleID": "%D0%BA%D0%B0%D0%BF%D0%BA%D0%B0%D0%BD/1079308769",
+        "spotifyID": "551l3WSPbohzxQGHhTVm0q"
     },
     {
         "ranking": "19",
         "title": "Камин",
         "artist": "EMIN",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/18/af/1d/18af1d8e-d684-3c0c-487a-f29c7453f174/3616404669582.jpg/80x80bb.webp",
-        "appleID": "%D0%BA%D0%B0%D0%BC%D0%B8%D0%BD/1570267744"
+        "appleID": "%D0%BA%D0%B0%D0%BC%D0%B8%D0%BD/1719165204"
     },
     {
         "ranking": "20",
@@ -144,7 +149,8 @@
         "title": "Snowman",
         "artist": "Sia",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/85/c3/21/85c32113-1c4c-571c-7602-88f568d8081c/075679861016.jpg/80x80bb.webp",
-        "appleID": "snowman/1440098017"
+        "appleID": "snowman/1440098017",
+        "youtubeID": "gset79KMmt0"
     },
     {
         "ranking": "22",
@@ -193,7 +199,8 @@
         "title": "Another Love",
         "artist": "Tom Odell",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/3d/80/6e/3d806e1d-106c-7483-2024-032042519ab3/886443996779.jpg/80x80bb.webp",
-        "appleID": "another-love/1308605492"
+        "appleID": "another-love/1308605492",
+        "spotifyID": "7jtQIBanIiJOMS6RyCx6jZ"
     },
     {
         "ranking": "29",
@@ -326,7 +333,9 @@
         "title": "Die With A Smile",
         "artist": "Lady Gaga",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/11/ae/f2/11aef294-f57c-bab9-c9fc-529162984e62/24UMGIM85348.rgb.jpg/80x80bb.webp",
-        "appleID": "die-with-a-smile/1762656732"
+        "appleID": "die-with-a-smile/1762656732",
+        "youtubeID": "kPa7bsKwL-c",
+        "spotifyID": "2plbrEY59IikOBgBGLjaoe"
     },
     {
         "ranking": "48",
@@ -459,7 +468,8 @@
         "title": "Beautiful Things",
         "artist": "Benson Boone",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/54/f4/92/54f49210-e260-b519-ebbd-f4f40ee710cd/054391342751.jpg/80x80bb.webp",
-        "appleID": "beautiful-things/1724488124"
+        "appleID": "beautiful-things/1724488124",
+        "youtubeID": "Oa_RSwwpPaA"
     },
     {
         "ranking": "67",
@@ -515,7 +525,8 @@
         "title": "Shape of You",
         "artist": "Ed Sheeran",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/15/e6/e8/15e6e8a4-4190-6a8b-86c3-ab4a51b88288/190295851286.jpg/80x80bb.webp",
-        "appleID": "shape-of-you/1193701392"
+        "appleID": "shape-of-you/1193701392",
+        "youtubeID": "JGwWNGJdvx8"
     },
     {
         "ranking": "75",
@@ -585,7 +596,8 @@
         "title": "Santa's Coming For Us",
         "artist": "Sia",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/85/c3/21/85c32113-1c4c-571c-7602-88f568d8081c/075679861016.jpg/80x80bb.webp",
-        "appleID": "santas-coming-for-us/1440098013"
+        "appleID": "santas-coming-for-us/1440098013",
+        "spotifyID": "1N1ZpYUJc9fwrqk53FGgWv"
     },
     {
         "ranking": "85",
@@ -627,14 +639,17 @@
         "title": "APT.",
         "artist": "ROSÉ",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2d/1a/7d/2d1a7d91-587e-0ceb-d434-327bd66d9e86/075679628312.jpg/80x80bb.webp",
-        "appleID": "apt/1773452221"
+        "appleID": "apt/1773452221",
+        "youtubeID": "ekr2nIex040",
+        "spotifyID": "4wJ5Qq0jBN4ajy7ouZIV1c"
     },
     {
         "ranking": "91",
         "title": "BIRDS OF A FEATHER",
         "artist": "Billie Eilish",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
-        "appleID": "birds-of-a-feather/1739659142"
+        "appleID": "birds-of-a-feather/1739659142",
+        "youtubeID": "V9PVRfjEBTI"
     },
     {
         "ranking": "92",
@@ -683,7 +698,9 @@
         "title": "WILDFLOWER",
         "artist": "Billie Eilish",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
-        "appleID": "wildflower/1739659144"
+        "appleID": "wildflower/1739659144",
+        "youtubeID": "IWKyykQBRKo",
+        "spotifyID": "3QaPy1KgI7nu9FJEQUgn6h"
     },
     {
         "ranking": "99",

@@ -109,7 +109,8 @@
         "title": "All I Want for Christmas Is You",
         "artist": "Mariah Carey",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/c6/b7/27/c6b727f7-3a32-6b43-cee2-05bb71daf1cf/dj.itfmdeif.jpg/80x80bb.webp",
-        "appleID": "all-i-want-for-christmas-is-you/585972803"
+        "appleID": "all-i-want-for-christmas-is-you/585972803",
+        "youtubeID": "aAkMkVFwAoo"
     },
     {
         "ranking": "17",
@@ -158,7 +159,8 @@
         "title": "KANTE (feat. Fave)",
         "artist": "Davido",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/40/12/87/4012878d-d267-09b8-7fe0-8c3fd8fdf169/886449553617.jpg/80x80bb.webp",
-        "appleID": "kante-feat-fave/1675379770"
+        "appleID": "kante-feat-fave/1675379770",
+        "youtubeID": "3bFPDfWReN0"
     },
     {
         "ranking": "24",
@@ -214,7 +216,9 @@
         "title": "Mistletoe",
         "artist": "Justin Bieber",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/71/b9/49/71b9493c-57d3-c2dc-0ef0-d38417d7e937/11UMGIM34123.rgb.jpg/80x80bb.webp",
-        "appleID": "mistletoe/1440640717"
+        "appleID": "mistletoe/1440640717",
+        "youtubeID": "LUjn3RpkcKY",
+        "spotifyID": "7xapw9Oy21WpfEcib2ErSA"
     },
     {
         "ranking": "32",
@@ -270,7 +274,8 @@
         "title": "Dawa",
         "artist": "Elijah Kitaka",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7e/17/72/7e1772a1-f2c4-d000-d1c4-6dd2f46223c2/8721093345909.png/80x80bb.webp",
-        "appleID": "dawa/1753059018"
+        "appleID": "dawa/1753059018",
+        "youtubeID": "EmVoc6B_Qso"
     },
     {
         "ranking": "40",
@@ -389,14 +394,17 @@
         "title": "Jingle Bell Rock",
         "artist": "Bobby Helms",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/e8/18/6b/e8186bf9-5696-e721-b273-a5f173caf8c1/18UMGIM07062.rgb.jpg/80x80bb.webp",
-        "appleID": "jingle-bell-rock/1358462132"
+        "appleID": "jingle-bell-rock/1358462132",
+        "youtubeID": "Z0ajuTaHBtM",
+        "spotifyID": "7vQbuQcyTflfCIOu3Uzzya"
     },
     {
         "ranking": "57",
         "title": "Underneath the Tree",
         "artist": "Kelly Clarkson",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/d8/e3/a5/d8e3a5f3-9296-07cc-9714-26069c01fd44/886448741190.jpg/80x80bb.webp",
-        "appleID": "underneath-the-tree/1537216368"
+        "appleID": "underneath-the-tree/1537216368",
+        "youtubeID": "EM2Fnp_qnE8"
     },
     {
         "ranking": "58",
@@ -410,7 +418,7 @@
         "title": "Bad Influence",
         "artist": "Omah Lay",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/03/00/55/0300551c-a91c-ef7b-0257-1300c76e1c9e/748367760532.jpg/80x80bb.webp",
-        "appleID": "bad-influence/1833268715"
+        "appleID": "bad-influence/1528527073"
     },
     {
         "ranking": "60",
@@ -585,7 +593,8 @@
         "title": "Santa Tell Me",
         "artist": "Ariana Grande",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/60/c8/2b/60c82b22-cd58-cdcd-5b51-6fad7a8b7055/14UMGIM55455.rgb.jpg/80x80bb.webp",
-        "appleID": "santa-tell-me/1444319982"
+        "appleID": "santa-tell-me/1444319982",
+        "youtubeID": "nlR0MkrRklg"
     },
     {
         "ranking": "85",

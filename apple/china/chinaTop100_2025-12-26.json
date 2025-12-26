@@ -39,7 +39,8 @@
         "title": "明明就",
         "artist": "Jay Chou",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/48/95/d0/4895d0c4-c8e3-277b-9616-f878bae55c96/23UM1IM59189.rgb.jpg/80x80bb.webp",
-        "appleID": "%E6%98%8E%E6%98%8E%E5%B0%B1/1721467034"
+        "appleID": "%E6%98%8E%E6%98%8E%E5%B0%B1/1721467034",
+        "spotifyID": "2zB7NKVnzRh7xSUSPLErFr"
     },
     {
         "ranking": "7",
@@ -116,7 +117,8 @@
         "title": "All I Want for Christmas Is You",
         "artist": "Mariah Carey",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/c6/b7/27/c6b727f7-3a32-6b43-cee2-05bb71daf1cf/dj.itfmdeif.jpg/80x80bb.webp",
-        "appleID": "all-i-want-for-christmas-is-you/585972803"
+        "appleID": "all-i-want-for-christmas-is-you/585972803",
+        "youtubeID": "aAkMkVFwAoo"
     },
     {
         "ranking": "18",
@@ -130,7 +132,8 @@
         "title": "半島鐵盒",
         "artist": "Jay Chou",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/96/c8/a1/96c8a1d8-8077-b8a7-8600-80b2abf1fe20/JAY.jpg/80x80bb.webp",
-        "appleID": "https://music.apple.com/us/artist/jay-chou/300117743"
+        "appleID": "https://music.apple.com/us/artist/jay-chou/300117743",
+        "spotifyID": "24F4oxC8oUBbRvpEOGjwPj"
     },
     {
         "ranking": "20",
@@ -214,7 +217,7 @@
         "title": "If Only",
         "artist": "JJ Lin",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/57/5a/1b/575a1bc9-ca86-7549-e873-b55663ba6276/4711508105925.jpg/80x80bb.webp",
-        "appleID": "if-only/1788007696"
+        "appleID": "if-only/945738655"
     },
     {
         "ranking": "32",
@@ -403,7 +406,9 @@
         "title": "Last Christmas (Single Version)",
         "artist": "Wham!",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/eb/4a/f9/eb4af984-fc68-56ab-7b89-1d070c04e1dd/5099765318524.jpg/80x80bb.webp",
-        "appleID": "last-christmas-single-version/202117984"
+        "appleID": "last-christmas/282658482",
+        "youtubeID": "E8gmARGvPlI",
+        "spotifyID": "2FRnf9qhLbvw8fu4IBXx78"
     },
     {
         "ranking": "59",
@@ -550,7 +555,8 @@
         "title": "Whiplash",
         "artist": "aespa",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d5/c1/f5/d5c1f505-f588-775f-df05-c672a8ec22e9/888735949562_Cover.jpg/80x80bb.webp",
-        "appleID": "whiplash/1772214981"
+        "appleID": "whiplash/1772214981",
+        "youtubeID": "jWQx2f-CErU"
     },
     {
         "ranking": "80",

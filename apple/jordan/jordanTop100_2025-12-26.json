@@ -67,14 +67,17 @@
         "title": "WILDFLOWER",
         "artist": "Billie Eilish",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
-        "appleID": "wildflower/1739659144"
+        "appleID": "wildflower/1739659144",
+        "youtubeID": "IWKyykQBRKo",
+        "spotifyID": "3QaPy1KgI7nu9FJEQUgn6h"
     },
     {
         "ranking": "11",
         "title": "Ragea",
         "artist": "Amr Diab",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a8/81/9f/a8819f9f-99f8-eb28-6a73-fcae47843bc8/3616842352848.jpg/80x80bb.webp",
-        "appleID": "ragea/1775914889"
+        "appleID": "ragea/1775914889",
+        "youtubeID": "OU1CJ3-TIGc"
     },
     {
         "ranking": "12",
@@ -88,7 +91,9 @@
         "title": "Last Christmas (Single Version)",
         "artist": "Wham!",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/eb/4a/f9/eb4af984-fc68-56ab-7b89-1d070c04e1dd/5099765318524.jpg/80x80bb.webp",
-        "appleID": "last-christmas-single-version/202117984"
+        "appleID": "last-christmas/282658482",
+        "youtubeID": "E8gmARGvPlI",
+        "spotifyID": "2FRnf9qhLbvw8fu4IBXx78"
     },
     {
         "ranking": "14",
@@ -109,7 +114,8 @@
         "title": "Basrah w Atooh",
         "artist": "Cairokee",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/46/81/82/468182bd-6914-bf7d-2f4a-4cb4bd5175cd/196925215671.jpg/80x80bb.webp",
-        "appleID": "basrah-w-atooh/1645863673"
+        "appleID": "basrah-w-atooh/1645863673",
+        "spotifyID": "4vIbws1xp082bv0zl8vLaJ"
     },
     {
         "ranking": "17",
@@ -151,7 +157,8 @@
         "title": "All I Want for Christmas Is You",
         "artist": "Mariah Carey",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/c6/b7/27/c6b727f7-3a32-6b43-cee2-05bb71daf1cf/dj.itfmdeif.jpg/80x80bb.webp",
-        "appleID": "all-i-want-for-christmas-is-you/585972803"
+        "appleID": "all-i-want-for-christmas-is-you/585972803",
+        "youtubeID": "aAkMkVFwAoo"
     },
     {
         "ranking": "23",
@@ -221,7 +228,8 @@
         "title": "البخت",
         "artist": "Wegz",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3b/e8/d4/3be8d457-88e3-1f4f-f1ea-5915332f3e69/6221216329950_Artwork.jpg/80x80bb.webp",
-        "appleID": "%D8%A7%D9%84%D8%A8%D8%AE%D8%AA/1809259727"
+        "appleID": "%D8%A7%D9%84%D8%A8%D8%AE%D8%AA/1809259727",
+        "spotifyID": "5kdlxZ5skOYY3VK8RlfEIZ"
     },
     {
         "ranking": "33",
@@ -263,7 +271,8 @@
         "title": "Timeless",
         "artist": "The Weeknd",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/40/77/cb/4077cbd1-b6a0-d8df-b9d3-e9a339dbc0ea/24UM1IM04061.rgb.jpg/80x80bb.webp",
-        "appleID": "timeless/1770380890"
+        "appleID": "timeless/1770380890",
+        "youtubeID": "5EpyN_6dqyk"
     },
     {
         "ranking": "39",
@@ -305,14 +314,17 @@
         "title": "ماتيجي اعدي عليكي",
         "artist": "TUL8TE",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/3a/d5/01/3ad50105-be3e-ffb2-8f92-54f3ecf52432/cover.jpg/80x80bb.webp",
-        "appleID": "%D9%85%D8%A7%D8%AA%D9%8A%D8%AC%D9%8A-%D8%A7%D8%B9%D8%AF%D9%8A-%D8%B9%D9%84%D9%8A%D9%83%D9%8A/1759421966"
+        "appleID": "%D9%85%D8%A7%D8%AA%D9%8A%D8%AC%D9%8A-%D8%A7%D8%B9%D8%AF%D9%8A-%D8%B9%D9%84%D9%8A%D9%83%D9%8A/1759421966",
+        "youtubeID": "pw5y_oYdfrM",
+        "spotifyID": "5ks7fVLJY4QRlAALIqJfMR"
     },
     {
         "ranking": "45",
         "title": "Ya Ana Ya La",
         "artist": "Amr Diab",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6b/fa/d0/6bfad002-1f1c-046a-2d4d-a932841e00a5/3616842369259.jpg/80x80bb.webp",
-        "appleID": "ya-ana-ya-la/1775965916"
+        "appleID": "ya-ana-ya-la/1775965916",
+        "youtubeID": "qDzDFSItK_0"
     },
     {
         "ranking": "46",
@@ -340,7 +352,9 @@
         "title": "No One Noticed",
         "artist": "The Marías",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0b/4d/b6/0b4db6bd-2d40-55a5-1714-67f5c816294d/075679659644.jpg/80x80bb.webp",
-        "appleID": "no-one-noticed/1733731157"
+        "appleID": "no-one-noticed/1733731157",
+        "youtubeID": "Qn8F_u0vBNI",
+        "spotifyID": "3siwsiaEoU4Kuuc9WKMUy5"
     },
     {
         "ranking": "50",
@@ -361,7 +375,9 @@
         "title": "Die With A Smile",
         "artist": "Lady Gaga",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/11/ae/f2/11aef294-f57c-bab9-c9fc-529162984e62/24UMGIM85348.rgb.jpg/80x80bb.webp",
-        "appleID": "die-with-a-smile/1762656732"
+        "appleID": "die-with-a-smile/1762656732",
+        "youtubeID": "kPa7bsKwL-c",
+        "spotifyID": "2plbrEY59IikOBgBGLjaoe"
     },
     {
         "ranking": "53",
@@ -410,14 +426,18 @@
         "title": "Jingle Bell Rock",
         "artist": "Bobby Helms",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/e8/18/6b/e8186bf9-5696-e721-b273-a5f173caf8c1/18UMGIM07062.rgb.jpg/80x80bb.webp",
-        "appleID": "jingle-bell-rock/1358462132"
+        "appleID": "jingle-bell-rock/1358462132",
+        "youtubeID": "Z0ajuTaHBtM",
+        "spotifyID": "7vQbuQcyTflfCIOu3Uzzya"
     },
     {
         "ranking": "60",
         "title": "CHIHIRO",
         "artist": "Billie Eilish",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
-        "appleID": "chihiro/1739659141"
+        "appleID": "chihiro/1739659141",
+        "youtubeID": "BY_XwvKogC8",
+        "spotifyID": "7BRD7x5pt8Lqa1eGYC4dzj"
     },
     {
         "ranking": "61",
@@ -431,14 +451,17 @@
         "title": "It's Beginning To Look a Lot Like Christmas",
         "artist": "Michael Bublé",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/37/2d/6e/372d6e16-7a32-91f0-1a03-0f2d9dbe389e/093624942788.jpg/80x80bb.webp",
-        "appleID": "its-beginning-to-look-a-lot-like-christmas/669854831"
+        "appleID": "its-beginning-to-look-a-lot-like-christmas/1592740089",
+        "youtubeID": "QJ5DOWPGxwg",
+        "spotifyID": "1rv46mRwDqMEhOBZ7vODg3"
     },
     {
         "ranking": "63",
         "title": "505",
         "artist": "Arctic Monkeys",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/82/90/14/829014ad-a301-62ab-bee6-f4cca4457411/mzi.hozudery.jpg/80x80bb.webp",
-        "appleID": "505/251499791"
+        "appleID": "505/251499791",
+        "spotifyID": "58ge6dfP91o9oXMzq3XkIS"
     },
     {
         "ranking": "64",
@@ -459,7 +482,9 @@
         "title": "End of Beginning",
         "artist": "Djo",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/e5/94/31/e59431de-7591-58e6-c4d4-105b6373ad6a/5056494917336_1.jpg/80x80bb.webp",
-        "appleID": "end-of-beginning/1632448108"
+        "appleID": "end-of-beginning/1632448108",
+        "youtubeID": "oXSw8DGjf5E",
+        "spotifyID": "3qhlB30KknSejmIvZZLjOD"
     },
     {
         "ranking": "67",
@@ -473,7 +498,8 @@
         "title": "يمكن خير",
         "artist": "Ramy Sabry",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/3a/6e/92/3a6e927d-f1c7-0178-626d-1504bdc159a5/cover.jpg/80x80bb.webp",
-        "appleID": "%D9%8A%D9%85%D9%83%D9%86-%D8%AE%D9%8A%D8%B1/1664133496"
+        "appleID": "%D9%8A%D9%85%D9%83%D9%86-%D8%AE%D9%8A%D8%B1/1664133496",
+        "spotifyID": "4Guq7XrO1FjduwFBsVbr0E"
     },
     {
         "ranking": "69",
@@ -536,7 +562,8 @@
         "title": "HIGHEST IN THE ROOM",
         "artist": "Travis Scott",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/30/5f/c4/305fc4b4-155d-8e67-7c7a-8eb35032fbcb/886448042792.jpg/80x80bb.webp",
-        "appleID": "highest-in-the-room/1481874619"
+        "appleID": "highest-in-the-room/1481874619",
+        "spotifyID": "3eekarcy7kvN4yt5ZFzltW"
     },
     {
         "ranking": "78",
@@ -550,7 +577,9 @@
         "title": "هيجيلي موجوع",
         "artist": "Tamer Ashour",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/32/4c/87/324c87db-42b2-01e5-46ec-0b92291ec342/cover.jpg/80x80bb.webp",
-        "appleID": "%D9%87%D9%8A%D8%AC%D9%8A%D9%84%D9%8A-%D9%85%D9%88%D8%AC%D9%88%D8%B9/1724979987"
+        "appleID": "%D9%87%D9%8A%D8%AC%D9%8A%D9%84%D9%8A-%D9%85%D9%88%D8%AC%D9%88%D8%B9/1724979987",
+        "youtubeID": "0a3oQGKhp24",
+        "spotifyID": "2Heqj9jtxarmecKxycGSWn"
     },
     {
         "ranking": "80",
@@ -599,7 +628,9 @@
         "title": "Let It Snow! Let It Snow! Let It Snow!",
         "artist": "Dean Martin",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/87/ee/3a/87ee3ae8-dc96-e287-6f1e-2332d4ae4c1d/13UAEIM07388.rgb.jpg/80x80bb.webp",
-        "appleID": "let-it-snow-let-it-snow-let-it-snow/1440830243"
+        "appleID": "let-it-snow-let-it-snow-let-it-snow/1440830243",
+        "youtubeID": "2TA3IKH8Y5c",
+        "spotifyID": "2uFaJJtFpPDc5Pa95XzTvg"
     },
     {
         "ranking": "87",
@@ -613,14 +644,16 @@
         "title": "Betewhasheiny",
         "artist": "Wael Jassar",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/ac/21/15/ac211566-da57-1c54-23af-50974478d90f/cover.jpg/80x80bb.webp",
-        "appleID": "betewhasheiny/1475491922"
+        "appleID": "betewhasheiny/1475491922",
+        "spotifyID": "0BPqBuNdkz210zBh9AbC4m"
     },
     {
         "ranking": "89",
         "title": "Apocalypse",
         "artist": "Cigarettes After Sex",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b3/5e/0f/b35e0fbe-2370-fc48-0f0c-977525e93bf2/720841214601_Cover.jpg/80x80bb.webp",
-        "appleID": "apocalypse/1217977755"
+        "appleID": "apocalypse/1215409245",
+        "spotifyID": "0yc6Gst2xkRu0eMLeRMGCX"
     },
     {
         "ranking": "90",
@@ -641,7 +674,8 @@
         "title": "BIRDS OF A FEATHER",
         "artist": "Billie Eilish",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
-        "appleID": "birds-of-a-feather/1739659142"
+        "appleID": "birds-of-a-feather/1739659142",
+        "youtubeID": "V9PVRfjEBTI"
     },
     {
         "ranking": "93",
@@ -669,21 +703,24 @@
         "title": "Inta El Haz",
         "artist": "Amr Diab",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ea/c0/4d/eac04d0a-9e41-fa44-255f-b255f611f035/196872488401.jpg/80x80bb.webp",
-        "appleID": "inta-el-haz/1776026474"
+        "appleID": "inta-el-haz/1776026474",
+        "youtubeID": "T-LAJ0Y7lsw"
     },
     {
         "ranking": "97",
         "title": "Another Love",
         "artist": "Tom Odell",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/3d/80/6e/3d806e1d-106c-7483-2024-032042519ab3/886443996779.jpg/80x80bb.webp",
-        "appleID": "another-love/1308605492"
+        "appleID": "another-love/1308605492",
+        "spotifyID": "7jtQIBanIiJOMS6RyCx6jZ"
     },
     {
         "ranking": "98",
         "title": "The Color Violet",
         "artist": "Tory Lanez",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/16/c8/eb/16c8eb6d-fe23-fa03-5e43-9827972763d3/cover.jpg/80x80bb.webp",
-        "appleID": "the-color-violet/1599010268"
+        "appleID": "the-color-violet/1599010268",
+        "spotifyID": "3azJifCSqg9fRij2yKIbWz"
     },
     {
         "ranking": "99",
