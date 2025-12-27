@@ -158,7 +158,7 @@
         "title": "Nairobi",
         "artist": "Marioo",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/36/31/79/363179ab-5323-edc4-15b0-4eb94d640fa9/766214672838.jpg/80x80bb.webp",
-        "appleID": "nairobi/1817719849"
+        "appleID": "nairobi/1780079857"
     },
     {
         "ranking": "24",
@@ -200,7 +200,8 @@
         "title": "All I Want for Christmas Is You",
         "artist": "Mariah Carey",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/c6/b7/27/c6b727f7-3a32-6b43-cee2-05bb71daf1cf/dj.itfmdeif.jpg/80x80bb.webp",
-        "appleID": "all-i-want-for-christmas-is-you/585972803"
+        "appleID": "all-i-want-for-christmas-is-you/585972803",
+        "youtubeID": "aAkMkVFwAoo"
     },
     {
         "ranking": "30",
@@ -277,7 +278,8 @@
         "title": "KANTE (feat. Fave)",
         "artist": "Davido",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/40/12/87/4012878d-d267-09b8-7fe0-8c3fd8fdf169/886449553617.jpg/80x80bb.webp",
-        "appleID": "kante-feat-fave/1675379770"
+        "appleID": "kante-feat-fave/1675379770",
+        "youtubeID": "3bFPDfWReN0"
     },
     {
         "ranking": "41",
@@ -480,21 +482,25 @@
         "title": "Jingle Bell Rock",
         "artist": "Bobby Helms",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/e8/18/6b/e8186bf9-5696-e721-b273-a5f173caf8c1/18UMGIM07062.rgb.jpg/80x80bb.webp",
-        "appleID": "jingle-bell-rock/1358462132"
+        "appleID": "jingle-bell-rock/1358462132",
+        "youtubeID": "Z0ajuTaHBtM",
+        "spotifyID": "7vQbuQcyTflfCIOu3Uzzya"
     },
     {
         "ranking": "70",
         "title": "HIGHEST IN THE ROOM",
         "artist": "Travis Scott",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/30/5f/c4/305fc4b4-155d-8e67-7c7a-8eb35032fbcb/886448042792.jpg/80x80bb.webp",
-        "appleID": "highest-in-the-room/1481874619"
+        "appleID": "highest-in-the-room/1481874619",
+        "spotifyID": "3eekarcy7kvN4yt5ZFzltW"
     },
     {
         "ranking": "71",
         "title": "Beta",
         "artist": "Mutoriah",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/f2/2c/d8/f22cd8ff-7479-f999-78f6-6c40ccb0d2dd/0.jpg/80x80bb.webp",
-        "appleID": "beta/1703130196"
+        "appleID": "beta/1703130196",
+        "youtubeID": "jmVGCnxnRug"
     },
     {
         "ranking": "72",
@@ -564,7 +570,8 @@
         "title": "Freestyle",
         "artist": "Lil Baby",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/93/e7/aa/93e7aa59-da8b-15bc-2992-5803f70fe8fa/17UM1IM55478.rgb.jpg/80x80bb.webp",
-        "appleID": "freestyle/1440929293"
+        "appleID": "freestyle/1440929293",
+        "youtubeID": "MHryuYVyHhk"
     },
     {
         "ranking": "82",
@@ -578,7 +585,8 @@
         "title": "WAIT FOR U (feat. Drake & Tems)",
         "artist": "Future",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/65/f2/06/65f2067b-a8ea-239c-c219-8e0f0282dcea/196589073693.jpg/80x80bb.webp",
-        "appleID": "wait-for-u-feat-drake-tems/1621119447"
+        "appleID": "wait-for-u-feat-drake-tems/1621119447",
+        "youtubeID": "rP09GUQFDFk"
     },
     {
         "ranking": "84",
@@ -613,7 +621,8 @@
         "title": "Chinje",
         "artist": "Toxic Lyrikali",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e7/6a/ce/e76acefc-c822-0785-48ff-78939d737004/artwork.jpg/80x80bb.webp",
-        "appleID": "chinje/1779122989"
+        "appleID": "chinje/1779122989",
+        "youtubeID": "3gpYhCNNxko"
     },
     {
         "ranking": "89",
@@ -669,7 +678,7 @@
         "title": "Extra Pressure",
         "artist": "Bensoul",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/eb/68/c4/eb68c434-73b8-f9a2-8966-b587482d2386/766214665489.jpg/80x80bb.webp",
-        "appleID": "extra-pressure/1817718049"
+        "appleID": "extra-pressure/1750684589"
     },
     {
         "ranking": "97",
@@ -683,14 +692,17 @@
         "title": "Snooze",
         "artist": "SZA",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/bd/3b/a9/bd3ba9fb-9609-144f-bcfe-ead67b5f6ab3/196589564931.jpg/80x80bb.webp",
-        "appleID": "snooze/1657869492"
+        "appleID": "snooze/1657869492",
+        "youtubeID": "LDY_XyxBu8A",
+        "spotifyID": "4iZ4pt7kvcaH6Yo8UoZ4s2"
     },
     {
         "ranking": "99",
         "title": "Underneath the Tree",
         "artist": "Kelly Clarkson",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/d8/e3/a5/d8e3a5f3-9296-07cc-9714-26069c01fd44/886448741190.jpg/80x80bb.webp",
-        "appleID": "underneath-the-tree/1537216368"
+        "appleID": "underneath-the-tree/1537216368",
+        "youtubeID": "EM2Fnp_qnE8"
     },
     {
         "ranking": "100",
