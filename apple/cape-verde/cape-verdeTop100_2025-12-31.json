@@ -256,7 +256,8 @@
         "title": "Interestelar",
         "artist": "Plutónio",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/60/6f/c7/606fc790-537e-d55a-f5a8-17ce0387f585/196872557992.jpg/80x80bb.webp",
-        "appleID": "interestelar/1775412754"
+        "appleID": "interestelar/1775412754",
+        "youtubeID": "lsBmNKMTrtw"
     },
     {
         "ranking": "38",
@@ -284,7 +285,9 @@
         "title": "WILDFLOWER",
         "artist": "Billie Eilish",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
-        "appleID": "wildflower/1739659144"
+        "appleID": "wildflower/1739659144",
+        "youtubeID": "IWKyykQBRKo",
+        "spotifyID": "3QaPy1KgI7nu9FJEQUgn6h"
     },
     {
         "ranking": "42",
@@ -319,7 +322,8 @@
         "title": "luther",
         "artist": "Kendrick Lamar",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/50/c2/cc/50c2cc95-3658-9417-0d4b-831abde44ba1/24UM1IM28978.rgb.jpg/80x80bb.webp",
-        "appleID": "luther/1781270323"
+        "appleID": "luther/1781270323",
+        "youtubeID": "4_taypLmSMU"
     },
     {
         "ranking": "47",
@@ -417,7 +421,9 @@
         "title": "4 Kampé",
         "artist": "Joé Dwèt Filé",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/05/32/0a/05320ae3-1eef-3cd6-8f19-9ad9f078fa25/cover.jpg/80x80bb.webp",
-        "appleID": "4-kamp%C3%A9/1773819412"
+        "appleID": "4-kamp%C3%A9/1773819412",
+        "youtubeID": "Srvt_6up-0o",
+        "spotifyID": "7dzuYJwwtNnfcptmbD58aJ"
     },
     {
         "ranking": "61",
@@ -473,7 +479,9 @@
         "title": "Snooze",
         "artist": "SZA",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/bd/3b/a9/bd3ba9fb-9609-144f-bcfe-ead67b5f6ab3/196589564931.jpg/80x80bb.webp",
-        "appleID": "snooze/1657869492"
+        "appleID": "snooze/1657869492",
+        "youtubeID": "LDY_XyxBu8A",
+        "spotifyID": "4iZ4pt7kvcaH6Yo8UoZ4s2"
     },
     {
         "ranking": "69",
@@ -536,7 +544,8 @@
         "title": "Not Like Us",
         "artist": "Kendrick Lamar",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d0/ef/b6/d0efb685-73be-fdee-58c9-be655f4cd4fd/24UMGIM51924.rgb.jpg/80x80bb.webp",
-        "appleID": "not-like-us/1744776167"
+        "appleID": "not-like-us/1744776167",
+        "youtubeID": "H58vbez_m4E"
     },
     {
         "ranking": "78",
@@ -606,7 +615,8 @@
         "title": "Mapa Cor de Rosa",
         "artist": "Plutónio",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/73/10/b8/7310b8d3-3521-ceb7-e4b4-def50bd2565b/196872597929.jpg/80x80bb.webp",
-        "appleID": "https://music.apple.com/us/artist/plut%C3%B3nio/402172353"
+        "appleID": "https://music.apple.com/us/artist/plut%C3%B3nio/402172353",
+        "youtubeID": "ZcNgxd--G8U"
     },
     {
         "ranking": "88",
@@ -697,6 +707,7 @@
         "title": "País das Maravilhas",
         "artist": "Plutónio",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7d/b5/42/7db54276-a783-c308-bbc4-c75f5efef89f/196872557923.jpg/80x80bb.webp",
-        "appleID": "pa%C3%ADs-das-maravilhas/1776657471"
+        "appleID": "pa%C3%ADs-das-maravilhas/1776657471",
+        "youtubeID": "JolO6Y7TkRQ"
     }
 ]
