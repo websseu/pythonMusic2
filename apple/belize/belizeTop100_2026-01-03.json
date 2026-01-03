@@ -67,7 +67,9 @@
         "title": "Moscow Mule",
         "artist": "Bad Bunny",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/3e/04/eb/3e04ebf6-370f-f59d-ec84-2c2643db92f1/196626945068.jpg/80x80bb.webp",
-        "appleID": "moscow-mule/1622045625"
+        "appleID": "moscow-mule/1622045625",
+        "youtubeID": "p38WgakuYDo",
+        "spotifyID": "6Xom58OOXk2SoU711L2IXO"
     },
     {
         "ranking": "11",
@@ -116,7 +118,8 @@
         "title": "Cocoa Tea",
         "artist": "Kes",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f6/57/69/f65769d6-86f9-dde2-56c1-2580a73805d8/198937079722_cover.jpg/80x80bb.webp",
-        "appleID": "cocoa-tea/1778350176"
+        "appleID": "cocoa-tea/1778350176",
+        "youtubeID": "GiKDPyAADeM"
     },
     {
         "ranking": "18",
@@ -235,7 +238,8 @@
         "title": "Expensive",
         "artist": "Valiant",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/67/ef/ba/67efba92-a95d-8a3e-f26e-7751657948f4/197188257088.jpg/80x80bb.webp",
-        "appleID": "expensive/1674670010"
+        "appleID": "expensive/1674670010",
+        "youtubeID": "nuMKdd_JkHo"
     },
     {
         "ranking": "35",
@@ -263,7 +267,8 @@
         "title": "luther",
         "artist": "Kendrick Lamar",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/50/c2/cc/50c2cc95-3658-9417-0d4b-831abde44ba1/24UM1IM28978.rgb.jpg/80x80bb.webp",
-        "appleID": "luther/1781270323"
+        "appleID": "luther/1781270323",
+        "youtubeID": "4_taypLmSMU"
     },
     {
         "ranking": "39",
@@ -291,7 +296,8 @@
         "title": "POUNDS",
         "artist": "Armanii",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f7/cc/b5/f7ccb535-44c0-e06e-1adc-81d60d3a9ab0/199231689327-copy-c36cb312.png/80x80bb.webp",
-        "appleID": "pounds/1805238910"
+        "appleID": "pounds/1756564617",
+        "youtubeID": "QRNaLVXxGwI"
     },
     {
         "ranking": "43",
@@ -312,7 +318,9 @@
         "title": "Snooze",
         "artist": "SZA",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/bd/3b/a9/bd3ba9fb-9609-144f-bcfe-ead67b5f6ab3/196589564931.jpg/80x80bb.webp",
-        "appleID": "snooze/1657869492"
+        "appleID": "snooze/1657869492",
+        "youtubeID": "LDY_XyxBu8A",
+        "spotifyID": "4iZ4pt7kvcaH6Yo8UoZ4s2"
     },
     {
         "ranking": "46",
@@ -333,7 +341,9 @@
         "title": "End of Beginning",
         "artist": "Djo",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/e5/94/31/e59431de-7591-58e6-c4d4-105b6373ad6a/5056494917336_1.jpg/80x80bb.webp",
-        "appleID": "end-of-beginning/1632448108"
+        "appleID": "end-of-beginning/1632448108",
+        "youtubeID": "oXSw8DGjf5E",
+        "spotifyID": "3qhlB30KknSejmIvZZLjOD"
     },
     {
         "ranking": "49",
@@ -354,14 +364,17 @@
         "title": "Qué Pasaría...",
         "artist": "Rauw Alejandro",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ab/e8/09/abe8092d-ef44-61b9-6b50-ab7efb78ca51/196872401516.jpg/80x80bb.webp",
-        "appleID": "qu%C3%A9-pasar%C3%ADa/1775462855"
+        "appleID": "qu%C3%A9-pasar%C3%ADa/1775462855",
+        "youtubeID": "g08y_x83d5E",
+        "spotifyID": "0l0vcZMU7AOeQmUIREoI2U"
     },
     {
         "ranking": "52",
         "title": "IKATION",
         "artist": "Kraff Gad",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/04/2d/12/042d12ae-f11e-7b1b-09a2-3050bbf4f07f/198888697495.jpg/80x80bb.webp",
-        "appleID": "ikation/1799051543"
+        "appleID": "ikation/1768079373",
+        "youtubeID": "W7Ymf9DiBJA"
     },
     {
         "ranking": "53",
@@ -389,7 +402,8 @@
         "title": "7:00 (Raw)",
         "artist": "Malie Donn",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9b/2b/41/9b2b41f6-5f4d-e5da-9e82-8054ed4adb88/10307.jpg/80x80bb.webp",
-        "appleID": "7-00-raw/1802270718"
+        "appleID": "7-00-raw/1802270718",
+        "youtubeID": "PdoPIpKdsPI"
     },
     {
         "ranking": "57",
@@ -480,7 +494,8 @@
         "title": "Tyrant",
         "artist": "Masicka",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/df/d8/9a/dfd89a6c-a372-eb5e-5d99-209d0708d0a3/23UMGIM54147.rgb.jpg/80x80bb.webp",
-        "appleID": "tyrant/1687575941"
+        "appleID": "tyrant/1687575941",
+        "youtubeID": "AGonQbpNooU"
     },
     {
         "ranking": "70",
@@ -508,7 +523,9 @@
         "title": "UWAIE",
         "artist": "Kapo",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4d/e8/03/4de80347-86da-bed6-47c4-1478b3aa46fa/196872367263.jpg/80x80bb.webp",
-        "appleID": "uwaie/1761902101"
+        "appleID": "uwaie/1761902101",
+        "youtubeID": "spbagny8OjM",
+        "spotifyID": "5QjmUqgpPQgXgg4606DqZF"
     },
     {
         "ranking": "74",
@@ -557,14 +574,18 @@
         "title": "Khé?",
         "artist": "Rauw Alejandro",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ab/e8/09/abe8092d-ef44-61b9-6b50-ab7efb78ca51/196872401516.jpg/80x80bb.webp",
-        "appleID": "kh%C3%A9/1775463293"
+        "appleID": "kh%C3%A9/1775463293",
+        "youtubeID": "7SNycTMOF74",
+        "spotifyID": "1YYfyJ2yCvGFCxwjsIqEK9"
     },
     {
         "ranking": "81",
         "title": "Si Antes Te Hubiera Conocido",
         "artist": "KAROL G",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a0/60/94/a060947c-54d8-0fad-c558-eed12600224c/24UMGIM62705.rgb.jpg/80x80bb.webp",
-        "appleID": "si-antes-te-hubiera-conocido/1752031539"
+        "appleID": "si-antes-te-hubiera-conocido/1752031539",
+        "youtubeID": "QCZZwZQ4qNs",
+        "spotifyID": "6WatFBLVB0x077xWeoVc2k"
     },
     {
         "ranking": "82",
@@ -599,7 +620,8 @@
         "title": "Haad (Fiesta)",
         "artist": "Armanii",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/17/24/03/1724039c-5812-653e-bca3-ec7b5c9882fa/0.jpg/80x80bb.webp",
-        "appleID": "haad-fiesta/1743242740"
+        "appleID": "haad-fiesta/1743242740",
+        "youtubeID": "-HdnnXfPUvs"
     },
     {
         "ranking": "87",
@@ -613,7 +635,9 @@
         "title": "NEL",
         "artist": "Fuerza Regida",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/24/95/0f/24950f19-f5dd-696b-8295-df4f780a0d9a/196872326017.jpg/80x80bb.webp",
-        "appleID": "nel/1759045296"
+        "appleID": "nel/1759045296",
+        "youtubeID": "fZcrCrHnYBw",
+        "spotifyID": "5AH31dDNgxCMGDdxubNNn4"
     },
     {
         "ranking": "89",
@@ -683,7 +707,9 @@
         "title": "Amor",
         "artist": "emmanuellcortess_",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b1/b3/7d/b1b37d1d-bf5b-bfa8-2991-7d3d67f6db86/197953846561.jpg/80x80bb.webp",
-        "appleID": "amor/1794892230"
+        "appleID": "amor/1794892230",
+        "youtubeID": "TX-1dI8t6WM",
+        "spotifyID": "0hkoQgoqic1qQtxPOudmrx"
     },
     {
         "ranking": "99",

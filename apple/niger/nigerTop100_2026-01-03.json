@@ -284,7 +284,9 @@
         "title": "4 Kampé",
         "artist": "Joé Dwèt Filé",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/05/32/0a/05320ae3-1eef-3cd6-8f19-9ad9f078fa25/cover.jpg/80x80bb.webp",
-        "appleID": "4-kamp%C3%A9/1773819412"
+        "appleID": "4-kamp%C3%A9/1773819412",
+        "youtubeID": "Srvt_6up-0o",
+        "spotifyID": "7dzuYJwwtNnfcptmbD58aJ"
     },
     {
         "ranking": "42",
@@ -375,7 +377,8 @@
         "title": "J'me tire",
         "artist": "GIMS",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/0d/d7/a8/0dd7a80c-a96b-0b9b-97e4-5a8ee603032d/dj.cnmkrwhy.jpg/80x80bb.webp",
-        "appleID": "jme-tire/749310621"
+        "appleID": "jme-tire/749310621",
+        "youtubeID": "F_rEHfLgdcY"
     },
     {
         "ranking": "55",
@@ -403,14 +406,17 @@
         "title": "CIEL",
         "artist": "GIMS",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7e/4a/df/7e4adfc1-7cf7-7a96-a4cb-2fc338a5b03e/cover.jpg/80x80bb.webp",
-        "appleID": "ciel/1773791057"
+        "appleID": "ciel/1773791057",
+        "youtubeID": "QS0A-CjRdAE",
+        "spotifyID": "1RiCNSkK4AfT1j8ZM4JnVs"
     },
     {
         "ranking": "59",
         "title": "KANTE (feat. Fave)",
         "artist": "Davido",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/40/12/87/4012878d-d267-09b8-7fe0-8c3fd8fdf169/886449553617.jpg/80x80bb.webp",
-        "appleID": "kante-feat-fave/1675379770"
+        "appleID": "kante-feat-fave/1675379770",
+        "youtubeID": "3bFPDfWReN0"
     },
     {
         "ranking": "60",
@@ -431,7 +437,8 @@
         "title": "DIE",
         "artist": "Gazo",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/93/c7/e1/93c7e142-99a9-cfc5-620b-cb8c8a2719b9/dj.zyrjnfhd.jpg/80x80bb.webp",
-        "appleID": "die/1630765531"
+        "appleID": "die/1630765531",
+        "youtubeID": "MwaUav_YV5c"
     },
     {
         "ranking": "63",
@@ -445,7 +452,7 @@
         "title": "Dis-moi que tu m'aimes",
         "artist": "Ninho",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/2e/31/63/2e316368-53ec-7021-fa5f-719cc36de925/190295937270.jpg/80x80bb.webp",
-        "appleID": "dis-moi-que-tu-maimes/1157195547"
+        "appleID": "https://music.apple.com/us/artist/ninho/320366644"
     },
     {
         "ranking": "65",
@@ -627,7 +634,7 @@
         "title": "Sur paname",
         "artist": "Ninho",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/5c/e2/93/5ce2935c-cd63-bcf4-0d47-a948a2923761/5060899072439_cover.jpg/80x80bb.webp",
-        "appleID": "sur-paname/1565402015"
+        "appleID": "sur-paname/1537133461"
     },
     {
         "ranking": "91",
@@ -676,7 +683,7 @@
         "title": "Last Last",
         "artist": "Burna Boy",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/fd/08/8c/fd088c72-75fc-0306-3c69-1ef4448ff3cf/075679688477.jpg/80x80bb.webp",
-        "appleID": "last-last/1749166881"
+        "appleID": "last-last/1623677811"
     },
     {
         "ranking": "98",
@@ -690,13 +697,16 @@
         "title": "OZEBA",
         "artist": "Rema",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/43/67/cd/4367cd08-da60-dbd5-783d-edf824fd5710/24UMGIM73107.rgb.jpg/80x80bb.webp",
-        "appleID": "ozeba/1755408907"
+        "appleID": "ozeba/1755408907",
+        "youtubeID": "CAyD5xr1yGY"
     },
     {
         "ranking": "100",
         "title": "Pétunias",
         "artist": "Werenoi",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/86/cd/96/86cd96df-cb51-3cd4-f9f9-fca95f60ec80/cover.jpg/80x80bb.webp",
-        "appleID": "p%C3%A9tunias/1771382985"
+        "appleID": "p%C3%A9tunias/1771385253",
+        "youtubeID": "n2THLWjJ3Wo",
+        "spotifyID": "3Byu179ofnuChb4zF1fMhu"
     }
 ]
