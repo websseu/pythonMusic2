@@ -172,7 +172,9 @@
         "title": "Snooze",
         "artist": "SZA",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/bd/3b/a9/bd3ba9fb-9609-144f-bcfe-ead67b5f6ab3/196589564931.jpg/80x80bb.webp",
-        "appleID": "snooze/1657869492"
+        "appleID": "snooze/1657869492",
+        "youtubeID": "LDY_XyxBu8A",
+        "spotifyID": "4iZ4pt7kvcaH6Yo8UoZ4s2"
     },
     {
         "ranking": "26",
@@ -193,7 +195,8 @@
         "title": "7:00 (Raw)",
         "artist": "Malie Donn",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9b/2b/41/9b2b41f6-5f4d-e5da-9e82-8054ed4adb88/10307.jpg/80x80bb.webp",
-        "appleID": "7-00-raw/1802270718"
+        "appleID": "7-00-raw/1802270718",
+        "youtubeID": "PdoPIpKdsPI"
     },
     {
         "ranking": "29",
@@ -235,7 +238,8 @@
         "title": "Empty",
         "artist": "Chronic Law",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/83/5b/ca/835bca21-8282-9bd0-ddd5-c0d62248ed0f/0.jpg/80x80bb.webp",
-        "appleID": "empty/1631582758"
+        "appleID": "empty/1631582758",
+        "youtubeID": "AOME31tgxnk"
     },
     {
         "ranking": "35",
@@ -284,7 +288,8 @@
         "title": "Dungeon",
         "artist": "Malie Donn",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/e0/98/07/e09807c9-4e01-c8b0-c950-bf603332eb00/197189683930.jpg/80x80bb.webp",
-        "appleID": "dungeon/1703655702"
+        "appleID": "dungeon/1703655702",
+        "youtubeID": "Q4LoZSRlnfg"
     },
     {
         "ranking": "42",
@@ -312,7 +317,8 @@
         "title": "People",
         "artist": "Teejay",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/f8/44/69/f844695e-ed75-c4e7-6c27-e3e8627a6d12/0.jpg/80x80bb.webp",
-        "appleID": "people/1640751097"
+        "appleID": "people/1640751097",
+        "youtubeID": "iPGu2FzezW8"
     },
     {
         "ranking": "46",
@@ -368,7 +374,8 @@
         "title": "Saved by a Psalm",
         "artist": "Govana",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/27/97/62/279762d9-d9e6-46d3-b91e-286d593d75e1/198342964743_cover.jpg/80x80bb.webp",
-        "appleID": "saved-by-a-psalm/1749553132"
+        "appleID": "saved-by-a-psalm/1749553132",
+        "youtubeID": "QF-w-tdJGeI"
     },
     {
         "ranking": "54",
@@ -396,7 +403,8 @@
         "title": "Cups Up",
         "artist": "Malie Donn",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/23/49/26/2349266a-4fd1-4c96-8ddd-8a21cfe23227/197189042348.jpg/80x80bb.webp",
-        "appleID": "cups-up/1691201515"
+        "appleID": "cups-up/1691201515",
+        "youtubeID": "_7OrZfivZqE"
     },
     {
         "ranking": "58",
@@ -410,14 +418,16 @@
         "title": "Tyrant",
         "artist": "Masicka",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/df/d8/9a/dfd89a6c-a372-eb5e-5d99-209d0708d0a3/23UMGIM54147.rgb.jpg/80x80bb.webp",
-        "appleID": "tyrant/1687575941"
+        "appleID": "tyrant/1687575941",
+        "youtubeID": "AGonQbpNooU"
     },
     {
         "ranking": "60",
         "title": "Wants and Needs (feat. Lil Baby)",
         "artist": "Drake",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/63/2a/34/632a3488-d104-3ff1-dc02-4ed86f58ed05/21UMGIM18577.rgb.jpg/80x80bb.webp",
-        "appleID": "wants-and-needs-feat-lil-baby/1556670532"
+        "appleID": "wants-and-needs-feat-lil-baby/1556670532",
+        "youtubeID": "0oBeEnY2CAQ"
     },
     {
         "ranking": "61",
@@ -522,7 +532,8 @@
         "title": "Corrupt",
         "artist": "Chronic Law",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/af/f8/c6/aff8c634-5968-c3fc-da1b-ffd0633c843e/196925559737.jpg/80x80bb.webp",
-        "appleID": "corrupt/1639060183"
+        "appleID": "corrupt/1639060183",
+        "youtubeID": "BaPGK-HMEZg"
     },
     {
         "ranking": "76",
@@ -634,7 +645,8 @@
         "title": "Good Days",
         "artist": "SZA",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/ef/09/cf/ef09cf1f-a057-6039-00d3-7b5d14c7eba1/886449006717.jpg/80x80bb.webp",
-        "appleID": "good-days/1546390051"
+        "appleID": "good-days/1546390051",
+        "youtubeID": "0BdlKkvjEgA"
     },
     {
         "ranking": "92",
