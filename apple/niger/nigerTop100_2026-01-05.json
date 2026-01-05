@@ -263,14 +263,16 @@
         "title": "DIE",
         "artist": "Gazo",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/93/c7/e1/93c7e142-99a9-cfc5-620b-cb8c8a2719b9/dj.zyrjnfhd.jpg/80x80bb.webp",
-        "appleID": "die/1630765531"
+        "appleID": "die/1630765531",
+        "youtubeID": "MwaUav_YV5c"
     },
     {
         "ranking": "39",
         "title": "Laboratoire",
         "artist": "Werenoi",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9f/a9/84/9fa984bb-ad87-63b3-e34d-b6febc47e920/cover.jpg/80x80bb.webp",
-        "appleID": "laboratoire/1768971934"
+        "appleID": "laboratoire/1768971934",
+        "spotifyID": "7wOgZ1otoKYDvKyQKP1sNZ"
     },
     {
         "ranking": "40",
@@ -284,7 +286,9 @@
         "title": "SOIS PAS TIMIDE",
         "artist": "GIMS",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/71/45/19/714519f5-40a6-b81a-d099-56512c4e4914/cover.jpg/80x80bb.webp",
-        "appleID": "sois-pas-timide/1757643303"
+        "appleID": "sois-pas-timide/1757643303",
+        "youtubeID": "Sq5EDI7JktA",
+        "spotifyID": "0yyFAbTlOk7DFhh6RSug9S"
     },
     {
         "ranking": "42",
@@ -375,7 +379,9 @@
         "title": "CARTIER SANTOS",
         "artist": "SDM",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/64/46/95/64469515-0230-b26c-69cf-5db61f5ea879/24UMGIM72197.rgb.jpg/80x80bb.webp",
-        "appleID": "cartier-santos/1757803302"
+        "appleID": "cartier-santos/1757803302",
+        "youtubeID": "3nGdVePdlT4",
+        "spotifyID": "1Mzg6bu3hkCwJKEf7v49MN"
     },
     {
         "ranking": "55",
@@ -571,7 +577,7 @@
         "title": "Hit & Run",
         "artist": "Shenseea",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4d/42/ed/4d42edf6-6a14-5e74-9a02-a01fe9bff99c/23UM1IM07501.rgb.jpg/80x80bb.webp",
-        "appleID": "hit-run/1743522372"
+        "appleID": "hit-run/1727264203"
     },
     {
         "ranking": "83",
@@ -613,7 +619,9 @@
         "title": "Où aller",
         "artist": "GIMS",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/3e/9d/58/3e9d581e-cb72-dff7-7735-3ed253abbbcc/cover.jpg/80x80bb.webp",
-        "appleID": "o%C3%B9-aller/1458355928"
+        "appleID": "o%C3%B9-aller/1610385870",
+        "youtubeID": "uXFqFGy5kXs",
+        "spotifyID": "2lftd3hyoAZ0DdxwyUqBw5"
     },
     {
         "ranking": "89",
@@ -655,7 +663,8 @@
         "title": "Girlfriend",
         "artist": "Ruger",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/78/68/ce/7868ce23-2ce0-0cfd-7ce3-3eb1196f1d96/196589221094_Cover.jpg/80x80bb.webp",
-        "appleID": "girlfriend/1709394555"
+        "appleID": "girlfriend/1709394555",
+        "youtubeID": "7M2Gps9xR8g"
     },
     {
         "ranking": "95",
