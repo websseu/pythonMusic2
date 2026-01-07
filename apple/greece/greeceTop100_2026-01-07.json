@@ -74,7 +74,9 @@
         "title": "End of Beginning",
         "artist": "Djo",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/e5/94/31/e59431de-7591-58e6-c4d4-105b6373ad6a/5056494917336_1.jpg/80x80bb.webp",
-        "appleID": "end-of-beginning/1632448108"
+        "appleID": "end-of-beginning/1632448108",
+        "youtubeID": "oXSw8DGjf5E",
+        "spotifyID": "3qhlB30KknSejmIvZZLjOD"
     },
     {
         "ranking": "12",
@@ -116,7 +118,8 @@
         "title": "3:15",
         "artist": "TOQUEL",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/fd/2d/47/fd2d471b-03cf-073c-8430-29d5095b424b/23UM1IM48699.rgb.jpg/80x80bb.webp",
-        "appleID": "3-15/1715296646"
+        "appleID": "3-15/1715296646",
+        "spotifyID": "5d2ETO2YDunJTXd5yuCCRA"
     },
     {
         "ranking": "18",
@@ -144,7 +147,7 @@
         "title": "MVP Freestyle",
         "artist": "Light",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/98/5e/59/985e59ca-0e46-b6a3-d6df-bc5424be2914/6425.jpg/80x80bb.webp",
-        "appleID": "mvp-freestyle/1814309749"
+        "appleID": "mvp-freestyle/1474644471"
     },
     {
         "ranking": "22",
@@ -172,14 +175,14 @@
         "title": "Mosca",
         "artist": "Light",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/eb/75/bc/eb75bcc9-8a13-6cf7-b6be-4424f8cd3f6f/6299.jpg/80x80bb.webp",
-        "appleID": "mosca/1814024596"
+        "appleID": "mosca/1453751658"
     },
     {
         "ranking": "26",
         "title": "Cc",
         "artist": "Light",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a2/3a/21/a23a21c1-27d9-f0cd-43a1-79960613fd2b/6484.jpg/80x80bb.webp",
-        "appleID": "cc/1814283327"
+        "appleID": "cc/1566395095"
     },
     {
         "ranking": "27",
@@ -242,7 +245,8 @@
         "title": "Se Periptosi Pou",
         "artist": "Anna Vissi",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3e/35/dc/3e35dcda-64cb-3eb7-3ec2-7456a6047114/cover.jpg/80x80bb.webp",
-        "appleID": "se-periptosi-pou/1777139739"
+        "appleID": "se-periptosi-pou/1777139739",
+        "spotifyID": "4iJkeikfkJ7EzkR2xUu0m4"
     },
     {
         "ranking": "36",
@@ -354,7 +358,8 @@
         "title": "AUTOS",
         "artist": "Sicario",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b0/86/4e/b0864ea6-fe31-fe1c-f3d4-b7d6f4aa0d24/cover.jpg/80x80bb.webp",
-        "appleID": "autos/1774686848"
+        "appleID": "autos/1774686848",
+        "spotifyID": "0EwKlAawFATYjR7Od5ps6k"
     },
     {
         "ranking": "52",
@@ -403,7 +408,7 @@
         "title": "24hrs",
         "artist": "Light",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1a/fb/e8/1afbe828-865d-d7bf-862a-565f486eb8f9/6487.jpg/80x80bb.webp",
-        "appleID": "24hrs/1814277683"
+        "appleID": "24hrs/1668845225"
     },
     {
         "ranking": "59",
@@ -508,7 +513,8 @@
         "title": "Sto Xo Pei",
         "artist": "Thodoris Ferris",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ee/85/95/ee8595a5-b593-e244-ec5d-2ea71ad406a3/cover.jpg/80x80bb.webp",
-        "appleID": "sto-xo-pei/1743036133"
+        "appleID": "sto-xo-pei/1743036133",
+        "spotifyID": "0eqamn5wjYkYykIcln9BVQ"
     },
     {
         "ranking": "74",
@@ -697,6 +703,6 @@
         "title": "Epiloges",
         "artist": "Light",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1a/fb/e8/1afbe828-865d-d7bf-862a-565f486eb8f9/6487.jpg/80x80bb.webp",
-        "appleID": "epiloges/1814277685"
+        "appleID": "epiloges/1668846766"
     }
 ]
