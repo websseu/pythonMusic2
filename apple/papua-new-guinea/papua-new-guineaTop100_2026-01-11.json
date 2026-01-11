@@ -256,7 +256,8 @@
         "title": "Sure Thing",
         "artist": "Miguel",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music/bf/86/ba/mzi.rpgkclds.jpg/80x80bb.webp",
-        "appleID": "sure-thing/439618071"
+        "appleID": "sure-thing/439618071",
+        "spotifyID": "0JXXNGljqupsJaZsgSbMZV"
     },
     {
         "ranking": "38",
@@ -417,7 +418,9 @@
         "title": "Bad Dreams",
         "artist": "Teddy Swims",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/cd/5d/64/cd5d64c2-338b-00c9-52d6-578a0f19d826/054391245908.jpg/80x80bb.webp",
-        "appleID": "bad-dreams/1765799904"
+        "appleID": "bad-dreams/1765799904",
+        "youtubeID": "Qh8QwVYOSVU",
+        "spotifyID": "3nHuKdFJZm78CoeBnDcFKe"
     },
     {
         "ranking": "61",
@@ -431,14 +434,15 @@
         "title": "Girl of My Dream",
         "artist": "Onetox",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/6f/60/21/6f60217c-574f-d17d-d72c-aa11d2e0f900/0.jpg/80x80bb.webp",
-        "appleID": "girl-of-my-dream/1807729745"
+        "appleID": "girl-of-my-dream/1706706271"
     },
     {
         "ranking": "63",
         "title": "People",
         "artist": "Libianca",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/c6/8c/ca/c68ccacb-cdd5-b765-53e1-eeca394770ac/196589735607.jpg/80x80bb.webp",
-        "appleID": "people/1658390607"
+        "appleID": "people/1658390607",
+        "youtubeID": "rJWdfDPZ9Ck"
     },
     {
         "ranking": "64",
@@ -501,7 +505,9 @@
         "title": "Snooze",
         "artist": "SZA",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/bd/3b/a9/bd3ba9fb-9609-144f-bcfe-ead67b5f6ab3/196589564931.jpg/80x80bb.webp",
-        "appleID": "snooze/1657869492"
+        "appleID": "snooze/1657869492",
+        "youtubeID": "LDY_XyxBu8A",
+        "spotifyID": "4iZ4pt7kvcaH6Yo8UoZ4s2"
     },
     {
         "ranking": "73",
