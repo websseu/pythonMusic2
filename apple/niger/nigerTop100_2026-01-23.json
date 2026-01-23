@@ -305,7 +305,8 @@
         "title": "Not Like Us",
         "artist": "Kendrick Lamar",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d0/ef/b6/d0efb685-73be-fdee-58c9-be655f4cd4fd/24UMGIM51924.rgb.jpg/80x80bb.webp",
-        "appleID": "not-like-us/1744776167"
+        "appleID": "not-like-us/1744776167",
+        "youtubeID": "H58vbez_m4E"
     },
     {
         "ranking": "45",
@@ -480,7 +481,9 @@
         "title": "CARTIER SANTOS",
         "artist": "SDM",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/64/46/95/64469515-0230-b26c-69cf-5db61f5ea879/24UMGIM72197.rgb.jpg/80x80bb.webp",
-        "appleID": "cartier-santos/1757803302"
+        "appleID": "cartier-santos/1757803302",
+        "youtubeID": "3nGdVePdlT4",
+        "spotifyID": "1Mzg6bu3hkCwJKEf7v49MN"
     },
     {
         "ranking": "70",
@@ -585,7 +588,8 @@
         "title": "Timeless",
         "artist": "The Weeknd",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/40/77/cb/4077cbd1-b6a0-d8df-b9d3-e9a339dbc0ea/24UM1IM04061.rgb.jpg/80x80bb.webp",
-        "appleID": "timeless/1770380890"
+        "appleID": "timeless/1770380890",
+        "youtubeID": "5EpyN_6dqyk"
     },
     {
         "ranking": "85",
@@ -648,7 +652,8 @@
         "title": "DIE",
         "artist": "Gazo",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/93/c7/e1/93c7e142-99a9-cfc5-620b-cb8c8a2719b9/dj.zyrjnfhd.jpg/80x80bb.webp",
-        "appleID": "die/1630765531"
+        "appleID": "die/1630765531",
+        "youtubeID": "MwaUav_YV5c"
     },
     {
         "ranking": "94",

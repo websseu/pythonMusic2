@@ -158,7 +158,8 @@
         "title": "2AM",
         "artist": "BigXthaPlug",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0e/87/3e/0e873e63-acef-c677-b27f-620afd4b74d8/198748813195.png/80x80bb.webp",
-        "appleID": "2am/1771890370"
+        "appleID": "2am/1771890370",
+        "youtubeID": "xA59TgXyuX0"
     },
     {
         "ranking": "24",
@@ -172,7 +173,8 @@
         "title": "Wishing Well",
         "artist": "Juice WRLD",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/69/ac/dc/69acdc57-c0d7-cde5-b46c-53a4c6a36561/20UMGIM58295.rgb.jpg/80x80bb.webp",
-        "appleID": "wishing-well/1528431366"
+        "appleID": "wishing-well/1528431366",
+        "youtubeID": "C5i-UnuUKUI"
     },
     {
         "ranking": "26",
@@ -333,7 +335,9 @@
         "title": "Lose Control",
         "artist": "Teddy Swims",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/36/19/66/36196640-1561-dc5e-c6bc-1e5f4befa583/093624856771.jpg/80x80bb.webp",
-        "appleID": "lose-control/1691699836"
+        "appleID": "lose-control/1691699836",
+        "youtubeID": "GZ3zL7kT6_c",
+        "spotifyID": "17phhZDn6oGtzMe56NuWvj"
     },
     {
         "ranking": "49",
@@ -403,14 +407,16 @@
         "title": "Nothing Else Matters",
         "artist": "Metallica",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/9e/80/1b/9e801b06-67fa-0990-2d15-85480ad3cd46/850007452025.png/80x80bb.webp",
-        "appleID": "nothing-else-matters/1572046444"
+        "appleID": "nothing-else-matters/1572046444",
+        "youtubeID": "tAGnKpE4NCI"
     },
     {
         "ranking": "59",
         "title": "Sexual Healing",
         "artist": "Marvin Gaye",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music/ad/de/3b/mzi.kkeuawzv.jpg/80x80bb.webp",
-        "appleID": "sexual-healing/205881936"
+        "appleID": "sexual-healing/205881936",
+        "spotifyID": "3VZmChrnVW8JK6ano4gSED"
     },
     {
         "ranking": "60",
@@ -683,7 +689,8 @@
         "title": "M a k e  I t  T o  T h e  M o r n i n g",
         "artist": "PARTYNEXTDOOR",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0d/de/c5/0ddec5e3-42f6-c550-6227-55dcd7d6b89a/39029.jpg/80x80bb.webp",
-        "appleID": "m-a-k-e-i-t-t-o-t-h-e-m-o-r-n-i-n-g/1738702855"
+        "appleID": "m-a-k-e-i-t-t-o-t-h-e-m-o-r-n-i-n-g/1738702855",
+        "spotifyID": "12VH4g5pTMZmrUVzfJq7F7"
     },
     {
         "ranking": "99",
