@@ -4,7 +4,8 @@
         "title": "Winter Ahead",
         "artist": "V",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9b/7a/b8/9b7ab83b-c635-42fa-a3d3-f8ede6e5920e/198704250583_Cover.jpg/80x80bb.webp",
-        "appleID": "winter-ahead/1780285815"
+        "appleID": "winter-ahead/1780285815",
+        "youtubeID": "HAWYOuMGkK0"
     },
     {
         "ranking": "2",
@@ -18,7 +19,8 @@
         "title": "luther",
         "artist": "Kendrick Lamar",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/50/c2/cc/50c2cc95-3658-9417-0d4b-831abde44ba1/24UM1IM28978.rgb.jpg/80x80bb.webp",
-        "appleID": "luther/1781270323"
+        "appleID": "luther/1781270323",
+        "youtubeID": "4_taypLmSMU"
     },
     {
         "ranking": "4",
@@ -32,7 +34,7 @@
         "title": "Sparsha Sangeet",
         "artist": "Purna Rai",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f4/e8/40/f4e840fa-6716-c693-5800-2414c528ff44/198670215579.jpg/80x80bb.webp",
-        "appleID": "sparsha-sangeet/1821905534"
+        "appleID": "sparsha-sangeet/1756439042"
     },
     {
         "ranking": "6",
@@ -88,7 +90,7 @@
         "title": "Manaka kura",
         "artist": "Purna Rai",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b0/f6/e7/b0f6e741-288a-a583-17f7-e7ef0d5c7f95/197271073588.jpg/80x80bb.webp",
-        "appleID": "manaka-kura/1821899062"
+        "appleID": "manaka-kura/1653961158"
     },
     {
         "ranking": "14",
@@ -256,7 +258,9 @@
         "title": "Die With A Smile",
         "artist": "Lady Gaga",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/11/ae/f2/11aef294-f57c-bab9-c9fc-529162984e62/24UMGIM85348.rgb.jpg/80x80bb.webp",
-        "appleID": "die-with-a-smile/1762656732"
+        "appleID": "die-with-a-smile/1762656732",
+        "youtubeID": "kPa7bsKwL-c",
+        "spotifyID": "2plbrEY59IikOBgBGLjaoe"
     },
     {
         "ranking": "38",
@@ -277,7 +281,9 @@
         "title": "End of Beginning",
         "artist": "Djo",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/e5/94/31/e59431de-7591-58e6-c4d4-105b6373ad6a/5056494917336_1.jpg/80x80bb.webp",
-        "appleID": "end-of-beginning/1632448108"
+        "appleID": "end-of-beginning/1632448108",
+        "youtubeID": "oXSw8DGjf5E",
+        "spotifyID": "3qhlB30KknSejmIvZZLjOD"
     },
     {
         "ranking": "41",
@@ -326,7 +332,8 @@
         "title": "Not Like Us",
         "artist": "Kendrick Lamar",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/31/3a/3f/313a3fbc-bb8f-80c7-b5a2-e226869a38cd/24UMGIM51924.rgb.jpg/80x80bb.webp",
-        "appleID": "not-like-us/1781353929"
+        "appleID": "not-like-us/1781353929",
+        "youtubeID": "H58vbez_m4E"
     },
     {
         "ranking": "48",
@@ -389,7 +396,8 @@
         "title": "BIRDS OF A FEATHER",
         "artist": "Billie Eilish",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
-        "appleID": "birds-of-a-feather/1739659142"
+        "appleID": "birds-of-a-feather/1739659142",
+        "youtubeID": "V9PVRfjEBTI"
     },
     {
         "ranking": "57",
@@ -403,7 +411,8 @@
         "title": "FRI(END)S",
         "artist": "V",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7d/dc/72/7ddc72a0-14e3-b92a-8b69-ec3ade3d9ed4/196922882227_Cover.jpg/80x80bb.webp",
-        "appleID": "fri-end-s/1734862500"
+        "appleID": "fri-end-s/1734862500",
+        "youtubeID": "62peQdQv4uo"
     },
     {
         "ranking": "59",
@@ -417,7 +426,7 @@
         "title": "Kabira (Encore)",
         "artist": "Pritam",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/62/d6/74/62d67432-0670-631f-db6a-d4bac3adae4b/8902894353328_cover.jpg/80x80bb.webp",
-        "appleID": "kabira-encore/1070912834"
+        "appleID": "kabira/1070912818"
     },
     {
         "ranking": "61",
@@ -431,7 +440,7 @@
         "title": "Badal Sari",
         "artist": "Swar",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/25/66/25/256625c4-6a79-d3a7-5f2a-f4ef80ca7aa3/7316479193000.jpg/80x80bb.webp",
-        "appleID": "badal-sari/1809812556"
+        "appleID": "badal-sari/1780728562"
     },
     {
         "ranking": "63",
@@ -473,7 +482,7 @@
         "title": "White Christmas",
         "artist": "V",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/99/a7/e5/99a7e5da-ce5c-8f45-d688-982735754912/198704453977_Cover.jpg/80x80bb.webp",
-        "appleID": "white-christmas/1807079542"
+        "appleID": "white-christmas/1777448469"
     },
     {
         "ranking": "69",
@@ -557,7 +566,9 @@
         "title": "Too Sweet",
         "artist": "Hozier",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a4/12/e3/a412e390-51aa-6625-9adc-d502bf1c349f/196872373004.jpg/80x80bb.webp",
-        "appleID": "too-sweet/1763072931"
+        "appleID": "too-sweet/1763072931",
+        "youtubeID": "NTpbbQUBbuo",
+        "spotifyID": "19XpFsce28aByvCC4g89tJ"
     },
     {
         "ranking": "81",
@@ -578,7 +589,8 @@
         "title": "Cheques",
         "artist": "Shubh",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/dc/46/a9/dc46a9c9-794e-2d7a-1afb-97eb4ae0fff6/197188915704.jpg/80x80bb.webp",
-        "appleID": "cheques/1687649562"
+        "appleID": "cheques/1687649562",
+        "spotifyID": "4eBvRhTJ2AcxCsbfTUjoRp"
     },
     {
         "ranking": "84",
@@ -606,7 +618,9 @@
         "title": "Jo Tum Mere Ho",
         "artist": "Anuv Jain",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cd/df/37/cddf37f9-9794-175e-d68f-272c8a3853b2/24UMGIM79558.rgb.jpg/80x80bb.webp",
-        "appleID": "jo-tum-mere-ho/1758669726"
+        "appleID": "jo-tum-mere-ho/1758669726",
+        "youtubeID": "ilNt2bikxDI",
+        "spotifyID": "0eCajpR75pDW0r64U6hP2x"
     },
     {
         "ranking": "88",
@@ -620,7 +634,9 @@
         "title": "Snooze",
         "artist": "SZA",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/62/93/13/6293132e-20ff-67ab-3d1f-96bb6797a6ba/196589564955.jpg/80x80bb.webp",
-        "appleID": "snooze/1658650499"
+        "appleID": "snooze/1657869492",
+        "youtubeID": "LDY_XyxBu8A",
+        "spotifyID": "4iZ4pt7kvcaH6Yo8UoZ4s2"
     },
     {
         "ranking": "90",
@@ -655,7 +671,8 @@
         "title": "Every Breath You Take (Remastered 2003)",
         "artist": "The Police",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/a4/67/ba/a467ba62-87df-9d10-98d2-c517f68ac870/16UMGIM60882.rgb.jpg/80x80bb.webp",
-        "appleID": "every-breath-you-take-remastered-2003/1440674160"
+        "appleID": "every-breath-you-take-remastered-2003/1440674160",
+        "spotifyID": "1JSTJqkT5qHq8MDJnJbRE1"
     },
     {
         "ranking": "95",
@@ -669,7 +686,9 @@
         "title": "APT.",
         "artist": "ROSÉ",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2d/1a/7d/2d1a7d91-587e-0ceb-d434-327bd66d9e86/075679628312.jpg/80x80bb.webp",
-        "appleID": "apt/1773452221"
+        "appleID": "apt/1773452221",
+        "youtubeID": "ekr2nIex040",
+        "spotifyID": "4wJ5Qq0jBN4ajy7ouZIV1c"
     },
     {
         "ranking": "97",
