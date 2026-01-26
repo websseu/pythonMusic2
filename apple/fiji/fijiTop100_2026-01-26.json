@@ -116,7 +116,8 @@
         "title": "Good Days",
         "artist": "SZA",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/ef/09/cf/ef09cf1f-a057-6039-00d3-7b5d14c7eba1/886449006717.jpg/80x80bb.webp",
-        "appleID": "good-days/1546390051"
+        "appleID": "good-days/1546390051",
+        "youtubeID": "0BdlKkvjEgA"
     },
     {
         "ranking": "18",
@@ -270,14 +271,17 @@
         "title": "Snooze",
         "artist": "SZA",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/bd/3b/a9/bd3ba9fb-9609-144f-bcfe-ead67b5f6ab3/196589564931.jpg/80x80bb.webp",
-        "appleID": "snooze/1657869492"
+        "appleID": "snooze/1657869492",
+        "youtubeID": "LDY_XyxBu8A",
+        "spotifyID": "4iZ4pt7kvcaH6Yo8UoZ4s2"
     },
     {
         "ranking": "40",
         "title": "KANTE (feat. Fave)",
         "artist": "Davido",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/40/12/87/4012878d-d267-09b8-7fe0-8c3fd8fdf169/886449553617.jpg/80x80bb.webp",
-        "appleID": "kante-feat-fave/1675379770"
+        "appleID": "kante-feat-fave/1675379770",
+        "youtubeID": "3bFPDfWReN0"
     },
     {
         "ranking": "41",
@@ -354,7 +358,9 @@
         "title": "Die With A Smile",
         "artist": "Lady Gaga",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/11/ae/f2/11aef294-f57c-bab9-c9fc-529162984e62/24UMGIM85348.rgb.jpg/80x80bb.webp",
-        "appleID": "die-with-a-smile/1762656732"
+        "appleID": "die-with-a-smile/1762656732",
+        "youtubeID": "kPa7bsKwL-c",
+        "spotifyID": "2plbrEY59IikOBgBGLjaoe"
     },
     {
         "ranking": "52",
@@ -375,7 +381,9 @@
         "title": "End of Beginning",
         "artist": "Djo",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/e5/94/31/e59431de-7591-58e6-c4d4-105b6373ad6a/5056494917336_1.jpg/80x80bb.webp",
-        "appleID": "end-of-beginning/1632448108"
+        "appleID": "end-of-beginning/1632448108",
+        "youtubeID": "oXSw8DGjf5E",
+        "spotifyID": "3qhlB30KknSejmIvZZLjOD"
     },
     {
         "ranking": "55",
@@ -417,7 +425,8 @@
         "title": "Every Night Every Morning",
         "artist": "Maoli",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/db/73/4f/db734ffc-785c-9999-be7c-f0c54458690a/0.jpg/80x80bb.webp",
-        "appleID": "every-night-every-morning/1761629618"
+        "appleID": "every-night-every-morning/1761629618",
+        "youtubeID": "20k90wvdLco"
     },
     {
         "ranking": "61",
@@ -452,7 +461,8 @@
         "title": "Dreams",
         "artist": "Fleetwood Mac",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/d2/48/f4/d248f4ae-a7e4-a48e-1588-6617de3e8d76/mzi.izeorbmm.jpg/80x80bb.webp",
-        "appleID": "dreams/202272624"
+        "appleID": "dreams/202272624",
+        "youtubeID": "Y3ywicffOj4"
     },
     {
         "ranking": "66",
@@ -473,7 +483,7 @@
         "title": "Malele",
         "artist": "Liz Vamarasi",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/87/2f/0f/872f0fa8-fa93-bee1-e292-70a91491f36c/0.jpg/80x80bb.webp",
-        "appleID": "malele/1802834722"
+        "appleID": "malele/1751186235"
     },
     {
         "ranking": "69",
@@ -529,7 +539,7 @@
         "title": "no tears left to cry",
         "artist": "Ariana Grande",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/9e/71/a4/9e71a47f-c290-a542-07fd-a3aed41eefa7/18UMGIM36924.rgb.jpg/80x80bb.webp",
-        "appleID": "no-tears-left-to-cry/1544324124"
+        "appleID": "no-tears-left-to-cry/1399204228"
     },
     {
         "ranking": "77",
@@ -557,7 +567,8 @@
         "title": "Rush",
         "artist": "Ayra Starr",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/93/c1/9293c1af-2881-bcb7-439f-99a516e5d715/5059449090122.png/80x80bb.webp",
-        "appleID": "rush/1642898573"
+        "appleID": "rush/1642898573",
+        "youtubeID": "crtQSTYWtqE"
     },
     {
         "ranking": "81",
@@ -592,21 +603,23 @@
         "title": "Beautiful Things",
         "artist": "Benson Boone",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/54/f4/92/54f49210-e260-b519-ebbd-f4f40ee710cd/054391342751.jpg/80x80bb.webp",
-        "appleID": "beautiful-things/1724488124"
+        "appleID": "beautiful-things/1724488124",
+        "youtubeID": "Oa_RSwwpPaA"
     },
     {
         "ranking": "86",
         "title": "Not Like Us",
         "artist": "Kendrick Lamar",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d0/ef/b6/d0efb685-73be-fdee-58c9-be655f4cd4fd/24UMGIM51924.rgb.jpg/80x80bb.webp",
-        "appleID": "not-like-us/1744776167"
+        "appleID": "not-like-us/1744776167",
+        "youtubeID": "H58vbez_m4E"
     },
     {
         "ranking": "87",
         "title": "Dodomo Qo",
         "artist": "Kali Tui",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1e/4c/e4/1e4ce437-ee0f-d946-c22e-c1850aca5ecf/0.jpg/80x80bb.webp",
-        "appleID": "dodomo-qo/1802833060"
+        "appleID": "dodomo-qo/1778911568"
     },
     {
         "ranking": "88",
@@ -627,7 +640,8 @@
         "title": "luther",
         "artist": "Kendrick Lamar",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/50/c2/cc/50c2cc95-3658-9417-0d4b-831abde44ba1/24UM1IM28978.rgb.jpg/80x80bb.webp",
-        "appleID": "luther/1781270323"
+        "appleID": "luther/1781270323",
+        "youtubeID": "4_taypLmSMU"
     },
     {
         "ranking": "91",
@@ -676,7 +690,9 @@
         "title": "Iris",
         "artist": "The Goo Goo Dolls",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music/b4/0c/98/mzi.vhowcacb.jpg/80x80bb.webp",
-        "appleID": "iris/267537169"
+        "appleID": "iris/267537169",
+        "youtubeID": "NdYWuo9OFAw",
+        "spotifyID": "6Qyc6fS4DsZjB2mRW9DsQs"
     },
     {
         "ranking": "98",
