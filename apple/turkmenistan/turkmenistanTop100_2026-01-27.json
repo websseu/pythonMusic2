@@ -102,7 +102,8 @@
         "title": "Forever Young",
         "artist": "Alphaville",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music/y2005/m06/d22/h05/s05.qwwmqauc.jpg/80x80bb.webp",
-        "appleID": "forever-young/73255043"
+        "appleID": "forever-young/73255043",
+        "youtubeID": "oNjQXmoxiQ8"
     },
     {
         "ranking": "16",
@@ -151,7 +152,8 @@
         "title": "Shape of You",
         "artist": "Ed Sheeran",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/15/e6/e8/15e6e8a4-4190-6a8b-86c3-ab4a51b88288/190295851286.jpg/80x80bb.webp",
-        "appleID": "shape-of-you/1193701392"
+        "appleID": "shape-of-you/1193701392",
+        "youtubeID": "JGwWNGJdvx8"
     },
     {
         "ranking": "23",
@@ -186,14 +188,16 @@
         "title": "Капкан",
         "artist": "МОТ",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music69/v4/f6/55/4d/f6554d6a-dd86-c5e3-b47a-9befb8fc564f/cover.jpg/80x80bb.webp",
-        "appleID": "%D0%BA%D0%B0%D0%BF%D0%BA%D0%B0%D0%BD/1079308769"
+        "appleID": "%D0%BA%D0%B0%D0%BF%D0%BA%D0%B0%D0%BD/1079308769",
+        "spotifyID": "551l3WSPbohzxQGHhTVm0q"
     },
     {
         "ranking": "28",
         "title": "Küçücüğüm",
         "artist": "Yalın",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e3/d8/06/e3d8069b-a191-4975-f46d-32a9350e2b7b/cover.jpg/80x80bb.webp",
-        "appleID": "k%C3%BC%C3%A7%C3%BCc%C3%BC%C4%9F%C3%BCm/643165118"
+        "appleID": "k%C3%BC%C3%A7%C3%BCc%C3%BC%C4%9F%C3%BCm/643165118",
+        "spotifyID": "1jhnbRVTmRJjnRhabesRqn"
     },
     {
         "ranking": "29",
@@ -410,7 +414,8 @@
         "title": "Believer",
         "artist": "Imagine Dragons",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/11/7a/b8/117ab805-6811-8929-18b9-0fad7baf0c25/17UMGIM98210.rgb.jpg/80x80bb.webp",
-        "appleID": "believer/1411628233"
+        "appleID": "believer/1411628233",
+        "youtubeID": "7wtfhZwyrcc"
     },
     {
         "ranking": "60",
@@ -438,7 +443,7 @@
         "title": "Камин",
         "artist": "EMIN",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/18/af/1d/18af1d8e-d684-3c0c-487a-f29c7453f174/3616404669582.jpg/80x80bb.webp",
-        "appleID": "%D0%BA%D0%B0%D0%BC%D0%B8%D0%BD/1570267744"
+        "appleID": "%D0%BA%D0%B0%D0%BC%D0%B8%D0%BD/1719165204"
     },
     {
         "ranking": "64",
@@ -522,7 +527,7 @@
         "title": "Diet Mountain Dew",
         "artist": "Lana Del Rey",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/c5/df/dd/c5dfdd9c-24f2-de01-246c-fcc5e028f705/12UMGIM53864.rgb.jpg/80x80bb.webp",
-        "appleID": "diet-mountain-dew/1442452473"
+        "appleID": "diet-mountain-dew/1440854290"
     },
     {
         "ranking": "76",
@@ -564,7 +569,8 @@
         "title": "M a k e  I t  T o  T h e  M o r n i n g",
         "artist": "PARTYNEXTDOOR",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0d/de/c5/0ddec5e3-42f6-c550-6227-55dcd7d6b89a/39029.jpg/80x80bb.webp",
-        "appleID": "m-a-k-e-i-t-t-o-t-h-e-m-o-r-n-i-n-g/1738702855"
+        "appleID": "m-a-k-e-i-t-t-o-t-h-e-m-o-r-n-i-n-g/1738702855",
+        "spotifyID": "12VH4g5pTMZmrUVzfJq7F7"
     },
     {
         "ranking": "82",
@@ -592,7 +598,8 @@
         "title": "Save Your Tears",
         "artist": "The Weeknd",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/6f/bc/e6/6fbce6c4-c38c-72d8-4fd0-66cfff32f679/20UMGIM12176.rgb.jpg/80x80bb.webp",
-        "appleID": "save-your-tears/1499378613"
+        "appleID": "save-your-tears/1499378613",
+        "youtubeID": "XXYlFuWEuKI"
     },
     {
         "ranking": "86",
@@ -606,7 +613,9 @@
         "title": "Bad Dreams",
         "artist": "Teddy Swims",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/cd/5d/64/cd5d64c2-338b-00c9-52d6-578a0f19d826/054391245908.jpg/80x80bb.webp",
-        "appleID": "bad-dreams/1765799904"
+        "appleID": "bad-dreams/1765799904",
+        "youtubeID": "Qh8QwVYOSVU",
+        "spotifyID": "3nHuKdFJZm78CoeBnDcFKe"
     },
     {
         "ranking": "88",
