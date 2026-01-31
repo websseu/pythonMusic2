@@ -81,7 +81,7 @@
         "title": "99",
         "artist": "Jala Brat",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4b/83/06/4b8306a0-0882-94ca-8d0d-482cdafb9ead/71561.jpg/80x80bb.webp",
-        "appleID": "99/1869464275"
+        "appleID": "99/1782161991"
     },
     {
         "ranking": "13",
@@ -95,7 +95,9 @@
         "title": "End of Beginning",
         "artist": "Djo",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/e5/94/31/e59431de-7591-58e6-c4d4-105b6373ad6a/5056494917336_1.jpg/80x80bb.webp",
-        "appleID": "end-of-beginning/1632448108"
+        "appleID": "end-of-beginning/1632448108",
+        "youtubeID": "oXSw8DGjf5E",
+        "spotifyID": "3qhlB30KknSejmIvZZLjOD"
     },
     {
         "ranking": "15",
@@ -249,14 +251,15 @@
         "title": "Forza",
         "artist": "Grše",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/62/ec/18/62ec1883-aac6-1a1b-8808-c8a79fab5201/cover.jpg/80x80bb.webp",
-        "appleID": "forza/1751269959"
+        "appleID": "forza/1751269959",
+        "youtubeID": "-w55SIKYZxc"
     },
     {
         "ranking": "37",
         "title": "Karantin",
         "artist": "Jala Brat",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4b/c5/ef/4bc5efb0-c374-3a5d-a167-38bf6f0b2d0a/71077.jpg/80x80bb.webp",
-        "appleID": "karantin/1869461827"
+        "appleID": "karantin/1782150258"
     },
     {
         "ranking": "38",
@@ -291,7 +294,7 @@
         "title": "Bez Koda",
         "artist": "Jala Brat",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/96/42/75/96427505-7355-66ad-3ca6-c346dc3cc379/1078.jpg/80x80bb.webp",
-        "appleID": "bez-koda/1782139510"
+        "appleID": "bez-koda/1753830403"
     },
     {
         "ranking": "43",
@@ -410,14 +413,16 @@
         "title": "Irina Shayk",
         "artist": "Buba Corelli",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/44/99/db/4499db79-ae24-85e9-c06f-ac18b2055c88/70461.jpg/80x80bb.webp",
-        "appleID": "irina-shayk/1869458438"
+        "appleID": "irina-shayk/1782145496"
     },
     {
         "ranking": "60",
         "title": "That’s So True",
         "artist": "Gracie Abrams",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/26/78/81/26788143-5e5f-0813-2480-ecf4280ef221/24UM1IM07082.rgb.jpg/80x80bb.webp",
-        "appleID": "thats-so-true/1773474483"
+        "appleID": "thats-so-true/1773474483",
+        "youtubeID": "BDHM8cyJQa8",
+        "spotifyID": "7ne4VBA60CxGM75vw0EYad"
     },
     {
         "ranking": "61",
@@ -648,7 +653,8 @@
         "title": "Good Days",
         "artist": "SZA",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/ef/09/cf/ef09cf1f-a057-6039-00d3-7b5d14c7eba1/886449006717.jpg/80x80bb.webp",
-        "appleID": "good-days/1546390051"
+        "appleID": "good-days/1546390051",
+        "youtubeID": "0BdlKkvjEgA"
     },
     {
         "ranking": "94",
@@ -697,6 +703,8 @@
         "title": "Iris",
         "artist": "The Goo Goo Dolls",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music/b4/0c/98/mzi.vhowcacb.jpg/80x80bb.webp",
-        "appleID": "iris/267537169"
+        "appleID": "iris/267537169",
+        "youtubeID": "NdYWuo9OFAw",
+        "spotifyID": "6Qyc6fS4DsZjB2mRW9DsQs"
     }
 ]
