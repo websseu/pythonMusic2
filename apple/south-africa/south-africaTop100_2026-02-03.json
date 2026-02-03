@@ -410,7 +410,8 @@
         "title": "Good Days",
         "artist": "SZA",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/ef/09/cf/ef09cf1f-a057-6039-00d3-7b5d14c7eba1/886449006717.jpg/80x80bb.webp",
-        "appleID": "good-days/1546390051"
+        "appleID": "good-days/1546390051",
+        "youtubeID": "0BdlKkvjEgA"
     },
     {
         "ranking": "60",
@@ -578,7 +579,8 @@
         "title": "Ungukuphila",
         "artist": "Xolly Mncwango",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/62/ef/48/62ef4827-2918-3966-f444-8a5b19ed54cc/20UMGIM85001.rgb.jpg/80x80bb.webp",
-        "appleID": "ungukuphila/1535816932"
+        "appleID": "ungukuphila/1535816932",
+        "spotifyID": "53wwaMp15eGyE12Cm7sxLa"
     },
     {
         "ranking": "84",
@@ -613,7 +615,9 @@
         "title": "WILDFLOWER",
         "artist": "Billie Eilish",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
-        "appleID": "wildflower/1739659144"
+        "appleID": "wildflower/1739659144",
+        "youtubeID": "IWKyykQBRKo",
+        "spotifyID": "3QaPy1KgI7nu9FJEQUgn6h"
     },
     {
         "ranking": "89",
