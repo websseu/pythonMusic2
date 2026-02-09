@@ -67,7 +67,8 @@
         "title": "Good Days",
         "artist": "SZA",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/ef/09/cf/ef09cf1f-a057-6039-00d3-7b5d14c7eba1/886449006717.jpg/80x80bb.webp",
-        "appleID": "good-days/1546390051"
+        "appleID": "good-days/1546390051",
+        "youtubeID": "0BdlKkvjEgA"
     },
     {
         "ranking": "11",
@@ -88,7 +89,8 @@
         "title": "greedy",
         "artist": "Tate McRae",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/23/07/92/23079247-25be-3098-ef53-78e7d0fe7406/196871341653.jpg/80x80bb.webp",
-        "appleID": "greedy/1706381103"
+        "appleID": "greedy/1706381103",
+        "spotifyID": "3rUGC1vUpkDG9CZFHMur1t"
     },
     {
         "ranking": "14",
@@ -109,7 +111,9 @@
         "title": "WILDFLOWER",
         "artist": "Billie Eilish",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
-        "appleID": "wildflower/1739659144"
+        "appleID": "wildflower/1739659144",
+        "youtubeID": "IWKyykQBRKo",
+        "spotifyID": "3QaPy1KgI7nu9FJEQUgn6h"
     },
     {
         "ranking": "17",
@@ -228,7 +232,8 @@
         "title": "Girlfriend",
         "artist": "Ruger",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/78/68/ce/7868ce23-2ce0-0cfd-7ce3-3eb1196f1d96/196589221094_Cover.jpg/80x80bb.webp",
-        "appleID": "girlfriend/1709394555"
+        "appleID": "girlfriend/1709394555",
+        "youtubeID": "7M2Gps9xR8g"
     },
     {
         "ranking": "34",
@@ -284,7 +289,8 @@
         "title": "The Color Violet",
         "artist": "Tory Lanez",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/16/c8/eb/16c8eb6d-fe23-fa03-5e43-9827972763d3/cover.jpg/80x80bb.webp",
-        "appleID": "the-color-violet/1599010268"
+        "appleID": "the-color-violet/1599010268",
+        "spotifyID": "3azJifCSqg9fRij2yKIbWz"
     },
     {
         "ranking": "42",
@@ -424,14 +430,16 @@
         "title": "Guilty as Sin?",
         "artist": "Taylor Swift",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a4/86/59/a486593a-53c9-1c2a-5122-8f25339f7359/24UMGIM44778.rgb.jpg/80x80bb.webp",
-        "appleID": "guilty-as-sin/1742058097"
+        "appleID": "guilty-as-sin/1742058097",
+        "youtubeID": "OOYlWF6V8t8"
     },
     {
         "ranking": "62",
         "title": "BIRDS OF A FEATHER",
         "artist": "Billie Eilish",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
-        "appleID": "birds-of-a-feather/1739659142"
+        "appleID": "birds-of-a-feather/1739659142",
+        "youtubeID": "V9PVRfjEBTI"
     },
     {
         "ranking": "63",
@@ -494,7 +502,8 @@
         "title": "Dreams",
         "artist": "Fleetwood Mac",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/d2/48/f4/d248f4ae-a7e4-a48e-1588-6617de3e8d76/mzi.izeorbmm.jpg/80x80bb.webp",
-        "appleID": "dreams/202272624"
+        "appleID": "dreams/202272624",
+        "youtubeID": "Y3ywicffOj4"
     },
     {
         "ranking": "72",
@@ -543,7 +552,8 @@
         "title": "Someone You Loved",
         "artist": "Lewis Capaldi",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/05/f7/af/05f7af37-526e-5e6e-e4cd-9e4bc3da0756/18UMGIM52528.rgb.jpg/80x80bb.webp",
-        "appleID": "someone-you-loved/1441539154"
+        "appleID": "someone-you-loved/1441539154",
+        "spotifyID": "7qEHsqek33rTcFNT9PFqLf"
     },
     {
         "ranking": "79",

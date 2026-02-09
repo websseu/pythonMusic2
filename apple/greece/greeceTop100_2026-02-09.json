@@ -200,7 +200,8 @@
         "title": "3:15",
         "artist": "TOQUEL",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/fd/2d/47/fd2d471b-03cf-073c-8430-29d5095b424b/23UM1IM48699.rgb.jpg/80x80bb.webp",
-        "appleID": "3-15/1715296646"
+        "appleID": "3-15/1715296646",
+        "spotifyID": "5d2ETO2YDunJTXd5yuCCRA"
     },
     {
         "ranking": "30",
@@ -270,7 +271,7 @@
         "title": "MVP Freestyle",
         "artist": "Light",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a9/87/dc/a987dc09-b133-e2e9-d2d7-83feaa5ed736/2898.jpg/80x80bb.webp",
-        "appleID": "mvp-freestyle/1869571726"
+        "appleID": "mvp-freestyle/1474644471"
     },
     {
         "ranking": "40",
@@ -298,7 +299,8 @@
         "title": "AUTOS",
         "artist": "Sicario",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b0/86/4e/b0864ea6-fe31-fe1c-f3d4-b7d6f4aa0d24/cover.jpg/80x80bb.webp",
-        "appleID": "autos/1774686848"
+        "appleID": "autos/1774686848",
+        "spotifyID": "0EwKlAawFATYjR7Od5ps6k"
     },
     {
         "ranking": "44",
@@ -354,7 +356,7 @@
         "title": "Mosca",
         "artist": "Light",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/65/7f/2b/657f2b8d-494f-fbbe-e57f-7c8267a8e265/82.jpg/80x80bb.webp",
-        "appleID": "mosca/1869549317"
+        "appleID": "mosca/1453751658"
     },
     {
         "ranking": "52",
@@ -410,7 +412,8 @@
         "title": "Se Periptosi Pou",
         "artist": "Anna Vissi",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3e/35/dc/3e35dcda-64cb-3eb7-3ec2-7456a6047114/cover.jpg/80x80bb.webp",
-        "appleID": "se-periptosi-pou/1777139739"
+        "appleID": "se-periptosi-pou/1777139739",
+        "spotifyID": "4iJkeikfkJ7EzkR2xUu0m4"
     },
     {
         "ranking": "60",
@@ -452,7 +455,7 @@
         "title": "Cc",
         "artist": "Light",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/93/8f/cc/938fccd9-c6ff-63fd-4c29-856a62659519/598.jpg/80x80bb.webp",
-        "appleID": "cc/1869556480"
+        "appleID": "cc/1566395095"
     },
     {
         "ranking": "66",
@@ -648,7 +651,9 @@
         "title": "WILDFLOWER",
         "artist": "Billie Eilish",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
-        "appleID": "wildflower/1739659144"
+        "appleID": "wildflower/1739659144",
+        "youtubeID": "IWKyykQBRKo",
+        "spotifyID": "3QaPy1KgI7nu9FJEQUgn6h"
     },
     {
         "ranking": "94",

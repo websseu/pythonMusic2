@@ -95,14 +95,17 @@
         "title": "Beautiful Things",
         "artist": "Benson Boone",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/54/f4/92/54f49210-e260-b519-ebbd-f4f40ee710cd/054391342751.jpg/80x80bb.webp",
-        "appleID": "beautiful-things/1724488124"
+        "appleID": "beautiful-things/1724488124",
+        "youtubeID": "Oa_RSwwpPaA"
     },
     {
         "ranking": "15",
         "title": "End of Beginning",
         "artist": "Djo",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/e5/94/31/e59431de-7591-58e6-c4d4-105b6373ad6a/5056494917336_1.jpg/80x80bb.webp",
-        "appleID": "end-of-beginning/1632448108"
+        "appleID": "end-of-beginning/1632448108",
+        "youtubeID": "oXSw8DGjf5E",
+        "spotifyID": "3qhlB30KknSejmIvZZLjOD"
     },
     {
         "ranking": "16",
@@ -123,21 +126,26 @@
         "title": "That’s So True",
         "artist": "Gracie Abrams",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/26/78/81/26788143-5e5f-0813-2480-ecf4280ef221/24UM1IM07082.rgb.jpg/80x80bb.webp",
-        "appleID": "thats-so-true/1773474483"
+        "appleID": "thats-so-true/1773474483",
+        "youtubeID": "BDHM8cyJQa8",
+        "spotifyID": "7ne4VBA60CxGM75vw0EYad"
     },
     {
         "ranking": "19",
         "title": "Lose Control",
         "artist": "Teddy Swims",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/36/19/66/36196640-1561-dc5e-c6bc-1e5f4befa583/093624856771.jpg/80x80bb.webp",
-        "appleID": "lose-control/1691699836"
+        "appleID": "lose-control/1691699836",
+        "youtubeID": "GZ3zL7kT6_c",
+        "spotifyID": "17phhZDn6oGtzMe56NuWvj"
     },
     {
         "ranking": "20",
         "title": "A Bar Song (Tipsy)",
         "artist": "Shaboozey",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/97/b5/bc/97b5bca2-6238-2421-4f0d-1f7a39d5d9d4/197342550925_cover.jpg/80x80bb.webp",
-        "appleID": "a-bar-song-tipsy/1737085899"
+        "appleID": "a-bar-song-tipsy/1737085899",
+        "youtubeID": "t7bQwwqW-Hc"
     },
     {
         "ranking": "21",
@@ -151,7 +159,8 @@
         "title": "I Had Some Help (feat. Morgan Wallen)",
         "artist": "Post Malone",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e1/b7/09/e1b7098f-d6e1-2b18-fd6f-8390110908eb/24UMGIM50612.rgb.jpg/80x80bb.webp",
-        "appleID": "i-had-some-help-feat-morgan-wallen/1744439049"
+        "appleID": "i-had-some-help-feat-morgan-wallen/1744439049",
+        "youtubeID": "4QIZE708gJ4"
     },
     {
         "ranking": "23",
@@ -165,7 +174,9 @@
         "title": "Good Luck, Babe!",
         "artist": "Chappell Roan",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/29/a7/c4/29a7c478-351d-25eb-a116-3e68118cdab8/24UMGIM31246.rgb.jpg/80x80bb.webp",
-        "appleID": "good-luck-babe/1737497080"
+        "appleID": "good-luck-babe/1737497080",
+        "youtubeID": "1RKqOmSkGgM",
+        "spotifyID": "0WbMK4wrZ1wFSty9F7FCgu"
     },
     {
         "ranking": "25",
@@ -186,14 +197,16 @@
         "title": "Pink Pony Club",
         "artist": "Chappell Roan",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/41/bc/fb/41bcfb43-91d5-931d-5747-fb381803143f/23UMGIM21715.rgb.jpg/80x80bb.webp",
-        "appleID": "pink-pony-club/1675173768"
+        "appleID": "pink-pony-club/1675173768",
+        "spotifyID": "1k2pQc5i348DCHwbn5KTdc"
     },
     {
         "ranking": "28",
         "title": "Shape of You",
         "artist": "Ed Sheeran",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/15/e6/e8/15e6e8a4-4190-6a8b-86c3-ab4a51b88288/190295851286.jpg/80x80bb.webp",
-        "appleID": "shape-of-you/1193701392"
+        "appleID": "shape-of-you/1193701392",
+        "youtubeID": "JGwWNGJdvx8"
     },
     {
         "ranking": "29",
@@ -221,7 +234,8 @@
         "title": "Espresso",
         "artist": "Sabrina Carpenter",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cb/64/8c/cb648cf7-e7bb-bd00-efe0-d744312c29a8/24UMGIM32304.rgb.jpg/80x80bb.webp",
-        "appleID": "espresso/1740212434"
+        "appleID": "espresso/1740212434",
+        "youtubeID": "eVli-tstM5E"
     },
     {
         "ranking": "33",
@@ -235,14 +249,16 @@
         "title": "Perfect",
         "artist": "Ed Sheeran",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/15/e6/e8/15e6e8a4-4190-6a8b-86c3-ab4a51b88288/190295851286.jpg/80x80bb.webp",
-        "appleID": "perfect/1193701400"
+        "appleID": "perfect/1193701400",
+        "youtubeID": "2Vv-BfVoq4g"
     },
     {
         "ranking": "35",
         "title": "Fast Car",
         "artist": "Luke Combs",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/7d/24/14/7d241439-671a-d957-9613-2f738f43a064/196589485991.jpg/80x80bb.webp",
-        "appleID": "fast-car/1666738585"
+        "appleID": "fast-car/1666738585",
+        "spotifyID": "1Lo0QY9cvc8sUB2vnIOxDT"
     },
     {
         "ranking": "36",
@@ -270,14 +286,17 @@
         "title": "Mr. Brightside",
         "artist": "The Killers",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/07/1a/5a/071a5aee-6e42-060c-35b9-6a6e45b9ea59/06UMGIM10441.rgb.jpg/80x80bb.webp",
-        "appleID": "mr-brightside/1526194192"
+        "appleID": "mr-brightside/1526194192",
+        "youtubeID": "gGdGFtwCNBE",
+        "spotifyID": "003vvx7Niy0yvhvHt4a68B"
     },
     {
         "ranking": "40",
         "title": "BIRDS OF A FEATHER",
         "artist": "Billie Eilish",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
-        "appleID": "birds-of-a-feather/1739659142"
+        "appleID": "birds-of-a-feather/1739659142",
+        "youtubeID": "V9PVRfjEBTI"
     },
     {
         "ranking": "41",
@@ -291,21 +310,25 @@
         "title": "Dreams",
         "artist": "Fleetwood Mac",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/d2/48/f4/d248f4ae-a7e4-a48e-1588-6617de3e8d76/mzi.izeorbmm.jpg/80x80bb.webp",
-        "appleID": "dreams/202272624"
+        "appleID": "dreams/202272624",
+        "youtubeID": "Y3ywicffOj4"
     },
     {
         "ranking": "43",
         "title": "Iris",
         "artist": "The Goo Goo Dolls",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music/b4/0c/98/mzi.vhowcacb.jpg/80x80bb.webp",
-        "appleID": "iris/267537169"
+        "appleID": "iris/267537169",
+        "youtubeID": "NdYWuo9OFAw",
+        "spotifyID": "6Qyc6fS4DsZjB2mRW9DsQs"
     },
     {
         "ranking": "44",
         "title": "Cruel Summer",
         "artist": "Taylor Swift",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/49/3d/ab/493dab54-f920-9043-6181-80993b8116c9/19UMGIM53909.rgb.jpg/80x80bb.webp",
-        "appleID": "cruel-summer/1468058171"
+        "appleID": "cruel-summer/1468058171",
+        "youtubeID": "ic8j13piAhQ"
     },
     {
         "ranking": "45",
@@ -347,14 +370,17 @@
         "title": "APT.",
         "artist": "ROSÉ",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2d/1a/7d/2d1a7d91-587e-0ceb-d434-327bd66d9e86/075679628312.jpg/80x80bb.webp",
-        "appleID": "apt/1773452221"
+        "appleID": "apt/1773452221",
+        "youtubeID": "ekr2nIex040",
+        "spotifyID": "4wJ5Qq0jBN4ajy7ouZIV1c"
     },
     {
         "ranking": "51",
         "title": "Riptide",
         "artist": "Vance Joy",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/7a/1c/65/7a1c6571-34e9-bb77-32be-90c72ba003c0/075679920355.jpg/80x80bb.webp",
-        "appleID": "riptide/1022164261"
+        "appleID": "riptide/1022164261",
+        "spotifyID": "2uXlHCUbq9OMUwx3hrk06o"
     },
     {
         "ranking": "52",
@@ -417,7 +443,9 @@
         "title": "Die With A Smile",
         "artist": "Lady Gaga",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/11/ae/f2/11aef294-f57c-bab9-c9fc-529162984e62/24UMGIM85348.rgb.jpg/80x80bb.webp",
-        "appleID": "die-with-a-smile/1762656732"
+        "appleID": "die-with-a-smile/1762656732",
+        "youtubeID": "kPa7bsKwL-c",
+        "spotifyID": "2plbrEY59IikOBgBGLjaoe"
     },
     {
         "ranking": "61",
@@ -431,7 +459,9 @@
         "title": "Taste",
         "artist": "Sabrina Carpenter",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f6/15/d0/f615d0ab-e0c4-575d-907e-1cc084642357/24UMGIM61704.rgb.jpg/80x80bb.webp",
-        "appleID": "taste/1750307079"
+        "appleID": "taste/1750307079",
+        "youtubeID": "KEG7b851Ric",
+        "spotifyID": "5G2f63n7IPVPPjfNIGih7Q"
     },
     {
         "ranking": "63",
@@ -445,21 +475,26 @@
         "title": "WILDFLOWER",
         "artist": "Billie Eilish",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
-        "appleID": "wildflower/1739659144"
+        "appleID": "wildflower/1739659144",
+        "youtubeID": "IWKyykQBRKo",
+        "spotifyID": "3QaPy1KgI7nu9FJEQUgn6h"
     },
     {
         "ranking": "65",
         "title": "Blinding Lights",
         "artist": "The Weeknd",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/a6/6e/bf/a66ebf79-5008-8948-b352-a790fc87446b/19UM1IM04638.rgb.jpg/80x80bb.webp",
-        "appleID": "blinding-lights/1488408568"
+        "appleID": "blinding-lights/1488408568",
+        "spotifyID": "0VjIjW4GlUZAMYd2vXMi3b"
     },
     {
         "ranking": "66",
         "title": "Bad Dreams",
         "artist": "Teddy Swims",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/cd/5d/64/cd5d64c2-338b-00c9-52d6-578a0f19d826/054391245908.jpg/80x80bb.webp",
-        "appleID": "bad-dreams/1765799904"
+        "appleID": "bad-dreams/1765799904",
+        "youtubeID": "Qh8QwVYOSVU",
+        "spotifyID": "3nHuKdFJZm78CoeBnDcFKe"
     },
     {
         "ranking": "67",
@@ -508,7 +543,8 @@
         "title": "Something in the Orange",
         "artist": "Zach Bryan",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/d6/cd/d8/d6cdd86f-db67-ffc8-cd5e-26c4559686c3/054391903860.jpg/80x80bb.webp",
-        "appleID": "something-in-the-orange/1620419734"
+        "appleID": "something-in-the-orange/1620419734",
+        "spotifyID": "3WMj8moIAXJhHsyLaqIIHI"
     },
     {
         "ranking": "74",
@@ -543,7 +579,8 @@
         "title": "greedy",
         "artist": "Tate McRae",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/23/07/92/23079247-25be-3098-ef53-78e7d0fe7406/196871341653.jpg/80x80bb.webp",
-        "appleID": "greedy/1706381103"
+        "appleID": "greedy/1706381103",
+        "spotifyID": "3rUGC1vUpkDG9CZFHMur1t"
     },
     {
         "ranking": "79",
@@ -564,7 +601,8 @@
         "title": "Good Days",
         "artist": "SZA",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/ef/09/cf/ef09cf1f-a057-6039-00d3-7b5d14c7eba1/886449006717.jpg/80x80bb.webp",
-        "appleID": "good-days/1546390051"
+        "appleID": "good-days/1546390051",
+        "youtubeID": "0BdlKkvjEgA"
     },
     {
         "ranking": "82",
@@ -585,7 +623,9 @@
         "title": "Last Night",
         "artist": "Morgan Wallen",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/82/eb/b3/82ebb3c6-2bd4-31fd-0eb9-57667f3590e1/00602455239419_Cover.jpg/80x80bb.webp",
-        "appleID": "last-night/1818424212"
+        "appleID": "last-night/1667990774",
+        "youtubeID": "bUjPPBxbQrQ",
+        "spotifyID": "7K3BhSpAxZBznislvUMVtn"
     },
     {
         "ranking": "85",
@@ -620,7 +660,9 @@
         "title": "Messy",
         "artist": "Lola Young",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d4/85/6b/d4856be7-64d4-5c70-5d5d-18552f826426/24UMGIM46883.rgb.jpg/80x80bb.webp",
-        "appleID": "messy/1743250261"
+        "appleID": "messy/1743250261",
+        "youtubeID": "k-k2_Liofy8",
+        "spotifyID": "35ISBknsCeZQtq66xABI9g"
     },
     {
         "ranking": "90",
@@ -641,7 +683,8 @@
         "title": "The Days (NOTION Remix)",
         "artist": "CHRYSTAL",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ac/b3/16/acb31671-10a6-21e1-2380-ddf7b3b796cc/24UM1IM21808.rgb.jpg/80x80bb.webp",
-        "appleID": "the-days-notion-remix/1777119822"
+        "appleID": "the-days-notion-remix/1777119822",
+        "youtubeID": "p4uHhfGKz6s"
     },
     {
         "ranking": "93",
@@ -662,7 +705,7 @@
         "title": "Go Your Own Way",
         "artist": "Fleetwood Mac",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/2a/eb/dc/2aebdc18-c2c0-0fdd-fb85-07538a925700/603497925766.jpg/80x80bb.webp",
-        "appleID": "go-your-own-way/651880157"
+        "appleID": "go-your-own-way/202271971"
     },
     {
         "ranking": "96",
@@ -676,7 +719,8 @@
         "title": "Viva La Vida",
         "artist": "Coldplay",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/52/aa/85/52aa851f-15b7-6322-f91f-df84b15b7b19/190295978044.jpg/80x80bb.webp",
-        "appleID": "viva-la-vida/1122773680"
+        "appleID": "viva-la-vida/1122773680",
+        "youtubeID": "dvgZkm1xWPE"
     },
     {
         "ranking": "98",
