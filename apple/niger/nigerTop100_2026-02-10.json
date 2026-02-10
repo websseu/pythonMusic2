@@ -256,7 +256,8 @@
         "title": "Not Like Us",
         "artist": "Kendrick Lamar",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d0/ef/b6/d0efb685-73be-fdee-58c9-be655f4cd4fd/24UMGIM51924.rgb.jpg/80x80bb.webp",
-        "appleID": "not-like-us/1744776167"
+        "appleID": "not-like-us/1744776167",
+        "youtubeID": "H58vbez_m4E"
     },
     {
         "ranking": "38",
@@ -417,7 +418,8 @@
         "title": "KANTE (feat. Fave)",
         "artist": "Davido",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/40/12/87/4012878d-d267-09b8-7fe0-8c3fd8fdf169/886449553617.jpg/80x80bb.webp",
-        "appleID": "kante-feat-fave/1675379770"
+        "appleID": "kante-feat-fave/1675379770",
+        "youtubeID": "3bFPDfWReN0"
     },
     {
         "ranking": "61",
@@ -585,7 +587,8 @@
         "title": "Freestyle",
         "artist": "Lil Baby",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/93/e7/aa/93e7aa59-da8b-15bc-2992-5803f70fe8fa/17UM1IM55478.rgb.jpg/80x80bb.webp",
-        "appleID": "freestyle/1440929293"
+        "appleID": "freestyle/1440929293",
+        "youtubeID": "MHryuYVyHhk"
     },
     {
         "ranking": "85",
@@ -627,7 +630,9 @@
         "title": "NANANI NANANA",
         "artist": "Gazo",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/01/5e/2a/015e2a71-e1bf-bd50-02ae-06e03bea3ff9/196872618525.jpg/80x80bb.webp",
-        "appleID": "nanani-nanana/1780778119"
+        "appleID": "nanani-nanana/1780778119",
+        "youtubeID": "8Bkgi6yB6P8",
+        "spotifyID": "0qlYaRFGvgR6afy1f4BBwD"
     },
     {
         "ranking": "91",
@@ -662,7 +667,7 @@
         "title": "Bad Influence",
         "artist": "Omah Lay",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/03/00/55/0300551c-a91c-ef7b-0257-1300c76e1c9e/748367760532.jpg/80x80bb.webp",
-        "appleID": "bad-influence/1833268715"
+        "appleID": "bad-influence/1528527073"
     },
     {
         "ranking": "96",

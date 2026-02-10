@@ -109,7 +109,9 @@
         "title": "End of Beginning",
         "artist": "Djo",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/e5/94/31/e59431de-7591-58e6-c4d4-105b6373ad6a/5056494917336_1.jpg/80x80bb.webp",
-        "appleID": "end-of-beginning/1632448108"
+        "appleID": "end-of-beginning/1632448108",
+        "youtubeID": "oXSw8DGjf5E",
+        "spotifyID": "3qhlB30KknSejmIvZZLjOD"
     },
     {
         "ranking": "17",
@@ -277,7 +279,9 @@
         "title": "WILDFLOWER",
         "artist": "Billie Eilish",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
-        "appleID": "wildflower/1739659144"
+        "appleID": "wildflower/1739659144",
+        "youtubeID": "IWKyykQBRKo",
+        "spotifyID": "3QaPy1KgI7nu9FJEQUgn6h"
     },
     {
         "ranking": "41",
@@ -326,14 +330,18 @@
         "title": "Lloret de Mar",
         "artist": "Mata",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5e/a9/41/5ea94198-e4af-0af1-617a-bf4eac7b2b84/196872440386.jpg/80x80bb.webp",
-        "appleID": "lloret-de-mar/1768684070"
+        "appleID": "lloret-de-mar/1768684070",
+        "youtubeID": "6mB-EH98PiA",
+        "spotifyID": "4S78rQHd6cSC8g2TfdNJTf"
     },
     {
         "ranking": "48",
         "title": "CHIHIRO",
         "artist": "Billie Eilish",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
-        "appleID": "chihiro/1739659141"
+        "appleID": "chihiro/1739659141",
+        "youtubeID": "BY_XwvKogC8",
+        "spotifyID": "7BRD7x5pt8Lqa1eGYC4dzj"
     },
     {
         "ranking": "49",
@@ -389,7 +397,8 @@
         "title": "BIRDS OF A FEATHER",
         "artist": "Billie Eilish",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
-        "appleID": "birds-of-a-feather/1739659142"
+        "appleID": "birds-of-a-feather/1739659142",
+        "youtubeID": "V9PVRfjEBTI"
     },
     {
         "ranking": "57",
@@ -424,14 +433,17 @@
         "title": "Shape of You",
         "artist": "Ed Sheeran",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/15/e6/e8/15e6e8a4-4190-6a8b-86c3-ab4a51b88288/190295851286.jpg/80x80bb.webp",
-        "appleID": "shape-of-you/1193701392"
+        "appleID": "shape-of-you/1193701392",
+        "youtubeID": "JGwWNGJdvx8"
     },
     {
         "ranking": "62",
         "title": "Die With A Smile",
         "artist": "Lady Gaga",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/11/ae/f2/11aef294-f57c-bab9-c9fc-529162984e62/24UMGIM85348.rgb.jpg/80x80bb.webp",
-        "appleID": "die-with-a-smile/1762656732"
+        "appleID": "die-with-a-smile/1762656732",
+        "youtubeID": "kPa7bsKwL-c",
+        "spotifyID": "2plbrEY59IikOBgBGLjaoe"
     },
     {
         "ranking": "63",
@@ -564,7 +576,8 @@
         "title": "Molly",
         "artist": "PRO8L3M",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/49/38/98/49389853-80a4-a8f4-ba0f-240d25fa8b77/23UMGIM28444.rgb.jpg/80x80bb.webp",
-        "appleID": "molly/1678486911"
+        "appleID": "molly/1678486911",
+        "youtubeID": "KRgYXAMXg84"
     },
     {
         "ranking": "82",
@@ -599,7 +612,8 @@
         "title": "Espresso",
         "artist": "Sabrina Carpenter",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cb/64/8c/cb648cf7-e7bb-bd00-efe0-d744312c29a8/24UMGIM32304.rgb.jpg/80x80bb.webp",
-        "appleID": "espresso/1740212434"
+        "appleID": "espresso/1740212434",
+        "youtubeID": "eVli-tstM5E"
     },
     {
         "ranking": "87",
@@ -676,7 +690,8 @@
         "title": "Blinding Lights",
         "artist": "The Weeknd",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/a6/6e/bf/a66ebf79-5008-8948-b352-a790fc87446b/19UM1IM04638.rgb.jpg/80x80bb.webp",
-        "appleID": "blinding-lights/1488408568"
+        "appleID": "blinding-lights/1488408568",
+        "spotifyID": "0VjIjW4GlUZAMYd2vXMi3b"
     },
     {
         "ranking": "98",
@@ -697,6 +712,7 @@
         "title": "Timeless",
         "artist": "The Weeknd",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/40/77/cb/4077cbd1-b6a0-d8df-b9d3-e9a339dbc0ea/24UM1IM04061.rgb.jpg/80x80bb.webp",
-        "appleID": "timeless/1770380890"
+        "appleID": "timeless/1770380890",
+        "youtubeID": "5EpyN_6dqyk"
     }
 ]

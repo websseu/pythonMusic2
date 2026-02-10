@@ -81,7 +81,8 @@
         "title": "greedy",
         "artist": "Tate McRae",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/23/07/92/23079247-25be-3098-ef53-78e7d0fe7406/196871341653.jpg/80x80bb.webp",
-        "appleID": "greedy/1706381103"
+        "appleID": "greedy/1706381103",
+        "spotifyID": "3rUGC1vUpkDG9CZFHMur1t"
     },
     {
         "ranking": "13",
@@ -95,7 +96,8 @@
         "title": "Good Days",
         "artist": "SZA",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/ef/09/cf/ef09cf1f-a057-6039-00d3-7b5d14c7eba1/886449006717.jpg/80x80bb.webp",
-        "appleID": "good-days/1546390051"
+        "appleID": "good-days/1546390051",
+        "youtubeID": "0BdlKkvjEgA"
     },
     {
         "ranking": "15",
@@ -256,7 +258,7 @@
         "title": "What a Beautiful Name (Live)",
         "artist": "Hillsong Worship",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f1/e6/bc/f1e6bc05-4b71-d62c-09ab-9ae6a532e8e6/9320428353979.png/80x80bb.webp",
-        "appleID": "what-a-beautiful-name-live/1786309176"
+        "appleID": "what-a-beautiful-name/1440896101"
     },
     {
         "ranking": "38",
@@ -277,7 +279,8 @@
         "title": "Espresso",
         "artist": "Sabrina Carpenter",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cb/64/8c/cb648cf7-e7bb-bd00-efe0-d744312c29a8/24UMGIM32304.rgb.jpg/80x80bb.webp",
-        "appleID": "espresso/1740212434"
+        "appleID": "espresso/1740212434",
+        "youtubeID": "eVli-tstM5E"
     },
     {
         "ranking": "41",
@@ -417,7 +420,7 @@
         "title": "Radio",
         "artist": "Lana Del Rey",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/c5/df/dd/c5dfdd9c-24f2-de01-246c-fcc5e028f705/12UMGIM53864.rgb.jpg/80x80bb.webp",
-        "appleID": "radio/1442452480"
+        "appleID": "radio/1440854449"
     },
     {
         "ranking": "61",
@@ -480,21 +483,25 @@
         "title": "Girlfriend",
         "artist": "Ruger",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/78/68/ce/7868ce23-2ce0-0cfd-7ce3-3eb1196f1d96/196589221094_Cover.jpg/80x80bb.webp",
-        "appleID": "girlfriend/1709394555"
+        "appleID": "girlfriend/1709394555",
+        "youtubeID": "7M2Gps9xR8g"
     },
     {
         "ranking": "70",
         "title": "WILDFLOWER",
         "artist": "Billie Eilish",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp",
-        "appleID": "wildflower/1739659144"
+        "appleID": "wildflower/1739659144",
+        "youtubeID": "IWKyykQBRKo",
+        "spotifyID": "3QaPy1KgI7nu9FJEQUgn6h"
     },
     {
         "ranking": "71",
         "title": "The Color Violet",
         "artist": "Tory Lanez",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/16/c8/eb/16c8eb6d-fe23-fa03-5e43-9827972763d3/cover.jpg/80x80bb.webp",
-        "appleID": "the-color-violet/1599010268"
+        "appleID": "the-color-violet/1599010268",
+        "spotifyID": "3azJifCSqg9fRij2yKIbWz"
     },
     {
         "ranking": "72",
@@ -529,7 +536,8 @@
         "title": "luther",
         "artist": "Kendrick Lamar",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/50/c2/cc/50c2cc95-3658-9417-0d4b-831abde44ba1/24UM1IM28978.rgb.jpg/80x80bb.webp",
-        "appleID": "luther/1781270323"
+        "appleID": "luther/1781270323",
+        "youtubeID": "4_taypLmSMU"
     },
     {
         "ranking": "77",
@@ -613,7 +621,8 @@
         "title": "Someone You Loved",
         "artist": "Lewis Capaldi",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/05/f7/af/05f7af37-526e-5e6e-e4cd-9e4bc3da0756/18UMGIM52528.rgb.jpg/80x80bb.webp",
-        "appleID": "someone-you-loved/1441539154"
+        "appleID": "someone-you-loved/1441539154",
+        "spotifyID": "7qEHsqek33rTcFNT9PFqLf"
     },
     {
         "ranking": "89",
