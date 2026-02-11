@@ -53,7 +53,8 @@
         "title": "Baddest In The Room",
         "artist": "Fridayy",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/02/46/d4/0246d497-10cb-e048-2eb7-27207844905e/24UMGIM61141.rgb.jpg/80x80bb.webp",
-        "appleID": "baddest-in-the-room/1750796336"
+        "appleID": "baddest-in-the-room/1750796336",
+        "youtubeID": "uijhGM3pVCY"
     },
     {
         "ranking": "9",
@@ -298,7 +299,8 @@
         "title": "Sexual Healing",
         "artist": "Marvin Gaye",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music/ad/de/3b/mzi.kkeuawzv.jpg/80x80bb.webp",
-        "appleID": "sexual-healing/205881936"
+        "appleID": "sexual-healing/205881936",
+        "spotifyID": "3VZmChrnVW8JK6ano4gSED"
     },
     {
         "ranking": "44",
@@ -515,7 +517,8 @@
         "title": "Every Night Every Morning",
         "artist": "Maoli",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/db/73/4f/db734ffc-785c-9999-be7c-f0c54458690a/0.jpg/80x80bb.webp",
-        "appleID": "every-night-every-morning/1761629618"
+        "appleID": "every-night-every-morning/1761629618",
+        "youtubeID": "20k90wvdLco"
     },
     {
         "ranking": "75",
@@ -529,21 +532,24 @@
         "title": "Dreams",
         "artist": "Fleetwood Mac",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/d2/48/f4/d248f4ae-a7e4-a48e-1588-6617de3e8d76/mzi.izeorbmm.jpg/80x80bb.webp",
-        "appleID": "dreams/202272624"
+        "appleID": "dreams/202272624",
+        "youtubeID": "Y3ywicffOj4"
     },
     {
         "ranking": "77",
         "title": "Nothing Else Matters",
         "artist": "Metallica",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/9e/80/1b/9e801b06-67fa-0990-2d15-85480ad3cd46/850007452025.png/80x80bb.webp",
-        "appleID": "nothing-else-matters/1572046444"
+        "appleID": "nothing-else-matters/1572046444",
+        "youtubeID": "tAGnKpE4NCI"
     },
     {
         "ranking": "78",
         "title": "Softcore",
         "artist": "The Neighbourhood",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/fc/d0/89/fcd0899c-2236-a726-9ce2-ebb110e2204d/886447414545.jpg/80x80bb.webp",
-        "appleID": "softcore/1440532753"
+        "appleID": "softcore/1440532753",
+        "spotifyID": "2K7xn816oNHJZ0aVqdQsha"
     },
     {
         "ranking": "79",
@@ -564,14 +570,15 @@
         "title": "Hit & Run (Solo Version)",
         "artist": "Shenseea",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d1/e7/09/d1e70996-be1f-a96a-3015-2d8f55a60040/24UMGIM33356.rgb.jpg/80x80bb.webp",
-        "appleID": "hit-run-solo-version/1737870691"
+        "appleID": "hit-run/1727264203"
     },
     {
         "ranking": "82",
         "title": "Rush",
         "artist": "Ayra Starr",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/93/c1/9293c1af-2881-bcb7-439f-99a516e5d715/5059449090122.png/80x80bb.webp",
-        "appleID": "rush/1642898573"
+        "appleID": "rush/1642898573",
+        "youtubeID": "crtQSTYWtqE"
     },
     {
         "ranking": "83",
@@ -676,7 +683,9 @@
         "title": "Lose Control",
         "artist": "Teddy Swims",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/36/19/66/36196640-1561-dc5e-c6bc-1e5f4befa583/093624856771.jpg/80x80bb.webp",
-        "appleID": "lose-control/1691699836"
+        "appleID": "lose-control/1691699836",
+        "youtubeID": "GZ3zL7kT6_c",
+        "spotifyID": "17phhZDn6oGtzMe56NuWvj"
     },
     {
         "ranking": "98",
