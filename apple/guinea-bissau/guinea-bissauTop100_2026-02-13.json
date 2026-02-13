@@ -158,7 +158,9 @@
         "title": "Carry You Home",
         "artist": "Alex Warren",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c9/fc/c3/c9fcc3ca-1fdb-3596-21bc-ff44467a1609/075679648280.jpg/80x80bb.webp",
-        "appleID": "carry-you-home/1745673617"
+        "appleID": "carry-you-home/1745673617",
+        "youtubeID": "d4iGZ_jP-1U",
+        "spotifyID": "5o0osRx8kYJTOqlOSggr9Z"
     },
     {
         "ranking": "24",
@@ -179,7 +181,8 @@
         "title": "Runaway (feat. Pusha T)",
         "artist": "Kanye West",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/0a/0b/31/0a0b31cc-077c-31bf-e7fe-612191774948/10UMGIM30072.rgb.jpg/80x80bb.webp",
-        "appleID": "runaway-feat-pusha-t/1440742918"
+        "appleID": "runaway-feat-pusha-t/1440742918",
+        "youtubeID": "Bm5iA4Zupek"
     },
     {
         "ranking": "27",
@@ -354,7 +357,8 @@
         "title": "Apocalypse",
         "artist": "Cigarettes After Sex",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b3/5e/0f/b35e0fbe-2370-fc48-0f0c-977525e93bf2/720841214601_Cover.jpg/80x80bb.webp",
-        "appleID": "apocalypse/1217977755"
+        "appleID": "apocalypse/1215409245",
+        "spotifyID": "0yc6Gst2xkRu0eMLeRMGCX"
     },
     {
         "ranking": "52",
@@ -592,7 +596,8 @@
         "title": "Sunsetz",
         "artist": "Cigarettes After Sex",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b3/5e/0f/b35e0fbe-2370-fc48-0f0c-977525e93bf2/720841214601_Cover.jpg/80x80bb.webp",
-        "appleID": "sunsetz/1217977722"
+        "appleID": "sunsetz/1217977722",
+        "spotifyID": "0SpkyS1Q4MD8GaVcP5YjT4"
     },
     {
         "ranking": "86",
